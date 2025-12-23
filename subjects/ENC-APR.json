@@ -1,0 +1,67 @@
+{
+  "courseCode": "ENC-APR",
+  "stats": [
+    {
+      "semesterName": "ZS 2022/2023 - PEF",
+      "semesterId": "689",
+      "year": 2022,
+      "totalPass": 22,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "termín 1",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 4,
+            "D": 6,
+            "E": 7,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 20,
+          "fail": 3
+        },
+        {
+          "term": "termín 2",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 2,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143697;lang=cz",
+      "totalPass": 31,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 2,
+            "C": 9,
+            "D": 13,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 0
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.369Z"
+}

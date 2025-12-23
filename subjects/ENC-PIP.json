@@ -1,0 +1,54 @@
+{
+  "courseCode": "ENC-PIP",
+  "stats": [
+    {
+      "semesterName": "LS 2022/2023 - PEF",
+      "semesterId": "717",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140127;lang=cz",
+      "totalPass": 31,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 10,
+            "C": 8,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 31,
+          "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - PEF",
+      "semesterId": "753",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151324;lang=cz",
+      "totalPass": 49,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 9,
+            "C": 15,
+            "D": 10,
+            "E": 3,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 49,
+          "fail": 2
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.420Z"
+}

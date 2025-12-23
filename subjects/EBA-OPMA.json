@@ -1,0 +1,105 @@
+{
+  "courseCode": "EBA-OPMA",
+  "stats": [
+    {
+      "semesterName": "ZS 2022/2023 - PEF",
+      "semesterId": "689",
+      "year": 2022,
+      "totalPass": 102,
+      "totalFail": 35,
+      "terms": [
+        {
+          "term": "termín 1",
+          "grades": {
+            "A": 16,
+            "B": 20,
+            "C": 25,
+            "D": 13,
+            "E": 14,
+            "F": 28,
+            "FN": 6
+          },
+          "pass": 88,
+          "fail": 34
+        },
+        {
+          "term": "termín 2",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 5,
+            "D": 2,
+            "E": 4,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 1
+        },
+        {
+          "term": "termín 3",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142569;lang=cz",
+      "totalPass": 123,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 31,
+            "B": 29,
+            "C": 27,
+            "D": 9,
+            "E": 27,
+            "F": 4,
+            "FN": 3
+          },
+          "pass": 123,
+          "fail": 7
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - PEF",
+      "semesterId": "754",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152055;lang=cz",
+      "totalPass": 140,
+      "totalFail": 11,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 46,
+            "B": 36,
+            "C": 25,
+            "D": 17,
+            "E": 16,
+            "F": 9,
+            "FN": 2
+          },
+          "pass": 140,
+          "fail": 11
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.260Z"
+}

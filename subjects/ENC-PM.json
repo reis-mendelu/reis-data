@@ -1,0 +1,30 @@
+{
+  "courseCode": "ENC-PM",
+  "stats": [
+    {
+      "semesterName": "LS 2023/2024 - PEF",
+      "semesterId": "753",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151325;lang=cz",
+      "totalPass": 50,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 20,
+            "C": 14,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 50,
+          "fail": 2
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.426Z"
+}

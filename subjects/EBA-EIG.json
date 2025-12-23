@@ -1,0 +1,139 @@
+{
+  "courseCode": "EBA-EIG",
+  "stats": [
+    {
+      "semesterName": "ZS 2022/2023 - PEF",
+      "semesterId": "689",
+      "year": 2022,
+      "totalPass": 41,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "termín 1",
+          "grades": {
+            "A": 9,
+            "B": 8,
+            "C": 9,
+            "D": 6,
+            "E": 4,
+            "F": 3,
+            "FN": 3
+          },
+          "pass": 36,
+          "fail": 6
+        },
+        {
+          "term": "termín 2",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 5,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142551;lang=cz",
+      "totalPass": 26,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 0,
+            "C": 4,
+            "D": 3,
+            "E": 11,
+            "F": 8,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 8
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - PEF",
+      "semesterId": "753",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=149248;lang=cz",
+      "totalPass": 37,
+      "totalFail": 6,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 8,
+            "C": 8,
+            "D": 8,
+            "E": 6,
+            "F": 0,
+            "FN": 6
+          },
+          "pass": 37,
+          "fail": 6
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - PEF",
+      "semesterId": "754",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152031;lang=cz",
+      "totalPass": 14,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 6,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 14,
+          "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2024/2025 - PEF",
+      "semesterId": "772",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152293;lang=cz",
+      "totalPass": 29,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 8,
+            "C": 7,
+            "D": 3,
+            "E": 4,
+            "F": 0,
+            "FN": 3
+          },
+          "pass": 29,
+          "fail": 3
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.253Z"
+}

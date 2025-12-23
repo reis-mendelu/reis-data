@@ -1,0 +1,30 @@
+{
+  "courseCode": "EBC-PPSZ",
+  "stats": [
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143677;lang=cz",
+      "totalPass": 27,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 5,
+            "C": 7,
+            "D": 5,
+            "E": 3,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 27,
+          "fail": 1
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.291Z"
+}

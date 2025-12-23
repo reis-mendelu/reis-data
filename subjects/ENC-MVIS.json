@@ -1,0 +1,67 @@
+{
+  "courseCode": "ENC-MVIS",
+  "stats": [
+    {
+      "semesterName": "ZS 2022/2023 - PEF",
+      "semesterId": "689",
+      "year": 2022,
+      "totalPass": 28,
+      "totalFail": 10,
+      "terms": [
+        {
+          "term": "termín 1",
+          "grades": {
+            "A": 3,
+            "B": 6,
+            "C": 10,
+            "D": 3,
+            "E": 1,
+            "F": 5,
+            "FN": 4
+          },
+          "pass": 23,
+          "fail": 9
+        },
+        {
+          "term": "termín 2",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 5,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142516;lang=cz",
+      "totalPass": 48,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 10,
+            "C": 19,
+            "D": 7,
+            "E": 3,
+            "F": 1,
+            "FN": 4
+          },
+          "pass": 48,
+          "fail": 5
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.412Z"
+}

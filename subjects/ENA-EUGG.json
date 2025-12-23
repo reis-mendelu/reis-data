@@ -1,0 +1,91 @@
+{
+  "courseCode": "ENA-EUGG",
+  "stats": [
+    {
+      "semesterName": "ZS 2022/2023 - PEF",
+      "semesterId": "689",
+      "year": 2022,
+      "totalPass": 54,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "termín 1",
+          "grades": {
+            "A": 9,
+            "B": 11,
+            "C": 14,
+            "D": 5,
+            "E": 12,
+            "F": 4,
+            "FN": 4
+          },
+          "pass": 51,
+          "fail": 8
+        },
+        {
+          "term": "termín 2",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142550;lang=cz",
+      "totalPass": 31,
+      "totalFail": 6,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 3,
+            "C": 9,
+            "D": 4,
+            "E": 5,
+            "F": 0,
+            "FN": 6
+          },
+          "pass": 31,
+          "fail": 6
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - PEF",
+      "semesterId": "754",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152030;lang=cz",
+      "totalPass": 30,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 9,
+            "C": 10,
+            "D": 3,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 30,
+          "fail": 2
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2025-12-23T12:35:07.335Z"
+}
