@@ -2,25 +2,25 @@
   "courseCode": "MCH1R",
   "stats": [
     {
-      "semesterName": "ZS 2021/2022 - ZF",
-      "semesterId": "652",
-      "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129425;lang=cz",
-      "totalPass": 19,
+      "semesterName": "ZS 2023/2024 - ZF",
+      "semesterId": "735",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146511;lang=cz",
+      "totalPass": 20,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 1,
-            "B": 6,
-            "C": 8,
-            "D": 2,
-            "E": 2,
+            "A": 2,
+            "B": 4,
+            "C": 2,
+            "D": 8,
+            "E": 4,
             "F": 0,
             "FN": 0
           },
-          "pass": 19,
+          "pass": 20,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "ZS 2023/2024 - ZF",
-      "semesterId": "735",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146511;lang=cz",
-      "totalPass": 20,
+      "semesterName": "ZS 2021/2022 - ZF",
+      "semesterId": "652",
+      "year": 2021,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129425;lang=cz",
+      "totalPass": 19,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 2,
-            "B": 4,
-            "C": 2,
-            "D": 8,
-            "E": 4,
+            "A": 1,
+            "B": 6,
+            "C": 8,
+            "D": 2,
+            "E": 2,
             "F": 0,
             "FN": 0
           },
-          "pass": 20,
+          "pass": 19,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.543Z"
+  "lastUpdated": "2026-01-03T09:22:01.240Z"
 }

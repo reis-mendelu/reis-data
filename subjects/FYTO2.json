@@ -2,30 +2,6 @@
   "courseCode": "FYTO2",
   "stats": [
     {
-      "semesterName": "ZS 2023/2024 - ZF",
-      "semesterId": "735",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146556;lang=cz",
-      "totalPass": 21,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 8,
-            "B": 2,
-            "C": 4,
-            "D": 2,
-            "E": 5,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 21,
-          "fail": 2
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
@@ -48,7 +24,31 @@
           "fail": 2
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - ZF",
+      "semesterId": "735",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146556;lang=cz",
+      "totalPass": 21,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 2,
+            "C": 4,
+            "D": 2,
+            "E": 5,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 2
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.482Z"
+  "lastUpdated": "2026-01-03T09:22:01.169Z"
 }

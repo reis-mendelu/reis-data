@@ -2,25 +2,25 @@
   "courseCode": "MCHZ",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140971;lang=cz",
-      "totalPass": 31,
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156812;lang=cz",
+      "totalPass": 12,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 12,
-            "C": 7,
-            "D": 7,
-            "E": 2,
+            "A": 4,
+            "B": 2,
+            "C": 4,
+            "D": 2,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 31,
+          "pass": 12,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156812;lang=cz",
-      "totalPass": 12,
+      "semesterName": "LS 2022/2023 - LDF",
+      "semesterId": "725",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140971;lang=cz",
+      "totalPass": 31,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 4,
-            "B": 2,
-            "C": 4,
-            "D": 2,
-            "E": 0,
+            "A": 3,
+            "B": 12,
+            "C": 7,
+            "D": 7,
+            "E": 2,
             "F": 0,
             "FN": 0
           },
-          "pass": 12,
+          "pass": 31,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.543Z"
+  "lastUpdated": "2026-01-03T09:22:01.240Z"
 }

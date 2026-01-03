@@ -2,25 +2,25 @@
   "courseCode": "ZOBP",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=141055;lang=cz",
-      "totalPass": 30,
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156901;lang=cz",
+      "totalPass": 53,
       "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 5,
+            "A": 0,
             "B": 4,
-            "C": 5,
-            "D": 7,
-            "E": 9,
+            "C": 6,
+            "D": 10,
+            "E": 33,
             "F": 1,
             "FN": 0
           },
-          "pass": 30,
+          "pass": 53,
           "fail": 1
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156901;lang=cz",
-      "totalPass": 53,
+      "semesterName": "LS 2022/2023 - LDF",
+      "semesterId": "725",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=141055;lang=cz",
+      "totalPass": 30,
       "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
+            "A": 5,
             "B": 4,
-            "C": 6,
-            "D": 10,
-            "E": 33,
+            "C": 5,
+            "D": 7,
+            "E": 9,
             "F": 1,
             "FN": 0
           },
-          "pass": 53,
+          "pass": 30,
           "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.705Z"
+  "lastUpdated": "2026-01-03T09:22:01.531Z"
 }

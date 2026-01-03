@@ -2,30 +2,6 @@
   "courseCode": "VYTAS",
   "stats": [
     {
-      "semesterName": "LS 2021/2022 - ZF",
-      "semesterId": "683",
-      "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=133993;lang=cz",
-      "totalPass": 62,
-      "totalFail": 7,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 15,
-            "B": 10,
-            "C": 15,
-            "D": 10,
-            "E": 12,
-            "F": 5,
-            "FN": 2
-          },
-          "pass": 62,
-          "fail": 7
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
@@ -48,7 +24,31 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - ZF",
+      "semesterId": "683",
+      "year": 2021,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=133993;lang=cz",
+      "totalPass": 62,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 10,
+            "C": 15,
+            "D": 10,
+            "E": 12,
+            "F": 5,
+            "FN": 2
+          },
+          "pass": 62,
+          "fail": 7
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.682Z"
+  "lastUpdated": "2026-01-03T09:22:01.506Z"
 }

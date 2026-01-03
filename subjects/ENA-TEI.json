@@ -2,6 +2,30 @@
   "courseCode": "ENA-TEI",
   "stats": [
     {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142574;lang=cz",
+      "totalPass": 23,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 4,
+            "C": 3,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 23,
+          "fail": 2
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
@@ -51,31 +75,7 @@
           "fail": 4
         }
       ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - PEF",
-      "semesterId": "734",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142574;lang=cz",
-      "totalPass": 23,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 11,
-            "B": 4,
-            "C": 3,
-            "D": 3,
-            "E": 2,
-            "F": 0,
-            "FN": 2
-          },
-          "pass": 23,
-          "fail": 2
-        }
-      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.358Z"
+  "lastUpdated": "2026-01-03T09:22:01.116Z"
 }

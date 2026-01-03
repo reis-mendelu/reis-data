@@ -2,26 +2,26 @@
   "courseCode": "FYZ1",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141445;lang=cz",
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157171;lang=cz",
       "totalPass": 42,
-      "totalFail": 1,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 1,
-            "C": 7,
-            "D": 22,
-            "E": 12,
-            "F": 1,
+            "A": 3,
+            "B": 5,
+            "C": 19,
+            "D": 13,
+            "E": 2,
+            "F": 0,
             "FN": 0
           },
           "pass": 42,
-          "fail": 1
+          "fail": 0
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157171;lang=cz",
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141445;lang=cz",
       "totalPass": 42,
-      "totalFail": 0,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 5,
-            "C": 19,
-            "D": 13,
-            "E": 2,
-            "F": 0,
+            "A": 0,
+            "B": 1,
+            "C": 7,
+            "D": 22,
+            "E": 12,
+            "F": 1,
             "FN": 0
           },
           "pass": 42,
-          "fail": 0
+          "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.489Z"
+  "lastUpdated": "2026-01-03T09:22:01.171Z"
 }

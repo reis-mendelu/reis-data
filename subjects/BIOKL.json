@@ -2,30 +2,6 @@
   "courseCode": "BIOKL",
   "stats": [
     {
-      "semesterName": "LS 2021/2022 - ZF",
-      "semesterId": "683",
-      "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=133996;lang=cz",
-      "totalPass": 53,
-      "totalFail": 23,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 3,
-            "B": 11,
-            "C": 8,
-            "D": 17,
-            "E": 14,
-            "F": 17,
-            "FN": 6
-          },
-          "pass": 53,
-          "fail": 23
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2024/2025 - AF",
       "semesterId": "704",
       "year": 2024,
@@ -45,6 +21,30 @@
             "FN": 0
           },
           "pass": 24,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - LDF",
+      "semesterId": "765",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153478;lang=cz",
+      "totalPass": 35,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 9,
+            "C": 7,
+            "D": 3,
+            "E": 9,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
           "fail": 0
         }
       ]
@@ -98,29 +98,29 @@
       ]
     },
     {
-      "semesterName": "ZS 2024/2025 - LDF",
-      "semesterId": "765",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153478;lang=cz",
-      "totalPass": 35,
-      "totalFail": 0,
+      "semesterName": "LS 2021/2022 - ZF",
+      "semesterId": "683",
+      "year": 2021,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=133996;lang=cz",
+      "totalPass": 53,
+      "totalFail": 23,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 7,
-            "B": 9,
-            "C": 7,
-            "D": 3,
-            "E": 9,
-            "F": 0,
-            "FN": 0
+            "A": 3,
+            "B": 11,
+            "C": 8,
+            "D": 17,
+            "E": 14,
+            "F": 17,
+            "FN": 6
           },
-          "pass": 35,
-          "fail": 0
+          "pass": 53,
+          "fail": 23
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.217Z"
+  "lastUpdated": "2026-01-03T09:22:00.974Z"
 }

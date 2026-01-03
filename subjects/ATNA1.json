@@ -2,30 +2,6 @@
   "courseCode": "ATNA1",
   "stats": [
     {
-      "semesterName": "ZS 2021/2022 - ZF",
-      "semesterId": "652",
-      "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129418;lang=cz",
-      "totalPass": 41,
-      "totalFail": 5,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 12,
-            "B": 11,
-            "C": 8,
-            "D": 9,
-            "E": 1,
-            "F": 4,
-            "FN": 1
-          },
-          "pass": 41,
-          "fail": 5
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
@@ -48,7 +24,31 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - ZF",
+      "semesterId": "652",
+      "year": 2021,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129418;lang=cz",
+      "totalPass": 41,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 11,
+            "C": 8,
+            "D": 9,
+            "E": 1,
+            "F": 4,
+            "FN": 1
+          },
+          "pass": 41,
+          "fail": 5
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.214Z"
+  "lastUpdated": "2026-01-03T09:22:00.969Z"
 }

@@ -2,25 +2,25 @@
   "courseCode": "FUPO",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141738;lang=cz",
-      "totalPass": 37,
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157294;lang=cz",
+      "totalPass": 28,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 9,
-            "B": 6,
-            "C": 8,
-            "D": 6,
-            "E": 8,
+            "A": 6,
+            "B": 1,
+            "C": 6,
+            "D": 9,
+            "E": 6,
             "F": 0,
             "FN": 0
           },
-          "pass": 37,
+          "pass": 28,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157294;lang=cz",
-      "totalPass": 28,
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141738;lang=cz",
+      "totalPass": 37,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 6,
-            "B": 1,
-            "C": 6,
-            "D": 9,
-            "E": 6,
+            "A": 9,
+            "B": 6,
+            "C": 8,
+            "D": 6,
+            "E": 8,
             "F": 0,
             "FN": 0
           },
-          "pass": 28,
+          "pass": 37,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.480Z"
+  "lastUpdated": "2026-01-03T09:22:01.165Z"
 }

@@ -2,25 +2,25 @@
   "courseCode": "INMAPT",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141737;lang=cz",
-      "totalPass": 28,
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157298;lang=cz",
+      "totalPass": 15,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 15,
-            "C": 7,
-            "D": 1,
-            "E": 2,
+            "A": 0,
+            "B": 3,
+            "C": 4,
+            "D": 5,
+            "E": 3,
             "F": 0,
             "FN": 0
           },
-          "pass": 28,
+          "pass": 15,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157298;lang=cz",
-      "totalPass": 15,
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141737;lang=cz",
+      "totalPass": 28,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 3,
-            "C": 4,
-            "D": 5,
-            "E": 3,
+            "A": 3,
+            "B": 15,
+            "C": 7,
+            "D": 1,
+            "E": 2,
             "F": 0,
             "FN": 0
           },
-          "pass": 15,
+          "pass": 28,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.516Z"
+  "lastUpdated": "2026-01-03T09:22:01.203Z"
 }

@@ -2,26 +2,26 @@
   "courseCode": "PPRBL",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - FRRMS",
-      "semesterId": "715",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142172;lang=cz",
-      "totalPass": 94,
-      "totalFail": 9,
+      "semesterName": "LS 2024/2025 - FRRMS",
+      "semesterId": "778",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157607;lang=cz",
+      "totalPass": 118,
+      "totalFail": 28,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 1,
-            "B": 10,
-            "C": 14,
-            "D": 29,
-            "E": 40,
-            "F": 9,
-            "FN": 0
+            "A": 0,
+            "B": 6,
+            "C": 18,
+            "D": 33,
+            "E": 61,
+            "F": 27,
+            "FN": 1
           },
-          "pass": 94,
-          "fail": 9
+          "pass": 118,
+          "fail": 28
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - FRRMS",
-      "semesterId": "778",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157607;lang=cz",
-      "totalPass": 118,
-      "totalFail": 28,
+      "semesterName": "LS 2022/2023 - FRRMS",
+      "semesterId": "715",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142172;lang=cz",
+      "totalPass": 94,
+      "totalFail": 9,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 6,
-            "C": 18,
-            "D": 33,
-            "E": 61,
-            "F": 27,
-            "FN": 1
+            "A": 1,
+            "B": 10,
+            "C": 14,
+            "D": 29,
+            "E": 40,
+            "F": 9,
+            "FN": 0
           },
-          "pass": 118,
-          "fail": 28
+          "pass": 94,
+          "fail": 9
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.594Z"
+  "lastUpdated": "2026-01-03T09:22:01.320Z"
 }

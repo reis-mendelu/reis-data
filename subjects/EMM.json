@@ -2,57 +2,6 @@
   "courseCode": "EMM",
   "stats": [
     {
-      "semesterName": "LS 2021/2022 - PEF",
-      "semesterId": "671",
-      "year": 2021,
-      "totalPass": 45,
-      "totalFail": 65,
-      "terms": [
-        {
-          "term": "termín 1",
-          "grades": {
-            "A": 1,
-            "B": 3,
-            "C": 2,
-            "D": 5,
-            "E": 9,
-            "F": 37,
-            "FN": 2
-          },
-          "pass": 20,
-          "fail": 39
-        },
-        {
-          "term": "termín 2",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 4,
-            "D": 4,
-            "E": 7,
-            "F": 18,
-            "FN": 1
-          },
-          "pass": 15,
-          "fail": 19
-        },
-        {
-          "term": "termín 3",
-          "grades": {
-            "A": 1,
-            "B": 2,
-            "C": 2,
-            "D": 2,
-            "E": 3,
-            "F": 6,
-            "FN": 1
-          },
-          "pass": 10,
-          "fail": 7
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
@@ -102,7 +51,58 @@
           "fail": 7
         }
       ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - PEF",
+      "semesterId": "671",
+      "year": 2021,
+      "totalPass": 45,
+      "totalFail": 65,
+      "terms": [
+        {
+          "term": "termín 1",
+          "grades": {
+            "A": 1,
+            "B": 3,
+            "C": 2,
+            "D": 5,
+            "E": 9,
+            "F": 37,
+            "FN": 2
+          },
+          "pass": 20,
+          "fail": 39
+        },
+        {
+          "term": "termín 2",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 4,
+            "D": 4,
+            "E": 7,
+            "F": 18,
+            "FN": 1
+          },
+          "pass": 15,
+          "fail": 19
+        },
+        {
+          "term": "termín 3",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 2,
+            "D": 2,
+            "E": 3,
+            "F": 6,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 7
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.327Z"
+  "lastUpdated": "2026-01-03T09:22:01.094Z"
 }

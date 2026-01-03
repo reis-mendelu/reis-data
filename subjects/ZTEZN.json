@@ -2,25 +2,25 @@
   "courseCode": "ZTEZN",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141434;lang=cz",
-      "totalPass": 6,
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157122;lang=cz",
+      "totalPass": 12,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 1,
-            "C": 0,
+            "A": 6,
+            "B": 4,
+            "C": 1,
             "D": 0,
-            "E": 2,
+            "E": 1,
             "F": 0,
             "FN": 0
           },
-          "pass": 6,
+          "pass": 12,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157122;lang=cz",
-      "totalPass": 12,
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141434;lang=cz",
+      "totalPass": 6,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 6,
-            "B": 4,
-            "C": 1,
+            "A": 3,
+            "B": 1,
+            "C": 0,
             "D": 0,
-            "E": 1,
+            "E": 2,
             "F": 0,
             "FN": 0
           },
-          "pass": 12,
+          "pass": 6,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.708Z"
+  "lastUpdated": "2026-01-03T09:22:01.542Z"
 }

@@ -2,30 +2,6 @@
   "courseCode": "OSOV",
   "stats": [
     {
-      "semesterName": "ZS 2023/2024 - ICV",
-      "semesterId": "741",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=741;predmet=147560;lang=cz",
-      "totalPass": 21,
-      "totalFail": 8,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 2,
-            "B": 3,
-            "C": 6,
-            "D": 5,
-            "E": 5,
-            "F": 1,
-            "FN": 7
-          },
-          "pass": 21,
-          "fail": 8
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2024/2025 - ICV",
       "semesterId": "749",
       "year": 2024,
@@ -48,7 +24,31 @@
           "fail": 5
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - ICV",
+      "semesterId": "741",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=741;predmet=147560;lang=cz",
+      "totalPass": 21,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 6,
+            "D": 5,
+            "E": 5,
+            "F": 1,
+            "FN": 7
+          },
+          "pass": 21,
+          "fail": 8
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.575Z"
+  "lastUpdated": "2026-01-03T09:22:01.276Z"
 }

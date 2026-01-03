@@ -2,26 +2,26 @@
   "courseCode": "ZPUMI",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141599;lang=cz",
-      "totalPass": 12,
-      "totalFail": 2,
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157307;lang=cz",
+      "totalPass": 14,
+      "totalFail": 10,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 5,
-            "C": 2,
-            "D": 2,
-            "E": 0,
-            "F": 2,
+            "A": 0,
+            "B": 3,
+            "C": 5,
+            "D": 4,
+            "E": 2,
+            "F": 10,
             "FN": 0
           },
-          "pass": 12,
-          "fail": 2
+          "pass": 14,
+          "fail": 10
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157307;lang=cz",
-      "totalPass": 14,
-      "totalFail": 10,
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141599;lang=cz",
+      "totalPass": 12,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 3,
-            "C": 5,
-            "D": 4,
-            "E": 2,
-            "F": 10,
+            "A": 3,
+            "B": 5,
+            "C": 2,
+            "D": 2,
+            "E": 0,
+            "F": 2,
             "FN": 0
           },
-          "pass": 14,
-          "fail": 10
+          "pass": 12,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.707Z"
+  "lastUpdated": "2026-01-03T09:22:01.536Z"
 }

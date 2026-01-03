@@ -2,26 +2,26 @@
   "courseCode": "GEOD",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141361;lang=cz",
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157163;lang=cz",
       "totalPass": 33,
-      "totalFail": 2,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 7,
-            "B": 7,
-            "C": 5,
-            "D": 6,
-            "E": 8,
+            "A": 3,
+            "B": 6,
+            "C": 8,
+            "D": 3,
+            "E": 13,
             "F": 0,
-            "FN": 2
+            "FN": 1
           },
           "pass": 33,
-          "fail": 2
+          "fail": 1
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157163;lang=cz",
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141361;lang=cz",
       "totalPass": 33,
-      "totalFail": 1,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 6,
-            "C": 8,
-            "D": 3,
-            "E": 13,
+            "A": 7,
+            "B": 7,
+            "C": 5,
+            "D": 6,
+            "E": 8,
             "F": 0,
-            "FN": 1
+            "FN": 2
           },
           "pass": 33,
-          "fail": 1
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.507Z"
+  "lastUpdated": "2026-01-03T09:22:01.180Z"
 }

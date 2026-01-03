@@ -2,6 +2,126 @@
   "courseCode": "EBC-ST",
   "stats": [
     {
+      "semesterName": "LS 2024/2025 - PEF",
+      "semesterId": "772",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156535;lang=cz",
+      "totalPass": 190,
+      "totalFail": 173,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 8,
+            "C": 26,
+            "D": 67,
+            "E": 87,
+            "F": 44,
+            "FN": 129
+          },
+          "pass": 190,
+          "fail": 173
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - PEF",
+      "semesterId": "754",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153935;lang=cz",
+      "totalPass": 96,
+      "totalFail": 50,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 15,
+            "D": 39,
+            "E": 38,
+            "F": 45,
+            "FN": 5
+          },
+          "pass": 96,
+          "fail": 50
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - PEF",
+      "semesterId": "753",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151171;lang=cz",
+      "totalPass": 103,
+      "totalFail": 35,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 6,
+            "C": 15,
+            "D": 34,
+            "E": 47,
+            "F": 5,
+            "FN": 30
+          },
+          "pass": 103,
+          "fail": 35
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143643;lang=cz",
+      "totalPass": 117,
+      "totalFail": 67,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 12,
+            "D": 24,
+            "E": 76,
+            "F": 8,
+            "FN": 59
+          },
+          "pass": 117,
+          "fail": 67
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - PEF",
+      "semesterId": "717",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140144;lang=cz",
+      "totalPass": 120,
+      "totalFail": 71,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 18,
+            "D": 22,
+            "E": 74,
+            "F": 17,
+            "FN": 54
+          },
+          "pass": 120,
+          "fail": 71
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
@@ -51,127 +171,7 @@
           "fail": 1
         }
       ]
-    },
-    {
-      "semesterName": "LS 2022/2023 - PEF",
-      "semesterId": "717",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140144;lang=cz",
-      "totalPass": 120,
-      "totalFail": 71,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 3,
-            "B": 3,
-            "C": 18,
-            "D": 22,
-            "E": 74,
-            "F": 17,
-            "FN": 54
-          },
-          "pass": 120,
-          "fail": 71
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - PEF",
-      "semesterId": "734",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143643;lang=cz",
-      "totalPass": 117,
-      "totalFail": 67,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 2,
-            "B": 3,
-            "C": 12,
-            "D": 24,
-            "E": 76,
-            "F": 8,
-            "FN": 59
-          },
-          "pass": 117,
-          "fail": 67
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - PEF",
-      "semesterId": "753",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151171;lang=cz",
-      "totalPass": 103,
-      "totalFail": 35,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 1,
-            "B": 6,
-            "C": 15,
-            "D": 34,
-            "E": 47,
-            "F": 5,
-            "FN": 30
-          },
-          "pass": 103,
-          "fail": 35
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2024/2025 - PEF",
-      "semesterId": "754",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153935;lang=cz",
-      "totalPass": 96,
-      "totalFail": 50,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 4,
-            "C": 15,
-            "D": 39,
-            "E": 38,
-            "F": 45,
-            "FN": 5
-          },
-          "pass": 96,
-          "fail": 50
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2024/2025 - PEF",
-      "semesterId": "772",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156535;lang=cz",
-      "totalPass": 190,
-      "totalFail": 173,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 2,
-            "B": 8,
-            "C": 26,
-            "D": 67,
-            "E": 87,
-            "F": 44,
-            "FN": 129
-          },
-          "pass": 190,
-          "fail": 173
-        }
-      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.297Z"
+  "lastUpdated": "2026-01-03T09:22:01.072Z"
 }

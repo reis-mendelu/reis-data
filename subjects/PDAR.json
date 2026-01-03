@@ -2,11 +2,11 @@
   "courseCode": "PDAR",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140936;lang=cz",
-      "totalPass": 19,
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156771;lang=cz",
+      "totalPass": 24,
       "totalFail": 0,
       "terms": [
         {
@@ -14,13 +14,13 @@
           "grades": {
             "A": 4,
             "B": 5,
-            "C": 6,
+            "C": 5,
             "D": 4,
-            "E": 0,
+            "E": 6,
             "F": 0,
             "FN": 0
           },
-          "pass": 19,
+          "pass": 24,
           "fail": 0
         }
       ]
@@ -50,11 +50,11 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156771;lang=cz",
-      "totalPass": 24,
+      "semesterName": "LS 2022/2023 - LDF",
+      "semesterId": "725",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140936;lang=cz",
+      "totalPass": 19,
       "totalFail": 0,
       "terms": [
         {
@@ -62,17 +62,17 @@
           "grades": {
             "A": 4,
             "B": 5,
-            "C": 5,
+            "C": 6,
             "D": 4,
-            "E": 6,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 24,
+          "pass": 19,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.581Z"
+  "lastUpdated": "2026-01-03T09:22:01.284Z"
 }

@@ -2,6 +2,30 @@
   "courseCode": "EKOL",
   "stats": [
     {
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157165;lang=cz",
+      "totalPass": 47,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 7,
+            "C": 11,
+            "D": 9,
+            "E": 13,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 47,
+          "fail": 4
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2024/2025 - AF",
       "semesterId": "704",
       "year": 2024,
@@ -22,54 +46,6 @@
           },
           "pass": 33,
           "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=140611;lang=cz",
-      "totalPass": 33,
-      "totalFail": 4,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 3,
-            "B": 2,
-            "C": 4,
-            "D": 9,
-            "E": 15,
-            "F": 4,
-            "FN": 0
-          },
-          "pass": 33,
-          "fail": 4
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - AF",
-      "semesterId": "733",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146358;lang=cz",
-      "totalPass": 25,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 6,
-            "B": 7,
-            "C": 2,
-            "D": 4,
-            "E": 6,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 25,
-          "fail": 2
         }
       ]
     },
@@ -98,29 +74,53 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157165;lang=cz",
-      "totalPass": 47,
+      "semesterName": "ZS 2023/2024 - AF",
+      "semesterId": "733",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146358;lang=cz",
+      "totalPass": 25,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 7,
+            "C": 2,
+            "D": 4,
+            "E": 6,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 25,
+          "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=140611;lang=cz",
+      "totalPass": 33,
       "totalFail": 4,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 7,
-            "B": 7,
-            "C": 11,
+            "A": 3,
+            "B": 2,
+            "C": 4,
             "D": 9,
-            "E": 13,
+            "E": 15,
             "F": 4,
             "FN": 0
           },
-          "pass": 47,
+          "pass": 33,
           "fail": 4
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.322Z"
+  "lastUpdated": "2026-01-03T09:22:01.089Z"
 }

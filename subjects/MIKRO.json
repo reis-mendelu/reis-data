@@ -2,30 +2,6 @@
   "courseCode": "MIKRO",
   "stats": [
     {
-      "semesterName": "ZS 2021/2022 - ZF",
-      "semesterId": "652",
-      "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129304;lang=cz",
-      "totalPass": 86,
-      "totalFail": 17,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 15,
-            "B": 19,
-            "C": 28,
-            "D": 15,
-            "E": 9,
-            "F": 4,
-            "FN": 13
-          },
-          "pass": 86,
-          "fail": 17
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
@@ -48,7 +24,31 @@
           "fail": 10
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - ZF",
+      "semesterId": "652",
+      "year": 2021,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129304;lang=cz",
+      "totalPass": 86,
+      "totalFail": 17,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 19,
+            "C": 28,
+            "D": 15,
+            "E": 9,
+            "F": 4,
+            "FN": 13
+          },
+          "pass": 86,
+          "fail": 17
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.550Z"
+  "lastUpdated": "2026-01-03T09:22:01.247Z"
 }

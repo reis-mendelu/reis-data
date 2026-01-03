@@ -2,26 +2,26 @@
   "courseCode": "EBC-VCS",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - PEF",
-      "semesterId": "717",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140136;lang=cz",
-      "totalPass": 25,
-      "totalFail": 0,
+      "semesterName": "LS 2024/2025 - PEF",
+      "semesterId": "772",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156524;lang=cz",
+      "totalPass": 39,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 7,
-            "B": 5,
-            "C": 6,
-            "D": 1,
-            "E": 6,
+            "B": 11,
+            "C": 8,
+            "D": 12,
+            "E": 1,
             "F": 0,
-            "FN": 0
+            "FN": 2
           },
-          "pass": 25,
-          "fail": 0
+          "pass": 39,
+          "fail": 2
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - PEF",
-      "semesterId": "772",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156524;lang=cz",
-      "totalPass": 39,
-      "totalFail": 2,
+      "semesterName": "LS 2022/2023 - PEF",
+      "semesterId": "717",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140136;lang=cz",
+      "totalPass": 25,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 7,
-            "B": 11,
-            "C": 8,
-            "D": 12,
-            "E": 1,
+            "B": 5,
+            "C": 6,
+            "D": 1,
+            "E": 6,
             "F": 0,
-            "FN": 2
+            "FN": 0
           },
-          "pass": 39,
-          "fail": 2
+          "pass": 25,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.301Z"
+  "lastUpdated": "2026-01-03T09:22:01.076Z"
 }

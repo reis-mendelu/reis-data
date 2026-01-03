@@ -2,25 +2,25 @@
   "courseCode": "ZZVP",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141785;lang=cz",
-      "totalPass": 69,
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157207;lang=cz",
+      "totalPass": 71,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 12,
-            "B": 9,
-            "C": 15,
-            "D": 12,
-            "E": 21,
+            "A": 20,
+            "B": 20,
+            "C": 24,
+            "D": 5,
+            "E": 2,
             "F": 0,
             "FN": 0
           },
-          "pass": 69,
+          "pass": 71,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157207;lang=cz",
-      "totalPass": 71,
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141785;lang=cz",
+      "totalPass": 69,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 20,
-            "B": 20,
-            "C": 24,
-            "D": 5,
-            "E": 2,
+            "A": 12,
+            "B": 9,
+            "C": 15,
+            "D": 12,
+            "E": 21,
             "F": 0,
             "FN": 0
           },
-          "pass": 71,
+          "pass": 69,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.713Z"
+  "lastUpdated": "2026-01-03T09:22:01.550Z"
 }

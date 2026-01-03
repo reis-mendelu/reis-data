@@ -2,26 +2,26 @@
   "courseCode": "DSTS",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140820;lang=cz",
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156658;lang=cz",
       "totalPass": 25,
-      "totalFail": 0,
+      "totalFail": 16,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 18,
-            "C": 3,
-            "D": 2,
-            "E": 2,
-            "F": 0,
-            "FN": 0
+            "A": 2,
+            "B": 11,
+            "C": 6,
+            "D": 5,
+            "E": 1,
+            "F": 2,
+            "FN": 14
           },
           "pass": 25,
-          "fail": 0
+          "fail": 16
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156658;lang=cz",
+      "semesterName": "LS 2022/2023 - LDF",
+      "semesterId": "725",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140820;lang=cz",
       "totalPass": 25,
-      "totalFail": 16,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 2,
-            "B": 11,
-            "C": 6,
-            "D": 5,
-            "E": 1,
-            "F": 2,
-            "FN": 14
+            "A": 0,
+            "B": 18,
+            "C": 3,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 0
           },
           "pass": 25,
-          "fail": 16
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.248Z"
+  "lastUpdated": "2026-01-03T09:22:01.017Z"
 }

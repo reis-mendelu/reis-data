@@ -2,30 +2,6 @@
   "courseCode": "BOTAR",
   "stats": [
     {
-      "semesterName": "ZS 2021/2022 - ZF",
-      "semesterId": "652",
-      "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=131884;lang=cz",
-      "totalPass": 6,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 1,
-            "D": 1,
-            "E": 4,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 6,
-          "fail": 0
-        }
-      ]
-    },
-    {
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
@@ -48,7 +24,31 @@
           "fail": 3
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - ZF",
+      "semesterId": "652",
+      "year": 2021,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=131884;lang=cz",
+      "totalPass": 6,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.223Z"
+  "lastUpdated": "2026-01-03T09:22:00.982Z"
 }

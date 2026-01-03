@@ -2,30 +2,6 @@
   "courseCode": "CBIMB",
   "stats": [
     {
-      "semesterName": "LS 2023/2024 - AF",
-      "semesterId": "752",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=150563;lang=cz",
-      "totalPass": 37,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 7,
-            "B": 12,
-            "C": 5,
-            "D": 6,
-            "E": 7,
-            "F": 1,
-            "FN": 1
-          },
-          "pass": 37,
-          "fail": 2
-        }
-      ]
-    },
-    {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
@@ -48,7 +24,31 @@
           "fail": 1
         }
       ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - AF",
+      "semesterId": "752",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=150563;lang=cz",
+      "totalPass": 37,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 12,
+            "C": 5,
+            "D": 6,
+            "E": 7,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 37,
+          "fail": 2
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.230Z"
+  "lastUpdated": "2026-01-03T09:22:00.990Z"
 }

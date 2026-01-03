@@ -2,26 +2,26 @@
   "courseCode": "EBA-CON",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - PEF",
-      "semesterId": "717",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140054;lang=cz",
-      "totalPass": 40,
-      "totalFail": 4,
+      "semesterName": "LS 2024/2025 - PEF",
+      "semesterId": "772",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152302;lang=cz",
+      "totalPass": 54,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 2,
-            "B": 3,
-            "C": 12,
-            "D": 9,
-            "E": 14,
+            "B": 0,
+            "C": 16,
+            "D": 26,
+            "E": 10,
             "F": 0,
-            "FN": 4
+            "FN": 2
           },
-          "pass": 40,
-          "fail": 4
+          "pass": 54,
+          "fail": 2
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - PEF",
-      "semesterId": "772",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152302;lang=cz",
-      "totalPass": 54,
-      "totalFail": 2,
+      "semesterName": "LS 2022/2023 - PEF",
+      "semesterId": "717",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140054;lang=cz",
+      "totalPass": 40,
+      "totalFail": 4,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 2,
-            "B": 0,
-            "C": 16,
-            "D": 26,
-            "E": 10,
+            "B": 3,
+            "C": 12,
+            "D": 9,
+            "E": 14,
             "F": 0,
-            "FN": 2
+            "FN": 4
           },
-          "pass": 54,
-          "fail": 2
+          "pass": 40,
+          "fail": 4
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.252Z"
+  "lastUpdated": "2026-01-03T09:22:01.022Z"
 }

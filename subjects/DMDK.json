@@ -2,26 +2,26 @@
   "courseCode": "DMDK",
   "stats": [
     {
-      "semesterName": "ZS 2023/2024 - LDF",
-      "semesterId": "732",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=147092;lang=cz",
-      "totalPass": 41,
-      "totalFail": 8,
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=158342;lang=cz",
+      "totalPass": 6,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 5,
-            "B": 9,
-            "C": 17,
-            "D": 6,
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
             "E": 4,
             "F": 0,
-            "FN": 8
+            "FN": 0
           },
-          "pass": 41,
-          "fail": 8
+          "pass": 6,
+          "fail": 0
         }
       ]
     },
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=158342;lang=cz",
-      "totalPass": 6,
-      "totalFail": 0,
+      "semesterName": "ZS 2023/2024 - LDF",
+      "semesterId": "732",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=147092;lang=cz",
+      "totalPass": 41,
+      "totalFail": 8,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 1,
-            "D": 1,
+            "A": 5,
+            "B": 9,
+            "C": 17,
+            "D": 6,
             "E": 4,
             "F": 0,
-            "FN": 0
+            "FN": 8
           },
-          "pass": 6,
-          "fail": 0
+          "pass": 41,
+          "fail": 8
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.246Z"
+  "lastUpdated": "2026-01-03T09:22:01.014Z"
 }

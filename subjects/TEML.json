@@ -2,30 +2,6 @@
   "courseCode": "TEML",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141853;lang=cz",
-      "totalPass": 48,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 38,
-            "B": 10,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 48,
-          "fail": 0
-        }
-      ]
-    },
-    {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
@@ -48,7 +24,31 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141853;lang=cz",
+      "totalPass": 48,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 38,
+            "B": 10,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 48,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.656Z"
+  "lastUpdated": "2026-01-03T09:22:01.463Z"
 }

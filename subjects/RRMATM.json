@@ -2,30 +2,6 @@
   "courseCode": "RRMATM",
   "stats": [
     {
-      "semesterName": "LS 2023/2024 - FRRMS",
-      "semesterId": "757",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151303;lang=cz",
-      "totalPass": 85,
-      "totalFail": 7,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 6,
-            "B": 12,
-            "C": 16,
-            "D": 21,
-            "E": 30,
-            "F": 5,
-            "FN": 2
-          },
-          "pass": 85,
-          "fail": 7
-        }
-      ]
-    },
-    {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
       "year": 2024,
@@ -48,7 +24,31 @@
           "fail": 13
         }
       ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - FRRMS",
+      "semesterId": "757",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151303;lang=cz",
+      "totalPass": 85,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 12,
+            "C": 16,
+            "D": 21,
+            "E": 30,
+            "F": 5,
+            "FN": 2
+          },
+          "pass": 85,
+          "fail": 7
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.620Z"
+  "lastUpdated": "2026-01-03T09:22:01.405Z"
 }

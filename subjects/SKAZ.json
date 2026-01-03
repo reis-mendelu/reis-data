@@ -2,73 +2,25 @@
   "courseCode": "SKAZ",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140902;lang=cz",
-      "totalPass": 38,
-      "totalFail": 11,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 3,
-            "B": 0,
-            "C": 10,
-            "D": 9,
-            "E": 16,
-            "F": 11,
-            "FN": 0
-          },
-          "pass": 38,
-          "fail": 11
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2023/2024 - LDF",
-      "semesterId": "732",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=148419;lang=cz",
-      "totalPass": 11,
-      "totalFail": 4,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 1,
-            "D": 0,
-            "E": 10,
-            "F": 4,
-            "FN": 0
-          },
-          "pass": 11,
-          "fail": 4
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - LDF",
-      "semesterId": "758",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150893;lang=cz",
-      "totalPass": 49,
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156735;lang=cz",
+      "totalPass": 36,
       "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 5,
-            "B": 11,
-            "C": 16,
-            "D": 8,
-            "E": 9,
+            "A": 11,
+            "B": 8,
+            "C": 6,
+            "D": 7,
+            "E": 4,
             "F": 1,
             "FN": 0
           },
-          "pass": 49,
+          "pass": 36,
           "fail": 1
         }
       ]
@@ -98,29 +50,77 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156735;lang=cz",
-      "totalPass": 36,
+      "semesterName": "LS 2023/2024 - LDF",
+      "semesterId": "758",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150893;lang=cz",
+      "totalPass": 49,
       "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 11,
-            "B": 8,
-            "C": 6,
-            "D": 7,
-            "E": 4,
+            "A": 5,
+            "B": 11,
+            "C": 16,
+            "D": 8,
+            "E": 9,
             "F": 1,
             "FN": 0
           },
-          "pass": 36,
+          "pass": 49,
           "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - LDF",
+      "semesterId": "732",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=148419;lang=cz",
+      "totalPass": 11,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 10,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 4
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - LDF",
+      "semesterId": "725",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140902;lang=cz",
+      "totalPass": 38,
+      "totalFail": 11,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 10,
+            "D": 9,
+            "E": 16,
+            "F": 11,
+            "FN": 0
+          },
+          "pass": 38,
+          "fail": 11
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.636Z"
+  "lastUpdated": "2026-01-03T09:22:01.427Z"
 }

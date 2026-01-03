@@ -2,25 +2,25 @@
   "courseCode": "EPUR",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - FRRMS",
-      "semesterId": "715",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142139;lang=cz",
-      "totalPass": 26,
+      "semesterName": "LS 2024/2025 - FRRMS",
+      "semesterId": "778",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157592;lang=cz",
+      "totalPass": 53,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 7,
-            "C": 5,
-            "D": 4,
-            "E": 7,
+            "A": 8,
+            "B": 16,
+            "C": 11,
+            "D": 6,
+            "E": 12,
             "F": 0,
             "FN": 0
           },
-          "pass": 26,
+          "pass": 53,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - FRRMS",
-      "semesterId": "778",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157592;lang=cz",
-      "totalPass": 53,
+      "semesterName": "LS 2022/2023 - FRRMS",
+      "semesterId": "715",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142139;lang=cz",
+      "totalPass": 26,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 8,
-            "B": 16,
-            "C": 11,
-            "D": 6,
-            "E": 12,
+            "A": 3,
+            "B": 7,
+            "C": 5,
+            "D": 4,
+            "E": 7,
             "F": 0,
             "FN": 0
           },
-          "pass": 53,
+          "pass": 26,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.467Z"
+  "lastUpdated": "2026-01-03T09:22:01.150Z"
 }

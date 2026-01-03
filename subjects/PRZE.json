@@ -2,25 +2,25 @@
   "courseCode": "PRZE",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141679;lang=cz",
-      "totalPass": 72,
+      "semesterName": "LS 2024/2025 - AF",
+      "semesterId": "779",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157088;lang=cz",
+      "totalPass": 80,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 14,
+            "A": 35,
             "B": 20,
-            "C": 19,
-            "D": 9,
-            "E": 10,
+            "C": 14,
+            "D": 6,
+            "E": 5,
             "F": 0,
             "FN": 0
           },
-          "pass": 72,
+          "pass": 80,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - AF",
-      "semesterId": "779",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157088;lang=cz",
-      "totalPass": 80,
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141679;lang=cz",
+      "totalPass": 72,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 35,
+            "A": 14,
             "B": 20,
-            "C": 14,
-            "D": 6,
-            "E": 5,
+            "C": 19,
+            "D": 9,
+            "E": 10,
             "F": 0,
             "FN": 0
           },
-          "pass": 80,
+          "pass": 72,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.602Z"
+  "lastUpdated": "2026-01-03T09:22:01.348Z"
 }

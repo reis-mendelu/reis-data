@@ -2,25 +2,25 @@
   "courseCode": "OLI",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - LDF",
-      "semesterId": "725",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140903;lang=cz",
-      "totalPass": 59,
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156736;lang=cz",
+      "totalPass": 40,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 13,
-            "B": 9,
-            "C": 20,
-            "D": 10,
-            "E": 7,
+            "A": 14,
+            "B": 12,
+            "C": 7,
+            "D": 3,
+            "E": 4,
             "F": 0,
             "FN": 0
           },
-          "pass": 59,
+          "pass": 40,
           "fail": 0
         }
       ]
@@ -50,29 +50,29 @@
       ]
     },
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156736;lang=cz",
-      "totalPass": 40,
+      "semesterName": "LS 2022/2023 - LDF",
+      "semesterId": "725",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140903;lang=cz",
+      "totalPass": 59,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 14,
-            "B": 12,
-            "C": 7,
-            "D": 3,
-            "E": 4,
+            "A": 13,
+            "B": 9,
+            "C": 20,
+            "D": 10,
+            "E": 7,
             "F": 0,
             "FN": 0
           },
-          "pass": 40,
+          "pass": 59,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.571Z"
+  "lastUpdated": "2026-01-03T09:22:01.270Z"
 }

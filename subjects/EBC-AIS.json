@@ -2,30 +2,6 @@
   "courseCode": "EBC-AIS",
   "stats": [
     {
-      "semesterName": "ZS 2023/2024 - PEF",
-      "semesterId": "734",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143660;lang=cz",
-      "totalPass": 52,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 16,
-            "B": 5,
-            "C": 15,
-            "D": 12,
-            "E": 4,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 52,
-          "fail": 0
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
@@ -48,7 +24,31 @@
           "fail": 6
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - PEF",
+      "semesterId": "734",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143660;lang=cz",
+      "totalPass": 52,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 16,
+            "B": 5,
+            "C": 15,
+            "D": 12,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.264Z"
+  "lastUpdated": "2026-01-03T09:22:01.037Z"
 }

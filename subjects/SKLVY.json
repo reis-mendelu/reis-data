@@ -2,50 +2,26 @@
   "courseCode": "SKLVY",
   "stats": [
     {
-      "semesterName": "ZS 2021/2022 - ZF",
-      "semesterId": "652",
-      "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129452;lang=cz",
-      "totalPass": 15,
-      "totalFail": 0,
+      "semesterName": "ZS 2024/2025 - ZF",
+      "semesterId": "763",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=154067;lang=cz",
+      "totalPass": 40,
+      "totalFail": 4,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 1,
-            "C": 2,
-            "D": 5,
-            "E": 4,
-            "F": 0,
-            "FN": 0
+            "A": 6,
+            "B": 3,
+            "C": 4,
+            "D": 12,
+            "E": 15,
+            "F": 1,
+            "FN": 3
           },
-          "pass": 15,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2022/2023 - ZF",
-      "semesterId": "693",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=136958;lang=cz",
-      "totalPass": 26,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 2,
-            "B": 2,
-            "C": 6,
-            "D": 9,
-            "E": 7,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 26,
-          "fail": 2
+          "pass": 40,
+          "fail": 4
         }
       ]
     },
@@ -74,29 +50,53 @@
       ]
     },
     {
-      "semesterName": "ZS 2024/2025 - ZF",
-      "semesterId": "763",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=154067;lang=cz",
-      "totalPass": 40,
-      "totalFail": 4,
+      "semesterName": "ZS 2022/2023 - ZF",
+      "semesterId": "693",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=136958;lang=cz",
+      "totalPass": 26,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 6,
-            "B": 3,
-            "C": 4,
-            "D": 12,
-            "E": 15,
-            "F": 1,
-            "FN": 3
+            "A": 2,
+            "B": 2,
+            "C": 6,
+            "D": 9,
+            "E": 7,
+            "F": 2,
+            "FN": 0
           },
-          "pass": 40,
-          "fail": 4
+          "pass": 26,
+          "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - ZF",
+      "semesterId": "652",
+      "year": 2021,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129452;lang=cz",
+      "totalPass": 15,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 2,
+            "D": 5,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.637Z"
+  "lastUpdated": "2026-01-03T09:22:01.428Z"
 }

@@ -2,30 +2,6 @@
   "courseCode": "Z-OCHZP",
   "stats": [
     {
-      "semesterName": "LS 2022/2023 - AF",
-      "semesterId": "727",
-      "year": 2022,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=142711;lang=cz",
-      "totalPass": 10,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 7,
-            "B": 2,
-            "C": 1,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 1
-          },
-          "pass": 10,
-          "fail": 1
-        }
-      ]
-    },
-    {
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
       "year": 2023,
@@ -48,7 +24,31 @@
           "fail": 2
         }
       ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - AF",
+      "semesterId": "727",
+      "year": 2022,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=142711;lang=cz",
+      "totalPass": 10,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 1
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-12-23T12:35:07.688Z"
+  "lastUpdated": "2026-01-03T09:22:01.512Z"
 }
