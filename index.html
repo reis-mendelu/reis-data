@@ -20,6 +20,8 @@
             transition: opacity 0.3s;
         }
         .loading-overlay.hidden { opacity: 0; pointer-events: none; }
+        .solved { border-left: 4px solid oklch(var(--su)) !important; background: oklch(var(--su) / 0.1) !important; }
+        .sql-correct { border-color: oklch(var(--su)) !important; box-shadow: 0 0 15px oklch(var(--su) / 0.3) !important; }
     </style>
 </head>
 <body class="min-h-screen bg-base-200">
@@ -95,62 +97,10 @@
                         Příklady k procvičování
                     </h2>
                     
-                    <div class="space-y-1 max-h-[500px] overflow-y-auto text-sm">
-                        <!-- Basic SELECT -->
-                        <div class="collapse collapse-arrow bg-base-200 rounded">
-                            <input type="checkbox" checked />
-                            <div class="collapse-title py-2 min-h-0 font-medium text-sm">Základní SELECT</div>
-                            <div class="collapse-content px-2 pb-2">
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(1)"><span class="badge badge-xs badge-primary mr-1">1</span> Vypište kódy a názvy všech předmětů.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(2)"><span class="badge badge-xs badge-primary mr-1">2</span> Vypište všechny údaje o fakultách.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(3)"><span class="badge badge-xs badge-primary mr-1">3</span> Semestry seřazené podle roku sestupně.</div>
-                            </div>
-                        </div>
-
-                        <!-- WHERE -->
-                        <div class="collapse collapse-arrow bg-base-200 rounded">
-                            <input type="checkbox" checked />
-                            <div class="collapse-title py-2 min-h-0 font-medium text-sm">WHERE a podmínky</div>
-                            <div class="collapse-content px-2 pb-2">
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(4)"><span class="badge badge-xs badge-warning mr-1">4</span> Předměty s kódem začínajícím na "EBC".</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(5)"><span class="badge badge-xs badge-warning mr-1">5</span> Záznamy kde nikdo neprospěl na A.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(6)"><span class="badge badge-xs badge-warning mr-1">6</span> Semestry z roku 2024 nebo novější.</div>
-                            </div>
-                        </div>
-
-                        <!-- JOIN -->
-                        <div class="collapse collapse-arrow bg-base-200 rounded">
-                            <input type="checkbox" checked />
-                            <div class="collapse-title py-2 min-h-0 font-medium text-sm">Spojení tabulek (JOIN)</div>
-                            <div class="collapse-content px-2 pb-2">
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(7)"><span class="badge badge-xs badge-info mr-1">7</span> Kód předmětu, semestr a počet známek A.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(8)"><span class="badge badge-xs badge-info mr-1">8</span> Fakulta a semestr pro každý záznam.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(9)"><span class="badge badge-xs badge-info mr-1">9</span> Předměty bez záznamu o úspěšnosti.</div>
-                            </div>
-                        </div>
-
-                        <!-- Aggregations -->
-                        <div class="collapse collapse-arrow bg-base-200 rounded">
-                            <input type="checkbox" checked />
-                            <div class="collapse-title py-2 min-h-0 font-medium text-sm">Agregace a GROUP BY</div>
-                            <div class="collapse-content px-2 pb-2">
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(10)"><span class="badge badge-xs badge-secondary mr-1">10</span> Celkový počet předmětů v databázi.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(11)"><span class="badge badge-xs badge-secondary mr-1">11</span> Počet úspěšných studentů pro každý předmět.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(12)"><span class="badge badge-xs badge-secondary mr-1">12</span> Předměty s úspěšností pod 50%.</div>
-                            </div>
-                        </div>
-
-                        <!-- Student-focused Advanced -->
-                        <div class="collapse collapse-arrow bg-base-200 rounded">
-                            <input type="checkbox" />
-                            <div class="collapse-title py-2 min-h-0 font-medium text-sm">🔥 Zajímavé dotazy pro studenty</div>
-                            <div class="collapse-content px-2 pb-2">
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(13)"><span class="badge badge-xs badge-error mr-1">13</span> Jaká je úspěšnost u TZI?</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(14)"><span class="badge badge-xs badge-error mr-1">14</span> Top 5 nejtěžších předmětů na PEF.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(15)"><span class="badge badge-xs badge-error mr-1">15</span> Porovnání úspěšnosti TZI, ALG a EBC-IV.</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(16)"><span class="badge badge-xs badge-error mr-1">16</span> Která fakulta má nejvyšší úspěšnost?</div>
-                                <div class="exercise-item p-1.5 rounded" onclick="loadExercise(17)"><span class="badge badge-xs badge-error mr-1">17</span> Rozložení známek u předmětu ALG.</div>
-                            </div>
+                    <div id="exerciseList" class="space-y-1 max-h-[500px] overflow-y-auto text-sm">
+                        <!-- Loaded dynamically -->
+                        <div class="flex justify-center py-8">
+                            <span class="loading loading-dots loading-md text-primary"></span>
                         </div>
                     </div>
                 </div>
@@ -201,9 +151,14 @@
         <!-- Footer -->
         <footer class="text-center py-4 mt-4 text-xs text-base-content/40 flex flex-col items-center gap-2">
             <div>Výukový materiál • <a href="https://github.com/ElijaahInverted/reis-data" class="link">reis-data</a></div>
-            <a href="success-rates.db" download class="btn btn-ghost btn-xs gap-1">
-                <i data-lucide="download" class="w-3 h-3"></i> Stáhnout databázi (.db)
-            </a>
+            <div class="flex gap-2">
+                <a href="success-rates.db" download class="btn btn-ghost btn-xs gap-1">
+                    <i data-lucide="download" class="w-3 h-3"></i> Stáhnout databázi (.db)
+                </a>
+                <button onclick="resetProgress()" class="btn btn-ghost btn-xs gap-1 text-error/60">
+                    <i data-lucide="trash-2" class="w-3 h-3"></i> Smazat pokrok
+                </button>
+            </div>
         </footer>
     </div>
 
@@ -211,6 +166,8 @@
         lucide.createIcons();
 
         let db = null;
+        let activeEx = null;
+        let solvedIds = JSON.parse(localStorage.getItem('reis_sql_solved') || '[]');
 
         // XSS prevention: escape HTML entities in database values
         function escapeHtml(unsafe) {
@@ -242,6 +199,7 @@
                     document.getElementById('courseCount').textContent = result[0].values[0][0];
                 }
 
+                await loadExercises();
                 document.getElementById('loader').classList.add('hidden');
             } catch (err) {
                 console.error(err);
@@ -256,96 +214,65 @@
             }
         }
 
-        const exercises = {
-            1: "SELECT code, name FROM courses LIMIT 20",
-            2: "SELECT * FROM faculties",
-            3: "SELECT name, year FROM semesters ORDER BY year DESC",
-            4: "SELECT * FROM courses WHERE code LIKE 'EBC%' LIMIT 20",
-            5: "SELECT * FROM success_rates WHERE grade_a = 0 LIMIT 20",
-            6: "SELECT * FROM semesters WHERE year >= 2024",
-            7: `SELECT c.code, s.name, sr.grade_a
-FROM success_rates sr
-JOIN courses c ON sr.course_id = c.id
-JOIN semesters s ON sr.semester_id = s.id
-LIMIT 20`,
-            8: `SELECT f.name as fakulta, s.name as semestr
-FROM semesters s
-JOIN faculties f ON s.faculty_id = f.id`,
-            9: `SELECT c.*
-FROM courses c
-LEFT JOIN success_rates sr ON c.id = sr.course_id
-WHERE sr.id IS NULL
-LIMIT 20`,
-            10: "SELECT COUNT(*) as pocet_predmetu FROM courses",
-            11: `SELECT c.code, c.name,
-  SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) as uspesnych
-FROM courses c
-JOIN success_rates sr ON c.id = sr.course_id
-WHERE sr.term_name = 'Všechny termíny'
-GROUP BY c.id
-ORDER BY uspesnych DESC
-LIMIT 10`,
-            12: `SELECT c.code, c.name,
-  ROUND(100.0 * SUM(sr.grade_a+sr.grade_b+sr.grade_c+sr.grade_d+sr.grade_e) / 
-    NULLIF(SUM(sr.grade_a+sr.grade_b+sr.grade_c+sr.grade_d+sr.grade_e+sr.grade_f+sr.grade_fn), 0), 1) as uspesnost
-FROM courses c
-JOIN success_rates sr ON c.id = sr.course_id
-WHERE sr.term_name = 'Všechny termíny'
-GROUP BY c.id
-HAVING uspesnost < 50
-ORDER BY uspesnost`,
-            13: `SELECT c.code, c.name,
-  SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) as proslo,
-  SUM(sr.grade_f + sr.grade_fn) as neproslo,
-  ROUND(100.0 * SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) / 
-    NULLIF(SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e + sr.grade_f + sr.grade_fn), 0), 1) as uspesnost_procent
-FROM courses c
-JOIN success_rates sr ON c.id = sr.course_id
-WHERE c.code LIKE '%TZI%' AND sr.term_name = 'Všechny termíny'
-GROUP BY c.id`,
-            14: `SELECT c.code, c.name,
-  ROUND(100.0 * SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) / 
-    NULLIF(SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e + sr.grade_f + sr.grade_fn), 0), 1) as uspesnost,
-  SUM(sr.grade_f + sr.grade_fn) as neproslo
-FROM courses c
-JOIN success_rates sr ON c.id = sr.course_id
-JOIN semesters s ON sr.semester_id = s.id
-WHERE s.name LIKE '%PEF%' AND sr.term_name = 'Všechny termíny'
-GROUP BY c.id
-HAVING uspesnost IS NOT NULL
-ORDER BY uspesnost ASC
-LIMIT 5`,
-            15: `SELECT c.code, c.name,
-  ROUND(100.0 * SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) / 
-    NULLIF(SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e + sr.grade_f + sr.grade_fn), 0), 1) as uspesnost
-FROM courses c
-JOIN success_rates sr ON c.id = sr.course_id
-WHERE c.code IN ('EBC-TZI', 'EBC-ALG', 'EBC-IV') AND sr.term_name = 'Všechny termíny'
-GROUP BY c.id
-ORDER BY uspesnost DESC`,
-            16: `SELECT f.name as fakulta,
-  ROUND(100.0 * SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) / 
-    NULLIF(SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e + sr.grade_f + sr.grade_fn), 0), 1) as uspesnost,
-  COUNT(DISTINCT c.id) as pocet_predmetu
-FROM faculties f
-JOIN semesters s ON f.id = s.faculty_id
-JOIN success_rates sr ON s.id = sr.semester_id
-JOIN courses c ON sr.course_id = c.id
-WHERE sr.term_name = 'Všechny termíny'
-GROUP BY f.id
-ORDER BY uspesnost DESC`,
-            17: `SELECT c.code, s.name as semestr,
-  sr.grade_a as A, sr.grade_b as B, sr.grade_c as C, 
-  sr.grade_d as D, sr.grade_e as E, sr.grade_f as F, sr.grade_fn as FN
-FROM courses c
-JOIN success_rates sr ON c.id = sr.course_id
-JOIN semesters s ON sr.semester_id = s.id
-WHERE c.code LIKE '%ALG%' AND sr.term_name = 'Všechny termíny'
-ORDER BY s.year DESC`
-        };
+        const allExercises = [];
+        async function loadExercises() {
+            try {
+                const res = await fetch('exercises.json');
+                const data = await res.json();
+                const container = document.getElementById('exerciseList');
+                container.innerHTML = '';
 
-        function loadExercise(num) {
-            document.getElementById('sqlEditor').value = exercises[num] || '';
+                data.forEach((cat, idx) => {
+                    const collapse = document.createElement('div');
+                    collapse.className = 'collapse collapse-arrow bg-base-200 rounded';
+                    const input = document.createElement('input');
+                    input.type = 'checkbox';
+                    if (idx === 0) input.checked = true;
+                    
+                    const title = document.createElement('div');
+                    title.className = 'collapse-title py-2 min-h-0 font-medium text-sm';
+                    title.textContent = cat.category;
+
+                    const content = document.createElement('div');
+                    content.className = 'collapse-content px-2 pb-2';
+
+                    cat.items.forEach(item => {
+                        allExercises.push(item);
+                        const exDiv = document.createElement('div');
+                        exDiv.id = `ex-${item.id}`;
+                        exDiv.className = `exercise-item p-1.5 rounded flex items-center justify-between ${solvedIds.includes(item.id) ? 'solved' : ''}`;
+                        exDiv.onclick = () => selectExercise(item.id);
+                        
+                        const left = document.createElement('div');
+                        left.innerHTML = `<span class="badge badge-xs badge-${item.difficulty} mr-1">${item.id}</span> ${item.question}`;
+                        
+                        const status = document.createElement('div');
+                        status.className = 'status-icon';
+                        if (solvedIds.includes(item.id)) {
+                            status.innerHTML = '<i data-lucide="check-circle" class="w-3.5 h-3.5 text-success"></i>';
+                        }
+
+                        exDiv.appendChild(left);
+                        exDiv.appendChild(status);
+                        content.appendChild(exDiv);
+                    });
+
+                    collapse.appendChild(input);
+                    collapse.appendChild(title);
+                    collapse.appendChild(content);
+                    container.appendChild(collapse);
+                });
+                lucide.createIcons();
+            } catch (err) {
+                document.getElementById('exerciseList').innerHTML = `<div class="text-error">Chyba při načítání příkladů: ${err.message}</div>`;
+            }
+        }
+
+        function selectExercise(id) {
+            activeEx = allExercises.find(ex => ex.id === id);
+            document.querySelectorAll('.exercise-item').forEach(el => el.classList.remove('ring-2', 'ring-primary', 'bg-primary/5'));
+            document.getElementById(`ex-${id}`).classList.add('ring-2', 'ring-primary', 'bg-primary/5');
+            document.getElementById('sqlEditor').classList.remove('sql-correct');
         }
 
         function runQuery() {
@@ -354,6 +281,7 @@ ORDER BY s.year DESC`
 
             const container = document.getElementById('resultContainer');
             const meta = document.getElementById('resultMeta');
+            const editor = document.getElementById('sqlEditor');
             const startTime = performance.now();
 
             try {
@@ -363,6 +291,7 @@ ORDER BY s.year DESC`
                 if (results.length === 0) {
                     container.innerHTML = '<div class="text-warning">Dotaz proběhl, ale nevrátil žádná data (nebo nebyl typu SELECT).</div>';
                     meta.textContent = `0 řádků • ${duration}ms`;
+                    editor.classList.remove('sql-correct');
                     return;
                 }
 
@@ -381,11 +310,44 @@ ORDER BY s.year DESC`
                 html += '</tbody></table>';
                 container.innerHTML = html;
                 meta.textContent = `${data.values.length} řádků • ${duration}ms`;
+
+                // Validation
+                if (activeEx) {
+                    const expectedResults = db.exec(activeEx.expectedSql);
+                    const isCorrect = JSON.stringify(results[0].values) === JSON.stringify(expectedResults[0].values);
+                    
+                    if (isCorrect) {
+                        editor.classList.add('sql-correct');
+                        markSolved(activeEx.id);
+                    } else {
+                        editor.classList.remove('sql-correct');
+                    }
+                }
             } catch (err) {
                 container.innerHTML = `<div class="text-error font-mono">Chyba: ${escapeHtml(err.message)}</div>`;
                 meta.textContent = '';
+                editor.classList.remove('sql-correct');
             }
             lucide.createIcons();
+        }
+
+        function markSolved(id) {
+            if (!solvedIds.includes(id)) {
+                solvedIds.push(id);
+                localStorage.setItem('reis_sql_solved', JSON.stringify(solvedIds));
+                const el = document.getElementById(`ex-${id}`);
+                el.classList.add('solved');
+                el.querySelector('.status-icon').innerHTML = '<i data-lucide="check-circle" class="w-3.5 h-3.5 text-success"></i>';
+                lucide.createIcons();
+            }
+        }
+
+        function resetProgress() {
+            if (confirm('Opravdu chcete smazat svůj pokrok?')) {
+                localStorage.removeItem('reis_sql_solved');
+                solvedIds = [];
+                loadExercises();
+            }
         }
 
         document.getElementById('sqlEditor').addEventListener('keydown', (e) => {
