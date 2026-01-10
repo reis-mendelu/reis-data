@@ -105,24 +105,41 @@
         "difficulty": "error",
         "question": "Top 5 nejtěžších předmětů na PEF.",
         "expectedSql": "SELECT c.code, c.name, ROUND(100.0 * SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) / NULLIF(SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e + sr.grade_f + sr.grade_fn), 0), 1) as uspesnost, SUM(sr.grade_f + sr.grade_fn) as neproslo FROM courses c JOIN success_rates sr ON c.id = sr.course_id JOIN semesters s ON sr.semester_id = s.id WHERE s.name LIKE '%PEF%' AND sr.term_name = 'Všechny termíny' GROUP BY c.id HAVING uspesnost IS NOT NULL ORDER BY uspesnost ASC LIMIT 5"
-      },
+      }
+    ]
+  },
+  {
+    "category": "🏆 Elitní výzvy (Profesor-level)",
+    "items": [
       {
         "id": 15,
-        "difficulty": "error",
-        "question": "Porovnání úspěšnosti TZI, ALG a EBC-IV.",
-        "expectedSql": "SELECT c.code, c.name, ROUND(100.0 * SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) / NULLIF(SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e + sr.grade_f + sr.grade_fn), 0), 1) as uspesnost FROM courses c JOIN success_rates sr ON c.id = sr.course_id WHERE c.code IN ('EBC-TZI', 'EBC-ALG', 'EBC-IV') AND sr.term_name = 'Všechny termíny' GROUP BY c.id ORDER BY uspesnost DESC"
+        "difficulty": "neutral",
+        "question": "Dvojice různých předmětů, které měly v Zima 2024 naprosto stejný počet známek A.",
+        "expectedSql": "SELECT c1.code, c2.code, sr1.grade_a FROM success_rates sr1 JOIN success_rates sr2 ON sr1.grade_a = sr2.grade_a JOIN courses c1 ON sr1.course_id = c1.id JOIN courses c2 ON sr2.course_id = c2.id JOIN semesters s ON sr1.semester_id = s.id WHERE s.name LIKE '%Zima 2024%' AND sr1.course_id > sr2.course_id AND sr1.term_name = 'Všechny termíny' AND sr2.term_name = 'Všechny termíny'"
       },
       {
         "id": 16,
-        "difficulty": "error",
-        "question": "Která fakulta má nejvyšší úspěšnost?",
-        "expectedSql": "SELECT f.name as fakulta, ROUND(100.0 * SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e) / NULLIF(SUM(sr.grade_a + sr.grade_b + sr.grade_c + sr.grade_d + sr.grade_e + sr.grade_f + sr.grade_fn), 0), 1) as uspesnost, COUNT(DISTINCT c.id) as pocet_predmetu FROM faculties f JOIN semesters s ON f.id = s.faculty_id JOIN success_rates sr ON s.id = sr.semester_id JOIN courses c ON sr.course_id = c.id WHERE sr.term_name = 'Všechny termíny' GROUP BY f.id ORDER BY uspesnost DESC"
+        "difficulty": "neutral",
+        "question": "Agregovaný kód předmětu, který má NEJVYŠŠÍ počet neúspěšných (F+FN) napříč všemi semestry PEF.",
+        "expectedSql": "SELECT c.code, SUM(sr.grade_f + sr.grade_fn) as celkem_fail FROM courses c JOIN success_rates sr ON c.id = sr.course_id JOIN semesters s ON sr.semester_id = s.id WHERE s.name LIKE '%PEF%' AND sr.term_name = 'Všechny termíny' GROUP BY c.id ORDER BY celkem_fail DESC LIMIT 1"
       },
       {
         "id": 17,
-        "difficulty": "error",
-        "question": "Rozložení známek u předmětu ALG.",
-        "expectedSql": "SELECT c.code, s.name as semestr, sr.grade_a as A, sr.grade_b as B, sr.grade_c as C, sr.grade_d as D, sr.grade_e as E, sr.grade_f as F, sr.grade_fn as FN FROM courses c JOIN success_rates sr ON c.id = sr.course_id JOIN semesters s ON sr.semester_id = s.id WHERE c.code LIKE '%ALG%' AND sr.term_name = 'Všechny termíny' ORDER BY s.year DESC"
+        "difficulty": "neutral",
+        "question": "Seznam jmen fakult a semestrů, kde jméno semestru začíná stejným písmenem jako název fakulty.",
+        "expectedSql": "SELECT f.name, s.name FROM faculties f JOIN semesters s ON f.id = s.faculty_id WHERE SUBSTR(f.name, 1, 1) = SUBSTR(s.name, 1, 1)"
+      },
+      {
+        "id": 18,
+        "difficulty": "neutral",
+        "question": "Semestry, pro které neexistuje v databázi ani jeden záznam o úspěšnosti.",
+        "expectedSql": "SELECT s.name FROM semesters s LEFT JOIN success_rates sr ON s.id = sr.semester_id WHERE sr.id IS NULL"
+      },
+      {
+        "id": 19,
+        "difficulty": "neutral",
+        "question": "Předměty, u kterých více než 90% studentů prospělo (A-E) aspoň v jednom semestru.",
+        "expectedSql": "SELECT DISTINCT c.code, c.name FROM courses c JOIN success_rates sr ON c.id = sr.course_id WHERE sr.term_name = 'Všechny termíny' AND (100.0 * (sr.grade_a+sr.grade_b+sr.grade_c+sr.grade_d+sr.grade_e) / NULLIF(sr.grade_a+sr.grade_b+sr.grade_c+sr.grade_d+sr.grade_e+sr.grade_f+sr.grade_fn, 0)) > 90"
       }
     ]
   }
