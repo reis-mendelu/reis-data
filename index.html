@@ -119,16 +119,7 @@
                                 <button id="runBtn" class="btn btn-primary btn-xs gap-1" onclick="runQuery()">
                                     <i data-lucide="play" class="w-3 h-3"></i> Spustit
                                 </button>
-                                <button id="hintBtn" class="btn btn-ghost btn-xs gap-1 text-warning hidden" onclick="showHint()">
-                                    <i data-lucide="lightbulb" class="w-3 h-3"></i> Nápověda
-                                </button>
                             </div>
-                        </div>
-                        <div id="hintContainer" class="hidden mb-2">
-                             <div class="alert alert-warning py-1 px-2 text-xs rounded flex gap-2">
-                                <i data-lucide="help-circle" class="w-4 h-4"></i>
-                                <span id="hintText"></span>
-                             </div>
                         </div>
                         <textarea id="sqlEditor" 
                             class="sql-editor textarea textarea-bordered w-full h-28 text-xs leading-relaxed p-2"
@@ -176,7 +167,6 @@
 
         let db = null;
         let activeEx = null;
-        let currentHintLevel = 0;
         let solvedIds = JSON.parse(localStorage.getItem('reis_sql_solved') || '[]');
 
         // XSS prevention: escape HTML entities in database values
@@ -280,34 +270,9 @@
 
         function selectExercise(id) {
             activeEx = allExercises.find(ex => ex.id === id);
-            currentHintLevel = 0;
-            document.getElementById('hintContainer').classList.add('hidden');
-            const hintBtn = document.getElementById('hintBtn');
-            if (activeEx && (activeEx.hint1 || activeEx.hint2)) {
-                hintBtn.classList.remove('hidden');
-            } else {
-                hintBtn.classList.add('hidden');
-            }
-
             document.querySelectorAll('.exercise-item').forEach(el => el.classList.remove('ring-2', 'ring-primary', 'bg-primary/5'));
             document.getElementById(`ex-${id}`).classList.add('ring-2', 'ring-primary', 'bg-primary/5');
             document.getElementById('sqlEditor').classList.remove('sql-correct');
-            lucide.createIcons();
-        }
-
-        function showHint() {
-            if (!activeEx) return;
-            currentHintLevel++;
-            const container = document.getElementById('hintContainer');
-            const text = document.getElementById('hintText');
-            
-            if (currentHintLevel === 1 && activeEx.hint1) {
-                text.textContent = activeEx.hint1;
-                container.classList.remove('hidden');
-            } else if (currentHintLevel >= 2 && activeEx.hint2) {
-                text.textContent = activeEx.hint2;
-                container.classList.remove('hidden');
-            }
             lucide.createIcons();
         }
 
@@ -355,7 +320,6 @@
                     if (isCorrect) {
                         editor.classList.add('sql-correct');
                         markSolved(activeEx.id);
-                        showWhy(activeEx.why);
                     } else {
                         editor.classList.remove('sql-correct');
                     }
@@ -385,22 +349,6 @@
                 solvedIds = [];
                 loadExercises();
             }
-        }
-
-        function showWhy(msg) {
-            if (!msg) return;
-            const container = document.getElementById('resultContainer');
-            const whyDiv = document.createElement('div');
-            whyDiv.className = 'alert alert-success mt-4 animate-bounce';
-            whyDiv.innerHTML = `
-                <i data-lucide="info" class="w-5 h-5"></i>
-                <div>
-                    <h3 class="font-bold text-xs uppercase opacity-70">Proč je to důležité?</h3>
-                    <div class="text-sm">${msg}</div>
-                </div>
-            `;
-            container.appendChild(whyDiv);
-            lucide.createIcons();
         }
 
         document.getElementById('sqlEditor').addEventListener('keydown', (e) => {

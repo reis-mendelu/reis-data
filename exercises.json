@@ -6,28 +6,19 @@
         "id": 1,
         "difficulty": "primary",
         "question": "Vypište kódy a názvy všech předmětů.",
-        "expectedSql": "SELECT code, name FROM courses",
-        "hint1": "Použijte příkaz SELECT následovaný názvy sloupců.",
-        "hint2": "SELECT sloupec1, sloupec2 FROM tabulka",
-        "why": "Základní přehled předmětů je prvním krokem pro jakoukoli analýzu dat v IS."
+        "expectedSql": "SELECT code, name FROM courses"
       },
       {
         "id": 2,
         "difficulty": "primary",
         "question": "Vypište všechny údaje o fakultách.",
-        "expectedSql": "SELECT * FROM faculties",
-        "hint1": "Pro vypsání všech sloupců použijte hvězdičku (*).",
-        "hint2": "SELECT * FROM jmeno_tabulky",
-        "why": "Tento dotaz vám ukáže ID jednotlivých fakult, které budete potřebovat pro spojování tabulek."
+        "expectedSql": "SELECT * FROM faculties"
       },
       {
         "id": 3,
         "difficulty": "primary",
         "question": "Semestry seřazené podle roku sestupně.",
-        "expectedSql": "SELECT name, year FROM semesters ORDER BY year DESC",
-        "hint1": "Použijte klauzuli ORDER BY na konci dotazu.",
-        "hint2": "ORDER BY year DESC (pro sestupné řazení)",
-        "why": "Řazení dat je klíčové pro nalezení nejnovějších trendů v úspěšnosti."
+        "expectedSql": "SELECT name, year FROM semesters ORDER BY year DESC"
       }
     ]
   },
@@ -38,28 +29,19 @@
         "id": 4,
         "difficulty": "warning",
         "question": "Předměty s kódem začínajícím na 'EBC'.",
-        "expectedSql": "SELECT * FROM courses WHERE code LIKE 'EBC%' LIMIT 20",
-        "hint1": "Použijte klauzuli WHERE a operátor LIKE.",
-        "hint2": "WHERE code LIKE 'EBC%'",
-        "why": "Filtrování podle kódu umožňuje rychle najít předměty konkrétní katedry nebo garanta."
+        "expectedSql": "SELECT * FROM courses WHERE code LIKE 'EBC%' LIMIT 20"
       },
       {
         "id": 5,
         "difficulty": "warning",
         "question": "Záznamy kde nikdo neprospěl na A.",
-        "expectedSql": "SELECT * FROM success_rates WHERE grade_a = 0 LIMIT 20",
-        "hint1": "Hledejte řádky, kde sloupec grade_a se rovná nule.",
-        "hint2": "WHERE grade_a = 0",
-        "why": "Identifikace 'nulových' výsledků pomáhá odhalit chyby v datech nebo extrémně náročné termíny."
+        "expectedSql": "SELECT * FROM success_rates WHERE grade_a = 0 LIMIT 20"
       },
       {
         "id": 6,
         "difficulty": "warning",
         "question": "Semestry z roku 2024 nebo novější.",
-        "expectedSql": "SELECT * FROM semesters WHERE year >= 2024",
-        "hint1": "Použijte operátor větší nebo rovno (>=).",
-        "hint2": "WHERE year >= 2024",
-        "why": "Omezení na aktuální období zrychluje práci s databází a dává relevantnější výsledky."
+        "expectedSql": "SELECT * FROM semesters WHERE year >= 2024"
       }
     ]
   },
@@ -70,19 +52,13 @@
         "id": 7,
         "difficulty": "info",
         "question": "Kód předmětu, semestr a počet známek A.",
-        "expectedSql": "SELECT c.code, s.name, sr.grade_a FROM success_rates sr JOIN courses c ON sr.course_id = c.id JOIN semesters s ON sr.semester_id = s.id LIMIT 20",
-        "hint1": "Budete muset spojit tabulky success_rates, courses a semesters.",
-        "hint2": "SELECT ... FROM success_rates sr JOIN courses c ON sr.course_id = c.id ...",
-        "why": "Spojování tabulek je podstatou relačních databází – dává číslům v success_rates čitelný kontext (jméno předmětu)."
+        "expectedSql": "SELECT c.code, s.name, sr.grade_a FROM success_rates sr JOIN courses c ON sr.course_id = c.id JOIN semesters s ON sr.semester_id = s.id LIMIT 20"
       },
       {
         "id": 8,
         "difficulty": "info",
         "question": "Fakulta a semestr pro každý záznam.",
-        "expectedSql": "SELECT f.name as fakulta, s.name as semestr FROM semesters s JOIN faculties f ON s.faculty_id = f.id",
-        "hint1": "Spojte tabulky semesters a faculties přes faculty_id.",
-        "hint2": "JOIN faculties f ON s.faculty_id = f.id",
-        "why": "Tento dotaz pomáhá pochopit hierarchii univerzity uloženou v datech."
+        "expectedSql": "SELECT f.name as fakulta, s.name as semestr FROM semesters s JOIN faculties f ON s.faculty_id = f.id"
       }
     ]
   },
@@ -93,19 +69,13 @@
         "id": 15,
         "difficulty": "neutral",
         "question": "Dvojice různých předmětů, které měly v Zima 2024 naprosto stejný počet známek A.",
-        "expectedSql": "SELECT c1.code, c2.code, sr1.grade_a FROM success_rates sr1 JOIN success_rates sr2 ON sr1.grade_a = sr2.grade_a JOIN courses c1 ON sr1.course_id = c1.id JOIN courses c2 ON sr2.course_id = c2.id JOIN semesters s ON sr1.semester_id = s.id WHERE s.name LIKE '%Zima 2024%' AND sr1.course_id > sr2.course_id AND sr1.term_name = 'Všechny termíny' AND sr2.term_name = 'Všechny termíny'",
-        "hint1": "Použijte self-join tabulky success_rates (spojte ji samu se sebou).",
-        "hint2": "WHERE sr1.grade_a = sr2.grade_a AND sr1.course_id != sr2.course_id",
-        "why": "Self-join je pokročilá technika pro hledání korelací a duplicit uvnitř jedné sady dat."
+        "expectedSql": "SELECT c1.code, c2.code, sr1.grade_a FROM success_rates sr1 JOIN success_rates sr2 ON sr1.grade_a = sr2.grade_a JOIN courses c1 ON sr1.course_id = c1.id JOIN courses c2 ON sr2.course_id = c2.id JOIN semesters s ON sr1.semester_id = s.id WHERE s.name LIKE '%Zima 2024%' AND sr1.course_id > sr2.course_id AND sr1.term_name = 'Všechny termíny' AND sr2.term_name = 'Všechny termíny'"
       },
       {
         "id": 16,
         "difficulty": "neutral",
         "question": "Agregovaný kód předmětu, který má NEJVYŠŠÍ počet neúspěšných (F+FN) napříč všemi semestry PEF.",
-        "expectedSql": "SELECT c.code, SUM(sr.grade_f + sr.grade_fn) as celkem_fail FROM courses c JOIN success_rates sr ON c.id = sr.course_id JOIN semesters s ON sr.semester_id = s.id WHERE s.name LIKE '%PEF%' AND sr.term_name = 'Všechny termíny' GROUP BY c.id ORDER BY celkem_fail DESC LIMIT 1",
-        "hint1": "Použijte GROUP BY c.id a funkci SUM().",
-        "hint2": "ORDER BY SUM(...) DESC LIMIT 1",
-        "why": "Sčítání neúspěšných napříč semestry je zásadní pro vytipování 'úzkých hrdel' ve studijních plánech."
+        "expectedSql": "SELECT c.code, SUM(sr.grade_f + sr.grade_fn) as celkem_fail FROM courses c JOIN success_rates sr ON c.id = sr.course_id JOIN semesters s ON sr.semester_id = s.id WHERE s.name LIKE '%PEF%' AND sr.term_name = 'Všechny termíny' GROUP BY c.id ORDER BY celkem_fail DESC LIMIT 1"
       }
     ]
   }
