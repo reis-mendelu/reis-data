@@ -312,17 +312,31 @@
                 container.innerHTML = html;
                 meta.textContent = `${data.values.length} řádků • ${duration}ms`;
 
-                // Validation
-                if (activeEx) {
-                    const expectedResults = db.exec(activeEx.expectedSql);
-                    const isCorrect = JSON.stringify(results[0].values) === JSON.stringify(expectedResults[0].values);
-                    
-                    if (isCorrect) {
-                        editor.classList.add('sql-correct');
-                        markSolved(activeEx.id);
-                    } else {
-                        editor.classList.remove('sql-correct');
+                // Validation: Check against ALL exercises (auto-detect)
+                const studentResult = JSON.stringify(results[0].values);
+                let matchedEx = null;
+
+                for (const ex of allExercises) {
+                    try {
+                        const expectedResults = db.exec(ex.expectedSql);
+                        if (expectedResults.length > 0 && JSON.stringify(expectedResults[0].values) === studentResult) {
+                            matchedEx = ex;
+                            break;
+                        }
+                    } catch (e) {
+                        // Skip exercises with invalid expectedSql
                     }
+                }
+
+                if (matchedEx) {
+                    editor.classList.add('sql-correct');
+                    markSolved(matchedEx.id);
+                    // Also highlight the matched exercise in the sidebar
+                    document.querySelectorAll('.exercise-item').forEach(el => el.classList.remove('ring-2', 'ring-primary', 'bg-primary/5'));
+                    document.getElementById(`ex-${matchedEx.id}`).classList.add('ring-2', 'ring-primary', 'bg-primary/5');
+                    activeEx = matchedEx;
+                } else {
+                    editor.classList.remove('sql-correct');
                 }
             } catch (err) {
                 container.innerHTML = `<div class="text-error font-mono">Chyba: ${escapeHtml(err.message)}</div>`;
