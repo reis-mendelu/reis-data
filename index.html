@@ -59,23 +59,23 @@
                 </h2>
                 
                 <div class="flex justify-center">
-                    <pre class="text-xs leading-tight">┌─────────────┐     ┌──────────────┐     ┌───────────────┐
-│  faculties  │     │   semesters  │     │    courses    │
-├─────────────┤     ├──────────────┤     ├───────────────┤
-│ id (PK)     │◄────│ faculty_id   │     │ id (PK)       │
-│ name        │     │ id (PK)      │     │ code          │
-│ last_scraped│     │ name         │     │ name          │
-└─────────────┘     │ year         │     │ predmet_id    │
-                    └──────┬───────┘     └───────┬───────┘
-                           │                     │
-                           ▼                     ▼
-                    ┌──────────────────────────────────┐
-                    │          success_rates           │
-                    ├──────────────────────────────────┤
-                    │ id, course_id (FK), semester_id (FK)    │
-                    │ term_name, grade_a..grade_fn     │
-                    │ source_url, scraped_at           │
-                    └──────────────────────────────────┘</pre>
+                    <pre class="text-xs leading-tight">  ┌─────────────┐       ┌──────────────┐       ┌───────────────┐
+  │  faculties  │       │   semesters  │       │    courses    │
+  ├─────────────┤       ├──────────────┤       ├───────────────┤
+  │ id (PK)     │◄──────│ faculty_id   │       │ id (PK)       │
+  │ name        │       │ id (PK)      │       │ code          │
+  │ last_scraped│       │ name         │       │ name          │
+  └─────────────┘       │ year         │       │ predmet_id    │
+                        └──────┬───────┘       └───────┬───────┘
+                               │                       │
+                               ▼                       ▼
+                        ┌────────────────────────────────────┐
+                        │           success_rates            │
+                        ├────────────────────────────────────┤
+                        │ id, course_id (FK), semester_id (FK)
+                        │ term_name, grade_a..grade_fn       │
+                        │ source_url, scraped_at             │
+                        └────────────────────────────────────┘</pre>
                 </div>
 
                 <div class="text-xs text-base-content/60 mt-2 text-center">
