@@ -212,6 +212,17 @@
 
         let db = null;
 
+        // XSS prevention: escape HTML entities in database values
+        function escapeHtml(unsafe) {
+            if (unsafe === null || unsafe === undefined) return null;
+            return String(unsafe)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+
         async function init() {
             try {
                 const config = {
@@ -357,12 +368,13 @@ ORDER BY s.year DESC`
 
                 const data = results[0];
                 let html = '<table class="table table-xs w-full"><thead><tr>';
-                data.columns.forEach(col => html += `<th>${col}</th>`);
+                data.columns.forEach(col => html += `<th>${escapeHtml(col)}</th>`);
                 html += '</tr></thead><tbody>';
                 data.values.forEach(row => {
                     html += '<tr>';
                     row.forEach(val => {
-                        html += `<td>${val === null ? '<span class="opacity-30">NULL</span>' : val}</td>`;
+                        const escaped = escapeHtml(val);
+                        html += `<td>${escaped === null ? '<span class="opacity-30">NULL</span>' : escaped}</td>`;
                     });
                     html += '</tr>';
                 });
@@ -370,7 +382,7 @@ ORDER BY s.year DESC`
                 container.innerHTML = html;
                 meta.textContent = `${data.values.length} řádků • ${duration}ms`;
             } catch (err) {
-                container.innerHTML = `<div class="text-error font-mono">Chyba: ${err.message}</div>`;
+                container.innerHTML = `<div class="text-error font-mono">Chyba: ${escapeHtml(err.message)}</div>`;
                 meta.textContent = '';
             }
             lucide.createIcons();
