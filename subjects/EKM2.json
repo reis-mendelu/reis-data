@@ -1,0 +1,32 @@
+{
+  "courseCode": "EKM2",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120501;lang=cz",
+      "totalPass": 151,
+      "totalFail": 49,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 14,
+            "C": 24,
+            "D": 38,
+            "E": 67,
+            "F": 5,
+            "FN": 44
+          },
+          "pass": 151,
+          "fail": 49
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

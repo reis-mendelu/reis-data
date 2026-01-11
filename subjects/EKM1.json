@@ -1,0 +1,57 @@
+{
+  "courseCode": "EKM1",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127055;lang=cz",
+      "totalPass": 152,
+      "totalFail": 17,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 28,
+            "C": 43,
+            "D": 54,
+            "E": 18,
+            "F": 14,
+            "FN": 3
+          },
+          "pass": 152,
+          "fail": 17
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123785;lang=cz",
+      "totalPass": 132,
+      "totalFail": 14,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 25,
+            "C": 51,
+            "D": 46,
+            "E": 5,
+            "F": 10,
+            "FN": 4
+          },
+          "pass": 132,
+          "fail": 14
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

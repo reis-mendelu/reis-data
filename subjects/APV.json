@@ -1,0 +1,57 @@
+{
+  "courseCode": "APV",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127128;lang=cz",
+      "totalPass": 27,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 7,
+            "C": 4,
+            "D": 4,
+            "E": 8,
+            "F": 7,
+            "FN": 1
+          },
+          "pass": 27,
+          "fail": 8
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123509;lang=cz",
+      "totalPass": 40,
+      "totalFail": 12,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 6,
+            "C": 11,
+            "D": 8,
+            "E": 11,
+            "F": 12,
+            "FN": 0
+          },
+          "pass": 40,
+          "fail": 12
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

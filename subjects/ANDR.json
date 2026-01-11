@@ -1,0 +1,32 @@
+{
+  "courseCode": "ANDR",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127491;lang=cz",
+      "totalPass": 5,
+      "totalFail": 10,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 2,
+            "FN": 8
+          },
+          "pass": 5,
+          "fail": 10
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

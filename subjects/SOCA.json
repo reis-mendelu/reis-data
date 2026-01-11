@@ -1,0 +1,32 @@
+{
+  "courseCode": "SOCA",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124671;lang=cz",
+      "totalPass": 15,
+      "totalFail": 11,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 5,
+            "E": 7,
+            "F": 3,
+            "FN": 8
+          },
+          "pass": 15,
+          "fail": 11
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

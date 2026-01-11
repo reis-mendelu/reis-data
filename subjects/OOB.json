@@ -1,0 +1,32 @@
+{
+  "courseCode": "OOB",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127066;lang=cz",
+      "totalPass": 217,
+      "totalFail": 18,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 77,
+            "B": 72,
+            "C": 55,
+            "D": 12,
+            "E": 1,
+            "F": 4,
+            "FN": 14
+          },
+          "pass": 217,
+          "fail": 18
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

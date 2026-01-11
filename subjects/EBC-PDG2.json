@@ -1,0 +1,70 @@
+{
+  "courseCode": "EBC-PDG2",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2023/2024 - PEF",
+      "semesterId": "753",
+      "year": 2023,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151611;lang=cz",
+      "totalPass": 205,
+      "totalFail": 20,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 205,
+            "nezap": 1,
+            "zap-nedost": 19
+          },
+          "pass": 205,
+          "fail": 20
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - PEF",
+      "semesterId": "717",
+      "year": 2022,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=142453;lang=cz",
+      "totalPass": 212,
+      "totalFail": 13,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 212,
+            "nezap": 13,
+            "zap-nedost": 0
+          },
+          "pass": 212,
+          "fail": 13
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - PEF",
+      "semesterId": "671",
+      "year": 2021,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=134404;lang=cz",
+      "totalPass": 224,
+      "totalFail": 33,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 224,
+            "nezap": 33,
+            "zap-nedost": 0
+          },
+          "pass": 224,
+          "fail": 33
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

@@ -1,10 +1,12 @@
 {
   "courseCode": "EBA-HPO",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152305;lang=cz",
       "totalPass": 33,
       "totalFail": 1,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=149260;lang=cz",
       "totalPass": 39,
       "totalFail": 5,
@@ -50,42 +53,55 @@
       ]
     },
     {
+      "semesterName": "LS 2022/2023 - PEF",
+      "semesterId": "717",
+      "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140056;lang=cz",
+      "totalPass": 39,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 6,
+            "C": 8,
+            "D": 10,
+            "E": 9,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 39,
+          "fail": 5
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=131035;lang=cz",
       "totalPass": 21,
-      "totalFail": 2,
+      "totalFail": 1,
       "terms": [
         {
-          "term": "termín 1",
+          "term": "Všechny termíny",
           "grades": {
             "A": 2,
             "B": 4,
             "C": 2,
             "D": 5,
-            "E": 7,
-            "F": 2,
+            "E": 8,
+            "F": 1,
             "FN": 0
           },
-          "pass": 20,
-          "fail": 2
-        },
-        {
-          "term": "termín 2",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 1,
-          "fail": 0
+          "pass": 21,
+          "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.871Z"
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
 }

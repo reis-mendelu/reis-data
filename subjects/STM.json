@@ -1,0 +1,32 @@
+{
+  "courseCode": "STM",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120506;lang=cz",
+      "totalPass": 87,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 13,
+            "C": 30,
+            "D": 20,
+            "E": 17,
+            "F": 0,
+            "FN": 7
+          },
+          "pass": 87,
+          "fail": 7
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

@@ -1,10 +1,12 @@
 {
   "courseCode": "EBC-VI2",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153269;lang=cz",
       "totalPass": 36,
       "totalFail": 3,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=147432;lang=cz",
       "totalPass": 21,
       "totalFail": 5,
@@ -53,39 +56,27 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=137210;lang=cz",
       "totalPass": 16,
-      "totalFail": 3,
+      "totalFail": 2,
       "terms": [
         {
-          "term": "termín 1",
+          "term": "Všechny termíny",
           "grades": {
             "A": 4,
             "B": 3,
             "C": 3,
             "D": 2,
-            "E": 3,
-            "F": 2,
+            "E": 4,
+            "F": 1,
             "FN": 1
           },
-          "pass": 15,
-          "fail": 3
-        },
-        {
-          "term": "termín 2",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 1,
-          "fail": 0
+          "pass": 16,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.936Z"
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
 }

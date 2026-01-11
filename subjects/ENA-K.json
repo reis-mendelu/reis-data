@@ -1,10 +1,12 @@
 {
   "courseCode": "ENA-K",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152267;lang=cz",
       "totalPass": 12,
       "totalFail": 4,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=149222;lang=cz",
       "totalPass": 14,
       "totalFail": 5,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=141236;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -77,39 +81,27 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=131005;lang=cz",
       "totalPass": 13,
-      "totalFail": 15,
+      "totalFail": 10,
       "terms": [
         {
-          "term": "termín 1",
+          "term": "Všechny termíny",
           "grades": {
             "A": 1,
             "B": 0,
             "C": 3,
             "D": 4,
-            "E": 3,
-            "F": 4,
+            "E": 5,
+            "F": 2,
             "FN": 8
           },
-          "pass": 11,
-          "fail": 12
-        },
-        {
-          "term": "termín 2",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 2,
-            "F": 1,
-            "FN": 2
-          },
-          "pass": 2,
-          "fail": 3
+          "pass": 13,
+          "fail": 10
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.954Z"
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
 }

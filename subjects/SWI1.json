@@ -1,0 +1,32 @@
+{
+  "courseCode": "SWI1",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120521;lang=cz",
+      "totalPass": 35,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 20,
+            "B": 6,
+            "C": 7,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 35,
+          "fail": 5
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

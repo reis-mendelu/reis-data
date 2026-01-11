@@ -1,0 +1,32 @@
+{
+  "courseCode": "MI2A",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120509;lang=cz",
+      "totalPass": 21,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 1,
+            "C": 4,
+            "D": 1,
+            "E": 8,
+            "F": 8,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 8
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

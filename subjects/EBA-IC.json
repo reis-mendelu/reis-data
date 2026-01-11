@@ -1,10 +1,12 @@
 {
   "courseCode": "EBA-IC",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152035;lang=cz",
       "totalPass": 79,
       "totalFail": 2,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142554;lang=cz",
       "totalPass": 67,
       "totalFail": 4,
@@ -53,53 +56,52 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134899;lang=cz",
       "totalPass": 77,
-      "totalFail": 21,
+      "totalFail": 3,
       "terms": [
         {
-          "term": "termín 1",
+          "term": "Všechny termíny",
           "grades": {
-            "A": 14,
-            "B": 10,
-            "C": 20,
-            "D": 12,
-            "E": 8,
-            "F": 14,
-            "FN": 2
-          },
-          "pass": 64,
-          "fail": 16
-        },
-        {
-          "term": "termín 2",
-          "grades": {
-            "A": 4,
-            "B": 3,
-            "C": 2,
-            "D": 2,
-            "E": 1,
-            "F": 1,
+            "A": 18,
+            "B": 13,
+            "C": 23,
+            "D": 14,
+            "E": 9,
+            "F": 0,
             "FN": 3
           },
-          "pass": 12,
-          "fail": 4
-        },
+          "pass": 77,
+          "fail": 3
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - PEF",
+      "semesterId": "650",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=128352;lang=cz",
+      "totalPass": 12,
+      "totalFail": 0,
+      "terms": [
         {
-          "term": "termín 3",
+          "term": "Všechny termíny",
           "grades": {
-            "A": 0,
+            "A": 1,
             "B": 0,
-            "C": 1,
-            "D": 0,
-            "E": 0,
+            "C": 4,
+            "D": 4,
+            "E": 3,
             "F": 0,
-            "FN": 1
+            "FN": 0
           },
-          "pass": 1,
-          "fail": 1
+          "pass": 12,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.871Z"
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
 }

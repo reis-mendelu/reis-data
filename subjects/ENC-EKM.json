@@ -1,10 +1,12 @@
 {
   "courseCode": "ENC-EKM",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=158461;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152386;lang=cz",
       "totalPass": 149,
       "totalFail": 35,
@@ -53,6 +56,7 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142499;lang=cz",
       "totalPass": 192,
       "totalFail": 44,
@@ -77,53 +81,52 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134827;lang=cz",
       "totalPass": 194,
-      "totalFail": 148,
+      "totalFail": 40,
       "terms": [
         {
-          "term": "termín 1",
+          "term": "Všechny termíny",
           "grades": {
-            "A": 36,
-            "B": 12,
-            "C": 26,
-            "D": 29,
-            "E": 20,
-            "F": 86,
+            "A": 49,
+            "B": 33,
+            "C": 38,
+            "D": 43,
+            "E": 31,
+            "F": 15,
             "FN": 25
           },
-          "pass": 123,
-          "fail": 111
-        },
+          "pass": 194,
+          "fail": 40
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - PEF",
+      "semesterId": "650",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=127160;lang=cz",
+      "totalPass": 165,
+      "totalFail": 61,
+      "terms": [
         {
-          "term": "termín 2",
+          "term": "Všechny termíny",
           "grades": {
-            "A": 12,
-            "B": 14,
-            "C": 12,
-            "D": 9,
-            "E": 8,
-            "F": 28,
-            "FN": 0
+            "A": 24,
+            "B": 40,
+            "C": 76,
+            "D": 21,
+            "E": 4,
+            "F": 20,
+            "FN": 41
           },
-          "pass": 55,
-          "fail": 28
-        },
-        {
-          "term": "termín 3",
-          "grades": {
-            "A": 1,
-            "B": 7,
-            "C": 0,
-            "D": 5,
-            "E": 3,
-            "F": 9,
-            "FN": 0
-          },
-          "pass": 16,
-          "fail": 9
+          "pass": 165,
+          "fail": 61
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.971Z"
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
 }

@@ -1,0 +1,57 @@
+{
+  "courseCode": "PS",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2021/2022 - PEF",
+      "semesterId": "650",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=130257;lang=cz",
+      "totalPass": 64,
+      "totalFail": 15,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 10,
+            "C": 24,
+            "D": 11,
+            "E": 9,
+            "F": 11,
+            "FN": 4
+          },
+          "pass": 64,
+          "fail": 15
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123504;lang=cz",
+      "totalPass": 54,
+      "totalFail": 10,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 15,
+            "C": 18,
+            "D": 8,
+            "E": 1,
+            "F": 8,
+            "FN": 2
+          },
+          "pass": 54,
+          "fail": 10
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

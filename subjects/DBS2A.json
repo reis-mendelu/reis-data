@@ -1,0 +1,32 @@
+{
+  "courseCode": "DBS2A",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124648;lang=cz",
+      "totalPass": 6,
+      "totalFail": 12,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 11,
+            "FN": 1
+          },
+          "pass": 6,
+          "fail": 12
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}

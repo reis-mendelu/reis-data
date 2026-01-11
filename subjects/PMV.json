@@ -1,43 +1,82 @@
 {
   "courseCode": "PMV",
+  "aliases": [],
   "stats": [
     {
-      "semesterName": "LS 2021/2022 - PEF",
-      "semesterId": "671",
-      "year": 2021,
-      "totalPass": 49,
-      "totalFail": 16,
+      "semesterName": "LS 2022/2023 - PEF",
+      "semesterId": "717",
+      "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140157;lang=cz",
+      "totalPass": 16,
+      "totalFail": 0,
       "terms": [
         {
-          "term": "termín 1",
+          "term": "Všechny termíny",
           "grades": {
-            "A": 7,
-            "B": 9,
-            "C": 14,
-            "D": 13,
-            "E": 3,
-            "F": 3,
-            "FN": 13
-          },
-          "pass": 46,
-          "fail": 16
-        },
-        {
-          "term": "termín 2",
-          "grades": {
-            "A": 0,
-            "B": 1,
-            "C": 1,
-            "D": 1,
+            "A": 2,
+            "B": 4,
+            "C": 5,
+            "D": 5,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 3,
+          "pass": 16,
           "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - PEF",
+      "semesterId": "671",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=134413;lang=cz",
+      "totalPass": 49,
+      "totalFail": 13,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 10,
+            "C": 15,
+            "D": 14,
+            "E": 3,
+            "F": 0,
+            "FN": 13
+          },
+          "pass": 49,
+          "fail": 13
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127350;lang=cz",
+      "totalPass": 20,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 9,
+            "C": 4,
+            "D": 3,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 20,
+          "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.093Z"
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
 }

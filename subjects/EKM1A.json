@@ -1,0 +1,32 @@
+{
+  "courseCode": "EKM1A",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124657;lang=cz",
+      "totalPass": 16,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 6,
+            "D": 3,
+            "E": 4,
+            "F": 0,
+            "FN": 8
+          },
+          "pass": 16,
+          "fail": 8
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+}
