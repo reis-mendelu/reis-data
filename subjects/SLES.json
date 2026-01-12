@@ -1,10 +1,87 @@
 {
   "courseCode": "SLES",
+  "aliases": [],
   "stats": [
+    {
+      "semesterName": "ZS 2023/2024 - FRRMS",
+      "semesterId": "737",
+      "year": 2023,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146753;lang=cz",
+      "totalPass": 223,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 19,
+            "B": 27,
+            "C": 51,
+            "D": 52,
+            "E": 74,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 223,
+          "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - FRRMS",
+      "semesterId": "715",
+      "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142168;lang=cz",
+      "totalPass": 112,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 36,
+            "C": 48,
+            "D": 15,
+            "E": 2,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 112,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - FRRMS",
+      "semesterId": "682",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=133930;lang=cz",
+      "totalPass": 100,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 19,
+            "C": 36,
+            "D": 20,
+            "E": 14,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 100,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2024/2025 - FRRMS",
       "semesterId": "672",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=672;predmet=152813;lang=cz",
       "totalPass": 149,
       "totalFail": 13,
@@ -26,29 +103,30 @@
       ]
     },
     {
-      "semesterName": "ZS 2023/2024 - FRRMS",
-      "semesterId": "737",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146753;lang=cz",
-      "totalPass": 223,
-      "totalFail": 2,
+      "semesterName": "LS 2020/2021 - FRRMS",
+      "semesterId": "633",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=127325;lang=cz",
+      "totalPass": 82,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 19,
-            "B": 27,
-            "C": 51,
-            "D": 52,
-            "E": 74,
+            "A": 22,
+            "B": 26,
+            "C": 24,
+            "D": 10,
+            "E": 0,
             "F": 0,
-            "FN": 2
+            "FN": 0
           },
-          "pass": 223,
-          "fail": 2
+          "pass": 82,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.145Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

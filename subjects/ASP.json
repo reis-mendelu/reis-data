@@ -1,0 +1,32 @@
+{
+  "courseCode": "ASP",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2024/2025 - FRRMS",
+      "semesterId": "672",
+      "year": 2024,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=672;predmet=153957;lang=cz",
+      "totalPass": 27,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 4,
+            "C": 4,
+            "D": 8,
+            "E": 4,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 27,
+          "fail": 5
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

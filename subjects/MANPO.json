@@ -1,10 +1,12 @@
 {
   "courseCode": "MANPO",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157354;lang=cz",
       "totalPass": 56,
       "totalFail": 2,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=150623;lang=cz",
       "totalPass": 40,
       "totalFail": 11,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - AF",
       "semesterId": "727",
       "year": 2022,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141694;lang=cz",
       "totalPass": 33,
       "totalFail": 4,
@@ -72,7 +76,57 @@
           "fail": 4
         }
       ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - AF",
+      "semesterId": "687",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=687;predmet=133152;lang=cz",
+      "totalPass": 58,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 11,
+            "C": 13,
+            "D": 13,
+            "E": 10,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 58,
+          "fail": 7
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - AF",
+      "semesterId": "640",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126531;lang=cz",
+      "totalPass": 37,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 14,
+            "B": 6,
+            "C": 7,
+            "D": 5,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 37,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.042Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

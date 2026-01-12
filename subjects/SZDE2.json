@@ -1,10 +1,12 @@
 {
   "courseCode": "SZDE2",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=154348;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2023/2024 - ZF",
       "semesterId": "735",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146560;lang=cz",
       "totalPass": 5,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.160Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

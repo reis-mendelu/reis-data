@@ -1,0 +1,57 @@
+{
+  "courseCode": "STVA",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2021/2022 - LDF",
+      "semesterId": "649",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=132662;lang=cz",
+      "totalPass": 5,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 0,
+            "D": 2,
+            "E": 0,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 5,
+          "fail": 2
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - LDF",
+      "semesterId": "611",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127611;lang=cz",
+      "totalPass": 43,
+      "totalFail": 6,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 8,
+            "C": 15,
+            "D": 8,
+            "E": 7,
+            "F": 4,
+            "FN": 2
+          },
+          "pass": 43,
+          "fail": 6
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

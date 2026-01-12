@@ -1,0 +1,32 @@
+{
+  "courseCode": "OTAJP",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2020/2021 - AF",
+      "semesterId": "640",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126394;lang=cz",
+      "totalPass": 25,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 4,
+            "C": 3,
+            "D": 4,
+            "E": 4,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 25,
+          "fail": 2
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

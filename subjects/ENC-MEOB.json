@@ -1,7 +1,7 @@
 {
   "courseCode": "ENC-MEOB",
   "aliases": [
-    "MOB"
+    "RRMO"
   ],
   "stats": [
     {
@@ -51,6 +51,31 @@
           },
           "pass": 50,
           "fail": 4
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2023/2024 - FRRMS",
+      "semesterId": "737",
+      "year": 2023,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146648;lang=cz",
+      "totalPass": 82,
+      "totalFail": 23,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 6,
+            "C": 17,
+            "D": 30,
+            "E": 28,
+            "F": 20,
+            "FN": 3
+          },
+          "pass": 82,
+          "fail": 23
         }
       ]
     },
@@ -105,6 +130,56 @@
       ]
     },
     {
+      "semesterName": "LS 2022/2023 - FRRMS",
+      "semesterId": "715",
+      "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142267;lang=cz",
+      "totalPass": 23,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 4,
+            "D": 5,
+            "E": 11,
+            "F": 2,
+            "FN": 2
+          },
+          "pass": 23,
+          "fail": 4
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2022/2023 - FRRMS",
+      "semesterId": "695",
+      "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136794;lang=cz",
+      "totalPass": 125,
+      "totalFail": 31,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 7,
+            "C": 16,
+            "D": 36,
+            "E": 64,
+            "F": 16,
+            "FN": 15
+          },
+          "pass": 125,
+          "fail": 31
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
@@ -126,6 +201,56 @@
           },
           "pass": 25,
           "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - FRRMS",
+      "semesterId": "682",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=135618;lang=cz",
+      "totalPass": 13,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 3,
+            "E": 10,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2024/2025 - FRRMS",
+      "semesterId": "672",
+      "year": 2024,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=672;predmet=153903;lang=cz",
+      "totalPass": 96,
+      "totalFail": 23,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 7,
+            "C": 15,
+            "D": 30,
+            "E": 43,
+            "F": 10,
+            "FN": 13
+          },
+          "pass": 96,
+          "fail": 23
         }
       ]
     },
@@ -155,6 +280,31 @@
       ]
     },
     {
+      "semesterName": "ZS 2021/2022 - FRRMS",
+      "semesterId": "654",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=654;predmet=129638;lang=cz",
+      "totalPass": 74,
+      "totalFail": 46,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 8,
+            "D": 21,
+            "E": 40,
+            "F": 32,
+            "FN": 14
+          },
+          "pass": 74,
+          "fail": 46
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
@@ -180,55 +330,30 @@
       ]
     },
     {
-      "semesterName": "LS 2020/2021 - PEF",
-      "semesterId": "610",
+      "semesterName": "ZS 2020/2021 - FRRMS",
+      "semesterId": "603",
       "year": 2020,
       "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127510;lang=cz",
-      "totalPass": 3,
-      "totalFail": 0,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=603;predmet=123478;lang=cz",
+      "totalPass": 94,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 2,
-            "E": 1,
-            "F": 0,
-            "FN": 0
+            "A": 15,
+            "B": 33,
+            "C": 25,
+            "D": 14,
+            "E": 7,
+            "F": 1,
+            "FN": 1
           },
-          "pass": 3,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - PEF",
-      "semesterId": "584",
-      "year": 2020,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123565;lang=cz",
-      "totalPass": 68,
-      "totalFail": 12,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 1,
-            "B": 6,
-            "C": 20,
-            "D": 26,
-            "E": 15,
-            "F": 4,
-            "FN": 8
-          },
-          "pass": 68,
-          "fail": 12
+          "pass": 94,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

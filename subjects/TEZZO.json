@@ -1,10 +1,12 @@
 {
   "courseCode": "TEZZO",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134102;lang=cz",
       "totalPass": 43,
       "totalFail": 0,
@@ -24,7 +26,32 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - ZF",
+      "semesterId": "638",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126850;lang=cz",
+      "totalPass": 56,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 14,
+            "B": 17,
+            "C": 18,
+            "D": 5,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 56,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.166Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

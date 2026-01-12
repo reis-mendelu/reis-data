@@ -1,0 +1,28 @@
+{
+  "courseCode": "DIPSEPTE",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2024/2025 - AF",
+      "semesterId": "704",
+      "year": 2024,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152554;lang=cz",
+      "totalPass": 20,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 20,
+            "nezap": 0,
+            "zap-nedost": 5
+          },
+          "pass": 20,
+          "fail": 5
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

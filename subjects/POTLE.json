@@ -1,10 +1,12 @@
 {
   "courseCode": "POTLE",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157219;lang=cz",
       "totalPass": 31,
       "totalFail": 7,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=150754;lang=cz",
       "totalPass": 47,
       "totalFail": 2,
@@ -53,6 +56,7 @@
       "semesterName": "ZS 2023/2024 - AF",
       "semesterId": "733",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=147626;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -77,6 +81,7 @@
       "semesterName": "LS 2022/2023 - AF",
       "semesterId": "727",
       "year": 2022,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141780;lang=cz",
       "totalPass": 51,
       "totalFail": 2,
@@ -98,5 +103,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.098Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

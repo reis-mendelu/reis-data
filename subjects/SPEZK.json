@@ -1,10 +1,12 @@
 {
   "courseCode": "SPEZK",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134026;lang=cz",
       "totalPass": 16,
       "totalFail": 0,
@@ -24,7 +26,57 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - ZF",
+      "semesterId": "638",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126813;lang=cz",
+      "totalPass": 18,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 6,
+            "D": 7,
+            "E": 2,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 18,
+          "fail": 3
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2019/2020 - ZF",
+      "semesterId": "580",
+      "year": 2019,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120116;lang=cz",
+      "totalPass": 23,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 6,
+            "D": 10,
+            "E": 7,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 1
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.151Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

@@ -1,10 +1,12 @@
 {
   "courseCode": "RRKR",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151648;lang=cz",
       "totalPass": 11,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142276;lang=cz",
       "totalPass": 14,
       "totalFail": 1,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.128Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

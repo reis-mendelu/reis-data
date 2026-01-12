@@ -1,0 +1,49 @@
+{
+  "courseCode": "ZSOK",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "LS 2023/2024 - LDF",
+      "semesterId": "758",
+      "year": 2023,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=151554;lang=cz",
+      "totalPass": 48,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 48,
+            "nezap": 3,
+            "zap-nedost": 1
+          },
+          "pass": 48,
+          "fail": 4
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - LDF",
+      "semesterId": "611",
+      "year": 2020,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=128237;lang=cz",
+      "totalPass": 10,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 10,
+            "nezap": 2,
+            "zap-nedost": 0
+          },
+          "pass": 10,
+          "fail": 2
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

@@ -1,0 +1,28 @@
+{
+  "courseCode": "NNS",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123869;lang=cz",
+      "totalPass": 29,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 29,
+            "nezap": 4,
+            "zap-nedost": 0
+          },
+          "pass": 29,
+          "fail": 4
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

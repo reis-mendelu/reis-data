@@ -87,6 +87,27 @@
       ]
     },
     {
+      "semesterName": "LS 2021/2022 - LDF",
+      "semesterId": "673",
+      "year": 2021,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133696;lang=cz",
+      "totalPass": 4,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 4,
+            "nezap": 0,
+            "zap-nedost": 0
+          },
+          "pass": 4,
+          "fail": 0
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
@@ -129,6 +150,27 @@
       ]
     },
     {
+      "semesterName": "LS 2020/2021 - LDF",
+      "semesterId": "611",
+      "year": 2020,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127593;lang=cz",
+      "totalPass": 67,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 67,
+            "nezap": 0,
+            "zap-nedost": 0
+          },
+          "pass": 67,
+          "fail": 0
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
@@ -145,6 +187,27 @@
             "zap-nedost": 0
           },
           "pass": 80,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124099;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 1,
+            "nezap": 0,
+            "zap-nedost": 0
+          },
+          "pass": 1,
           "fail": 0
         }
       ]
@@ -171,5 +234,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

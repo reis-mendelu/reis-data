@@ -1,7 +1,51 @@
 {
   "courseCode": "EBA-IC",
-  "aliases": [],
+  "aliases": [
+    "INKA"
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2024/2025 - FRRMS",
+      "semesterId": "778",
+      "year": 2024,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157786;lang=cz",
+      "totalPass": 24,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 24,
+            "nezap": 1,
+            "zap-nedost": 0
+          },
+          "pass": 24,
+          "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2023/2024 - FRRMS",
+      "semesterId": "757",
+      "year": 2023,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151645;lang=cz",
+      "totalPass": 16,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 16,
+            "nezap": 1,
+            "zap-nedost": 0
+          },
+          "pass": 16,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
@@ -49,6 +93,27 @@
           },
           "pass": 67,
           "fail": 4
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2022/2023 - FRRMS",
+      "semesterId": "715",
+      "year": 2022,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142275;lang=cz",
+      "totalPass": 20,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 20,
+            "nezap": 0,
+            "zap-nedost": 1
+          },
+          "pass": 20,
+          "fail": 1
         }
       ]
     },
@@ -103,5 +168,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

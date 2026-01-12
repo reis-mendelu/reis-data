@@ -1,0 +1,28 @@
+{
+  "courseCode": "OJAI",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123797;lang=cz",
+      "totalPass": 210,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 210,
+            "nezap": 0,
+            "zap-nedost": 8
+          },
+          "pass": 210,
+          "fail": 8
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

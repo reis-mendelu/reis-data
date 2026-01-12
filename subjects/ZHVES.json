@@ -1,0 +1,28 @@
+{
+  "courseCode": "ZHVES",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2021/2022 - AF",
+      "semesterId": "651",
+      "year": 2021,
+      "evaluationType": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129384;lang=cz",
+      "totalPass": 28,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "zap": 28,
+            "nezap": 4,
+            "zap-nedost": 0
+          },
+          "pass": 28,
+          "fail": 4
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

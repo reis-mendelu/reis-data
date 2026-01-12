@@ -1,10 +1,37 @@
 {
   "courseCode": "CORK",
+  "aliases": [],
   "stats": [
+    {
+      "semesterName": "ZS 2023/2024 - AF",
+      "semesterId": "733",
+      "year": 2023,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=147449;lang=cz",
+      "totalPass": 23,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 3,
+            "D": 4,
+            "E": 11,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 23,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2024/2025 - AF",
       "semesterId": "704",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=153845;lang=cz",
       "totalPass": 16,
       "totalFail": 10,
@@ -26,29 +53,30 @@
       ]
     },
     {
-      "semesterName": "ZS 2023/2024 - AF",
-      "semesterId": "733",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=147449;lang=cz",
-      "totalPass": 23,
+      "semesterName": "ZS 2022/2023 - AF",
+      "semesterId": "696",
+      "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=137089;lang=cz",
+      "totalPass": 12,
       "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 0,
-            "B": 5,
-            "C": 3,
+            "B": 0,
+            "C": 0,
             "D": 4,
-            "E": 11,
-            "F": 0,
-            "FN": 2
+            "E": 8,
+            "F": 1,
+            "FN": 1
           },
-          "pass": 23,
+          "pass": 12,
           "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.850Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

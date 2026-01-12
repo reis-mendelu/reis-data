@@ -1,10 +1,12 @@
 {
   "courseCode": "PPRBL",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157607;lang=cz",
       "totalPass": 118,
       "totalFail": 28,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151304;lang=cz",
       "totalPass": 108,
       "totalFail": 11,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142172;lang=cz",
       "totalPass": 94,
       "totalFail": 9,
@@ -72,7 +76,57 @@
           "fail": 9
         }
       ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - FRRMS",
+      "semesterId": "682",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=133934;lang=cz",
+      "totalPass": 124,
+      "totalFail": 56,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 6,
+            "C": 19,
+            "D": 38,
+            "E": 57,
+            "F": 15,
+            "FN": 41
+          },
+          "pass": 124,
+          "fail": 56
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - FRRMS",
+      "semesterId": "633",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=127331;lang=cz",
+      "totalPass": 125,
+      "totalFail": 42,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 10,
+            "C": 31,
+            "D": 21,
+            "E": 54,
+            "F": 6,
+            "FN": 36
+          },
+          "pass": 125,
+          "fail": 42
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.101Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

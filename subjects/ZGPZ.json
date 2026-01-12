@@ -1,10 +1,12 @@
 {
   "courseCode": "ZGPZ",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156699;lang=cz",
       "totalPass": 53,
       "totalFail": 2,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150841;lang=cz",
       "totalPass": 47,
       "totalFail": 5,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140850;lang=cz",
       "totalPass": 32,
       "totalFail": 1,
@@ -74,5 +78,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:49.209Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

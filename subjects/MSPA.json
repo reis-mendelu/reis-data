@@ -1,84 +1,7 @@
 {
   "courseCode": "MSPA",
-  "aliases": [
-    "EBA-PP"
-  ],
+  "aliases": [],
   "stats": [
-    {
-      "semesterName": "LS 2024/2025 - PEF",
-      "semesterId": "772",
-      "year": 2024,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152272;lang=cz",
-      "totalPass": 11,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 3,
-            "C": 2,
-            "D": 5,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 11,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - PEF",
-      "semesterId": "753",
-      "year": 2023,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=149227;lang=cz",
-      "totalPass": 14,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 2,
-            "B": 5,
-            "C": 6,
-            "D": 0,
-            "E": 1,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 14,
-          "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2022/2023 - PEF",
-      "semesterId": "717",
-      "year": 2022,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140032;lang=cz",
-      "totalPass": 17,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 5,
-            "B": 7,
-            "C": 4,
-            "D": 1,
-            "E": 0,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 17,
-          "fail": 2
-        }
-      ]
-    },
     {
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
@@ -130,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-11T15:48:42.594978Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }

@@ -1,0 +1,32 @@
+{
+  "courseCode": "PLNH",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123822;lang=cz",
+      "totalPass": 43,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 5,
+            "C": 23,
+            "D": 6,
+            "E": 6,
+            "F": 0,
+            "FN": 8
+          },
+          "pass": 43,
+          "fail": 8
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

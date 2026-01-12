@@ -1,0 +1,32 @@
+{
+  "courseCode": "REHZ",
+  "aliases": [],
+  "stats": [
+    {
+      "semesterName": "ZS 2020/2021 - AF",
+      "semesterId": "585",
+      "year": 2020,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=123097;lang=cz",
+      "totalPass": 64,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 13,
+            "C": 20,
+            "D": 13,
+            "E": 10,
+            "F": 0,
+            "FN": 3
+          },
+          "pass": 64,
+          "fail": 3
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+}

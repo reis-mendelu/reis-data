@@ -1,10 +1,37 @@
 {
   "courseCode": "CHSPT",
+  "aliases": [],
   "stats": [
+    {
+      "semesterName": "ZS 2023/2024 - AF",
+      "semesterId": "733",
+      "year": 2023,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146243;lang=cz",
+      "totalPass": 24,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 8,
+            "D": 5,
+            "E": 5,
+            "F": 1,
+            "FN": 3
+          },
+          "pass": 24,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2024/2025 - AF",
       "semesterId": "704",
       "year": 2024,
+      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152609;lang=cz",
       "totalPass": 27,
       "totalFail": 3,
@@ -26,29 +53,80 @@
       ]
     },
     {
-      "semesterName": "ZS 2023/2024 - AF",
-      "semesterId": "733",
-      "year": 2023,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146243;lang=cz",
-      "totalPass": 24,
-      "totalFail": 4,
+      "semesterName": "ZS 2022/2023 - AF",
+      "semesterId": "696",
+      "year": 2022,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=137387;lang=cz",
+      "totalPass": 29,
+      "totalFail": 6,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 3,
-            "B": 3,
-            "C": 8,
-            "D": 5,
-            "E": 5,
-            "F": 1,
-            "FN": 3
+            "A": 8,
+            "B": 6,
+            "C": 6,
+            "D": 7,
+            "E": 2,
+            "F": 0,
+            "FN": 6
           },
-          "pass": 24,
-          "fail": 4
+          "pass": 29,
+          "fail": 6
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2021/2022 - AF",
+      "semesterId": "687",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=687;predmet=135645;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2021/2022 - AF",
+      "semesterId": "651",
+      "year": 2021,
+      "evaluationType": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129210;lang=cz",
+      "totalPass": 41,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 11,
+            "C": 9,
+            "D": 8,
+            "E": 5,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 41,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-05T04:50:48.846Z"
+  "lastUpdated": "2026-01-12T08:53:23.064446Z"
 }
