@@ -24,4 +24,4 @@ Pokud chcete aktualizovat data (např. po novém crawlu), stačí nahrát čerst
 
 ## 🌐 Hosting
 Aplikace se automaticky nasazuje na GitHub Pages při každém commitu do větve `main`.
-URL: https://ElijaahInverted.github.io/reis-data/
+URL: [https://ElijaahInverted.github.io/reis-data/](https://reis-mendelu.github.io/reis-data/)
