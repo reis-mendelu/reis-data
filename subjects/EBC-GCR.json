@@ -1,24 +1,26 @@
 {
   "courseCode": "EBC-GCR",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153280;lang=cz",
-      "totalPass": 34,
+      "totalPass": 0,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 34,
-            "nezap": 0,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 34,
+          "pass": 0,
           "fail": 0
         }
       ]
@@ -27,19 +29,22 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143720;lang=cz",
-      "totalPass": 30,
+      "totalPass": 0,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 30,
-            "nezap": 0,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 30,
+          "pass": 0,
           "fail": 0
         }
       ]
@@ -48,23 +53,26 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=137228;lang=cz",
-      "totalPass": 67,
-      "totalFail": 1,
+      "totalPass": 0,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 67,
-            "nezap": 0,
-            "zap-nedost": 1
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 67,
-          "fail": 1
+          "pass": 0,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.889Z"
 }

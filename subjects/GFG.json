@@ -1,14 +1,10 @@
 {
   "courseCode": "GFG",
-  "aliases": [
-    "GAFG"
-  ],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - LDF",
       "semesterId": "765",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153326;lang=cz",
       "totalPass": 30,
       "totalFail": 2,
@@ -33,7 +29,6 @@
       "semesterName": "ZS 2023/2024 - LDF",
       "semesterId": "732",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=146971;lang=cz",
       "totalPass": 30,
       "totalFail": 1,
@@ -58,7 +53,6 @@
       "semesterName": "ZS 2022/2023 - LDF",
       "semesterId": "690",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=137764;lang=cz",
       "totalPass": 34,
       "totalFail": 0,
@@ -83,7 +77,6 @@
       "semesterName": "ZS 2021/2022 - LDF",
       "semesterId": "649",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130007;lang=cz",
       "totalPass": 26,
       "totalFail": 0,
@@ -103,32 +96,7 @@
           "fail": 0
         }
       ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123806;lang=cz",
-      "totalPass": 17,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 3,
-            "C": 6,
-            "D": 6,
-            "E": 2,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 17,
-          "fail": 0
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.262Z"
 }

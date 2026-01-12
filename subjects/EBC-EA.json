@@ -1,12 +1,10 @@
 {
   "courseCode": "EBC-EA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156607;lang=cz",
       "totalPass": 41,
       "totalFail": 7,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151217;lang=cz",
       "totalPass": 36,
       "totalFail": 8,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.883Z"
 }

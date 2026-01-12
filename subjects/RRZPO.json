@@ -1,12 +1,10 @@
 {
   "courseCode": "RRZPO",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - FRRMS",
       "semesterId": "682",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=134300;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2020/2021 - FRRMS",
       "semesterId": "633",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=127238;lang=cz",
       "totalPass": 16,
       "totalFail": 2,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.160Z"
 }

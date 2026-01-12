@@ -1,12 +1,10 @@
 {
   "courseCode": "EGLHS",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=156240;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2023/2024 - ZF",
       "semesterId": "735",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=149347;lang=cz",
       "totalPass": 4,
       "totalFail": 0,
@@ -56,7 +53,6 @@
       "semesterName": "ZS 2021/2022 - ZF",
       "semesterId": "652",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=131771;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -78,5 +74,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.968Z"
 }

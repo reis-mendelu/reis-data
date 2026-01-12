@@ -1,24 +1,26 @@
 {
   "courseCode": "BSD",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=151088;lang=cz",
-      "totalPass": 8,
+      "totalPass": 0,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 8,
-            "nezap": 0,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 8,
+          "pass": 0,
           "fail": 0
         }
       ]
@@ -27,20 +29,23 @@
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=141161;lang=cz",
-      "totalPass": 5,
-      "totalFail": 6,
+      "totalPass": 0,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 5,
-            "nezap": 6,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 5,
-          "fail": 6
+          "pass": 0,
+          "fail": 0
         }
       ]
     },
@@ -48,23 +53,26 @@
       "semesterName": "LS 2020/2021 - LDF",
       "semesterId": "611",
       "year": 2020,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127810;lang=cz",
-      "totalPass": 9,
-      "totalFail": 3,
+      "totalPass": 0,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 9,
-            "nezap": 3,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 9,
-          "fail": 3
+          "pass": 0,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.688Z"
 }

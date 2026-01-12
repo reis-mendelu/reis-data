@@ -1,12 +1,10 @@
 {
   "courseCode": "ZEOS",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=141197;lang=cz",
       "totalPass": 4,
       "totalFail": 1,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2022/2023 - LDF",
       "semesterId": "690",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=138032;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -56,7 +53,6 @@
       "semesterName": "LS 2021/2022 - LDF",
       "semesterId": "673",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133674;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -78,5 +74,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.639Z"
 }

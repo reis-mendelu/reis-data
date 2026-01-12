@@ -1,26 +1,26 @@
 {
   "courseCode": "KVP",
-  "aliases": [
-    "EKVP"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156986;lang=cz",
-      "totalPass": 3,
+      "totalPass": 0,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 3,
-            "nezap": 0,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 3,
+          "pass": 0,
           "fail": 0
         }
       ]
@@ -29,40 +29,22 @@
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=151536;lang=cz",
-      "totalPass": 3,
+      "totalPass": 0,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 3,
-            "nezap": 0,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 3,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - ZF",
-      "semesterId": "638",
-      "year": 2020,
-      "evaluationType": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126882;lang=cz",
-      "totalPass": 14,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "zap": 14,
-            "nezap": 0,
-            "zap-nedost": 0
-          },
-          "pass": 14,
+          "pass": 0,
           "fail": 0
         }
       ]
@@ -71,19 +53,46 @@
       "semesterName": "LS 2020/2021 - LDF",
       "semesterId": "611",
       "year": 2020,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127822;lang=cz",
-      "totalPass": 5,
+      "totalPass": 0,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 5,
-            "nezap": 0,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 5,
+          "pass": 0,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - ZF",
+      "semesterId": "638",
+      "year": 2020,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126882;lang=cz",
+      "totalPass": 0,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 0,
           "fail": 0
         }
       ]
@@ -92,23 +101,26 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
-      "evaluationType": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120131;lang=cz",
-      "totalPass": 23,
+      "totalPass": 0,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "zap": 23,
-            "nezap": 0,
-            "zap-nedost": 0
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
           },
-          "pass": 23,
+          "pass": 0,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.476Z"
 }

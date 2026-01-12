@@ -1,12 +1,10 @@
 {
   "courseCode": "VMDS",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - LDF",
       "semesterId": "649",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130978;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2020/2021 - LDF",
       "semesterId": "588",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123824;lang=cz",
       "totalPass": 51,
       "totalFail": 1,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.537Z"
 }

@@ -1,12 +1,10 @@
 {
   "courseCode": "LHYD",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - LDF",
       "semesterId": "690",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=139519;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2020/2021 - LDF",
       "semesterId": "588",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124599;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.498Z"
 }

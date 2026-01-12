@@ -1,14 +1,10 @@
 {
   "courseCode": "EBOZ",
-  "aliases": [
-    "ERBO"
-  ],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - LDF",
       "semesterId": "611",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127601;lang=cz",
       "totalPass": 4,
       "totalFail": 1,
@@ -28,28 +24,7 @@
           "fail": 1
         }
       ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "evaluationType": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123811;lang=cz",
-      "totalPass": 80,
-      "totalFail": 3,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "zap": 80,
-            "nezap": 0,
-            "zap-nedost": 3
-          },
-          "pass": 80,
-          "fail": 3
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.960Z"
 }

@@ -1,12 +1,10 @@
 {
   "courseCode": "ENEKOA",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151642;lang=cz",
       "totalPass": 20,
       "totalFail": 4,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2023/2024 - FRRMS",
       "semesterId": "737",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146841;lang=cz",
       "totalPass": 9,
       "totalFail": 0,
@@ -56,7 +53,6 @@
       "semesterName": "ZS 2022/2023 - FRRMS",
       "semesterId": "695",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136784;lang=cz",
       "totalPass": 7,
       "totalFail": 0,
@@ -81,7 +77,6 @@
       "semesterName": "ZS 2020/2021 - FRRMS",
       "semesterId": "603",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=603;predmet=124582;lang=cz",
       "totalPass": 8,
       "totalFail": 0,
@@ -103,5 +98,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.094Z"
 }

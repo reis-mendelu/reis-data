@@ -1,12 +1,10 @@
 {
   "courseCode": "ENA-RIP",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152283;lang=cz",
       "totalPass": 47,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=149238;lang=cz",
       "totalPass": 45,
       "totalFail": 6,
@@ -56,7 +53,6 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140022;lang=cz",
       "totalPass": 39,
       "totalFail": 12,
@@ -81,7 +77,6 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=131014;lang=cz",
       "totalPass": 71,
       "totalFail": 9,
@@ -106,7 +101,6 @@
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124956;lang=cz",
       "totalPass": 20,
       "totalFail": 6,
@@ -128,5 +122,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.030Z"
 }

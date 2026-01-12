@@ -1,110 +1,27 @@
 {
   "courseCode": "ENC-MU",
-  "aliases": [
-    "ENC-ACCAMU",
-    "MUC",
-    "MNUC",
-    "NMU",
-    "DMU"
-  ],
   "stats": [
-    {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156740;lang=cz",
-      "totalPass": 28,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 6,
-            "B": 11,
-            "C": 10,
-            "D": 1,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 28,
-          "fail": 0
-        }
-      ]
-    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156314;lang=cz",
-      "totalPass": 153,
-      "totalFail": 39,
+      "totalPass": 130,
+      "totalFail": 33,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 6,
-            "B": 16,
-            "C": 34,
-            "D": 60,
-            "E": 37,
-            "F": 6,
-            "FN": 33
+            "A": 5,
+            "B": 15,
+            "C": 29,
+            "D": 53,
+            "E": 28,
+            "F": 5,
+            "FN": 28
           },
-          "pass": 153,
-          "fail": 39
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2023/2024 - LDF",
-      "semesterId": "758",
-      "year": 2023,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150899;lang=cz",
-      "totalPass": 15,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 2,
-            "B": 2,
-            "C": 2,
-            "D": 6,
-            "E": 3,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 15,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2024/2025 - PEF",
-      "semesterId": "754",
-      "year": 2024,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=156307;lang=cz",
-      "totalPass": 1,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 1,
-          "fail": 0
+          "pass": 130,
+          "fail": 33
         }
       ]
     },
@@ -112,24 +29,23 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151474;lang=cz",
-      "totalPass": 182,
-      "totalFail": 55,
+      "totalPass": 159,
+      "totalFail": 47,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 9,
-            "B": 24,
-            "C": 54,
-            "D": 55,
-            "E": 40,
-            "F": 7,
-            "FN": 48
+            "A": 8,
+            "B": 18,
+            "C": 48,
+            "D": 53,
+            "E": 32,
+            "F": 5,
+            "FN": 42
           },
-          "pass": 182,
-          "fail": 55
+          "pass": 159,
+          "fail": 47
         }
       ]
     },
@@ -137,7 +53,6 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=147695;lang=cz",
       "totalPass": 5,
       "totalFail": 0,
@@ -162,74 +77,23 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=139994;lang=cz",
-      "totalPass": 199,
-      "totalFail": 10,
+      "totalPass": 170,
+      "totalFail": 8,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 21,
-            "B": 22,
-            "C": 51,
-            "D": 53,
-            "E": 52,
-            "F": 9,
+            "A": 16,
+            "B": 21,
+            "C": 46,
+            "D": 45,
+            "E": 42,
+            "F": 7,
             "FN": 1
           },
-          "pass": 199,
-          "fail": 10
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2022/2023 - LDF",
-      "semesterId": "690",
-      "year": 2022,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=137874;lang=cz",
-      "totalPass": 23,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 4,
-            "B": 3,
-            "C": 7,
-            "D": 3,
-            "E": 6,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 23,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - LDF",
-      "semesterId": "673",
-      "year": 2021,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=134614;lang=cz",
-      "totalPass": 3,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 3,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 3,
-          "fail": 0
+          "pass": 170,
+          "fail": 8
         }
       ]
     },
@@ -237,99 +101,23 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=132458;lang=cz",
-      "totalPass": 230,
+      "totalPass": 193,
       "totalFail": 36,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 15,
-            "B": 24,
-            "C": 62,
-            "D": 79,
-            "E": 50,
+            "A": 8,
+            "B": 18,
+            "C": 54,
+            "D": 68,
+            "E": 45,
             "F": 9,
             "FN": 27
           },
-          "pass": 230,
+          "pass": 193,
           "fail": 36
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2021/2022 - PEF",
-      "semesterId": "650",
-      "year": 2021,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=132478;lang=cz",
-      "totalPass": 2,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 2,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 2,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2021/2022 - LDF",
-      "semesterId": "649",
-      "year": 2021,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=128077;lang=cz",
-      "totalPass": 79,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 11,
-            "B": 12,
-            "C": 21,
-            "D": 16,
-            "E": 19,
-            "F": 1,
-            "FN": 0
-          },
-          "pass": 79,
-          "fail": 1
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - LDF",
-      "semesterId": "611",
-      "year": 2020,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127610;lang=cz",
-      "totalPass": 49,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 7,
-            "B": 8,
-            "C": 10,
-            "D": 12,
-            "E": 12,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 49,
-          "fail": 0
         }
       ]
     },
@@ -337,7 +125,6 @@
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=126215;lang=cz",
       "totalPass": 104,
       "totalFail": 40,
@@ -357,57 +144,7 @@
           "fail": 40
         }
       ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123952;lang=cz",
-      "totalPass": 57,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 10,
-            "B": 4,
-            "C": 12,
-            "D": 14,
-            "E": 17,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 57,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - PEF",
-      "semesterId": "584",
-      "year": 2020,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120503;lang=cz",
-      "totalPass": 80,
-      "totalFail": 7,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 4,
-            "B": 2,
-            "C": 15,
-            "D": 17,
-            "E": 42,
-            "F": 7,
-            "FN": 0
-          },
-          "pass": 80,
-          "fail": 7
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.061Z"
 }

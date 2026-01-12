@@ -1,12 +1,10 @@
 {
   "courseCode": "CHKONK",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=150275;lang=cz",
       "totalPass": 8,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2022/2023 - AF",
       "semesterId": "727",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=140682;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.730Z"
 }

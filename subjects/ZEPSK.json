@@ -1,12 +1,10 @@
 {
   "courseCode": "ZEPSK",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=158273;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2024/2025 - AF",
       "semesterId": "704",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=153775;lang=cz",
       "totalPass": 6,
       "totalFail": 0,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.641Z"
 }

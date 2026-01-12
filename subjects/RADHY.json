@@ -1,12 +1,10 @@
 {
   "courseCode": "RADHY",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=150503;lang=cz",
       "totalPass": 9,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126532;lang=cz",
       "totalPass": 27,
       "totalFail": 0,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.957Z"
 }

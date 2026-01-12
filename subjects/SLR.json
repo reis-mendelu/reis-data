@@ -1,12 +1,10 @@
 {
   "courseCode": "SLR",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129718;lang=cz",
       "totalPass": 12,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=122840;lang=cz",
       "totalPass": 57,
       "totalFail": 1,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.253Z"
 }

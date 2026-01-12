@@ -1,12 +1,10 @@
 {
   "courseCode": "EBA-SOF",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152061;lang=cz",
       "totalPass": 55,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142573;lang=cz",
       "totalPass": 40,
       "totalFail": 2,
@@ -56,7 +53,6 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=136476;lang=cz",
       "totalPass": 25,
       "totalFail": 1,
@@ -81,7 +77,6 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=131031;lang=cz",
       "totalPass": 24,
       "totalFail": 0,
@@ -106,7 +101,6 @@
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127514;lang=cz",
       "totalPass": 31,
       "totalFail": 1,
@@ -128,5 +122,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.864Z"
 }

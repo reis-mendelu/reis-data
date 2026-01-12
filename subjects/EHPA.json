@@ -1,14 +1,10 @@
 {
   "courseCode": "EHPA",
-  "aliases": [
-    "EHPAC"
-  ],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124659;lang=cz",
       "totalPass": 15,
       "totalFail": 0,
@@ -33,10 +29,9 @@
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=124600;lang=cz",
-      "totalPass": 2,
-      "totalFail": 1,
+      "totalPass": 1,
+      "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,16 +39,16 @@
             "A": 0,
             "B": 0,
             "C": 0,
-            "D": 1,
+            "D": 0,
             "E": 1,
             "F": 0,
-            "FN": 1
+            "FN": 0
           },
-          "pass": 2,
-          "fail": 1
+          "pass": 1,
+          "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.968Z"
 }

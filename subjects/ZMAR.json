@@ -1,12 +1,10 @@
 {
   "courseCode": "ZMAR",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157805;lang=cz",
       "totalPass": 23,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151665;lang=cz",
       "totalPass": 40,
       "totalFail": 1,
@@ -56,7 +53,6 @@
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142273;lang=cz",
       "totalPass": 71,
       "totalFail": 1,
@@ -81,7 +77,6 @@
       "semesterName": "ZS 2022/2023 - FRRMS",
       "semesterId": "695",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136814;lang=cz",
       "totalPass": 59,
       "totalFail": 4,
@@ -106,7 +101,6 @@
       "semesterName": "ZS 2021/2022 - FRRMS",
       "semesterId": "654",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=654;predmet=130444;lang=cz",
       "totalPass": 61,
       "totalFail": 1,
@@ -131,7 +125,6 @@
       "semesterName": "ZS 2020/2021 - FRRMS",
       "semesterId": "603",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=603;predmet=124579;lang=cz",
       "totalPass": 28,
       "totalFail": 0,
@@ -153,5 +146,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.698Z"
 }

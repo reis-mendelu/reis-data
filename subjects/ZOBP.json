@@ -1,14 +1,10 @@
 {
   "courseCode": "ZOBP",
-  "aliases": [
-    "ZNOB"
-  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156901;lang=cz",
       "totalPass": 53,
       "totalFail": 1,
@@ -33,7 +29,6 @@
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150976;lang=cz",
       "totalPass": 38,
       "totalFail": 4,
@@ -58,7 +53,6 @@
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=141055;lang=cz",
       "totalPass": 30,
       "totalFail": 1,
@@ -78,57 +72,7 @@
           "fail": 1
         }
       ]
-    },
-    {
-      "semesterName": "LS 2021/2022 - LDF",
-      "semesterId": "673",
-      "year": 2021,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133446;lang=cz",
-      "totalPass": 46,
-      "totalFail": 2,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 10,
-            "B": 7,
-            "C": 7,
-            "D": 8,
-            "E": 14,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 46,
-          "fail": 2
-        }
-      ]
-    },
-    {
-      "semesterName": "LS 2020/2021 - LDF",
-      "semesterId": "611",
-      "year": 2020,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127658;lang=cz",
-      "totalPass": 35,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 8,
-            "B": 8,
-            "C": 6,
-            "D": 8,
-            "E": 5,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 35,
-          "fail": 0
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.704Z"
 }

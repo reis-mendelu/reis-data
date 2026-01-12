@@ -1,37 +1,10 @@
 {
   "courseCode": "PRNOR",
-  "aliases": [],
   "stats": [
-    {
-      "semesterName": "ZS 2023/2024 - AF",
-      "semesterId": "733",
-      "year": 2023,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146788;lang=cz",
-      "totalPass": 12,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 3,
-            "B": 3,
-            "C": 0,
-            "D": 5,
-            "E": 1,
-            "F": 0,
-            "FN": 1
-          },
-          "pass": 12,
-          "fail": 1
-        }
-      ]
-    },
     {
       "semesterName": "ZS 2024/2025 - AF",
       "semesterId": "704",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152762;lang=cz",
       "totalPass": 10,
       "totalFail": 1,
@@ -53,10 +26,33 @@
       ]
     },
     {
+      "semesterName": "ZS 2023/2024 - AF",
+      "semesterId": "733",
+      "year": 2023,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146788;lang=cz",
+      "totalPass": 12,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 0,
+            "D": 5,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 12,
+          "fail": 1
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2022/2023 - AF",
       "semesterId": "696",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=136570;lang=cz",
       "totalPass": 6,
       "totalFail": 0,
@@ -81,7 +77,6 @@
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129244;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -103,5 +98,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.833Z"
 }

@@ -1,12 +1,10 @@
 {
   "courseCode": "ATNA1",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=154052;lang=cz",
       "totalPass": 36,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "ZS 2023/2024 - ZF",
       "semesterId": "735",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146508;lang=cz",
       "totalPass": 42,
       "totalFail": 0,
@@ -56,7 +53,6 @@
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=136970;lang=cz",
       "totalPass": 35,
       "totalFail": 0,
@@ -81,7 +77,6 @@
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=136140;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -106,7 +101,6 @@
       "semesterName": "ZS 2021/2022 - ZF",
       "semesterId": "652",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129418;lang=cz",
       "totalPass": 41,
       "totalFail": 5,
@@ -131,7 +125,6 @@
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=122731;lang=cz",
       "totalPass": 34,
       "totalFail": 3,
@@ -153,5 +146,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.636Z"
 }

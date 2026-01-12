@@ -1,12 +1,10 @@
 {
   "courseCode": "CHDR",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=158152;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -28,10 +26,33 @@
       ]
     },
     {
+      "semesterName": "ZS 2024/2025 - AF",
+      "semesterId": "704",
+      "year": 2024,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=153818;lang=cz",
+      "totalPass": 67,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 32,
+            "B": 13,
+            "C": 12,
+            "D": 9,
+            "E": 1,
+            "F": 3,
+            "FN": 1
+          },
+          "pass": 67,
+          "fail": 4
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=152096;lang=cz",
       "totalPass": 6,
       "totalFail": 0,
@@ -56,7 +77,6 @@
       "semesterName": "ZS 2023/2024 - AF",
       "semesterId": "733",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146939;lang=cz",
       "totalPass": 63,
       "totalFail": 11,
@@ -81,7 +101,6 @@
       "semesterName": "LS 2022/2023 - AF",
       "semesterId": "727",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=143183;lang=cz",
       "totalPass": 7,
       "totalFail": 0,
@@ -103,35 +122,9 @@
       ]
     },
     {
-      "semesterName": "ZS 2024/2025 - AF",
-      "semesterId": "704",
-      "year": 2024,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=153818;lang=cz",
-      "totalPass": 67,
-      "totalFail": 4,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 32,
-            "B": 13,
-            "C": 12,
-            "D": 9,
-            "E": 1,
-            "F": 3,
-            "FN": 1
-          },
-          "pass": 67,
-          "fail": 4
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2022/2023 - AF",
       "semesterId": "696",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=137286;lang=cz",
       "totalPass": 59,
       "totalFail": 15,
@@ -156,7 +149,6 @@
       "semesterName": "LS 2021/2022 - AF",
       "semesterId": "687",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=687;predmet=135718;lang=cz",
       "totalPass": 10,
       "totalFail": 1,
@@ -181,7 +173,6 @@
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129687;lang=cz",
       "totalPass": 48,
       "totalFail": 17,
@@ -206,7 +197,6 @@
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=128304;lang=cz",
       "totalPass": 9,
       "totalFail": 0,
@@ -231,7 +221,6 @@
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=122947;lang=cz",
       "totalPass": 44,
       "totalFail": 15,
@@ -253,5 +242,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:38.724Z"
 }

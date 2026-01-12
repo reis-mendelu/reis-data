@@ -1,12 +1,10 @@
 {
   "courseCode": "SOD",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
       "year": 2024,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157591;lang=cz",
       "totalPass": 80,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151232;lang=cz",
       "totalPass": 59,
       "totalFail": 9,
@@ -56,7 +53,6 @@
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142141;lang=cz",
       "totalPass": 39,
       "totalFail": 0,
@@ -81,7 +77,6 @@
       "semesterName": "ZS 2022/2023 - FRRMS",
       "semesterId": "695",
       "year": 2022,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=139538;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -106,7 +101,6 @@
       "semesterName": "LS 2021/2022 - FRRMS",
       "semesterId": "682",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=133913;lang=cz",
       "totalPass": 47,
       "totalFail": 10,
@@ -131,7 +125,6 @@
       "semesterName": "LS 2020/2021 - FRRMS",
       "semesterId": "633",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=127242;lang=cz",
       "totalPass": 44,
       "totalFail": 0,
@@ -153,5 +146,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:40.273Z"
 }

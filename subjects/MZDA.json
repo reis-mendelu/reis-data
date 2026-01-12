@@ -1,65 +1,10 @@
 {
   "courseCode": "MZDA",
-  "aliases": [
-    "ENA-MZD",
-    "MZDAC"
-  ],
   "stats": [
-    {
-      "semesterName": "ZS 2023/2024 - PEF",
-      "semesterId": "734",
-      "year": 2023,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142538;lang=cz",
-      "totalPass": 23,
-      "totalFail": 4,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 4,
-            "B": 3,
-            "C": 8,
-            "D": 3,
-            "E": 5,
-            "F": 0,
-            "FN": 4
-          },
-          "pass": 23,
-          "fail": 4
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2022/2023 - PEF",
-      "semesterId": "689",
-      "year": 2022,
-      "evaluationType": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134857;lang=cz",
-      "totalPass": 29,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 4,
-            "B": 3,
-            "C": 7,
-            "D": 6,
-            "E": 9,
-            "F": 0,
-            "FN": 1
-          },
-          "pass": 29,
-          "fail": 1
-        }
-      ]
-    },
     {
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=128360;lang=cz",
       "totalPass": 67,
       "totalFail": 1,
@@ -84,27 +29,26 @@
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=121926;lang=cz",
-      "totalPass": 54,
+      "totalPass": 22,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 10,
-            "B": 7,
-            "C": 16,
-            "D": 14,
-            "E": 7,
+            "A": 6,
+            "B": 3,
+            "C": 1,
+            "D": 7,
+            "E": 5,
             "F": 0,
             "FN": 0
           },
-          "pass": 54,
+          "pass": 22,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.599Z"
 }

@@ -1,12 +1,10 @@
 {
   "courseCode": "KDCHOIV",
-  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=128307;lang=cz",
       "totalPass": 7,
       "totalFail": 0,
@@ -31,7 +29,6 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
-      "evaluationType": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120200;lang=cz",
       "totalPass": 21,
       "totalFail": 3,
@@ -53,5 +50,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T08:53:23.064446Z"
+  "lastUpdated": "2026-01-12T09:33:39.372Z"
 }
