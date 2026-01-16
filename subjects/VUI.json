@@ -1,10 +1,12 @@
 {
   "courseCode": "VUI",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127120;lang=cz",
       "totalPass": 54,
       "totalFail": 6,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=126181;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.550Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

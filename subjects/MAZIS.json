@@ -1,10 +1,12 @@
 {
   "courseCode": "MAZIS",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157791;lang=cz",
       "totalPass": 24,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151653;lang=cz",
       "totalPass": 24,
       "totalFail": 0,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142261;lang=cz",
       "totalPass": 33,
       "totalFail": 2,
@@ -74,5 +78,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.524Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

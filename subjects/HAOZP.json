@@ -1,10 +1,12 @@
 {
   "courseCode": "HAOZP",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157784;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151670;lang=cz",
       "totalPass": 8,
       "totalFail": 1,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142235;lang=cz",
       "totalPass": 16,
       "totalFail": 1,
@@ -77,6 +81,7 @@
       "semesterName": "LS 2021/2022 - FRRMS",
       "semesterId": "682",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=134282;lang=cz",
       "totalPass": 26,
       "totalFail": 3,
@@ -101,6 +106,7 @@
       "semesterName": "LS 2020/2021 - FRRMS",
       "semesterId": "633",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=127217;lang=cz",
       "totalPass": 67,
       "totalFail": 0,
@@ -122,5 +128,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.275Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

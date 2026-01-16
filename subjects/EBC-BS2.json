@@ -1,13 +1,15 @@
 {
   "courseCode": "EBC-BS2",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=157900;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 45,
+      "totalFail": 13,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 45,
+          "fail": 13,
+          "creditGrades": {
+            "zap": 45,
+            "nezap": 13,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153176;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 154,
+      "totalFail": 27,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 154,
+          "fail": 27,
+          "creditGrades": {
+            "zap": 154,
+            "nezap": 26,
+            "zapNedost": 1
+          }
         }
       ]
     },
@@ -53,9 +66,10 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151760;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 13,
+      "totalFail": 7,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -68,8 +82,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 13,
+          "fail": 7,
+          "creditGrades": {
+            "zap": 13,
+            "nezap": 7,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -77,9 +96,10 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143632;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 124,
+      "totalFail": 11,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -92,8 +112,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 124,
+          "fail": 11,
+          "creditGrades": {
+            "zap": 124,
+            "nezap": 10,
+            "zapNedost": 1
+          }
         }
       ]
     },
@@ -101,9 +126,10 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=141364;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 35,
+      "totalFail": 8,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -116,8 +142,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 35,
+          "fail": 8,
+          "creditGrades": {
+            "zap": 35,
+            "nezap": 3,
+            "zapNedost": 5
+          }
         }
       ]
     },
@@ -125,9 +156,10 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=137132;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 101,
+      "totalFail": 11,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -140,11 +172,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 101,
+          "fail": 11,
+          "creditGrades": {
+            "zap": 101,
+            "nezap": 1,
+            "zapNedost": 10
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.877Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

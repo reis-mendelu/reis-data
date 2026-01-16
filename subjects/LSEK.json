@@ -1,10 +1,14 @@
 {
   "courseCode": "LSEK",
+  "aliases": [
+    "EKLI"
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156732;lang=cz",
       "totalPass": 40,
       "totalFail": 0,
@@ -29,6 +33,7 @@
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150895;lang=cz",
       "totalPass": 41,
       "totalFail": 0,
@@ -53,6 +58,7 @@
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140904;lang=cz",
       "totalPass": 52,
       "totalFail": 0,
@@ -77,6 +83,7 @@
       "semesterName": "LS 2021/2022 - LDF",
       "semesterId": "673",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133283;lang=cz",
       "totalPass": 31,
       "totalFail": 1,
@@ -101,26 +108,27 @@
       "semesterName": "LS 2020/2021 - LDF",
       "semesterId": "611",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127572;lang=cz",
-      "totalPass": 40,
+      "totalPass": 91,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 6,
-            "B": 8,
-            "C": 8,
-            "D": 12,
-            "E": 6,
+            "A": 9,
+            "B": 17,
+            "C": 24,
+            "D": 24,
+            "E": 17,
             "F": 0,
             "FN": 0
           },
-          "pass": 40,
+          "pass": 91,
           "fail": 0
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.506Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

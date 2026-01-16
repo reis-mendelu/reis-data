@@ -1,10 +1,12 @@
 {
   "courseCode": "PVOP",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157303;lang=cz",
       "totalPass": 23,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=752;predmet=150681;lang=cz",
       "totalPass": 14,
       "totalFail": 0,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - AF",
       "semesterId": "727",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=141741;lang=cz",
       "totalPass": 18,
       "totalFail": 0,
@@ -77,6 +81,7 @@
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126536;lang=cz",
       "totalPass": 37,
       "totalFail": 0,
@@ -98,5 +103,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.906Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

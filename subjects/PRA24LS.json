@@ -1,12 +1,14 @@
 {
   "courseCode": "PRA24LS",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=155439;lang=cz",
-      "totalPass": 0,
+      "totalPass": 10,
       "totalFail": 0,
       "terms": [
         {
@@ -20,11 +22,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 10,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 10,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.815Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

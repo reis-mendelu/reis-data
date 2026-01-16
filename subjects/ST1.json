@@ -1,10 +1,12 @@
 {
   "courseCode": "ST1",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123398;lang=cz",
       "totalPass": 161,
       "totalFail": 150,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2019/2020 - ZF",
       "semesterId": "557",
       "year": 2019,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=557;predmet=116531;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.313Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

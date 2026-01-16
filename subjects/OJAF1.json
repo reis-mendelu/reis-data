@@ -1,12 +1,14 @@
 {
   "courseCode": "OJAF1",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=154231;lang=cz",
-      "totalPass": 0,
+      "totalPass": 5,
       "totalFail": 0,
       "terms": [
         {
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 5,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 5,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,8 +36,9 @@
       "semesterName": "ZS 2023/2024 - ZF",
       "semesterId": "735",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146615;lang=cz",
-      "totalPass": 0,
+      "totalPass": 6,
       "totalFail": 0,
       "terms": [
         {
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 6,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 6,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -53,8 +66,9 @@
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=137090;lang=cz",
-      "totalPass": 0,
+      "totalPass": 11,
       "totalFail": 0,
       "terms": [
         {
@@ -68,11 +82,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 11,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 11,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.680Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

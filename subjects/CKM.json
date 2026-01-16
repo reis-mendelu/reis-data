@@ -1,10 +1,12 @@
 {
   "courseCode": "CKM",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142230;lang=cz",
       "totalPass": 7,
       "totalFail": 1,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2021/2022 - FRRMS",
       "semesterId": "682",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=134278;lang=cz",
       "totalPass": 8,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.755Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

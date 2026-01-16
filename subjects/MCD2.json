@@ -1,10 +1,14 @@
 {
   "courseCode": "MCD2",
+  "aliases": [
+    "MCAD2"
+  ],
   "stats": [
     {
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140944;lang=cz",
       "totalPass": 19,
       "totalFail": 1,
@@ -29,6 +33,7 @@
       "semesterName": "LS 2021/2022 - LDF",
       "semesterId": "673",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133344;lang=cz",
       "totalPass": 31,
       "totalFail": 0,
@@ -48,7 +53,37 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - LDF",
+      "semesterId": "611",
+      "year": 2020,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127585;lang=cz",
+      "totalPass": 4,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 4,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.529Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,13 +1,15 @@
 {
   "courseCode": "KPS",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - LDF",
       "semesterId": "611",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127821;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 27,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 27,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 27,
+            "nezap": 1,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,8 +36,9 @@
       "semesterName": "ZS 2020/2021 - LDF",
       "semesterId": "588",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124832;lang=cz",
-      "totalPass": 0,
+      "totalPass": 4,
       "totalFail": 0,
       "terms": [
         {
@@ -44,11 +52,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 4,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 4,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.441Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

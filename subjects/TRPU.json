@@ -1,10 +1,12 @@
 {
   "courseCode": "TRPU",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - AF",
       "semesterId": "687",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=687;predmet=133206;lang=cz",
       "totalPass": 15,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126483;lang=cz",
       "totalPass": 26,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.409Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

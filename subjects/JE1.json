@@ -1,10 +1,12 @@
 {
   "courseCode": "JE1",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - AF",
       "semesterId": "704",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152613;lang=cz",
       "totalPass": 5,
       "totalFail": 0,
@@ -29,8 +31,9 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=130267;lang=cz",
-      "totalPass": 0,
+      "totalPass": 6,
       "totalFail": 0,
       "terms": [
         {
@@ -44,32 +47,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - PEF",
-      "semesterId": "584",
-      "year": 2020,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120635;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 0,
-          "fail": 0
+          "pass": 6,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 6,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -77,6 +61,7 @@
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=123192;lang=cz",
       "totalPass": 5,
       "totalFail": 0,
@@ -96,7 +81,37 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120635;lang=cz",
+      "totalPass": 110,
+      "totalFail": 41,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 110,
+          "fail": 41,
+          "creditGrades": {
+            "zap": 110,
+            "nezap": 41,
+            "zapNedost": 0
+          }
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.345Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

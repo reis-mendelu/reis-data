@@ -1,10 +1,14 @@
 {
   "courseCode": "ENC-UZN",
+  "aliases": [
+    "UZN"
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156316;lang=cz",
       "totalPass": 28,
       "totalFail": 4,
@@ -29,6 +33,7 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151495;lang=cz",
       "totalPass": 27,
       "totalFail": 2,
@@ -53,6 +58,7 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140003;lang=cz",
       "totalPass": 32,
       "totalFail": 5,
@@ -77,6 +83,7 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=132562;lang=cz",
       "totalPass": 41,
       "totalFail": 6,
@@ -96,7 +103,32 @@
           "fail": 6
         }
       ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127465;lang=cz",
+      "totalPass": 29,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 7,
+            "C": 3,
+            "D": 8,
+            "E": 7,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 29,
+          "fail": 2
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.091Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

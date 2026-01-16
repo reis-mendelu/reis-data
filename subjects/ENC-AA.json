@@ -1,10 +1,12 @@
 {
   "courseCode": "ENC-AA",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=147618;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134867;lang=cz",
       "totalPass": 23,
       "totalFail": 3,
@@ -53,6 +56,7 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=127198;lang=cz",
       "totalPass": 13,
       "totalFail": 4,
@@ -74,5 +78,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.038Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

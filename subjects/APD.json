@@ -1,12 +1,14 @@
 {
   "courseCode": "APD",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=142777;lang=cz",
-      "totalPass": 0,
+      "totalPass": 3,
       "totalFail": 0,
       "terms": [
         {
@@ -20,11 +22,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 3,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 3,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.598Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

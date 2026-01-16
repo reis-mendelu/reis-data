@@ -1,10 +1,12 @@
 {
   "courseCode": "REHZ1K",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - AF",
       "semesterId": "696",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=136771;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129703;lang=cz",
       "totalPass": 16,
       "totalFail": 0,
@@ -53,6 +56,7 @@
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=122964;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -74,5 +78,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.986Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

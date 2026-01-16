@@ -1,12 +1,14 @@
 {
   "courseCode": "PRA22ZS",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - ZF",
       "semesterId": "735",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=146488;lang=cz",
-      "totalPass": 0,
+      "totalPass": 10,
       "totalFail": 0,
       "terms": [
         {
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 10,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 10,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=136945;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 271,
+      "totalFail": 13,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,11 +52,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 271,
+          "fail": 13,
+          "creditGrades": {
+            "zap": 271,
+            "nezap": 13,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.814Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,12 +1,14 @@
 {
   "courseCode": "BIP-VAR",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=158508;lang=cz",
-      "totalPass": 0,
+      "totalPass": 15,
       "totalFail": 0,
       "terms": [
         {
@@ -20,11 +22,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 15,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 15,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.666Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

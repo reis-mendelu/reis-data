@@ -1,10 +1,14 @@
 {
   "courseCode": "MNDO",
+  "aliases": [
+    "ME"
+  ],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129756;lang=cz",
       "totalPass": 23,
       "totalFail": 2,
@@ -26,9 +30,35 @@
       ]
     },
     {
+      "semesterName": "ZS 2021/2022 - PEF",
+      "semesterId": "650",
+      "year": 2021,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=130369;lang=cz",
+      "totalPass": 118,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 58,
+            "B": 38,
+            "C": 19,
+            "D": 2,
+            "E": 1,
+            "F": 1,
+            "FN": 3
+          },
+          "pass": 118,
+          "fail": 4
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=122888;lang=cz",
       "totalPass": 17,
       "totalFail": 0,
@@ -48,7 +78,32 @@
           "fail": 0
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120518;lang=cz",
+      "totalPass": 128,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 107,
+            "B": 16,
+            "C": 3,
+            "D": 2,
+            "E": 0,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 128,
+          "fail": 5
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.562Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

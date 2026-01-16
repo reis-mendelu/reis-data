@@ -1,12 +1,14 @@
 {
   "courseCode": "PRA21ZS",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=137004;lang=cz",
-      "totalPass": 0,
+      "totalPass": 4,
       "totalFail": 0,
       "terms": [
         {
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 4,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 4,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134539;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 51,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 51,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 51,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -53,9 +66,10 @@
       "semesterName": "ZS 2021/2022 - ZF",
       "semesterId": "652",
       "year": 2021,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=129405;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 252,
+      "totalFail": 17,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -68,11 +82,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 252,
+          "fail": 17,
+          "creditGrades": {
+            "zap": 252,
+            "nezap": 17,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.812Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

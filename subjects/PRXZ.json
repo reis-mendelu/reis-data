@@ -1,12 +1,14 @@
 {
   "courseCode": "PRXZ",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134071;lang=cz",
-      "totalPass": 0,
+      "totalPass": 17,
       "totalFail": 0,
       "terms": [
         {
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 17,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 17,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,8 +36,9 @@
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126775;lang=cz",
-      "totalPass": 0,
+      "totalPass": 19,
       "totalFail": 0,
       "terms": [
         {
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 19,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 19,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -53,9 +66,10 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120222;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 17,
+      "totalFail": 3,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -68,11 +82,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 17,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 17,
+            "nezap": 3,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.855Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

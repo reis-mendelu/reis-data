@@ -1,13 +1,15 @@
 {
   "courseCode": "EBC-SM",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153246;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 68,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 68,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 68,
+            "nezap": 1,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,8 +36,9 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143685;lang=cz",
-      "totalPass": 0,
+      "totalPass": 60,
       "totalFail": 0,
       "terms": [
         {
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 60,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 60,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -53,9 +66,10 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=137226;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 59,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -68,11 +82,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 59,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 59,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.930Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

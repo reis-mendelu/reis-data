@@ -1,13 +1,15 @@
 {
   "courseCode": "AMDI",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156677;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 24,
+      "totalFail": 6,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 24,
+          "fail": 6,
+          "creditGrades": {
+            "zap": 24,
+            "nezap": 0,
+            "zapNedost": 6
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150818;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 25,
+      "totalFail": 4,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,11 +52,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 25,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 25,
+            "nezap": 4,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.571Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

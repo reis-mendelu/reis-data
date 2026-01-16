@@ -1,12 +1,14 @@
 {
   "courseCode": "CAL-C",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129967;lang=cz",
-      "totalPass": 0,
+      "totalPass": 2,
       "totalFail": 0,
       "terms": [
         {
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=123146;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 35,
+      "totalFail": 3,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,11 +52,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 35,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 35,
+            "nezap": 0,
+            "zapNedost": 3
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.702Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

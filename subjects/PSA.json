@@ -1,10 +1,12 @@
 {
   "courseCode": "PSA",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=128351;lang=cz",
       "totalPass": 3,
       "totalFail": 4,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124652;lang=cz",
       "totalPass": 5,
       "totalFail": 1,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.857Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,10 +1,14 @@
 {
   "courseCode": "EBA-MDE",
+  "aliases": [
+    "RRMRA"
+  ],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134904;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -29,6 +33,7 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=128374;lang=cz",
       "totalPass": 14,
       "totalFail": 2,
@@ -50,9 +55,35 @@
       ]
     },
     {
+      "semesterName": "LS 2020/2021 - FRRMS",
+      "semesterId": "633",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=128584;lang=cz",
+      "totalPass": 16,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 5,
+            "C": 3,
+            "D": 4,
+            "E": 1,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 16,
+          "fail": 2
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=121927;lang=cz",
       "totalPass": 11,
       "totalFail": 1,
@@ -74,5 +105,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.854Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

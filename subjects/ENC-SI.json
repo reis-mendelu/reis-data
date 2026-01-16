@@ -1,10 +1,12 @@
 {
   "courseCode": "ENC-SI",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153230;lang=cz",
       "totalPass": 22,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143738;lang=cz",
       "totalPass": 20,
       "totalFail": 0,
@@ -53,6 +56,7 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=137192;lang=cz",
       "totalPass": 25,
       "totalFail": 0,
@@ -74,5 +78,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.085Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

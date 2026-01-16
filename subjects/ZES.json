@@ -1,10 +1,12 @@
 {
   "courseCode": "ZES",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=143473;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=121918;lang=cz",
       "totalPass": 19,
       "totalFail": 1,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.644Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,13 +1,15 @@
 {
   "courseCode": "ZA1",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126780;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 46,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 46,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 46,
+            "nezap": 1,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120227;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 29,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,11 +52,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 29,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 29,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.617Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

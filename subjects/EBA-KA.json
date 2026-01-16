@@ -1,13 +1,15 @@
 {
   "courseCode": "EBA-KA",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124641;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 15,
+      "totalFail": 14,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,11 +22,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 15,
+          "fail": 14,
+          "creditGrades": {
+            "zap": 15,
+            "nezap": 13,
+            "zapNedost": 1
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.852Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

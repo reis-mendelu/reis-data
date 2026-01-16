@@ -1,12 +1,14 @@
 {
   "courseCode": "SVS1",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123400;lang=cz",
-      "totalPass": 0,
+      "totalPass": 16,
       "totalFail": 0,
       "terms": [
         {
@@ -20,11 +22,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 16,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 16,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.338Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,10 +1,12 @@
 {
   "courseCode": "OPRV",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - AF",
       "semesterId": "696",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=136721;lang=cz",
       "totalPass": 10,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129714;lang=cz",
       "totalPass": 19,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.712Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,12 +1,14 @@
 {
   "courseCode": "MTZP",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126677;lang=cz",
-      "totalPass": 0,
+      "totalPass": 36,
       "totalFail": 0,
       "terms": [
         {
@@ -20,11 +22,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 36,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 36,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.594Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

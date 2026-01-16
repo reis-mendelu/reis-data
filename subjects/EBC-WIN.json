@@ -1,10 +1,12 @@
 {
   "courseCode": "EBC-WIN",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153172;lang=cz",
       "totalPass": 39,
       "totalFail": 8,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143628;lang=cz",
       "totalPass": 32,
       "totalFail": 6,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=143096;lang=cz",
       "totalPass": 1,
       "totalFail": 1,
@@ -77,6 +81,7 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=137129;lang=cz",
       "totalPass": 28,
       "totalFail": 8,
@@ -101,6 +106,7 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=130217;lang=cz",
       "totalPass": 20,
       "totalFail": 7,
@@ -122,5 +128,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.957Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

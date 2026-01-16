@@ -1,10 +1,12 @@
 {
   "courseCode": "KSJA3",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=129015;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=124948;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120214;lang=cz",
       "totalPass": 6,
       "totalFail": 0,
@@ -77,6 +81,7 @@
       "semesterName": "ZS 2019/2020 - ZF",
       "semesterId": "557",
       "year": 2019,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=557;predmet=116456;lang=cz",
       "totalPass": 27,
       "totalFail": 1,
@@ -98,5 +103,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.463Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

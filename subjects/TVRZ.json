@@ -1,10 +1,14 @@
 {
   "courseCode": "TVRZ",
+  "aliases": [
+    "TTVR"
+  ],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - LDF",
       "semesterId": "765",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153349;lang=cz",
       "totalPass": 28,
       "totalFail": 0,
@@ -29,6 +33,7 @@
       "semesterName": "ZS 2023/2024 - LDF",
       "semesterId": "732",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=147007;lang=cz",
       "totalPass": 40,
       "totalFail": 1,
@@ -53,22 +58,23 @@
       "semesterName": "ZS 2022/2023 - LDF",
       "semesterId": "690",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=137794;lang=cz",
-      "totalPass": 14,
+      "totalPass": 31,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 2,
-            "B": 2,
-            "C": 4,
-            "D": 4,
-            "E": 2,
+            "A": 4,
+            "B": 5,
+            "C": 8,
+            "D": 10,
+            "E": 4,
             "F": 0,
             "FN": 0
           },
-          "pass": 14,
+          "pass": 31,
           "fail": 0
         }
       ]
@@ -77,26 +83,52 @@
       "semesterName": "ZS 2021/2022 - LDF",
       "semesterId": "649",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130058;lang=cz",
-      "totalPass": 13,
+      "totalPass": 18,
       "totalFail": 3,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 4,
-            "B": 2,
+            "A": 5,
+            "B": 3,
             "C": 1,
             "D": 3,
-            "E": 3,
+            "E": 6,
             "F": 0,
             "FN": 3
           },
-          "pass": 13,
+          "pass": 18,
           "fail": 3
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123881;lang=cz",
+      "totalPass": 10,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 2,
+            "C": 2,
+            "D": 0,
+            "E": 3,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 1
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.444Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,10 +1,14 @@
 {
   "courseCode": "EBC-PER",
+  "aliases": [
+    "PER"
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156630;lang=cz",
       "totalPass": 35,
       "totalFail": 0,
@@ -29,6 +33,7 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151243;lang=cz",
       "totalPass": 49,
       "totalFail": 1,
@@ -53,6 +58,7 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140085;lang=cz",
       "totalPass": 28,
       "totalFail": 2,
@@ -77,6 +83,7 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=130388;lang=cz",
       "totalPass": 83,
       "totalFail": 5,
@@ -96,7 +103,32 @@
           "fail": 5
         }
       ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127065;lang=cz",
+      "totalPass": 180,
+      "totalFail": 18,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 49,
+            "B": 64,
+            "C": 41,
+            "D": 16,
+            "E": 10,
+            "F": 0,
+            "FN": 18
+          },
+          "pass": 180,
+          "fail": 18
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.908Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

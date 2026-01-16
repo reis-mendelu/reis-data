@@ -1,34 +1,12 @@
 {
   "courseCode": "AFYZ",
+  "aliases": [],
   "stats": [
-    {
-      "semesterName": "ZS 2024/2025 - AF",
-      "semesterId": "704",
-      "year": 2024,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152724;lang=cz",
-      "totalPass": 41,
-      "totalFail": 5,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 10,
-            "B": 5,
-            "C": 10,
-            "D": 5,
-            "E": 11,
-            "F": 3,
-            "FN": 2
-          },
-          "pass": 41,
-          "fail": 5
-        }
-      ]
-    },
     {
       "semesterName": "ZS 2023/2024 - AF",
       "semesterId": "733",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=733;predmet=146709;lang=cz",
       "totalPass": 26,
       "totalFail": 6,
@@ -53,6 +31,7 @@
       "semesterName": "LS 2022/2023 - AF",
       "semesterId": "727",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=727;predmet=143318;lang=cz",
       "totalPass": 12,
       "totalFail": 0,
@@ -74,9 +53,35 @@
       ]
     },
     {
+      "semesterName": "ZS 2024/2025 - AF",
+      "semesterId": "704",
+      "year": 2024,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=704;predmet=152724;lang=cz",
+      "totalPass": 41,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 5,
+            "C": 10,
+            "D": 5,
+            "E": 11,
+            "F": 3,
+            "FN": 2
+          },
+          "pass": 41,
+          "fail": 5
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2022/2023 - AF",
       "semesterId": "696",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=136502;lang=cz",
       "totalPass": 18,
       "totalFail": 16,
@@ -101,6 +106,7 @@
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129851;lang=cz",
       "totalPass": 35,
       "totalFail": 0,
@@ -125,6 +131,7 @@
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=128504;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -149,6 +156,7 @@
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=123230;lang=cz",
       "totalPass": 32,
       "totalFail": 2,
@@ -170,5 +178,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.520Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

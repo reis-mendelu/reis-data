@@ -1,26 +1,55 @@
 {
   "courseCode": "BRV",
+  "aliases": [
+    "BIREV"
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2021/2022 - ZF",
+      "semesterId": "683",
+      "year": 2021,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134035;lang=cz",
+      "totalPass": 53,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 33,
+            "B": 6,
+            "C": 10,
+            "D": 4,
+            "E": 0,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 53,
+          "fail": 5
+        }
+      ]
+    },
     {
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=128623;lang=cz",
-      "totalPass": 1,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126799;lang=cz",
+      "totalPass": 62,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 1,
-            "E": 0,
+            "A": 21,
+            "B": 10,
+            "C": 16,
+            "D": 14,
+            "E": 1,
             "F": 0,
             "FN": 0
           },
-          "pass": 1,
+          "pass": 62,
           "fail": 0
         }
       ]
@@ -29,26 +58,27 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120181;lang=cz",
-      "totalPass": 27,
-      "totalFail": 0,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120085;lang=cz",
+      "totalPass": 84,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 19,
-            "B": 1,
-            "C": 5,
-            "D": 2,
-            "E": 0,
-            "F": 0,
+            "A": 49,
+            "B": 10,
+            "C": 16,
+            "D": 6,
+            "E": 3,
+            "F": 2,
             "FN": 0
           },
-          "pass": 27,
-          "fail": 0
+          "pass": 84,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.687Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

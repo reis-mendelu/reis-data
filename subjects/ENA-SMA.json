@@ -1,10 +1,14 @@
 {
   "courseCode": "ENA-SMA",
+  "aliases": [
+    "STMA"
+  ],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152062;lang=cz",
       "totalPass": 289,
       "totalFail": 23,
@@ -29,6 +33,7 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142506;lang=cz",
       "totalPass": 212,
       "totalFail": 37,
@@ -53,6 +58,7 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=143031;lang=cz",
       "totalPass": 7,
       "totalFail": 1,
@@ -77,6 +83,7 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134859;lang=cz",
       "totalPass": 191,
       "totalFail": 66,
@@ -101,6 +108,7 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=127152;lang=cz",
       "totalPass": 142,
       "totalFail": 64,
@@ -120,7 +128,32 @@
           "fail": 64
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=120511;lang=cz",
+      "totalPass": 53,
+      "totalFail": 20,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 9,
+            "C": 9,
+            "D": 8,
+            "E": 15,
+            "F": 0,
+            "FN": 20
+          },
+          "pass": 53,
+          "fail": 20
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.032Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

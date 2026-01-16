@@ -1,10 +1,12 @@
 {
   "courseCode": "EBA-DEMA",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142547;lang=cz",
       "totalPass": 19,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134928;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.847Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

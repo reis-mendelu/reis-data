@@ -1,10 +1,12 @@
 {
   "courseCode": "BOTAN",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=763;predmet=154710;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2023/2024 - ZF",
       "semesterId": "735",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=735;predmet=148017;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -53,6 +56,7 @@
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=138480;lang=cz",
       "totalPass": 7,
       "totalFail": 0,
@@ -77,6 +81,7 @@
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134114;lang=cz",
       "totalPass": 22,
       "totalFail": 2,
@@ -101,6 +106,7 @@
       "semesterName": "ZS 2021/2022 - ZF",
       "semesterId": "652",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=131883;lang=cz",
       "totalPass": 12,
       "totalFail": 1,
@@ -125,6 +131,7 @@
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126862;lang=cz",
       "totalPass": 27,
       "totalFail": 13,
@@ -149,6 +156,7 @@
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=124561;lang=cz",
       "totalPass": 12,
       "totalFail": 0,
@@ -173,6 +181,7 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120107;lang=cz",
       "totalPass": 19,
       "totalFail": 6,
@@ -194,5 +203,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.677Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

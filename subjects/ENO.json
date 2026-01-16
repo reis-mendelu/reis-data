@@ -1,26 +1,30 @@
 {
   "courseCode": "ENO",
+  "aliases": [
+    "ENOLO"
+  ],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=135010;lang=cz",
-      "totalPass": 1,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134008;lang=cz",
+      "totalPass": 48,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 1,
-            "D": 0,
-            "E": 0,
+            "A": 17,
+            "B": 11,
+            "C": 13,
+            "D": 1,
+            "E": 6,
             "F": 0,
             "FN": 0
           },
-          "pass": 1,
+          "pass": 48,
           "fail": 0
         }
       ]
@@ -29,23 +33,24 @@
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=128624;lang=cz",
-      "totalPass": 1,
-      "totalFail": 0,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126795;lang=cz",
+      "totalPass": 54,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 1,
-            "F": 0,
-            "FN": 0
+            "A": 9,
+            "B": 15,
+            "C": 22,
+            "D": 3,
+            "E": 5,
+            "F": 1,
+            "FN": 1
           },
-          "pass": 1,
-          "fail": 0
+          "pass": 54,
+          "fail": 2
         }
       ]
     },
@@ -53,6 +58,7 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120130;lang=cz",
       "totalPass": 27,
       "totalFail": 0,
@@ -74,5 +80,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.095Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

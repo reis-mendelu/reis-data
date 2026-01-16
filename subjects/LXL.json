@@ -1,10 +1,14 @@
 {
   "courseCode": "LXL",
+  "aliases": [
+    "LEX"
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156689;lang=cz",
       "totalPass": 64,
       "totalFail": 25,
@@ -29,6 +33,7 @@
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150831;lang=cz",
       "totalPass": 62,
       "totalFail": 11,
@@ -53,6 +58,7 @@
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140841;lang=cz",
       "totalPass": 65,
       "totalFail": 17,
@@ -77,6 +83,7 @@
       "semesterName": "LS 2021/2022 - LDF",
       "semesterId": "673",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133247;lang=cz",
       "totalPass": 71,
       "totalFail": 14,
@@ -101,6 +108,7 @@
       "semesterName": "LS 2020/2021 - LDF",
       "semesterId": "611",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127537;lang=cz",
       "totalPass": 66,
       "totalFail": 23,
@@ -120,7 +128,32 @@
           "fail": 23
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123813;lang=cz",
+      "totalPass": 60,
+      "totalFail": 15,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 7,
+            "C": 15,
+            "D": 14,
+            "E": 12,
+            "F": 11,
+            "FN": 4
+          },
+          "pass": 60,
+          "fail": 15
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.513Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

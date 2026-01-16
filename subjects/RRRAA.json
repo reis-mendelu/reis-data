@@ -1,10 +1,12 @@
 {
   "courseCode": "RRRAA",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - FRRMS",
       "semesterId": "737",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146856;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2022/2023 - FRRMS",
       "semesterId": "695",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=695;predmet=136804;lang=cz",
       "totalPass": 20,
       "totalFail": 1,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2020/2021 - FRRMS",
       "semesterId": "633",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=633;predmet=128585;lang=cz",
       "totalPass": 15,
       "totalFail": 3,
@@ -74,5 +78,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.122Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

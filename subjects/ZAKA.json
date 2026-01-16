@@ -1,10 +1,12 @@
 {
   "courseCode": "ZAKA",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - LDF",
       "semesterId": "649",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130085;lang=cz",
       "totalPass": 21,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2020/2021 - LDF",
       "semesterId": "588",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123892;lang=cz",
       "totalPass": 13,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.622Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

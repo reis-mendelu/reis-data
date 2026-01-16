@@ -1,10 +1,12 @@
 {
   "courseCode": "EPMP",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157601;lang=cz",
       "totalPass": 103,
       "totalFail": 1,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151298;lang=cz",
       "totalPass": 108,
       "totalFail": 1,
@@ -53,6 +56,7 @@
       "semesterName": "ZS 2023/2024 - FRRMS",
       "semesterId": "737",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=737;predmet=146842;lang=cz",
       "totalPass": 25,
       "totalFail": 4,
@@ -77,6 +81,7 @@
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=715;predmet=142167;lang=cz",
       "totalPass": 103,
       "totalFail": 3,
@@ -101,6 +106,7 @@
       "semesterName": "LS 2021/2022 - FRRMS",
       "semesterId": "682",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=682;predmet=133929;lang=cz",
       "totalPass": 111,
       "totalFail": 0,
@@ -125,6 +131,7 @@
       "semesterName": "ZS 2021/2022 - FRRMS",
       "semesterId": "654",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=654;predmet=132029;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -146,5 +153,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.102Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

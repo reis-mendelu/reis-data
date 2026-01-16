@@ -1,10 +1,39 @@
 {
   "courseCode": "HEU",
+  "aliases": [
+    "ENA-HZEU"
+  ],
   "stats": [
+    {
+      "semesterName": "ZS 2022/2023 - PEF",
+      "semesterId": "689",
+      "year": 2022,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134948;lang=cz",
+      "totalPass": 3,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=128362;lang=cz",
       "totalPass": 19,
       "totalFail": 5,
@@ -29,6 +58,7 @@
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=121915;lang=cz",
       "totalPass": 29,
       "totalFail": 2,
@@ -50,5 +80,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.296Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

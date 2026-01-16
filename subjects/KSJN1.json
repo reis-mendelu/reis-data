@@ -1,13 +1,15 @@
 {
   "courseCode": "KSJN1",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2019/2020 - ZF",
       "semesterId": "557",
       "year": 2019,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=557;predmet=116422;lang=cz",
       "totalPass": 0,
-      "totalFail": 0,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -21,10 +23,15 @@
             "FN": 0
           },
           "pass": 0,
-          "fail": 0
+          "fail": 1,
+          "creditGrades": {
+            "zap": 0,
+            "nezap": 1,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.463Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

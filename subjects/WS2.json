@@ -1,18 +1,22 @@
 {
   "courseCode": "WS2",
+  "aliases": [
+    "EWS2"
+  ],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - ZF",
       "semesterId": "683",
       "year": 2021,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134107;lang=cz",
-      "totalPass": 10,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=136053;lang=cz",
+      "totalPass": 12,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 10,
+            "A": 12,
             "B": 0,
             "C": 0,
             "D": 0,
@@ -20,7 +24,7 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 10,
+          "pass": 12,
           "fail": 0
         }
       ]
@@ -29,8 +33,9 @@
       "semesterName": "LS 2020/2021 - ZF",
       "semesterId": "638",
       "year": 2020,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126855;lang=cz",
-      "totalPass": 24,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=128563;lang=cz",
+      "totalPass": 28,
       "totalFail": 0,
       "terms": [
         {
@@ -38,13 +43,13 @@
           "grades": {
             "A": 6,
             "B": 13,
-            "C": 5,
+            "C": 9,
             "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 24,
+          "pass": 28,
           "fail": 0
         }
       ]
@@ -53,6 +58,7 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120265;lang=cz",
       "totalPass": 24,
       "totalFail": 0,
@@ -74,5 +80,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.564Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

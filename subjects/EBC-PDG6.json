@@ -1,13 +1,15 @@
 {
   "courseCode": "EBC-PDG6",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151613;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 103,
+      "totalFail": 3,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,11 +22,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 103,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 103,
+            "nezap": 3,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.907Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

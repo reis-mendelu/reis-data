@@ -1,10 +1,12 @@
 {
   "courseCode": "EBC-AOS",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156526;lang=cz",
       "totalPass": 82,
       "totalFail": 57,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151163;lang=cz",
       "totalPass": 107,
       "totalFail": 22,
@@ -53,6 +56,7 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140138;lang=cz",
       "totalPass": 103,
       "totalFail": 10,
@@ -77,6 +81,7 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=132870;lang=cz",
       "totalPass": 81,
       "totalFail": 9,
@@ -101,6 +106,7 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=130266;lang=cz",
       "totalPass": 11,
       "totalFail": 0,
@@ -125,6 +131,7 @@
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127041;lang=cz",
       "totalPass": 86,
       "totalFail": 1,
@@ -149,6 +156,7 @@
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123512;lang=cz",
       "totalPass": 18,
       "totalFail": 0,
@@ -170,5 +178,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.870Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

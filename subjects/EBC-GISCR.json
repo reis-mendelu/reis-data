@@ -1,12 +1,14 @@
 {
   "courseCode": "EBC-GISCR",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153254;lang=cz",
-      "totalPass": 0,
+      "totalPass": 28,
       "totalFail": 0,
       "terms": [
         {
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 28,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 28,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143689;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 21,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 21,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 21,
+            "nezap": 1,
+            "zapNedost": 1
+          }
         }
       ]
     },
@@ -53,9 +66,10 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=130380;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 53,
+      "totalFail": 7,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -68,11 +82,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 53,
+          "fail": 7,
+          "creditGrades": {
+            "zap": 53,
+            "nezap": 2,
+            "zapNedost": 5
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.890Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

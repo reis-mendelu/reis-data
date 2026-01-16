@@ -1,13 +1,15 @@
 {
   "courseCode": "MTSK",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - AF",
       "semesterId": "696",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=136279;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 2,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 2,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=126579;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 22,
+      "totalFail": 5,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,11 +52,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 22,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 22,
+            "nezap": 0,
+            "zapNedost": 5
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.594Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,10 +1,12 @@
 {
   "courseCode": "INAGB",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - AF",
       "semesterId": "696",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=696;predmet=138393;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2020/2021 - AF",
       "semesterId": "640",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=640;predmet=128061;lang=cz",
       "totalPass": 7,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.328Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

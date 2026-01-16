@@ -1,10 +1,12 @@
 {
   "courseCode": "ZEMIK",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129775;lang=cz",
       "totalPass": 18,
       "totalFail": 2,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=123114;lang=cz",
       "totalPass": 11,
       "totalFail": 4,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.638Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

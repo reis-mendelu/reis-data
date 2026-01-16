@@ -1,10 +1,12 @@
 {
   "courseCode": "BZ",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=134574;lang=cz",
       "totalPass": 11,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127508;lang=cz",
       "totalPass": 12,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.691Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,13 +1,15 @@
 {
   "courseCode": "EBC-SMD",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
       "year": 2024,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=153192;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 74,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 74,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 74,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=143648;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 56,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 56,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 56,
+            "nezap": 2,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -53,9 +66,10 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=137150;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 98,
+      "totalFail": 3,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -68,11 +82,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 98,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 98,
+            "nezap": 3,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.931Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

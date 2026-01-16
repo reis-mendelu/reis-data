@@ -1,10 +1,12 @@
 {
   "courseCode": "STRT2",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2020/2021 - AF",
       "semesterId": "585",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=123103;lang=cz",
       "totalPass": 33,
       "totalFail": 0,
@@ -26,5 +28,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.329Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

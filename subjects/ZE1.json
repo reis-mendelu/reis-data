@@ -1,26 +1,55 @@
 {
   "courseCode": "ZE1",
+  "aliases": [
+    "ZELIB"
+  ],
   "stats": [
     {
-      "semesterName": "LS 2020/2021 - ZF",
-      "semesterId": "638",
-      "year": 2020,
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126767;lang=cz",
-      "totalPass": 7,
+      "semesterName": "LS 2021/2022 - ZF",
+      "semesterId": "683",
+      "year": 2021,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=683;predmet=134015;lang=cz",
+      "totalPass": 20,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 6,
-            "B": 0,
-            "C": 0,
-            "D": 0,
+            "A": 2,
+            "B": 4,
+            "C": 11,
+            "D": 2,
             "E": 1,
             "F": 0,
             "FN": 0
           },
-          "pass": 7,
+          "pass": 20,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - ZF",
+      "semesterId": "638",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=638;predmet=126792;lang=cz",
+      "totalPass": 25,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 4,
+            "C": 7,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 25,
           "fail": 0
         }
       ]
@@ -29,6 +58,7 @@
       "semesterName": "LS 2019/2020 - ZF",
       "semesterId": "580",
       "year": 2019,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=580;predmet=120188;lang=cz",
       "totalPass": 8,
       "totalFail": 0,
@@ -50,5 +80,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:40.633Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

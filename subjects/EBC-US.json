@@ -1,10 +1,14 @@
 {
   "courseCode": "EBC-US",
+  "aliases": [
+    "USW"
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156545;lang=cz",
       "totalPass": 55,
       "totalFail": 1,
@@ -29,6 +33,7 @@
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151184;lang=cz",
       "totalPass": 64,
       "totalFail": 2,
@@ -53,6 +58,7 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=140156;lang=cz",
       "totalPass": 41,
       "totalFail": 2,
@@ -77,6 +83,7 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=132892;lang=cz",
       "totalPass": 72,
       "totalFail": 5,
@@ -96,7 +103,32 @@
           "fail": 5
         }
       ]
+    },
+    {
+      "semesterName": "LS 2020/2021 - PEF",
+      "semesterId": "610",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127295;lang=cz",
+      "totalPass": 102,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 65,
+            "B": 19,
+            "C": 9,
+            "D": 7,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 102,
+          "fail": 0
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.951Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

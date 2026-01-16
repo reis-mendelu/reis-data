@@ -1,10 +1,14 @@
 {
   "courseCode": "DSTS",
+  "aliases": [
+    "DSAR"
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156658;lang=cz",
       "totalPass": 25,
       "totalFail": 16,
@@ -29,6 +33,7 @@
       "semesterName": "ZS 2024/2025 - LDF",
       "semesterId": "765",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=155854;lang=cz",
       "totalPass": 1,
       "totalFail": 1,
@@ -53,6 +58,7 @@
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=758;predmet=150809;lang=cz",
       "totalPass": 20,
       "totalFail": 9,
@@ -77,6 +83,7 @@
       "semesterName": "ZS 2023/2024 - LDF",
       "semesterId": "732",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=147734;lang=cz",
       "totalPass": 3,
       "totalFail": 0,
@@ -101,6 +108,7 @@
       "semesterName": "LS 2022/2023 - LDF",
       "semesterId": "725",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=725;predmet=140820;lang=cz",
       "totalPass": 25,
       "totalFail": 0,
@@ -125,6 +133,7 @@
       "semesterName": "ZS 2022/2023 - LDF",
       "semesterId": "690",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=690;predmet=138485;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -149,6 +158,7 @@
       "semesterName": "LS 2021/2022 - LDF",
       "semesterId": "673",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=673;predmet=133226;lang=cz",
       "totalPass": 20,
       "totalFail": 1,
@@ -173,6 +183,7 @@
       "semesterName": "ZS 2021/2022 - LDF",
       "semesterId": "649",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=649;predmet=130670;lang=cz",
       "totalPass": 1,
       "totalFail": 2,
@@ -197,8 +208,9 @@
       "semesterName": "LS 2020/2021 - LDF",
       "semesterId": "611",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=611;predmet=127516;lang=cz",
-      "totalPass": 17,
+      "totalPass": 21,
       "totalFail": 0,
       "terms": [
         {
@@ -208,15 +220,40 @@
             "B": 7,
             "C": 3,
             "D": 1,
-            "E": 3,
+            "E": 7,
             "F": 0,
             "FN": 0
           },
-          "pass": 17,
+          "pass": 21,
           "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=123794;lang=cz",
+      "totalPass": 15,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 8,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.825Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

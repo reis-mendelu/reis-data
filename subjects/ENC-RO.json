@@ -1,10 +1,14 @@
 {
   "courseCode": "ENC-RO",
+  "aliases": [
+    "RIO"
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156592;lang=cz",
       "totalPass": 51,
       "totalFail": 1,
@@ -29,6 +33,7 @@
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142515;lang=cz",
       "totalPass": 50,
       "totalFail": 3,
@@ -53,6 +58,7 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=134872;lang=cz",
       "totalPass": 32,
       "totalFail": 0,
@@ -77,6 +83,7 @@
       "semesterName": "ZS 2021/2022 - PEF",
       "semesterId": "650",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=650;predmet=127167;lang=cz",
       "totalPass": 40,
       "totalFail": 5,
@@ -96,7 +103,32 @@
           "fail": 5
         }
       ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123572;lang=cz",
+      "totalPass": 78,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 30,
+            "B": 33,
+            "C": 15,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 78,
+          "fail": 5
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.081Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

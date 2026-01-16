@@ -1,13 +1,15 @@
 {
   "courseCode": "EBC-PDG2",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2023/2024 - PEF",
       "semesterId": "753",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151611;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 205,
+      "totalFail": 20,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 205,
+          "fail": 20,
+          "creditGrades": {
+            "zap": 205,
+            "nezap": 1,
+            "zapNedost": 19
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "LS 2022/2023 - PEF",
       "semesterId": "717",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=717;predmet=142453;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 212,
+      "totalFail": 13,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,8 +52,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 212,
+          "fail": 13,
+          "creditGrades": {
+            "zap": 212,
+            "nezap": 13,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -53,9 +66,10 @@
       "semesterName": "LS 2021/2022 - PEF",
       "semesterId": "671",
       "year": 2021,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=671;predmet=134404;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 224,
+      "totalFail": 33,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -68,11 +82,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 224,
+          "fail": 33,
+          "creditGrades": {
+            "zap": 224,
+            "nezap": 33,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.906Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

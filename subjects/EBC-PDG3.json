@@ -1,13 +1,15 @@
 {
   "courseCode": "EBC-PDG3",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2023/2024 - PEF",
       "semesterId": "734",
       "year": 2023,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=146888;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 170,
+      "totalFail": 5,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -20,8 +22,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 170,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 170,
+            "nezap": 5,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -29,9 +36,10 @@
       "semesterName": "ZS 2022/2023 - PEF",
       "semesterId": "689",
       "year": 2022,
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=138187;lang=cz",
-      "totalPass": 0,
-      "totalFail": 0,
+      "totalPass": 158,
+      "totalFail": 6,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -44,11 +52,16 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 0,
-          "fail": 0
+          "pass": 158,
+          "fail": 6,
+          "creditGrades": {
+            "zap": 158,
+            "nezap": 6,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:38.907Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

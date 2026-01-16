@@ -1,10 +1,12 @@
 {
   "courseCode": "GCR",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127056;lang=cz",
       "totalPass": 42,
       "totalFail": 0,
@@ -26,5 +28,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.215Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }

@@ -1,10 +1,12 @@
 {
   "courseCode": "EMPPD",
+  "aliases": [],
   "stats": [
     {
       "semesterName": "ZS 2022/2023 - ZF",
       "semesterId": "693",
       "year": 2022,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=693;predmet=139706;lang=cz",
       "totalPass": 2,
       "totalFail": 0,
@@ -29,6 +31,7 @@
       "semesterName": "ZS 2021/2022 - ZF",
       "semesterId": "652",
       "year": 2021,
+      "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=652;predmet=131778;lang=cz",
       "totalPass": 1,
       "totalFail": 0,
@@ -50,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-01-12T09:33:39.008Z"
+  "lastUpdated": "2026-01-16T05:55:31.283498Z"
 }
