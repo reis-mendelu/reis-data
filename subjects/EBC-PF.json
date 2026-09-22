@@ -3,7 +3,7 @@
   "name": "Podnikové finance",
   "nameCs": "Podnikové finance",
   "nameEn": "Business Finance",
-  "predmetId": "160630",
+  "predmetId": "162536",
   "facultyId": 2,
   "aliases": [
     "RRPNF"
@@ -11,16 +11,83 @@
   "teachers": [
     "Ing. Alena Melicharová, Ph.D.",
     "Ing. Bc. Marcela Basovníková, Ph.D.",
+    "Ing. Jana Štěpánková, Ph.D.",
     "Ing. Marcel Ševela, Ph.D.",
     "Ing. Marie Poláchová, Ph.D.",
     "Ing. Michal Drábek",
     "Ing. Peter Mikuš",
-    "Ing. Petr Kahle",
     "Ing. Petr Mikuš, Ph.D.",
     "Ing. Petr Polák, Ph.D.",
     "doc. Ing. Bc. Petr Suchánek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162536;lang=cz",
+      "totalPass": 692,
+      "totalFail": 223,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 4,
+            "B": 14,
+            "C": 31,
+            "D": 52,
+            "E": 63,
+            "F": 135,
+            "FN": 0
+          },
+          "pass": 164,
+          "fail": 135
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 5,
+            "C": 17,
+            "D": 21,
+            "E": 15,
+            "F": 37,
+            "FN": 0
+          },
+          "pass": 59,
+          "fail": 37
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 57,
+            "B": 92,
+            "C": 183,
+            "D": 193,
+            "E": 167,
+            "F": 92,
+            "FN": 131
+          },
+          "pass": 692,
+          "fail": 223
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 52,
+            "B": 73,
+            "C": 135,
+            "D": 120,
+            "E": 89,
+            "F": 300,
+            "FN": 146
+          },
+          "pass": 469,
+          "fail": 446
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -555,5 +622,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

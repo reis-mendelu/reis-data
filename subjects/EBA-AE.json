@@ -1,0 +1,100 @@
+{
+  "courseCode": "EBA-AE",
+  "name": "Angličtina pro ekonomy",
+  "nameCs": "Angličtina pro ekonomy",
+  "nameEn": "English for economics",
+  "predmetId": "162534",
+  "facultyId": 2,
+  "aliases": [],
+  "teachers": [],
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162534;lang=cz",
+      "totalPass": 287,
+      "totalFail": 25,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 44,
+          "fail": 41,
+          "creditGrades": {
+            "zap": 44,
+            "nezap": 37,
+            "zapNedost": 4
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 17,
+          "creditGrades": {
+            "zap": 20,
+            "nezap": 15,
+            "zapNedost": 2
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 287,
+          "fail": 25,
+          "creditGrades": {
+            "zap": 287,
+            "nezap": 17,
+            "zapNedost": 8
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 223,
+          "fail": 89,
+          "creditGrades": {
+            "zap": 223,
+            "nezap": 81,
+            "zapNedost": 8
+          }
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

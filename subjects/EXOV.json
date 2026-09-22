@@ -3,7 +3,7 @@
   "name": "Extenzivní ovocnictví",
   "nameCs": "Extenzivní ovocnictví",
   "nameEn": "Extensive Fruit Production",
-  "predmetId": "156872",
+  "predmetId": "161892",
   "facultyId": 38,
   "aliases": [
     "EXO",
@@ -11,6 +11,45 @@
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161892;lang=cz",
+      "totalPass": 24,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 12,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 12,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -129,5 +168,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

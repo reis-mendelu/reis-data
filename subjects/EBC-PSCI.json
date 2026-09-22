@@ -3,11 +3,64 @@
   "name": "Pokročilé směrování a přepínání CCNA3",
   "nameCs": "Pokročilé směrování a přepínání CCNA3",
   "nameEn": "Advanced Routing and Switching CCNA3",
-  "predmetId": "157840",
+  "predmetId": "162877",
   "facultyId": 2,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162877;lang=cz",
+      "totalPass": 37,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 5,
+            "C": 7,
+            "D": 4,
+            "E": 6,
+            "F": 2,
+            "FN": 2
+          },
+          "pass": 37,
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 5,
+            "C": 7,
+            "D": 3,
+            "E": 5,
+            "F": 4,
+            "FN": 2
+          },
+          "pass": 35,
+          "fail": 6
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -193,5 +246,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

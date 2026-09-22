@@ -3,13 +3,53 @@
   "name": "Pedologie",
   "nameCs": "Pedologie",
   "nameEn": "Pedology",
-  "predmetId": "160445",
+  "predmetId": "162339",
   "facultyId": 60,
   "aliases": [
+    "PED",
     "PEDO"
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162339;lang=cz",
+      "totalPass": 38,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 17,
+            "B": 8,
+            "C": 9,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 3
+          },
+          "pass": 38,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 8,
+            "C": 9,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 3
+          },
+          "pass": 38,
+          "fail": 3
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - ZF",
       "semesterId": "794",
@@ -390,6 +430,31 @@
       ]
     },
     {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124752;lang=cz",
+      "totalPass": 20,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 4,
+            "D": 11,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 0
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
@@ -441,32 +506,7 @@
           "fail": 5
         }
       ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124752;lang=cz",
-      "totalPass": 20,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 2,
-            "C": 4,
-            "D": 11,
-            "E": 3,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 20,
-          "fail": 0
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

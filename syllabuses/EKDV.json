@@ -215,7 +215,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPoznámkaStředa7.00-8.50B36D. BřezinaPřednáškaKaždý týden20Výuka tohoto předmětu začíná v týdnu od 6. 10.Středa9.00-10.50B237D. BřezinaCvičeníKaždý týden14Výuka tohoto předmětu začíná v týdnu od 6. 10."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -327,7 +327,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace8 hpříprava na zkoušku24 hpříprava prezentace4 hzpracování seminární práce20 hCelkem112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace8 hpříprava na zkoušku24 hpříprava prezentace4 hzpracování seminární práce20 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -573,7 +573,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityNoteWednesday7.00-8.50B36D. BřezinaLectureEvery week20Výuka tohoto předmětu začíná v týdnu od 6. 10.Wednesday9.00-10.50B237D. BřezinaSeminarEvery week14Výuka tohoto předmětu začíná v týdnu od 6. 10."
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -685,7 +685,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation8 hpreparation for exam24 hpreparation of presentation4 hwriting of seminar paper20 hTotal112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation8 hpreparation for exam24 hpreparation of presentation4 hwriting of seminar paper20 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -716,6 +716,6 @@
       "content": "Teaching place: -- item not defined --"
     }
   ],
-  "scrapedAt": "2026-05-21 07:48:35",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:03:59",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

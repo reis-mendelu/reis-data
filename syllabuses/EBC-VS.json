@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -35,11 +35,11 @@
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "normální"
+      "content": "normální, konzultační"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Je to možné."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (cvičící, garant, přednášející, tutor, zkoušející)JUDr. Jana Mervartová (cvičící, zkoušející)"
+      "content": "doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (cvičící, garant, přednášející, tutor, zkoušející)JUDr. Jana Mervartová (cvičící, přednášející)"
     },
     {
       "label": "Prerekvizity:",
@@ -115,11 +115,11 @@
     },
     {
       "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "10 %"
+      "content": "50 %"
     },
     {
       "label": "Vypracování semestrální práce",
-      "content": "10 %"
+      "content": "20 %"
     },
     {
       "label": "Prezentace nebo obhajoba",
@@ -131,7 +131,7 @@
     },
     {
       "label": "Absolvování závěrečné ústní zkoušky",
-      "content": "60 %"
+      "content": "10 %"
     },
     {
       "label": "Celkem",
@@ -139,7 +139,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -155,7 +155,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -179,11 +179,11 @@
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: normální"
+      "content": "Typ výuky předmětu: normální, konzultační"
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Je to možné."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -203,7 +203,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (cvičící, garant, přednášející, tutor, zkoušející)JUDr. Jana Mervartová (cvičící, zkoušející)"
+      "content": "Vyučující: doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (cvičící, garant, přednášející, tutor, zkoušející)JUDr. Jana Mervartová (cvičící, přednášející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -211,7 +211,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q31J. MervartováCvičeníLichý týden30Pondělí9.00-10.50Q31J. MervartováCvičeníSudý týden30Pondělí13.00-14.50Q31J. MervartováCvičeníLichý týden30Pondělí13.00-14.50Q31J. MervartováCvičeníSudý týden30Středa11.00-12.50Q03R. JurčíkPřednáškaKaždý týden170"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q03R. Jurčík, J. MervartováPřednáškaKaždý týden170Středa13.00-13.50Q41R. JurčíkCvičeníKaždý týden30Středa14.00-14.50Q41R. JurčíkCvičeníKaždý týden30Středa16.00-16.50Q14R. JurčíkCvičeníKaždý týden30Středa17.00-17.50Q14R. JurčíkCvičeníKaždý týden30Středa18.00-18.50Q14R. JurčíkCvičeníKaždý týden30"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -311,7 +311,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku35 hpříprava na průběžné hodnocení30 hpříprava na průběžný test28 hpříprava prezentace5 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení14 hkonzultace52 hpříprava na zkoušku72 hCelkem166 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -319,19 +319,19 @@
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce10 %Prezentace nebo obhajoba10 %Absolvování průběžného testu (testů)10 %Absolvování závěrečné ústní zkoušky60 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích50 %Vypracování semestrální práce20 %Prezentace nebo obhajoba10 %Absolvování průběžného testu (testů)10 %Absolvování závěrečné ústní zkoušky10 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Doporučená:Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Common Agricultural Policy in the EU and the Ministry of Agriculture in the Czech Republic with a Focus on Environmental and Consumer Protection and Support for Smes. EU agrarian Law. Volume 11 (2022): Issue 1 (July 2022). eISSN1339-9276. https://sciendo.com/issue/EUAL/11/1Jurčík, R. Pandemic Law to solve to the Covid situaton and its amendment focusing on business. Proceedings of the 15th International Scientific Conference: European Forum of Entrepreneurship 2022. „Coronavirus Pandemic Effects on the Economy in 2022: A Challenge for New Opportunities“. NEWTON College. Prague 2022. ISBN 978-80-87325-58-2. https://www.efp.cz/en/, pp. 70-75. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Jurčík, R. Změny v oblasti veřejných zakázek v roce 2021 se zaměřením na ekologické, sociální a inovační aspekty a na menší formálnost v těchto specifických obchodněprávních vztazích. Obchodněprávní revue 2/2021. str. 124-127. ISSN 1803-6554. Nakladatelství C. H. Beck, s. r. o.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.Schelle, D., Tauchen, J. (eds). Encyklopedie českých právních dějin, svaźek XIX. U-Ú (Jurčík, R. autor hesla Úřad pro ochranu hospodářské soutěže). Plzeň: Aleš Čeněk. 2020. 806 s. ISBN 978-80-7380-795-5 v koedici Ostrava: KEY Publishing, 2020, ISBN 978-80-7418-334-8. ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
+      "content": "Doporučená:Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Common Agricultural Policy in the EU and the Ministry of Agriculture in the Czech Republic with a Focus on Environmental and Consumer Protection and Support for Smes. EU agrarian Law. Volume 11 (2022): Issue 1 (July 2022). eISSN1339-9276. https://sciendo.com/issue/EUAL/11/1Jurčík, R. Pandemic Law to solve to the Covid situaton and its amendment focusing on business. Proceedings of the 15th International Scientific Conference: European Forum of Entrepreneurship 2022. „Coronavirus Pandemic Effects on the Economy in 2022: A Challenge for New Opportunities“. NEWTON College. Prague 2022. ISBN 978-80-87325-58-2. https://www.efp.cz/en/, pp. 70-75. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Jurčík, R. Změny v oblasti veřejných zakázek v roce 2021 se zaměřením na ekologické, sociální a inovační aspekty a na menší formálnost v těchto specifických obchodněprávních vztazích. Obchodněprávní revue 2/2021. str. 124-127. ISSN 1803-6554. Nakladatelství C. H. Beck, s. r. o.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.Schelle, D., Tauchen, J. (eds). Encyklopedie českých právních dějin, svaźek XIX. U-Ú (Jurčík, R. autor hesla Úřad pro ochranu hospodářské soutěže). Plzeň: Aleš Čeněk. 2020. 806 s. ISBN 978-80-7380-795-5 v koedici Ostrava: KEY Publishing, 2020, ISBN 978-80-7418-334-8. ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
+      "content": "Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Zaměření ZBVP Veřejné politiky, prezenční forma, počáteční období ZS 2023/2024Specializace EBMCR Management cestovního ruchu, prezenční forma, počáteční období ZS 2024/2025Program B-F Finance, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Obor B-EKMAN-SE Sociálně ekonomický obor, prezenční forma, počáteční období ZS 2019/2020Obor B-EKMAN-MCR Management cestovního ruchu, prezenční forma, počáteční období ZS 2019/2020Program B-F Finance, prezenční forma, počáteční období ZS 2020/2021Specializace EBMCR Management cestovního ruchu, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -353,7 +353,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -373,11 +373,11 @@
     },
     {
       "label": "Type of delivery:",
-      "content": "usual"
+      "content": "usual, consulting"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "It is possible to study."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -397,7 +397,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (examiner, instructor, lecturer, supervisor, tutor)JUDr. Jana Mervartová (examiner, instructor)"
+      "content": "doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (examiner, instructor, lecturer, supervisor, tutor)JUDr. Jana Mervartová (instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -453,11 +453,11 @@
     },
     {
       "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "10 %"
+      "content": "50 %"
     },
     {
       "label": "Term paper",
-      "content": "10 %"
+      "content": "20 %"
     },
     {
       "label": "Presentation or defence",
@@ -469,7 +469,7 @@
     },
     {
       "label": "Final oral exam",
-      "content": "60 %"
+      "content": "10 %"
     },
     {
       "label": "Total",
@@ -477,7 +477,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -493,7 +493,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -517,11 +517,11 @@
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: usual"
+      "content": "Type of delivery: usual, consulting"
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: It is possible to study."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -541,7 +541,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (examiner, instructor, lecturer, supervisor, tutor)JUDr. Jana Mervartová (examiner, instructor)"
+      "content": "Teachers: doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M. (examiner, instructor, lecturer, supervisor, tutor)JUDr. Jana Mervartová (instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -549,7 +549,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50Q31J. MervartováSeminarEven week30Monday9.00-10.50Q31J. MervartováSeminarOdd week30Monday13.00-14.50Q31J. MervartováSeminarEven week30Monday13.00-14.50Q31J. MervartováSeminarOdd week30Wednesday11.00-12.50Q03R. JurčíkLectureEvery week170"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50Q03R. Jurčík, J. MervartováLectureEvery week170Wednesday13.00-13.50Q41R. JurčíkSeminarEvery week30Wednesday14.00-14.50Q41R. JurčíkSeminarEvery week30Wednesday16.00-16.50Q14R. JurčíkSeminarEvery week30Wednesday17.00-17.50Q14R. JurčíkSeminarEvery week30Wednesday18.00-18.50Q14R. JurčíkSeminarEvery week30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -641,7 +641,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam35 hpreparation for regular assessment30 hpreparation for regular testing28 hpreparation of presentation5 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice14 hconsultation52 hpreparation for exam72 hTotal166 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -649,25 +649,25 @@
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper10 %Presentation or defence10 %Mid-term test(s)10 %Final oral exam60 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation50 %Term paper20 %Presentation or defence10 %Mid-term test(s)10 %Final oral exam10 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Recommended:Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Common Agricultural Policy in the EU and the Ministry of Agriculture in the Czech Republic with a Focus on Environmental and Consumer Protection and Support for Smes. EU agrarian Law. Volume 11 (2022): Issue 1 (July 2022). eISSN1339-9276. https://sciendo.com/issue/EUAL/11/1Jurčík, R. Pandemic Law to solve to the Covid situaton and its amendment focusing on business. Proceedings of the 15th International Scientific Conference: European Forum of Entrepreneurship 2022. „Coronavirus Pandemic Effects on the Economy in 2022: A Challenge for New Opportunities“. NEWTON College. Prague 2022. ISBN 978-80-87325-58-2. https://www.efp.cz/en/, pp. 70-75. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Jurčík, R. Změny v oblasti veřejných zakázek v roce 2021 se zaměřením na ekologické, sociální a inovační aspekty a na menší formálnost v těchto specifických obchodněprávních vztazích. Obchodněprávní revue 2/2021. str. 124-127. ISSN 1803-6554. Nakladatelství C. H. Beck, s. r. o.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.Schelle, D., Tauchen, J. (eds). Encyklopedie českých právních dějin, svaźek XIX. U-Ú (Jurčík, R. autor hesla Úřad pro ochranu hospodářské soutěže). Plzeň: Aleš Čeněk. 2020. 806 s. ISBN 978-80-7380-795-5 v koedici Ostrava: KEY Publishing, 2020, ISBN 978-80-7418-334-8. ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
+      "content": "Recommended:Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
     },
     {
       "label": "[section] Recommended:",
-      "content": "Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Common Agricultural Policy in the EU and the Ministry of Agriculture in the Czech Republic with a Focus on Environmental and Consumer Protection and Support for Smes. EU agrarian Law. Volume 11 (2022): Issue 1 (July 2022). eISSN1339-9276. https://sciendo.com/issue/EUAL/11/1Jurčík, R. Pandemic Law to solve to the Covid situaton and its amendment focusing on business. Proceedings of the 15th International Scientific Conference: European Forum of Entrepreneurship 2022. „Coronavirus Pandemic Effects on the Economy in 2022: A Challenge for New Opportunities“. NEWTON College. Prague 2022. ISBN 978-80-87325-58-2. https://www.efp.cz/en/, pp. 70-75. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Jurčík, R. Změny v oblasti veřejných zakázek v roce 2021 se zaměřením na ekologické, sociální a inovační aspekty a na menší formálnost v těchto specifických obchodněprávních vztazích. Obchodněprávní revue 2/2021. str. 124-127. ISSN 1803-6554. Nakladatelství C. H. Beck, s. r. o.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.Schelle, D., Tauchen, J. (eds). Encyklopedie českých právních dějin, svaźek XIX. U-Ú (Jurčík, R. autor hesla Úřad pro ochranu hospodářské soutěže). Plzeň: Aleš Čeněk. 2020. 806 s. ISBN 978-80-7380-795-5 v koedici Ostrava: KEY Publishing, 2020, ISBN 978-80-7418-334-8. ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
+      "content": "Hammerschmid, G. (ed.). Public Administration Reforms in Europe, Great Britain: Edvard Elgar Publlishing. 2017.Janků, M., akol. (Jurčík spoluautor) Základy práva pro posluchače neprávnických fakult. In: Základy práva pro posluchače neprávnických fakult. 6. vyd. Beckovy mezioborové učebnice. Praha: C.H.Beck, 2016. s. 3—115. ISBN 978-80-7400-611-1. Jurčík, R. Veřejná správa v moderním pojetí jako služba veřejnosti. Ostrava: Key Publishing, 2020.Pomahač, R. Veřejná správa. Praha: C.H.Beck, 2012.ÚZ Ústava ČR, ÚZ Obce a kraje a ÚZ Správní řád."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Scope ZBVP Public Policies, full-time form, initial period WS 2023/2024Track EBMCR Tourism Management, full-time form, initial period WS 2024/2025Programme B-F Finances, full-time form, initial period WS 2024/2025"
+      "content": "Field of study B-EKMAN-SE Social economics, full-time form, initial period WS 2019/2020Field of study B-EKMAN-MCR Tourism Management, full-time form, initial period WS 2019/2020Programme B-F Finances, full-time form, initial period WS 2020/2021Track EBMCR Tourism Management, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:46:45",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:01:56",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

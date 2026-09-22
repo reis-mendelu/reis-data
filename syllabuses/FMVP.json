@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -27,7 +27,7 @@
     },
     {
       "label": "Stupeň studia:",
-      "content": "magisterský navazující"
+      "content": "bakalářský; magisterský navazující"
     },
     {
       "label": "Typ předmětu:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "-"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "prof. Ing. Jaroslav Buchar, DrSc. (přednášející)Ing. Adam Kovál (cvičící)doc. Ing. Vojtěch Kumbár, Ph.D. (přednášející)doc. Ing. Šárka Nedomová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Barbora Odehnalová (cvičící)"
+      "content": "prof. Ing. Jaroslav Buchar, DrSc. (přednášející)doc. Ing. Vojtěch Kumbár, Ph.D. (přednášející)doc. Ing. Šárka Nedomová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,59 +67,123 @@
     },
     {
       "label": "1.",
-      "content": "Základní veličiny, jednotky a definice, specifikace problematiky. (dotace 2/2)"
+      "content": "Základní veličiny, jednotky a definice, specifikace problematiky (dotace 2/0)"
     },
     {
       "label": "2.",
-      "content": "Reologie – definice, Debořino číslo, základní rozdělení. (dotace 2/2)"
+      "content": "Reologie (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice"
+    },
+    {
+      "label": "b.",
+      "content": "Debořino číslo"
+    },
+    {
+      "label": "c.",
+      "content": "Základní rozdělení"
     },
     {
       "label": "3.",
-      "content": "Mechanické vlastnosti tuhých potravin – elasticita a modul pružnosti. (dotace 2/2)"
+      "content": "Mechanické vlastnosti tuhých potravin (dotace 4/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Elasticita a modul pružnosti,"
+    },
+    {
+      "label": "b.",
+      "content": "Pevnost"
+    },
+    {
+      "label": "c.",
+      "content": "Lomová houževnatost"
     },
     {
       "label": "4.",
-      "content": "Mechanické vlastnosti tuhých potravin – pevnost, lomová houževnatost. (dotace 2/2)"
+      "content": "Mechanické vlastnosti viskoelastických potravin (dotace 3/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Reologické modely"
+    },
+    {
+      "label": "b.",
+      "content": "Konstitutivní rovnice"
     },
     {
       "label": "5.",
-      "content": "Mechanické vlastnosti viskoelastických potravin – reologické modely, konstitutivní rovnice. (dotace 2/2)"
+      "content": "Mechanické vlastnosti tekutých potravin (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Viskozita"
+    },
+    {
+      "label": "b.",
+      "content": "Navier Stokesovy rovnice"
+    },
+    {
+      "label": "c.",
+      "content": "Numerické metody"
     },
     {
       "label": "6.",
-      "content": "Mechanické vlastnosti tekutých potravin – viskozita, metody. (dotace 2/2)"
+      "content": "Reologické chování potravinářských výrobků (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Extruze"
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba povlaků"
     },
     {
       "label": "7.",
-      "content": "Metody hodnocení mechanických vlastností polotuhých a tuhých potravin. (dotace 2/2)"
+      "content": "Tepelné vlastnosti, tepelné vodivosti a tepelné kapacity, metody jejich měření (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Sdílení tepla"
+    },
+    {
+      "label": "b.",
+      "content": "Experimetální metody hodnocení"
+    },
+    {
+      "label": "c.",
+      "content": "Numerická simulace"
     },
     {
       "label": "8.",
-      "content": "Mechanické vlastnosti tekutých potravin – Navier-Stokesovy rovnice, numerické metody. (dotace 2/2)"
+      "content": "Optické vlastnosti, stanovení barvy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vliv skladování"
+    },
+    {
+      "label": "b.",
+      "content": "Metody hodnocení"
     },
     {
       "label": "9.",
-      "content": "Reologické chování potravinářských výrobků – extruze, tvorba povlaků. (dotace 2/2)"
+      "content": "Elektrické a dielektrické vlastnosti potravin (dotace 2/2)"
     },
     {
-      "label": "10.",
-      "content": "Tepelné vlastnosti, tepelné vodivosti a tepelné kapacity, metody jejich měření – sdílení tepla, experimentální metody hodnocení, numerická simulace. (dotace 2/2)"
+      "label": "a.",
+      "content": "Hodnocení kvality potravin"
     },
     {
-      "label": "11.",
-      "content": "Optické vlastnosti, stanovení barvy – vliv skladování, metody hodnocení. (dotace 2/2)"
+      "label": "b.",
+      "content": "Sterilace"
     },
     {
-      "label": "12.",
-      "content": "Elektrické a dielektrické vlastnosti potravin – hodnocení kvality potravin, sterilace, mikrovlnný ohřev. (dotace 2/2)"
-    },
-    {
-      "label": "13.",
-      "content": "Vlastnosti rostlinných surovin a potravin (ovoce, cereálie, zelenina). (dotace 2/2)"
-    },
-    {
-      "label": "14.",
-      "content": "Vlastnosti živočišných surovin a potravin (maso, masné výrobky, mléko a mléčné výrobky, vejce). (dotace 2/2)"
+      "label": "c.",
+      "content": "Mikrovlnný ohřev"
     },
     {
       "label": "Celkem",
@@ -127,7 +191,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2020/2021, LS 2019/2020 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -143,7 +207,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -159,7 +223,7 @@
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
-      "content": "Stupeň studia: magisterský navazující"
+      "content": "Stupeň studia: bakalářský; magisterský navazující"
     },
     {
       "label": "[section] Stupeň studia:",
@@ -171,7 +235,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: -"
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -191,7 +255,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: prof. Ing. Jaroslav Buchar, DrSc. (přednášející)Ing. Adam Kovál (cvičící)doc. Ing. Vojtěch Kumbár, Ph.D. (přednášející)doc. Ing. Šárka Nedomová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Barbora Odehnalová (cvičící)"
+      "content": "Vyučující: prof. Ing. Jaroslav Buchar, DrSc. (přednášející)doc. Ing. Vojtěch Kumbár, Ph.D. (přednášející)doc. Ing. Šárka Nedomová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -199,7 +263,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPoznámkaPondělí7.00-8.50M01.03Š. Nedomová, A. Kovál, B. OdehnalováCvičeníKaždý týden16Výuka bude probíhat v bloku dle instrukcí vyučujícího.Pondělí17.00-18.50M01.03Š. Nedomová, A. Kovál, B. OdehnalováCvičeníKaždý týden16Výuka bude probíhat v bloku dle instrukcí vyučujícího.Čtvrtek9.00-10.50M1.09Š. Nedomová, J. Buchar, V. KumbárPřednáškaKaždý týden64"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý15.00-16.50M01.03N-PVCŠ. NedomováCvičeníKaždý týden18Středa13.00-14.50M01.03N-TPŠ. NedomováCvičeníKaždý týden18Středa15.00-16.50M01.03N-TPŠ. NedomováCvičeníKaždý týden18Čtvrtek11.00-12.50M2.11Š. Nedomová, V. KumbárPřednáškaKaždý týden50"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -207,111 +271,87 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Základní veličiny, jednotky a definice, specifikace problematiky. (dotace 2/2)2.Reologie – definice, Debořino číslo, základní rozdělení. (dotace 2/2)3.Mechanické vlastnosti tuhých potravin – elasticita a modul pružnosti. (dotace 2/2)4.Mechanické vlastnosti tuhých potravin – pevnost, lomová houževnatost. (dotace 2/2)5.Mechanické vlastnosti viskoelastických potravin – reologické modely, konstitutivní rovnice. (dotace 2/2)6.Mechanické vlastnosti tekutých potravin – viskozita, metody. (dotace 2/2)7.Metody hodnocení mechanických vlastností polotuhých a tuhých potravin. (dotace 2/2)8.Mechanické vlastnosti tekutých potravin – Navier-Stokesovy rovnice, numerické metody. (dotace 2/2)9.Reologické chování potravinářských výrobků – extruze, tvorba povlaků. (dotace 2/2)10.Tepelné vlastnosti, tepelné vodivosti a tepelné kapacity, metody jejich měření – sdílení tepla, experimentální metody hodnocení, numerická simulace. (dotace 2/2)11.Optické vlastnosti, stanovení barvy – vliv skladování, metody hodnocení. (dotace 2/2)12.Elektrické a dielektrické vlastnosti potravin – hodnocení kvality potravin, sterilace, mikrovlnný ohřev. (dotace 2/2)13.Vlastnosti rostlinných surovin a potravin (ovoce, cereálie, zelenina). (dotace 2/2)14.Vlastnosti živočišných surovin a potravin (maso, masné výrobky, mléko a mléčné výrobky, vejce). (dotace 2/2)"
+      "content": "1.Základní veličiny, jednotky a definice, specifikace problematiky (dotace 2/0)2.Reologie (dotace 2/0) a.Definiceb.Debořino čísloc.Základní rozdělení3.Mechanické vlastnosti tuhých potravin (dotace 4/3) a.Elasticita a modul pružnosti,b.Pevnostc.Lomová houževnatost4.Mechanické vlastnosti viskoelastických potravin (dotace 3/1) a.Reologické modelyb.Konstitutivní rovnice5.Mechanické vlastnosti tekutých potravin (dotace 4/2) a.Viskozitab.Navier Stokesovy rovnicec.Numerické metody6.Reologické chování potravinářských výrobků (dotace 2/2) a.Extruzeb.Tvorba povlaků7.Tepelné vlastnosti, tepelné vodivosti a tepelné kapacity, metody jejich měření (dotace 3/0) a.Sdílení teplab.Experimetální metody hodnoceníc.Numerická simulace8.Optické vlastnosti, stanovení barvy (dotace 2/2) a.Vliv skladováníb.Metody hodnocení9.Elektrické a dielektrické vlastnosti potravin (dotace 2/2) a.Hodnocení kvality potravinb.Sterilacec.Mikrovlnný ohřev"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Reologie – definice, Debořino číslo, základní rozdělení. (dotace 2/2)"
+      "content": "2.Reologie (dotace 2/0)"
     },
     {
-      "label": "[section] Základní veličiny, jednotky a definice, specifikace problematiky.",
-      "content": "2.Reologie – definice, Debořino číslo, základní rozdělení. (dotace 2/2)"
+      "label": "[section] Základní veličiny, jednotky a definice, specifikace problematiky",
+      "content": "2.Reologie (dotace 2/0)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Mechanické vlastnosti tuhých potravin – elasticita a modul pružnosti. (dotace 2/2)"
+      "content": "a.Definiceb.Debořino čísloc.Základní rozdělení"
     },
     {
-      "label": "[section] Reologie – definice, Debořino číslo, základní rozdělení.",
-      "content": "3.Mechanické vlastnosti tuhých potravin – elasticita a modul pružnosti. (dotace 2/2)"
+      "label": "[section] Reologie",
+      "content": "a.Definiceb.Debořino čísloc.Základní rozdělení"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Mechanické vlastnosti tuhých potravin – pevnost, lomová houževnatost. (dotace 2/2)"
+      "content": "a.Elasticita a modul pružnosti,b.Pevnostc.Lomová houževnatost"
     },
     {
-      "label": "[section] Mechanické vlastnosti tuhých potravin – elasticita a modul pružnosti.",
-      "content": "4.Mechanické vlastnosti tuhých potravin – pevnost, lomová houževnatost. (dotace 2/2)"
+      "label": "[section] Mechanické vlastnosti tuhých potravin",
+      "content": "a.Elasticita a modul pružnosti,b.Pevnostc.Lomová houževnatost"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Mechanické vlastnosti viskoelastických potravin – reologické modely, konstitutivní rovnice. (dotace 2/2)"
+      "content": "a.Reologické modelyb.Konstitutivní rovnice"
     },
     {
-      "label": "[section] Mechanické vlastnosti tuhých potravin – pevnost, lomová houževnatost.",
-      "content": "5.Mechanické vlastnosti viskoelastických potravin – reologické modely, konstitutivní rovnice. (dotace 2/2)"
+      "label": "[section] Mechanické vlastnosti viskoelastických potravin",
+      "content": "a.Reologické modelyb.Konstitutivní rovnice"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Mechanické vlastnosti tekutých potravin – viskozita, metody. (dotace 2/2)"
+      "content": "a.Viskozitab.Navier Stokesovy rovnicec.Numerické metody"
     },
     {
-      "label": "[section] Mechanické vlastnosti viskoelastických potravin – reologické modely, konstitutivní rovnice.",
-      "content": "6.Mechanické vlastnosti tekutých potravin – viskozita, metody. (dotace 2/2)"
+      "label": "[section] Mechanické vlastnosti tekutých potravin",
+      "content": "a.Viskozitab.Navier Stokesovy rovnicec.Numerické metody"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Metody hodnocení mechanických vlastností polotuhých a tuhých potravin. (dotace 2/2)"
+      "content": "a.Extruzeb.Tvorba povlaků"
     },
     {
-      "label": "[section] Mechanické vlastnosti tekutých potravin – viskozita, metody.",
-      "content": "7.Metody hodnocení mechanických vlastností polotuhých a tuhých potravin. (dotace 2/2)"
+      "label": "[section] Reologické chování potravinářských výrobků",
+      "content": "a.Extruzeb.Tvorba povlaků"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Mechanické vlastnosti tekutých potravin – Navier-Stokesovy rovnice, numerické metody. (dotace 2/2)"
+      "content": "a.Sdílení teplab.Experimetální metody hodnoceníc.Numerická simulace"
     },
     {
-      "label": "[section] Metody hodnocení mechanických vlastností polotuhých a tuhých potravin.",
-      "content": "8.Mechanické vlastnosti tekutých potravin – Navier-Stokesovy rovnice, numerické metody. (dotace 2/2)"
+      "label": "[section] Tepelné vlastnosti, tepelné vodivosti a tepelné kapacity, metody jejich měření",
+      "content": "a.Sdílení teplab.Experimetální metody hodnoceníc.Numerická simulace"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Reologické chování potravinářských výrobků – extruze, tvorba povlaků. (dotace 2/2)"
+      "content": "a.Vliv skladováníb.Metody hodnocení"
     },
     {
-      "label": "[section] Mechanické vlastnosti tekutých potravin – Navier-Stokesovy rovnice, numerické metody.",
-      "content": "9.Reologické chování potravinářských výrobků – extruze, tvorba povlaků. (dotace 2/2)"
+      "label": "[section] Optické vlastnosti, stanovení barvy",
+      "content": "a.Vliv skladováníb.Metody hodnocení"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Tepelné vlastnosti, tepelné vodivosti a tepelné kapacity, metody jejich měření – sdílení tepla, experimentální metody hodnocení, numerická simulace. (dotace 2/2)"
+      "content": "a.Hodnocení kvality potravinb.Sterilacec.Mikrovlnný ohřev"
     },
     {
-      "label": "[section] Reologické chování potravinářských výrobků – extruze, tvorba povlaků.",
-      "content": "10.Tepelné vlastnosti, tepelné vodivosti a tepelné kapacity, metody jejich měření – sdílení tepla, experimentální metody hodnocení, numerická simulace. (dotace 2/2)"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "11.Optické vlastnosti, stanovení barvy – vliv skladování, metody hodnocení. (dotace 2/2)"
-    },
-    {
-      "label": "[section] 11.",
-      "content": "12.Elektrické a dielektrické vlastnosti potravin – hodnocení kvality potravin, sterilace, mikrovlnný ohřev. (dotace 2/2)"
-    },
-    {
-      "label": "[section] Optické vlastnosti, stanovení barvy – vliv skladování, metody hodnocení.",
-      "content": "12.Elektrické a dielektrické vlastnosti potravin – hodnocení kvality potravin, sterilace, mikrovlnný ohřev. (dotace 2/2)"
-    },
-    {
-      "label": "[section] 12.",
-      "content": "13.Vlastnosti rostlinných surovin a potravin (ovoce, cereálie, zelenina). (dotace 2/2)"
-    },
-    {
-      "label": "[section] 13.",
-      "content": "14.Vlastnosti živočišných surovin a potravin (maso, masné výrobky, mléko a mléčné výrobky, vejce). (dotace 2/2)"
-    },
-    {
-      "label": "[section] Vlastnosti rostlinných surovin a potravin (ovoce, cereálie, zelenina).",
-      "content": "14.Vlastnosti živočišných surovin a potravin (maso, masné výrobky, mléko a mléčné výrobky, vejce). (dotace 2/2)"
+      "label": "[section] Elektrické a dielektrické vlastnosti potravin",
+      "content": "a.Hodnocení kvality potravinb.Sterilacec.Mikrovlnný ohřev"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení6 hlaboratorní práce12 hpříprava na zkoušku54 hpříprava prezentace6 hzpracování projektů48 hzpracování seminární práce12 hCelkem166 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení6 hlaboratorní práce12 hpříprava na zkoušku54 hzpracování seminární práce12 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "K zápočtu vypracování seminární práce a účast na cvičení, protokol z laboratorního cvičení. Zkouška ústní na minimálně 70 %."
+      "content": "K zápočtu vypracování seminární práce a účast cvičení. Zkouška ústní v délce 30 min na minimálně 70 %. Protokol z laboratorního cvičení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -319,19 +359,19 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1. vyd. Brno: Mendelova univerzita v Brně, 116 s. ISBN 978-80-7375-521-8.Doporučená:CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 s. ISBN 1-56676-963-9.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 s. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze.KILCAST, David, ed. Texture in food. Volume 2., Solid foods. Cambridge: Woodhead Publishing, c2004. ISBN 1-85573-836-8.MCKENNA, Brian M., ed. Texture in food. Volume 1., Semi-solid foods. Cambridge: Woodhead Publishing, c2003. ISBN 1-85573-708-6. RAO, M. A., Syed S. H. RIZVI, Ashim K. DATTA a Jasim AHMED, ed. Engineering properties of foods. Fourth edition. Boca Raton: CRC Press, 2014. ISBN 9781466556430."
+      "content": "Základní:SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1. vyd. Brno: Mendelova univerzita v Brně, 116 s. ISBN 978-80-7375-521-8.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 s. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze. Materiály a člověk: Netradiční úvod do současné materiálové vědy. 1999. 1. vyd. Praha: Encyklopedický dům, 228 s. ISBN 80-86044-13-0.Doporučená:CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 s. ISBN 1-56676-963-9."
     },
     {
       "label": "[section] Základní:",
-      "content": "SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1. vyd. Brno: Mendelova univerzita v Brně, 116 s. ISBN 978-80-7375-521-8."
+      "content": "SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1. vyd. Brno: Mendelova univerzita v Brně, 116 s. ISBN 978-80-7375-521-8.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 s. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze. Materiály a člověk: Netradiční úvod do současné materiálové vědy. 1999. 1. vyd. Praha: Encyklopedický dům, 228 s. ISBN 80-86044-13-0."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 s. ISBN 1-56676-963-9.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 s. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze.KILCAST, David, ed. Texture in food. Volume 2., Solid foods. Cambridge: Woodhead Publishing, c2004. ISBN 1-85573-836-8.MCKENNA, Brian M., ed. Texture in food. Volume 1., Semi-solid foods. Cambridge: Woodhead Publishing, c2003. ISBN 1-85573-708-6. RAO, M. A., Syed S. H. RIZVI, Ashim K. DATTA a Jasim AHMED, ed. Engineering properties of foods. Fourth edition. Boca Raton: CRC Press, 2014. ISBN 9781466556430."
+      "content": "CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 s. ISBN 1-56676-963-9."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace SNJBP Jakost a bezpečnost potravin, prezenční forma, počáteční období ZS 2023/2024Specializace SNTP Technologie potravin, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Obor N-TP-JZP Jakost a zdravotní nezávadnost potravin, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -353,7 +393,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -365,7 +405,7 @@
     },
     {
       "label": "Level of course:",
-      "content": "master continuing"
+      "content": "bachelor; master continuing"
     },
     {
       "label": "Course type:",
@@ -377,7 +417,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "-"
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -397,7 +437,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "prof. Ing. Jaroslav Buchar, DrSc. (lecturer)Ing. Adam Kovál (instructor)doc. Ing. Vojtěch Kumbár, Ph.D. (lecturer)doc. Ing. Šárka Nedomová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Barbora Odehnalová (instructor)"
+      "content": "prof. Ing. Jaroslav Buchar, DrSc. (lecturer)doc. Ing. Vojtěch Kumbár, Ph.D. (lecturer)doc. Ing. Šárka Nedomová, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -405,59 +445,135 @@
     },
     {
       "label": "1.",
-      "content": "Main quantities, units and definitions, specification of the topic. (allowance 2/2)"
+      "content": "Main quantities. Units and definitions. Problem statement. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Survey of units"
+    },
+    {
+      "label": "b.",
+      "content": "Selected fundamental constants in SI units"
     },
     {
       "label": "2.",
-      "content": "Rheology - definition, Deborah's number, basic distribution. (allowance 2/2)"
+      "content": "Introduction to rheology (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Definition"
+    },
+    {
+      "label": "b.",
+      "content": "Deborah number"
+    },
+    {
+      "label": "c.",
+      "content": "Examples of application in food production"
     },
     {
       "label": "3.",
-      "content": "Mechanical properties of solid foods – elasticity and modulus of elasticity. (allowance 2/2)"
+      "content": "Mechanical properties of solid food (allowance 4/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Elasticity"
+    },
+    {
+      "label": "b.",
+      "content": "Strength"
+    },
+    {
+      "label": "c.",
+      "content": "Young`s modulus, Poissson`s ratio, bioyield, fracture toughness"
     },
     {
       "label": "4.",
-      "content": "Mechanical properties of solid foods - strength, fracture toughness. (allowance 2/2)"
+      "content": "Mechanical properties of viscoelastic food (allowance 3/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Main rheological models"
+    },
+    {
+      "label": "b.",
+      "content": "Constitutive equations, stress relaxation"
     },
     {
       "label": "5.",
-      "content": "Mechanical properties of viscoelastic foods - rheological models, constitutive equations. (allowance 2/2)"
+      "content": "Rheology of liquid food (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Viscosity"
+    },
+    {
+      "label": "b.",
+      "content": "Flow properties"
+    },
+    {
+      "label": "c.",
+      "content": "Numerical simulation of some problems"
     },
     {
       "label": "6.",
-      "content": "Mechanical properties of liquid foods - viscosity, methods. (allowance 2/2)"
+      "content": "Food rheology (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Extrusion"
+    },
+    {
+      "label": "b.",
+      "content": "Films"
     },
     {
       "label": "7.",
-      "content": "Methods of evaluation of mechanical properties of semi-solid and solid foods. (allowance 2/2)"
+      "content": "Thermal properties, heat conduction and heat capacity, measurement techniques (allowance 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Heat transfer"
+    },
+    {
+      "label": "b.",
+      "content": "Experimental methods"
+    },
+    {
+      "label": "c.",
+      "content": "Numerical simulation, food sterilisation"
     },
     {
       "label": "8.",
-      "content": "Mechanical properties of liquid foods - Navier-Stokes equations, numerical methods. (allowance 2/2)"
+      "content": "Optical properties, colorimetry (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The influence of food storage"
+    },
+    {
+      "label": "b.",
+      "content": "Colour system"
     },
     {
       "label": "9.",
-      "content": "Rheological behaviour of food products - extrusion, coating formation. (allowance 2/2)"
+      "content": "Electrical and dielectrical properties (allowance 2/2)"
     },
     {
-      "label": "10.",
-      "content": "Thermal properties, thermal conductivity and heat capacity, methods of their measurement - heat sharing, experimental methods of evaluation, numerical simulation. (allowance 2/2)"
+      "label": "a.",
+      "content": "Food quality evaluation"
     },
     {
-      "label": "11.",
-      "content": "Optical properties, determination of colour - effect of storage, methods of evaluation. (allowance 2/2)"
+      "label": "b.",
+      "content": "Pulsed electrical field and microorganism deactivation"
     },
     {
-      "label": "12.",
-      "content": "Electrical and dielectric properties of food - food quality assessment, sterilization, microwave heating. (allowance 2/2)"
+      "label": "c.",
+      "content": "Evaluation of food composition"
     },
     {
-      "label": "13.",
-      "content": "Properties of vegetable raw materials and foods (fruits, cereals, vegetables). (allowance 2/2)"
-    },
-    {
-      "label": "14.",
-      "content": "Properties of animal raw materials and foods (meat, meat products, dairy products, eggs). (allowance 2/2)"
+      "label": "d.",
+      "content": "Microwave heating"
     },
     {
       "label": "Total",
@@ -465,7 +581,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2020/2021, SS 2019/2020 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -481,7 +597,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -497,7 +613,7 @@
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
-      "content": "Level of course: master continuing"
+      "content": "Level of course: bachelor; master continuing"
     },
     {
       "label": "[section] Level of course:",
@@ -509,7 +625,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: -"
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -529,7 +645,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: prof. Ing. Jaroslav Buchar, DrSc. (lecturer)Ing. Adam Kovál (instructor)doc. Ing. Vojtěch Kumbár, Ph.D. (lecturer)doc. Ing. Šárka Nedomová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Barbora Odehnalová (instructor)"
+      "content": "Teachers: prof. Ing. Jaroslav Buchar, DrSc. (lecturer)doc. Ing. Vojtěch Kumbár, Ph.D. (lecturer)doc. Ing. Šárka Nedomová, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -537,7 +653,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityNoteMonday7.00-8.50M01.03Š. Nedomová, A. Kovál, B. OdehnalováSeminarEvery week16Výuka bude probíhat v bloku dle instrukcí vyučujícího.Monday17.00-18.50M01.03Š. Nedomová, A. Kovál, B. OdehnalováSeminarEvery week16Výuka bude probíhat v bloku dle instrukcí vyučujícího.Thursday9.00-10.50M1.09Š. Nedomová, J. Buchar, V. KumbárLectureEvery week64"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday15.00-16.50M01.03N-PVCŠ. NedomováSeminarEvery week18Wednesday13.00-14.50M01.03N-TPŠ. NedomováSeminarEvery week18Wednesday15.00-16.50M01.03N-TPŠ. NedomováSeminarEvery week18Thursday11.00-12.50M2.11Š. Nedomová, V. KumbárLectureEvery week50"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -545,111 +661,87 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Main quantities, units and definitions, specification of the topic. (allowance 2/2)2.Rheology - definition, Deborah's number, basic distribution. (allowance 2/2)3.Mechanical properties of solid foods – elasticity and modulus of elasticity. (allowance 2/2)4.Mechanical properties of solid foods - strength, fracture toughness. (allowance 2/2)5.Mechanical properties of viscoelastic foods - rheological models, constitutive equations. (allowance 2/2)6.Mechanical properties of liquid foods - viscosity, methods. (allowance 2/2)7.Methods of evaluation of mechanical properties of semi-solid and solid foods. (allowance 2/2)8.Mechanical properties of liquid foods - Navier-Stokes equations, numerical methods. (allowance 2/2)9.Rheological behaviour of food products - extrusion, coating formation. (allowance 2/2)10.Thermal properties, thermal conductivity and heat capacity, methods of their measurement - heat sharing, experimental methods of evaluation, numerical simulation. (allowance 2/2)11.Optical properties, determination of colour - effect of storage, methods of evaluation. (allowance 2/2)12.Electrical and dielectric properties of food - food quality assessment, sterilization, microwave heating. (allowance 2/2)13.Properties of vegetable raw materials and foods (fruits, cereals, vegetables). (allowance 2/2)14.Properties of animal raw materials and foods (meat, meat products, dairy products, eggs). (allowance 2/2)"
+      "content": "1.Main quantities. Units and definitions. Problem statement. (allowance 2/0) a.Survey of unitsb.Selected fundamental constants in SI units2.Introduction to rheology (allowance 2/0) a.Definitionb.Deborah numberc.Examples of application in food production3.Mechanical properties of solid food (allowance 4/3) a.Elasticityb.Strengthc.Young`s modulus, Poissson`s ratio, bioyield, fracture toughness4.Mechanical properties of viscoelastic food (allowance 3/1) a.Main rheological modelsb.Constitutive equations, stress relaxation5.Rheology of liquid food (allowance 4/2) a.Viscosityb.Flow propertiesc.Numerical simulation of some problems6.Food rheology (allowance 2/2) a.Extrusionb.Films7.Thermal properties, heat conduction and heat capacity, measurement techniques (allowance 3/0) a.Heat transferb.Experimental methodsc.Numerical simulation, food sterilisation8.Optical properties, colorimetry (allowance 2/2) a.The influence of food storageb.Colour system9.Electrical and dielectrical properties (allowance 2/2) a.Food quality evaluationb.Pulsed electrical field and microorganism deactivationc.Evaluation of food compositiond.Microwave heating"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Rheology - definition, Deborah's number, basic distribution. (allowance 2/2)"
+      "content": "a.Survey of unitsb.Selected fundamental constants in SI units"
     },
     {
-      "label": "[section] Main quantities, units and definitions, specification of the topic.",
-      "content": "2.Rheology - definition, Deborah's number, basic distribution. (allowance 2/2)"
+      "label": "[section] Main  quantities. Units and definitions. Problem statement.",
+      "content": "a.Survey of unitsb.Selected fundamental constants in SI units"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Mechanical properties of solid foods – elasticity and modulus of elasticity. (allowance 2/2)"
+      "content": "a.Definitionb.Deborah numberc.Examples of application in food production"
     },
     {
-      "label": "[section] Rheology - definition, Deborah's number, basic distribution.",
-      "content": "3.Mechanical properties of solid foods – elasticity and modulus of elasticity. (allowance 2/2)"
+      "label": "[section] Introduction to rheology",
+      "content": "a.Definitionb.Deborah numberc.Examples of application in food production"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Mechanical properties of solid foods - strength, fracture toughness. (allowance 2/2)"
+      "content": "a.Elasticityb.Strengthc.Young`s modulus, Poissson`s ratio, bioyield, fracture toughness"
     },
     {
-      "label": "[section] Mechanical properties of solid foods – elasticity and modulus of elasticity.",
-      "content": "4.Mechanical properties of solid foods - strength, fracture toughness. (allowance 2/2)"
+      "label": "[section] Mechanical properties of solid food",
+      "content": "a.Elasticityb.Strengthc.Young`s modulus, Poissson`s ratio, bioyield, fracture toughness"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Mechanical properties of viscoelastic foods - rheological models, constitutive equations. (allowance 2/2)"
+      "content": "a.Main rheological modelsb.Constitutive equations, stress relaxation"
     },
     {
-      "label": "[section] Mechanical properties of solid foods - strength, fracture toughness.",
-      "content": "5.Mechanical properties of viscoelastic foods - rheological models, constitutive equations. (allowance 2/2)"
+      "label": "[section] Mechanical properties of viscoelastic food",
+      "content": "a.Main rheological modelsb.Constitutive equations, stress relaxation"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Mechanical properties of liquid foods - viscosity, methods. (allowance 2/2)"
+      "content": "a.Viscosityb.Flow propertiesc.Numerical simulation of some problems"
     },
     {
-      "label": "[section] Mechanical properties of viscoelastic foods - rheological models, constitutive equations.",
-      "content": "6.Mechanical properties of liquid foods - viscosity, methods. (allowance 2/2)"
+      "label": "[section] Rheology of liquid food",
+      "content": "a.Viscosityb.Flow propertiesc.Numerical simulation of some problems"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Methods of evaluation of mechanical properties of semi-solid and solid foods. (allowance 2/2)"
+      "content": "a.Extrusionb.Films"
     },
     {
-      "label": "[section] Mechanical properties of liquid foods - viscosity, methods.",
-      "content": "7.Methods of evaluation of mechanical properties of semi-solid and solid foods. (allowance 2/2)"
+      "label": "[section] Food rheology",
+      "content": "a.Extrusionb.Films"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Mechanical properties of liquid foods - Navier-Stokes equations, numerical methods. (allowance 2/2)"
+      "content": "a.Heat transferb.Experimental methodsc.Numerical simulation, food sterilisation"
     },
     {
-      "label": "[section] Methods of evaluation of mechanical properties of semi-solid and solid foods.",
-      "content": "8.Mechanical properties of liquid foods - Navier-Stokes equations, numerical methods. (allowance 2/2)"
+      "label": "[section] Thermal properties, heat conduction and heat capacity, measurement techniques",
+      "content": "a.Heat transferb.Experimental methodsc.Numerical simulation, food sterilisation"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Rheological behaviour of food products - extrusion, coating formation. (allowance 2/2)"
+      "content": "a.The influence of food storageb.Colour system"
     },
     {
-      "label": "[section] Mechanical properties of liquid foods - Navier-Stokes equations, numerical methods.",
-      "content": "9.Rheological behaviour of food products - extrusion, coating formation. (allowance 2/2)"
+      "label": "[section] Optical properties, colorimetry",
+      "content": "a.The influence of food storageb.Colour system"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Thermal properties, thermal conductivity and heat capacity, methods of their measurement - heat sharing, experimental methods of evaluation, numerical simulation. (allowance 2/2)"
+      "content": "a.Food quality evaluationb.Pulsed electrical field and microorganism deactivationc.Evaluation of food compositiond.Microwave heating"
     },
     {
-      "label": "[section] Rheological behaviour of food products - extrusion, coating formation.",
-      "content": "10.Thermal properties, thermal conductivity and heat capacity, methods of their measurement - heat sharing, experimental methods of evaluation, numerical simulation. (allowance 2/2)"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "11.Optical properties, determination of colour - effect of storage, methods of evaluation. (allowance 2/2)"
-    },
-    {
-      "label": "[section] 11.",
-      "content": "12.Electrical and dielectric properties of food - food quality assessment, sterilization, microwave heating. (allowance 2/2)"
-    },
-    {
-      "label": "[section] Optical properties, determination of colour - effect of storage, methods of evaluation.",
-      "content": "12.Electrical and dielectric properties of food - food quality assessment, sterilization, microwave heating. (allowance 2/2)"
-    },
-    {
-      "label": "[section] 12.",
-      "content": "13.Properties of vegetable raw materials and foods (fruits, cereals, vegetables). (allowance 2/2)"
-    },
-    {
-      "label": "[section] 13.",
-      "content": "14.Properties of animal raw materials and foods (meat, meat products, dairy products, eggs). (allowance 2/2)"
-    },
-    {
-      "label": "[section] Properties of vegetable raw materials and foods (fruits, cereals, vegetables).",
-      "content": "14.Properties of animal raw materials and foods (meat, meat products, dairy products, eggs). (allowance 2/2)"
+      "label": "[section] Electrical and dielectrical properties",
+      "content": "a.Food quality evaluationb.Pulsed electrical field and microorganism deactivationc.Evaluation of food compositiond.Microwave heating"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice6 hlaboratory work12 hpreparation for exam54 hpreparation of presentation6 helaboration and execution of projects48 hwriting of seminar paper12 hTotal166 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice6 hlaboratory work12 hpreparation for exam54 hwriting of seminar paper12 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "For credit, the preparation of a seminar paper and participation in the exercise, the protocol of the laboratory exercise. Oral examination at a minimum of 70%."
+      "content": "Submission of a seminar work and participation in exercises. 30 min oral exam with minimal requirements 70 % for passing. Laboratory work minutes."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -657,25 +749,25 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1st ed. Brno: Mendelova univerzita v Brně, 116 p. ISBN 978-80-7375-521-8.Recommended:CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 p. ISBN 1-56676-963-9.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 p. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze.KILCAST, David, ed. Texture in food. Volume 2., Solid foods. Cambridge: Woodhead Publishing, c2004. ISBN 1-85573-836-8.MCKENNA, Brian M., ed. Texture in food. Volume 1., Semi-solid foods. Cambridge: Woodhead Publishing, c2003. ISBN 1-85573-708-6. RAO, M. A., Syed S. H. RIZVI, Ashim K. DATTA a Jasim AHMED, ed. Engineering properties of foods. Fourth edition. Boca Raton: CRC Press, 2014. ISBN 9781466556430."
+      "content": "Basic:SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1st ed. Brno: Mendelova univerzita v Brně, 116 p. ISBN 978-80-7375-521-8.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 p. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze. Materiály a člověk: Netradiční úvod do současné materiálové vědy. 1999. 1st ed. Praha: Encyklopedický dům, 228 p. ISBN 80-86044-13-0.Recommended:CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 p. ISBN 1-56676-963-9."
     },
     {
       "label": "[section] Basic:",
-      "content": "SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1st ed. Brno: Mendelova univerzita v Brně, 116 p. ISBN 978-80-7375-521-8."
+      "content": "SEVERA, Libor; NEDOMOVÁ, Šárka. 2011. Fyzikální a mechanické vlastnosti potravin. 1st ed. Brno: Mendelova univerzita v Brně, 116 p. ISBN 978-80-7375-521-8.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 p. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze. Materiály a člověk: Netradiční úvod do současné materiálové vědy. 1999. 1st ed. Praha: Encyklopedický dům, 228 p. ISBN 80-86044-13-0."
     },
     {
       "label": "[section] Recommended:",
-      "content": "CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 p. ISBN 1-56676-963-9.BUCHAR, Jaroslav; SEVERA, Libor. 1999. Fyzika I. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 159 p. ISBN 80-7157-382-5.BLAHOVEC, Jiří. 1993. Zemědělské materiály. ČZU v Praze.KILCAST, David, ed. Texture in food. Volume 2., Solid foods. Cambridge: Woodhead Publishing, c2004. ISBN 1-85573-836-8.MCKENNA, Brian M., ed. Texture in food. Volume 1., Semi-solid foods. Cambridge: Woodhead Publishing, c2003. ISBN 1-85573-708-6. RAO, M. A., Syed S. H. RIZVI, Ashim K. DATTA a Jasim AHMED, ed. Engineering properties of foods. Fourth edition. Boca Raton: CRC Press, 2014. ISBN 9781466556430."
+      "content": "CHANES, Jorge Welti. 2002. Engineering and Food for the 21st Century. London,New York,Washington,D.C1: CRC Press LLC, 1055 p. ISBN 1-56676-963-9."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track SNJBP Food Quality and Safety, full-time form, initial period WS 2023/2024Track SNTP Food Technology, full-time form, initial period WS 2023/2024"
+      "content": "Field of study C-FT-FQS Food Quality and Safety, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:08:56",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:23:54",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

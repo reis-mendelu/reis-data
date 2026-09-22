@@ -3,9 +3,10 @@
   "name": "Pedologie",
   "nameCs": "Pedologie",
   "nameEn": "Pedology",
-  "predmetId": "156687",
+  "predmetId": "161692",
   "facultyId": 38,
   "aliases": [
+    "PED",
     "PEDOL"
   ],
   "teachers": [
@@ -13,6 +14,45 @@
     "doc. Mgr. Aleš Bajer, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161692;lang=cz",
+      "totalPass": 31,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 13,
+            "C": 13,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 13,
+            "C": 13,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -237,5 +277,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

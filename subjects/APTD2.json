@@ -3,13 +3,63 @@
   "name": "Aplikovaná tvorba v dílně II",
   "nameCs": "Aplikovaná tvorba v dílně II",
   "nameEn": "Applied Creation in the Workshop II",
-  "predmetId": "159692",
+  "predmetId": "164890",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
-    "Bc. Pavel Sršeň, DiS."
+    "Bc. Pavel Sršeň, DiS.",
+    "Ing. Michal Vodák"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=164890;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -60,5 +110,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

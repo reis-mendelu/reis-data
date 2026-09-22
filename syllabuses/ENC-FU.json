@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -31,11 +31,11 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "volitelný"
+      "content": "povinný"
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Dr. Ing. Jana Gláserová (garant)"
+      "content": "Dr. Ing. Jana Gláserová (cvičící, garant, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -218,8 +218,12 @@
       "content": "rozdělení"
     },
     {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -235,7 +239,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -243,11 +247,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (6 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -255,11 +259,11 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "content": "Typ předmětu: povinný"
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -283,7 +287,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Dr. Ing. Jana Gláserová (garant)"
+      "content": "Vyučující: Dr. Ing. Jana Gláserová (cvičící, garant, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -291,7 +295,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q28J. GláserováCvičeníKaždý týden31Pondělí15.00-16.50Q22J. GláserováPřednáškaKaždý týden74Úterý7.00-8.50Q28J. GláserováCvičeníKaždý týden31"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -383,7 +387,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení28 h0 hkonzultace0 h16 hpříprava na zkoušku62 h132 hpříprava na průběžné hodnocení50 h0 hzpracování seminární práce0 h20 hCelkem168 h168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace0 hpříprava na zkoušku62 hpříprava na průběžné hodnocení50 hzpracování seminární práce0 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -391,7 +395,7 @@
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+      "content": "DruhPrezenční studiumCelkem0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -407,7 +411,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "Specializace SNUC Účetnictví, prezenční forma, počáteční období LS 2020/2021Program N-UAD Účetnictví a daně, prezenční forma, počáteční období ZS 2021/2022Specializace SNUC Účetnictví, prezenční forma, počáteční období ZS 2021/2022Program N-UAD Účetnictví a daně, prezenční forma, počáteční období LS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -429,7 +433,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -437,7 +441,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -445,11 +449,11 @@
     },
     {
       "label": "Course type:",
-      "content": "optional"
+      "content": "required"
     },
     {
       "label": "Type of delivery:",
-      "content": "consulting"
+      "content": "usual"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
@@ -473,7 +477,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Dr. Ing. Jana Gláserová (supervisor)"
+      "content": "Dr. Ing. Jana Gláserová (examiner, instructor, lecturer, supervisor, tutor)"
     },
     {
       "label": "Prerequisites:",
@@ -628,8 +632,12 @@
       "content": "divisions"
     },
     {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -645,7 +653,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -653,11 +661,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (6 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -665,11 +673,11 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: optional"
+      "content": "Course type: required"
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: consulting"
+      "content": "Type of delivery: usual"
     },
     {
       "label": "[section] Type of delivery:",
@@ -693,7 +701,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Dr. Ing. Jana Gláserová (supervisor)"
+      "content": "Teachers: Dr. Ing. Jana Gláserová (examiner, instructor, lecturer, supervisor, tutor)"
     },
     {
       "label": "[section] Teachers:",
@@ -701,7 +709,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "-- item not defined --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50Q28J. GláserováSeminarEvery week31Monday15.00-16.50Q22J. GláserováLectureEvery week74Tuesday7.00-8.50Q28J. GláserováSeminarEvery week31"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -793,7 +801,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice28 h0 hconsultation0 h16 hpreparation for exam62 h132 hpreparation for regular assessment50 h0 hwriting of seminar paper0 h20 hTotal168 h168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation0 hpreparation for exam62 hpreparation for regular assessment50 hwriting of seminar paper0 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -801,7 +809,7 @@
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+      "content": "Requirement typeDaily attendanceTotal0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -817,13 +825,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "-- item not defined --"
+      "content": "Track SNUC Accounting, full-time form, initial period SS 2020/2021Programme C-UAD Accounting and Taxes, full-time form, initial period WS 2021/2022Track SNUC Accounting, full-time form, initial period WS 2021/2022Programme C-UAD Accounting and Taxes, full-time form, initial period SS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:56:52",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:13:12",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

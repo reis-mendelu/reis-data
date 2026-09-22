@@ -3,7 +3,7 @@
   "name": "Environmentální politika v mezinárodním prostředí",
   "nameCs": "Environmentální politika v mezinárodním prostředí",
   "nameEn": "Environmental Policy in International Environment",
-  "predmetId": "157601",
+  "predmetId": "162699",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "Mgr. Ludmila Floková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162699;lang=cz",
+      "totalPass": 109,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 4,
+            "C": 1,
+            "D": 3,
+            "E": 5,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 20,
+            "C": 27,
+            "D": 31,
+            "E": 18,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 109,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 16,
+            "C": 25,
+            "D": 27,
+            "E": 11,
+            "F": 16,
+            "FN": 4
+          },
+          "pass": 90,
+          "fail": 20
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -386,5 +453,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

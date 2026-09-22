@@ -3,7 +3,7 @@
   "name": "Projektový management",
   "nameCs": "Projektový management",
   "nameEn": "Project Management",
-  "predmetId": "156327",
+  "predmetId": "163220",
   "facultyId": 2,
   "aliases": [
     "PJM",
@@ -15,6 +15,73 @@
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=163220;lang=cz",
+      "totalPass": 29,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 2,
+            "C": 4,
+            "D": 5,
+            "E": 3,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 29,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 2,
+            "C": 4,
+            "D": 5,
+            "E": 3,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 29,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -211,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

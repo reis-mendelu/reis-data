@@ -3,13 +3,66 @@
   "name": "Zemědělství v regionálním rozvoji",
   "nameCs": "Zemědělství v regionálním rozvoji",
   "nameEn": "Agriculture in Regional Development",
-  "predmetId": "157613",
+  "predmetId": "162683",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
     "prof. Ing. Tomáš Lošák, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162683;lang=cz",
+      "totalPass": 50,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 21,
+            "C": 6,
+            "D": 10,
+            "E": 2,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 50,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 20,
+            "C": 5,
+            "D": 10,
+            "E": 2,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 48,
+          "fail": 3
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -234,5 +287,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -1,13 +1,100 @@
 {
   "courseCode": "UAM",
-  "name": "Amazonistika",
+  "name": "Úvod do amazonistiky 1",
   "nameCs": "Amazonistika",
   "nameEn": "Amazon Studies",
-  "predmetId": "157773",
+  "predmetId": "163037",
   "facultyId": 23,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163037;lang=cz",
+      "totalPass": 24,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 1
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 24,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 21,
+            "nezap": 1,
+            "zapNedost": 2
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -232,5 +319,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

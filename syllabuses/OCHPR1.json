@@ -7,7 +7,7 @@
     },
     {
       "label": "Název předmětu česky:",
-      "content": "Ochrana přírody a krajiny"
+      "content": "Ochrana přírody a krajiny 1"
     },
     {
       "label": "Název předmětu anglicky:",
@@ -15,11 +15,11 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
-      "content": "zkouška (5 kreditů)"
+      "content": "zkouška (6 kreditů)"
     },
     {
       "label": "Forma výuky a dotace hodin:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět je možné studovat během zahraniční mobility, předpokladem je nastavení individuálního studijního plánu."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Petra Fukalová, Ph.D."
+      "content": "doc. Ing. Hana Středová, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Mgr. Marcel Bartoš (cvičící)Ing. Petra Fukalová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Ing. Petra Fukalová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Hana Středová, Ph.D. (garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,87 +67,347 @@
     },
     {
       "label": "1.",
-      "content": "Vznik a vývoj ochrany přírody ve světě (dotace 2/2)"
+      "content": "Vznik a vývoj ochrany přírody ve světě a v ČR (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj přístupu k ochraně přírody a krajiny"
+    },
+    {
+      "label": "b.",
+      "content": "Filozofické a další aspekty ochrany přírody a krajiny"
+    },
+    {
+      "label": "c.",
+      "content": "Globální problémy ochrany přírody"
+    },
+    {
+      "label": "d.",
+      "content": "Historie ochrany přírody a krajiny v českých zemích"
+    },
+    {
+      "label": "e.",
+      "content": "Vývoj a současnost právní úpravy ochrany přírody a krajiny"
+    },
+    {
+      "label": "f.",
+      "content": "Současný stav ochrany přírody a krajiny v ČR"
     },
     {
       "label": "2.",
-      "content": "Mezinárodní organizace a programy v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "Strategie péče o přírodu a krajinu (strategické dokumenty, úmluvy, politika, organizace) (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Státní program ochrany přírody a krajiny ČR"
+    },
+    {
+      "label": "b.",
+      "content": "Mezinárodní dohody v ochraně přírody a krajiny (Úmluva o krajině, CBD, CITES, UNESCO, Bonnská, Bernská, Ramsarská a další)"
+    },
+    {
+      "label": "c.",
+      "content": "Mezinárodní organizace a programy v ochraně přírody a krajiny (IUCN, WWF, UNEP, MaB"
     },
     {
       "label": "3.",
       "content": "Biodiverzita a její ochrana (dotace 2/2)"
     },
     {
+      "label": "a.",
+      "content": "Pojem a úrovně biodiverzity"
+    },
+    {
+      "label": "b.",
+      "content": "Stav biodiverzity na Zemi a v ČR"
+    },
+    {
+      "label": "c.",
+      "content": "Důvody snižování a ohrožení biodiverzity"
+    },
+    {
+      "label": "d.",
+      "content": "Strategie druhové ochrany (ochrana ex situ a in situ)"
+    },
+    {
+      "label": "e.",
+      "content": "Ekonomická hodnota biodiverzity"
+    },
+    {
       "label": "4.",
-      "content": "Mezinárodní dohody v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "Obecná ochrana přírody a krajiny – územní a druhová (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Významné krajinné prvky (VKP)"
+    },
+    {
+      "label": "b.",
+      "content": "Územní systémy ekologické stability (ÚSES)"
+    },
+    {
+      "label": "c.",
+      "content": "Obecná ochrana rostlin a živočichů"
+    },
+    {
+      "label": "d.",
+      "content": "Ochrana ptáků"
+    },
+    {
+      "label": "e.",
+      "content": "Ochrana dřevin"
+    },
+    {
+      "label": "f.",
+      "content": "Paleontologické nálezy"
+    },
+    {
+      "label": "g.",
+      "content": "Ochrana jeskyní"
+    },
+    {
+      "label": "h.",
+      "content": "Krajinný ráz a přírodní parky"
+    },
+    {
+      "label": "i.",
+      "content": "Přechodně chráněné plochy"
+    },
+    {
+      "label": "j.",
+      "content": "Problematické otázky spojené s uplatněním této ochrany v praxi"
     },
     {
       "label": "5.",
-      "content": "Počátky, vývoj a současnost ochranářských snah v českých zemích (dotace 2/2)"
+      "content": "Obecná ochrana dřevin rostoucích mimo les (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Ochrana a význam dřevin rostoucích mimo les"
+    },
+    {
+      "label": "b.",
+      "content": "Význam dřevin v urbánním prostředí"
+    },
+    {
+      "label": "c.",
+      "content": "Význam břehové vegetace a péče o ni"
+    },
+    {
+      "label": "d.",
+      "content": "Právní rámec ochrany dřevin"
+    },
+    {
+      "label": "e.",
+      "content": "Náhradní výsadba dřevin"
     },
     {
       "label": "6.",
-      "content": "Obecná ochrana přírody a krajiny (dotace 2/2)"
+      "content": "Zvláštní ochrana přírody a krajiny - druhová (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Památné stromy a jejich ochranná pásma"
+    },
+    {
+      "label": "b.",
+      "content": "Zvláště chráněné druhy rostlin a živočichů"
+    },
+    {
+      "label": "c.",
+      "content": "Záchranné programy a záchranné stanice"
+    },
+    {
+      "label": "d.",
+      "content": "Červené a černé seznamy"
+    },
+    {
+      "label": "e.",
+      "content": "Problematika ochrany populací"
+    },
+    {
+      "label": "f.",
+      "content": "Obchodování s ohroženými druhy"
     },
     {
       "label": "7.",
-      "content": "Zvláštní ochrana přírody a krajiny (dotace 2/2)"
-    },
-    {
-      "label": "8.",
       "content": "Zvláště chráněná území (dotace 2/2)"
     },
     {
-      "label": "9.",
+      "label": "a.",
+      "content": "Kategorie zvláště chráněných území a rozdíly mezi nimi"
+    },
+    {
+      "label": "b.",
+      "content": "Proces vyhlašování a zonace"
+    },
+    {
+      "label": "c.",
+      "content": "Základní a bližší ochranné podmínky"
+    },
+    {
+      "label": "d.",
+      "content": "Ochranná pásma"
+    },
+    {
+      "label": "e.",
+      "content": "Plány péče"
+    },
+    {
+      "label": "f.",
+      "content": "Značení v terénu"
+    },
+    {
+      "label": "g.",
+      "content": "Problematika tzv. smluvní ochrany"
+    },
+    {
+      "label": "h.",
+      "content": "Řešení reálných či potencionálních střetů s případnými podnikatelskými aktivitami"
+    },
+    {
+      "label": "i.",
+      "content": "Ekonomický přínos / ztráta z existence zvláště chráněných území"
+    },
+    {
+      "label": "8.",
       "content": "Managementová opatření v ochraně přírody a krajiny (dotace 2/2)"
     },
     {
-      "label": "10.",
+      "label": "a.",
+      "content": "Strategie managementových zásahů"
+    },
+    {
+      "label": "b.",
+      "content": "Plány péče"
+    },
+    {
+      "label": "c.",
+      "content": "Základní managementové postupy"
+    },
+    {
+      "label": "d.",
+      "content": "Praktické příklady managementových zásahů"
+    },
+    {
+      "label": "9.",
       "content": "Subjekty působící v ochraně přírody a krajiny (dotace 2/2)"
     },
     {
-      "label": "11.",
+      "label": "a.",
+      "content": "Orgány státní správy"
+    },
+    {
+      "label": "b.",
+      "content": "Orgány samosprávy (obce a kraje)"
+    },
+    {
+      "label": "c.",
+      "content": "Veřejnost (občanská sdružení, obecně prospěšné společnosti, nadace a další)"
+    },
+    {
+      "label": "d.",
+      "content": "Stráž přírody"
+    },
+    {
+      "label": "e.",
+      "content": "AOPK ČR"
+    },
+    {
+      "label": "10.",
       "content": "Evropská legislativa a Natura 2000 (dotace 2/2)"
     },
     {
-      "label": "12.",
-      "content": "Průzkumné a výzkumné práce v ochraně přírody, povinnosti investorů (dotace 2/2)"
+      "label": "a.",
+      "content": "Směrnice o ptácích"
     },
     {
-      "label": "13.",
+      "label": "b.",
+      "content": "Směrnice o stanovištích"
+    },
+    {
+      "label": "c.",
+      "content": "Natura 2000"
+    },
+    {
+      "label": "d.",
+      "content": "Ptačí oblasti"
+    },
+    {
+      "label": "e.",
+      "content": "Evropsky významné lokality"
+    },
+    {
+      "label": "f.",
+      "content": "Příklady reálných střetů"
+    },
+    {
+      "label": "11.",
+      "content": "Povinnosti investorů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Inventarizace, mapování, monitoring"
+    },
+    {
+      "label": "b.",
+      "content": "Hodnocení vlivu zamýšleného zásahu na chráněné zájmy ochrany přírody a krajiny"
+    },
+    {
+      "label": "c.",
+      "content": "Hodnocení záměrů a koncepcí na ptačí oblasti a evropsky významné lokality"
+    },
+    {
+      "label": "d.",
+      "content": "Posuzování vlivů záměrů na životní prostředí"
+    },
+    {
+      "label": "e.",
+      "content": "Autorizované osoby"
+    },
+    {
+      "label": "f.",
+      "content": "Použití v praxi"
+    },
+    {
+      "label": "12.",
       "content": "Vlastnická práva a jejich omezení a ekonomické nástroje v ochraně přírody (dotace 2/2)"
     },
     {
-      "label": "14.",
-      "content": "Odpovědnost v ochraně přírody a krajiny (dotace 2/2)"
+      "label": "a.",
+      "content": "Vlastnická práva a jejich omezení"
     },
     {
-      "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "10 %"
+      "label": "b.",
+      "content": "Daňová zne/z-výhodnění"
     },
     {
-      "label": "Vypracování semestrální práce",
-      "content": "10 %"
+      "label": "c.",
+      "content": "Poskytování náhrad za ztížení zemědělského nebo lesního hospodaření"
     },
     {
-      "label": "Absolvování závěrečného testu",
-      "content": "35 %"
+      "label": "d.",
+      "content": "Uzavírání dohod ke zlepšování přírodního a krajinného prostředí"
     },
     {
-      "label": "Absolvování závěrečné ústní zkoušky",
-      "content": "35 %"
+      "label": "e.",
+      "content": "Hrazení škody způsobené vybranými zvláště chráněnými živočichy"
     },
     {
-      "label": "absolovování exkurzí",
-      "content": "10 %"
+      "label": "f.",
+      "content": "Využitelné dotační tituly"
+    },
+    {
+      "label": "g.",
+      "content": "Správně-právní odpovědnost – odpovědnost za přestupky v ochraně přírody"
     },
     {
       "label": "Celkem",
-      "content": "100 %"
+      "content": "0 %"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, ZS 2021/2022, ZS 2020/2021, ZS 2019/2020 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -155,7 +415,7 @@
     },
     {
       "label": "[section] Kód předmětu:",
-      "content": "Název předmětu česky: Ochrana přírody a krajiny"
+      "content": "Název předmětu česky: Ochrana přírody a krajiny 1"
     },
     {
       "label": "[section] Název předmětu česky:",
@@ -163,18 +423,18 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
-      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
       "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
-      "label": "[section] zkouška (5 kreditů)",
+      "label": "[section] zkouška (6 kreditů)",
       "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
@@ -191,7 +451,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility, předpokladem je nastavení individuálního studijního plánu."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -199,7 +459,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Petra Fukalová, Ph.D."
+      "content": "Garant předmětu: doc. Ing. Hana Středová, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -211,7 +471,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Mgr. Marcel Bartoš (cvičící)Ing. Petra Fukalová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Petra Fukalová, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Hana Středová, Ph.D. (garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -219,7 +479,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q19P. FukalováPřednáškaKaždý týden36Pondělí13.00-14.50Q110P. Fukalová, M. BartošCvičeníKaždý týden22Pondělí15.00-16.50Q110P. Fukalová, M. BartošCvičeníKaždý týden22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50Q112P. Fukalová, H. StředováPřednáškaKaždý týden22Čtvrtek13.00-14.50Q112P. FukalováCvičeníKaždý týden22"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -227,139 +487,131 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Vznik a vývoj ochrany přírody ve světě (dotace 2/2)2.Mezinárodní organizace a programy v ochraně přírody a krajiny (dotace 2/2)3.Biodiverzita a její ochrana (dotace 2/2)4.Mezinárodní dohody v ochraně přírody a krajiny (dotace 2/2)5.Počátky, vývoj a současnost ochranářských snah v českých zemích (dotace 2/2)6.Obecná ochrana přírody a krajiny (dotace 2/2)7.Zvláštní ochrana přírody a krajiny (dotace 2/2)8.Zvláště chráněná území (dotace 2/2)9.Managementová opatření v ochraně přírody a krajiny (dotace 2/2)10.Subjekty působící v ochraně přírody a krajiny (dotace 2/2)11.Evropská legislativa a Natura 2000 (dotace 2/2)12.Průzkumné a výzkumné práce v ochraně přírody, povinnosti investorů (dotace 2/2)13.Vlastnická práva a jejich omezení a ekonomické nástroje v ochraně přírody (dotace 2/2)14.Odpovědnost v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "1.Vznik a vývoj ochrany přírody ve světě a v ČR (dotace 2/2) a.Vývoj přístupu k ochraně přírody a krajinyb.Filozofické a další aspekty ochrany přírody a krajinyc.Globální problémy ochrany přírodyd.Historie ochrany přírody a krajiny v českých zemíche.Vývoj a současnost právní úpravy ochrany přírody a krajinyf.Současný stav ochrany přírody a krajiny v ČR2.Strategie péče o přírodu a krajinu (strategické dokumenty, úmluvy, politika, organizace) (dotace 2/2) a.Státní program ochrany přírody a krajiny ČRb.Mezinárodní dohody v ochraně přírody a krajiny (Úmluva o krajině, CBD, CITES, UNESCO, Bonnská, Bernská, Ramsarská a další)c.Mezinárodní organizace a programy v ochraně přírody a krajiny (IUCN, WWF, UNEP, MaB3.Biodiverzita a její ochrana (dotace 2/2) a.Pojem a úrovně biodiverzityb.Stav biodiverzity na Zemi a v ČRc.Důvody snižování a ohrožení biodiverzityd.Strategie druhové ochrany (ochrana ex situ a in situ)e.Ekonomická hodnota biodiverzity4.Obecná ochrana přírody a krajiny – územní a druhová (dotace 2/2) a.Významné krajinné prvky (VKP)b.Územní systémy ekologické stability (ÚSES)c.Obecná ochrana rostlin a živočichůd.Ochrana ptákůe.Ochrana dřevinf.Paleontologické nálezyg.Ochrana jeskyníh.Krajinný ráz a přírodní parkyi.Přechodně chráněné plochyj.Problematické otázky spojené s uplatněním této ochrany v praxi5.Obecná ochrana dřevin rostoucích mimo les (dotace 2/2) a.Ochrana a význam dřevin rostoucích mimo lesb.Význam dřevin v urbánním prostředíc.Význam břehové vegetace a péče o nid.Právní rámec ochrany dřevine.Náhradní výsadba dřevin6.Zvláštní ochrana přírody a krajiny - druhová (dotace 2/2) a.Památné stromy a jejich ochranná pásmab.Zvláště chráněné druhy rostlin a živočichůc.Záchranné programy a záchranné staniced.Červené a černé seznamye.Problematika ochrany populacíf.Obchodování s ohroženými druhy7.Zvláště chráněná území (dotace 2/2) a.Kategorie zvláště chráněných území a rozdíly mezi nimib.Proces vyhlašování a zonacec.Základní a bližší ochranné podmínkyd.Ochranná pásmae.Plány péčef.Značení v terénug.Problematika tzv. smluvní ochranyh.Řešení reálných či potencionálních střetů s případnými podnikatelskými aktivitamii.Ekonomický přínos / ztráta z existence zvláště chráněných území8.Managementová opatření v ochraně přírody a krajiny (dotace 2/2) a.Strategie managementových zásahůb.Plány péčec.Základní managementové postupyd.Praktické příklady managementových zásahů9.Subjekty působící v ochraně přírody a krajiny (dotace 2/2) a.Orgány státní správyb.Orgány samosprávy (obce a kraje)c.Veřejnost (občanská sdružení, obecně prospěšné společnosti, nadace a další)d.Stráž přírodye.AOPK ČR10.Evropská legislativa a Natura 2000 (dotace 2/2) a.Směrnice o ptácíchb.Směrnice o stanovištíchc.Natura 2000d.Ptačí oblastie.Evropsky významné lokalityf.Příklady reálných střetů11.Povinnosti investorů (dotace 2/2) a.Inventarizace, mapování, monitoringb.Hodnocení vlivu zamýšleného zásahu na chráněné zájmy ochrany přírody a krajinyc.Hodnocení záměrů a koncepcí na ptačí oblasti a evropsky významné lokalityd.Posuzování vlivů záměrů na životní prostředíe.Autorizované osobyf.Použití v praxi12.Vlastnická práva a jejich omezení a ekonomické nástroje v ochraně přírody (dotace 2/2) a.Vlastnická práva a jejich omezeníb.Daňová zne/z-výhodněníc.Poskytování náhrad za ztížení zemědělského nebo lesního hospodařeníd.Uzavírání dohod ke zlepšování přírodního a krajinného prostředíe.Hrazení škody způsobené vybranými zvláště chráněnými živočichyf.Využitelné dotační titulyg.Správně-právní odpovědnost – odpovědnost za přestupky v ochraně přírody"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Mezinárodní organizace a programy v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Vývoj přístupu k ochraně přírody a krajinyb.Filozofické a další aspekty ochrany přírody a krajinyc.Globální problémy ochrany přírodyd.Historie ochrany přírody a krajiny v českých zemíche.Vývoj a současnost právní úpravy ochrany přírody a krajinyf.Současný stav ochrany přírody a krajiny v ČR"
     },
     {
-      "label": "[section] Vznik a vývoj ochrany přírody ve světě",
-      "content": "2.Mezinárodní organizace a programy v ochraně přírody a krajiny (dotace 2/2)"
+      "label": "[section] Vznik a vývoj ochrany přírody ve světě a v ČR",
+      "content": "a.Vývoj přístupu k ochraně přírody a krajinyb.Filozofické a další aspekty ochrany přírody a krajinyc.Globální problémy ochrany přírodyd.Historie ochrany přírody a krajiny v českých zemíche.Vývoj a současnost právní úpravy ochrany přírody a krajinyf.Současný stav ochrany přírody a krajiny v ČR"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Biodiverzita a její ochrana (dotace 2/2)"
+      "content": "a.Státní program ochrany přírody a krajiny ČRb.Mezinárodní dohody v ochraně přírody a krajiny (Úmluva o krajině, CBD, CITES, UNESCO, Bonnská, Bernská, Ramsarská a další)c.Mezinárodní organizace a programy v ochraně přírody a krajiny (IUCN, WWF, UNEP, MaB"
     },
     {
-      "label": "[section] Mezinárodní organizace a programy v ochraně přírody a krajiny",
-      "content": "3.Biodiverzita a její ochrana (dotace 2/2)"
+      "label": "[section] Strategie péče o přírodu a krajinu (strategické dokumenty, úmluvy, politika, organizace)",
+      "content": "a.Státní program ochrany přírody a krajiny ČRb.Mezinárodní dohody v ochraně přírody a krajiny (Úmluva o krajině, CBD, CITES, UNESCO, Bonnská, Bernská, Ramsarská a další)c.Mezinárodní organizace a programy v ochraně přírody a krajiny (IUCN, WWF, UNEP, MaB"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Mezinárodní dohody v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Pojem a úrovně biodiverzityb.Stav biodiverzity na Zemi a v ČRc.Důvody snižování a ohrožení biodiverzityd.Strategie druhové ochrany (ochrana ex situ a in situ)e.Ekonomická hodnota biodiverzity"
     },
     {
       "label": "[section] Biodiverzita a její ochrana",
-      "content": "4.Mezinárodní dohody v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Pojem a úrovně biodiverzityb.Stav biodiverzity na Zemi a v ČRc.Důvody snižování a ohrožení biodiverzityd.Strategie druhové ochrany (ochrana ex situ a in situ)e.Ekonomická hodnota biodiverzity"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Počátky, vývoj a současnost ochranářských snah v českých zemích (dotace 2/2)"
+      "content": "a.Významné krajinné prvky (VKP)b.Územní systémy ekologické stability (ÚSES)c.Obecná ochrana rostlin a živočichůd.Ochrana ptákůe.Ochrana dřevinf.Paleontologické nálezyg.Ochrana jeskyníh.Krajinný ráz a přírodní parkyi.Přechodně chráněné plochyj.Problematické otázky spojené s uplatněním této ochrany v praxi"
     },
     {
-      "label": "[section] Mezinárodní dohody v ochraně přírody a krajiny",
-      "content": "5.Počátky, vývoj a současnost ochranářských snah v českých zemích (dotace 2/2)"
+      "label": "[section] Obecná ochrana přírody a krajiny – územní a druhová",
+      "content": "a.Významné krajinné prvky (VKP)b.Územní systémy ekologické stability (ÚSES)c.Obecná ochrana rostlin a živočichůd.Ochrana ptákůe.Ochrana dřevinf.Paleontologické nálezyg.Ochrana jeskyníh.Krajinný ráz a přírodní parkyi.Přechodně chráněné plochyj.Problematické otázky spojené s uplatněním této ochrany v praxi"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Obecná ochrana přírody a krajiny (dotace 2/2)"
+      "content": "a.Ochrana a význam dřevin rostoucích mimo lesb.Význam dřevin v urbánním prostředíc.Význam břehové vegetace a péče o nid.Právní rámec ochrany dřevine.Náhradní výsadba dřevin"
     },
     {
-      "label": "[section] Počátky, vývoj a současnost ochranářských snah v českých zemích",
-      "content": "6.Obecná ochrana přírody a krajiny (dotace 2/2)"
+      "label": "[section] Obecná ochrana dřevin rostoucích mimo les",
+      "content": "a.Ochrana a význam dřevin rostoucích mimo lesb.Význam dřevin v urbánním prostředíc.Význam břehové vegetace a péče o nid.Právní rámec ochrany dřevine.Náhradní výsadba dřevin"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Zvláštní ochrana přírody a krajiny (dotace 2/2)"
+      "content": "a.Památné stromy a jejich ochranná pásmab.Zvláště chráněné druhy rostlin a živočichůc.Záchranné programy a záchranné staniced.Červené a černé seznamye.Problematika ochrany populacíf.Obchodování s ohroženými druhy"
     },
     {
-      "label": "[section] Obecná ochrana přírody a krajiny",
-      "content": "7.Zvláštní ochrana přírody a krajiny (dotace 2/2)"
+      "label": "[section] Zvláštní ochrana přírody a krajiny - druhová",
+      "content": "a.Památné stromy a jejich ochranná pásmab.Zvláště chráněné druhy rostlin a živočichůc.Záchranné programy a záchranné staniced.Červené a černé seznamye.Problematika ochrany populacíf.Obchodování s ohroženými druhy"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Zvláště chráněná území (dotace 2/2)"
-    },
-    {
-      "label": "[section] Zvláštní ochrana přírody a krajiny",
-      "content": "8.Zvláště chráněná území (dotace 2/2)"
-    },
-    {
-      "label": "[section] 8.",
-      "content": "9.Managementová opatření v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Kategorie zvláště chráněných území a rozdíly mezi nimib.Proces vyhlašování a zonacec.Základní a bližší ochranné podmínkyd.Ochranná pásmae.Plány péčef.Značení v terénug.Problematika tzv. smluvní ochranyh.Řešení reálných či potencionálních střetů s případnými podnikatelskými aktivitamii.Ekonomický přínos / ztráta z existence zvláště chráněných území"
     },
     {
       "label": "[section] Zvláště chráněná území",
-      "content": "9.Managementová opatření v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Kategorie zvláště chráněných území a rozdíly mezi nimib.Proces vyhlašování a zonacec.Základní a bližší ochranné podmínkyd.Ochranná pásmae.Plány péčef.Značení v terénug.Problematika tzv. smluvní ochranyh.Řešení reálných či potencionálních střetů s případnými podnikatelskými aktivitamii.Ekonomický přínos / ztráta z existence zvláště chráněných území"
     },
     {
-      "label": "[section] 9.",
-      "content": "10.Subjekty působící v ochraně přírody a krajiny (dotace 2/2)"
+      "label": "[section] 8.",
+      "content": "a.Strategie managementových zásahůb.Plány péčec.Základní managementové postupyd.Praktické příklady managementových zásahů"
     },
     {
       "label": "[section] Managementová opatření v ochraně přírody a krajiny",
-      "content": "10.Subjekty působící v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Strategie managementových zásahůb.Plány péčec.Základní managementové postupyd.Praktické příklady managementových zásahů"
     },
     {
-      "label": "[section] 10.",
-      "content": "11.Evropská legislativa a Natura 2000 (dotace 2/2)"
+      "label": "[section] 9.",
+      "content": "a.Orgány státní správyb.Orgány samosprávy (obce a kraje)c.Veřejnost (občanská sdružení, obecně prospěšné společnosti, nadace a další)d.Stráž přírodye.AOPK ČR"
     },
     {
       "label": "[section] Subjekty působící v ochraně přírody a krajiny",
-      "content": "11.Evropská legislativa a Natura 2000 (dotace 2/2)"
+      "content": "a.Orgány státní správyb.Orgány samosprávy (obce a kraje)c.Veřejnost (občanská sdružení, obecně prospěšné společnosti, nadace a další)d.Stráž přírodye.AOPK ČR"
     },
     {
-      "label": "[section] 11.",
-      "content": "12.Průzkumné a výzkumné práce v ochraně přírody, povinnosti investorů (dotace 2/2)"
+      "label": "[section] 10.",
+      "content": "a.Směrnice o ptácíchb.Směrnice o stanovištíchc.Natura 2000d.Ptačí oblastie.Evropsky významné lokalityf.Příklady reálných střetů"
     },
     {
       "label": "[section] Evropská legislativa a Natura 2000",
-      "content": "12.Průzkumné a výzkumné práce v ochraně přírody, povinnosti investorů (dotace 2/2)"
+      "content": "a.Směrnice o ptácíchb.Směrnice o stanovištíchc.Natura 2000d.Ptačí oblastie.Evropsky významné lokalityf.Příklady reálných střetů"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Inventarizace, mapování, monitoringb.Hodnocení vlivu zamýšleného zásahu na chráněné zájmy ochrany přírody a krajinyc.Hodnocení záměrů a koncepcí na ptačí oblasti a evropsky významné lokalityd.Posuzování vlivů záměrů na životní prostředíe.Autorizované osobyf.Použití v praxi"
+    },
+    {
+      "label": "[section] Povinnosti investorů",
+      "content": "a.Inventarizace, mapování, monitoringb.Hodnocení vlivu zamýšleného zásahu na chráněné zájmy ochrany přírody a krajinyc.Hodnocení záměrů a koncepcí na ptačí oblasti a evropsky významné lokalityd.Posuzování vlivů záměrů na životní prostředíe.Autorizované osobyf.Použití v praxi"
     },
     {
       "label": "[section] 12.",
-      "content": "13.Vlastnická práva a jejich omezení a ekonomické nástroje v ochraně přírody (dotace 2/2)"
-    },
-    {
-      "label": "[section] Průzkumné a výzkumné práce v ochraně přírody, povinnosti investorů",
-      "content": "13.Vlastnická práva a jejich omezení a ekonomické nástroje v ochraně přírody (dotace 2/2)"
-    },
-    {
-      "label": "[section] 13.",
-      "content": "14.Odpovědnost v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Vlastnická práva a jejich omezeníb.Daňová zne/z-výhodněníc.Poskytování náhrad za ztížení zemědělského nebo lesního hospodařeníd.Uzavírání dohod ke zlepšování přírodního a krajinného prostředíe.Hrazení škody způsobené vybranými zvláště chráněnými živočichyf.Využitelné dotační titulyg.Správně-právní odpovědnost – odpovědnost za přestupky v ochraně přírody"
     },
     {
       "label": "[section] Vlastnická práva a jejich omezení a ekonomické nástroje v ochraně přírody",
-      "content": "14.Odpovědnost v ochraně přírody a krajiny (dotace 2/2)"
+      "content": "a.Vlastnická práva a jejich omezeníb.Daňová zne/z-výhodněníc.Poskytování náhrad za ztížení zemědělského nebo lesního hospodařeníd.Uzavírání dohod ke zlepšování přírodního a krajinného prostředíe.Hrazení škody způsobené vybranými zvláště chráněnými živočichyf.Využitelné dotační titulyg.Správně-právní odpovědnost – odpovědnost za přestupky v ochraně přírody"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hodborná exkurze6 hpříprava na zkoušku46 hpříprava na průběžné hodnocení14 hzpracování protokolů4 hzpracování seminární práce4 hCelkem130 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku84 hpříprava na průběžné hodnocení14 hzpracování seminární práce14 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "ZÁPOČET: Na konci semestru ve 12 týdnu 20 minutový písemný test. Pro zápočet je nezbytné získat min. 6 bodu z 10 (tj. 60 %). Další podmínkou je odevzdání seminárního úkolu nejpozději na posledním semináři a splnění individuální prezentace. ZKOUŠKA: Písemná i ústní zkouška. Písemná zkouška z přednášek, seminářů a podkladů v UIS v délce 60 minut. Minimální požadavek na ukončení je zisk 60 %, tj. 12 bodů z 20 (12 = E, 13 -- 14 = D, 15 -- 16 = C, 17 - 18 = B, 19 -- 20 = A). Nezbytnou podmínkou je správně odpovědět na první dvě otázky (!) závěrečné písemné zkoušky."
+      "content": "ZÁPOČET: Na konci semestru ve 12 týdnu 20 minutový písemný test. Pro zápočet je nezbytné získat min. 6 bodu z 10 (tj. 60 %). Další podmínkou je odevzdání seminární práce nejpozději na posledním semináři. ZKOUŠKA: Závěrečná písemná zkouška z přednášek, seminářů a podkladů v UIS v délce 60 minut. Minimální požadavek na ukončení je zisk 60 %, tj. 12 bodů z 20 (12 = E, 13 -- 14 = D, 15 -- 16 = C, 17 - 18 = B, 19 -- 20 = A). Nezbytnou podmínkou je správně odpovědět na první dvě otázky (!) závěrečné písemné zkoušky."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce10 %Absolvování závěrečného testu35 %Absolvování závěrečné ústní zkoušky35 %absolovování exkurzí10 %Celkem100 %"
+      "content": "DruhPrezenční studiumCelkem0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1. vyd. Praha: Portál, 349 s. ISBN 80-7178-552-0.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 s. ISBN 978-80-7157-886-4.KOLÁŘ, Filip a kol. 2012. Ochrana přírody z pohledu biologa: proč a jak chránit českou přírodu. 1. vyd. Praha: Dokořán, 213 s. ISBN 978-80-7363-414-8.Doporučená:SÁDLO, Jiří a kol. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3. vyd. Praha: Malá Skála, 255 s. ISBN 978-80-86776-06-4.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2. vyd. Sunderland: Sinauer Associates, 319 s. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3. vyd. Malden, MA: Blackwell Pub., 497 s. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1. vyd. Praha: Malá Skála, 161 s. ISBN 978-80-86776-07-1."
+      "content": "Základní:PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1. vyd. Praha: Portál, 349 s. ISBN 80-7178-552-0.Kol. 2007. Zákon o ochraně přírody a krajiny: komentář. 2. vyd. V Praze: C.H. Beck, 590 s. ISBN 978-80-7179-585-8.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 s. ISBN 978-80-7157-886-4.Doporučená:SÁDLO, Jiří a kol. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3. vyd. Praha: Malá Skála, 255 s. ISBN 978-80-86776-06-4.STEJSKAL, Vojtěch. 2006. Úvod do právní úpravy ochrany přírody a péče o biologickou rozmanitost: právní stav k 1.1.2006. Praha: Linde, 591 s. ISBN 80-7201-609-1.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2. vyd. Sunderland: Sinauer Associates, 319 s. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3. vyd. Malden, MA: Blackwell Pub., 497 s. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1. vyd. Praha: Malá Skála, 161 s. ISBN 978-80-86776-07-1."
     },
     {
       "label": "[section] Základní:",
-      "content": "PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1. vyd. Praha: Portál, 349 s. ISBN 80-7178-552-0.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 s. ISBN 978-80-7157-886-4.KOLÁŘ, Filip a kol. 2012. Ochrana přírody z pohledu biologa: proč a jak chránit českou přírodu. 1. vyd. Praha: Dokořán, 213 s. ISBN 978-80-7363-414-8."
+      "content": "PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1. vyd. Praha: Portál, 349 s. ISBN 80-7178-552-0.Kol. 2007. Zákon o ochraně přírody a krajiny: komentář. 2. vyd. V Praze: C.H. Beck, 590 s. ISBN 978-80-7179-585-8.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 s. ISBN 978-80-7157-886-4."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "SÁDLO, Jiří a kol. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3. vyd. Praha: Malá Skála, 255 s. ISBN 978-80-86776-06-4.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2. vyd. Sunderland: Sinauer Associates, 319 s. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3. vyd. Malden, MA: Blackwell Pub., 497 s. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1. vyd. Praha: Malá Skála, 161 s. ISBN 978-80-86776-07-1."
+      "content": "SÁDLO, Jiří a kol. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3. vyd. Praha: Malá Skála, 255 s. ISBN 978-80-86776-06-4.STEJSKAL, Vojtěch. 2006. Úvod do právní úpravy ochrany přírody a péče o biologickou rozmanitost: právní stav k 1.1.2006. Praha: Linde, 591 s. ISBN 80-7201-609-1.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2. vyd. Sunderland: Sinauer Associates, 319 s. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3. vyd. Malden, MA: Blackwell Pub., 497 s. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1. vyd. Praha: Malá Skála, 161 s. ISBN 978-80-86776-07-1."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-AEG Agroekologie, prezenční forma, počáteční období ZS 2022/2023"
+      "content": "Obor B-ZS-AE Agroekologie, prezenční forma, počáteční období ZS 2019/2020"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -373,7 +625,7 @@
     },
     {
       "label": "Course title in Czech:",
-      "content": "Ochrana přírody a krajiny"
+      "content": "Ochrana přírody a krajiny 1"
     },
     {
       "label": "Course title in English:",
@@ -381,11 +633,11 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
-      "content": "Exam (5 credits)"
+      "content": "Exam (6 credits)"
     },
     {
       "label": "Mode of delivery and timetabled classes:",
@@ -405,7 +657,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The subject can be studied during mobility abroad, provided that an individual study plan is set."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -413,7 +665,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Petra Fukalová, Ph.D."
+      "content": "doc. Ing. Hana Středová, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -425,7 +677,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Mgr. Marcel Bartoš (instructor)Ing. Petra Fukalová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Ing. Petra Fukalová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Hana Středová, Ph.D. (examiner, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -436,84 +688,352 @@
       "content": "The origins and development of nature conservation in the world (allowance 2/2)"
     },
     {
-      "label": "2.",
-      "content": "International organizations and programmes in nature conservation and landscape protection (allowance 2/2)"
+      "label": "a.",
+      "content": "Developments in the approach to nature conservation and landscape protection"
     },
     {
-      "label": "3.",
+      "label": "b.",
+      "content": "Philosophical and other aspects of nature conservation and landscape protection"
+    },
+    {
+      "label": "c.",
+      "content": "Global problems of nature conservation and landscape protection"
+    },
+    {
+      "label": "d.",
+      "content": "International organizations and programs in nature conservation and landscape protection (IUCN, WWF, UNEP, MAB)"
+    },
+    {
+      "label": "2.",
       "content": "Biodiversity and its protection (allowance 2/2)"
     },
     {
+      "label": "a.",
+      "content": "The term, levels and development of biodiversity"
+    },
+    {
+      "label": "b.",
+      "content": "Biodiversity on Earth and in the CR"
+    },
+    {
+      "label": "c.",
+      "content": "Reasons of threats and losses in biodiversity"
+    },
+    {
+      "label": "d.",
+      "content": "Strategy species protection (protection of ex situ and in situ)"
+    },
+    {
+      "label": "e.",
+      "content": "Economic value of biodiversity"
+    },
+    {
+      "label": "f.",
+      "content": "International conventions in nature conservation and landscape protection (Landscape Convention, CBD, CITES, UNESCO, Bonn, Bern, Ramsar, etc.)"
+    },
+    {
+      "label": "3.",
+      "content": "The origin, development and present nature conservation in the Czech lands (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "The history of nature conservation and landscape protection in the Czech Lands"
+    },
+    {
+      "label": "b.",
+      "content": "The development and present legislation on nature conservation and landscape protection"
+    },
+    {
+      "label": "c.",
+      "content": "\"General\" and \"special\" nature conservation and landscape protection"
+    },
+    {
+      "label": "d.",
+      "content": "\"Central list of nature conservation\""
+    },
+    {
+      "label": "e.",
+      "content": "The current state of nature conservation and landscape protection in the CR"
+    },
+    {
+      "label": "f.",
+      "content": "Problems of nature conservation and landscape protection in the CR"
+    },
+    {
       "label": "4.",
-      "content": "International conventions on nature and landscape protection (allowance 2/2)"
+      "content": "General nature conservation and landscape protection (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Significant landscape components"
+    },
+    {
+      "label": "b.",
+      "content": "System of ecological stability"
+    },
+    {
+      "label": "c.",
+      "content": "General conservation of plants and animals"
+    },
+    {
+      "label": "d.",
+      "content": "Conservation of birds"
+    },
+    {
+      "label": "e.",
+      "content": "Conservation of wood species"
+    },
+    {
+      "label": "f.",
+      "content": "Paleontological finds"
+    },
+    {
+      "label": "g.",
+      "content": "Conservation of caves"
+    },
+    {
+      "label": "h.",
+      "content": "Protection of the character of the landscape and natural parks"
+    },
+    {
+      "label": "i.",
+      "content": "Temporarily protected areas"
+    },
+    {
+      "label": "j.",
+      "content": "Problematic issues related to this protection in practice"
     },
     {
       "label": "5.",
-      "content": "The origin, development and present nature conservation in the Czech lands (allowance 2/2)"
+      "content": "Special nature conservation and landscape protection (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Noteworthy trees and their protective zones"
+    },
+    {
+      "label": "b.",
+      "content": "Specially protected plants and animals"
+    },
+    {
+      "label": "c.",
+      "content": "Rescue programmes and stations"
+    },
+    {
+      "label": "d.",
+      "content": "Red and black lists of endangered species"
+    },
+    {
+      "label": "e.",
+      "content": "Issues related with conservation of populations"
+    },
+    {
+      "label": "f.",
+      "content": "Trade of endangered species"
     },
     {
       "label": "6.",
-      "content": "General nature and landscape protection (allowance 2/2)"
+      "content": "Specially protected areas (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Categorie of specially protected areas and the differences between them"
+    },
+    {
+      "label": "b.",
+      "content": "The process of designation and zoning"
+    },
+    {
+      "label": "c.",
+      "content": "Basic and further protective conditions"
+    },
+    {
+      "label": "d.",
+      "content": "Protective zones"
+    },
+    {
+      "label": "e.",
+      "content": "Care plans"
+    },
+    {
+      "label": "f.",
+      "content": "Marking specially protected areas"
+    },
+    {
+      "label": "g.",
+      "content": "The issue of contractual protection"
+    },
+    {
+      "label": "h.",
+      "content": "Solution of real or potential conflicts with any business activities"
+    },
+    {
+      "label": "i.",
+      "content": "Economic benefit / loss from the existence of specially protected areas"
     },
     {
       "label": "7.",
-      "content": "Special Nature and landscape protection (allowance 2/2)"
+      "content": "Management measures in nature conservation and landscape protection (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Strategy of management interventions"
+    },
+    {
+      "label": "b.",
+      "content": "\"Plan of care\""
+    },
+    {
+      "label": "c.",
+      "content": "Fundamental procedures of conservation management"
+    },
+    {
+      "label": "d.",
+      "content": "Practical examples of conservation management interventions"
     },
     {
       "label": "8.",
-      "content": "Specially Protected Areas (allowance 2/2)"
-    },
-    {
-      "label": "9.",
-      "content": "Management measures in nature and landscape protection (allowance 2/2)"
-    },
-    {
-      "label": "10.",
       "content": "Participants in nature conservation and landscape protection (allowance 2/2)"
     },
     {
-      "label": "11.",
+      "label": "a.",
+      "content": "State administrative bodies"
+    },
+    {
+      "label": "b.",
+      "content": "Local authorities (municipalities and regions)"
+    },
+    {
+      "label": "c.",
+      "content": "The public (NGO, charities, foundations and others)"
+    },
+    {
+      "label": "d.",
+      "content": "Nature Guard"
+    },
+    {
+      "label": "e.",
+      "content": "AOPK ČR"
+    },
+    {
+      "label": "9.",
       "content": "European legislation and Nature 2000 (allowance 2/2)"
     },
     {
+      "label": "a.",
+      "content": "Birds Directive"
+    },
+    {
+      "label": "b.",
+      "content": "Habitats Directive"
+    },
+    {
+      "label": "c.",
+      "content": "Nature 2000"
+    },
+    {
+      "label": "d.",
+      "content": "Birds Areas"
+    },
+    {
+      "label": "e.",
+      "content": "Sites of European Importance"
+    },
+    {
+      "label": "f.",
+      "content": "Examples of real conflicts"
+    },
+    {
+      "label": "10.",
+      "content": "Exploration and research works in nature conservation & investors obligations (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Inventory, mapping, monitoring"
+    },
+    {
+      "label": "b.",
+      "content": "Natural scientific study and biological assessments"
+    },
+    {
+      "label": "c.",
+      "content": "Assessments of plans and projects significantly affecting Bird Areas and Sites of European Importance"
+    },
+    {
+      "label": "d.",
+      "content": "Environmental impact assessment"
+    },
+    {
+      "label": "e.",
+      "content": "Authorized persons"
+    },
+    {
+      "label": "f.",
+      "content": "Use in practise"
+    },
+    {
+      "label": "11.",
+      "content": "Property rights and theirs limitations & economic instruments in nature conservation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Property rights and their limitations"
+    },
+    {
+      "label": "b.",
+      "content": "The tax (dis) advantage"
+    },
+    {
+      "label": "c.",
+      "content": "Compensation for agricultural and forestry restrictions"
+    },
+    {
+      "label": "d.",
+      "content": "Conclusion of agreements to improve the natural environment and landscape"
+    },
+    {
+      "label": "e.",
+      "content": "Payment of damages by selected specially protected animals"
+    },
+    {
+      "label": "f.",
+      "content": "Applicable grant titles"
+    },
+    {
       "label": "12.",
-      "content": "Surveys and research works in nature conservation, investor obligations (allowance 2/2)"
+      "content": "Responsibility in area of nature conservation and landscape protection (allowance 2/2)"
     },
     {
-      "label": "13.",
-      "content": "Property rights and their limitations, economic instruments in nature conservation (allowance 2/2)"
+      "label": "a.",
+      "content": "The term \"responsibility\" and its forms"
     },
     {
-      "label": "14.",
-      "content": "Responsibility for illegal actions in nature protection and landscape (allowance 2/2)"
+      "label": "b.",
+      "content": "The administrative law liability"
     },
     {
-      "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "10 %"
+      "label": "c.",
+      "content": "Liability for offenses"
     },
     {
-      "label": "Term paper",
-      "content": "10 %"
+      "label": "d.",
+      "content": "Criminal liability"
     },
     {
-      "label": "Final test",
-      "content": "35 %"
+      "label": "e.",
+      "content": "Civil liability"
     },
     {
-      "label": "Final oral exam",
-      "content": "35 %"
-    },
-    {
-      "label": "Special requirements and details",
-      "content": "10 %"
+      "label": "f.",
+      "content": "Liability for environmental damage"
     },
     {
       "label": "Total",
-      "content": "100 %"
+      "content": "0 %"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, WS 2021/2022, WS 2020/2021, WS 2019/2020 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -521,7 +1041,7 @@
     },
     {
       "label": "[section] Course code:",
-      "content": "Course title in Czech: Ochrana přírody a krajiny"
+      "content": "Course title in Czech: Ochrana přírody a krajiny 1"
     },
     {
       "label": "[section] Course title in Czech:",
@@ -529,18 +1049,18 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
-      "content": "Mode of completion and number of credits: Exam (5 credits)"
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
     },
     {
       "label": "[section] Mode of completion and number of credits:",
       "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] Exam (5 credits)",
+      "label": "[section] Exam (6 credits)",
       "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
@@ -557,7 +1077,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The subject can be studied during mobility abroad, provided that an individual study plan is set."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -565,7 +1085,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Petra Fukalová, Ph.D."
+      "content": "Course supervisor: doc. Ing. Hana Středová, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -577,7 +1097,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Mgr. Marcel Bartoš (instructor)Ing. Petra Fukalová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Teachers: Ing. Petra Fukalová, Ph.D. (examiner, instructor, lecturer)doc. Ing. Hana Středová, Ph.D. (examiner, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -585,7 +1105,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50Q19P. FukalováLectureEvery week36Monday13.00-14.50Q110P. Fukalová, M. BartošSeminarEvery week22Monday15.00-16.50Q110P. Fukalová, M. BartošSeminarEvery week22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50Q112P. Fukalová, H. StředováLectureEvery week22Thursday13.00-14.50Q112P. FukalováSeminarEvery week22"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -593,145 +1113,137 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.The origins and development of nature conservation in the world (allowance 2/2)2.International organizations and programmes in nature conservation and landscape protection (allowance 2/2)3.Biodiversity and its protection (allowance 2/2)4.International conventions on nature and landscape protection (allowance 2/2)5.The origin, development and present nature conservation in the Czech lands (allowance 2/2)6.General nature and landscape protection (allowance 2/2)7.Special Nature and landscape protection (allowance 2/2)8.Specially Protected Areas (allowance 2/2)9.Management measures in nature and landscape protection (allowance 2/2)10.Participants in nature conservation and landscape protection (allowance 2/2)11.European legislation and Nature 2000 (allowance 2/2)12.Surveys and research works in nature conservation, investor obligations (allowance 2/2)13.Property rights and their limitations, economic instruments in nature conservation (allowance 2/2)14.Responsibility for illegal actions in nature protection and landscape (allowance 2/2)"
+      "content": "1.The origins and development of nature conservation in the world (allowance 2/2) a.Developments in the approach to nature conservation and landscape protectionb.Philosophical and other aspects of nature conservation and landscape protectionc.Global problems of nature conservation and landscape protectiond.International organizations and programs in nature conservation and landscape protection (IUCN, WWF, UNEP, MAB)2.Biodiversity and its protection (allowance 2/2) a.The term, levels and development of biodiversityb.Biodiversity on Earth and in the CRc.Reasons of threats and losses in biodiversityd.Strategy species protection (protection of ex situ and in situ)e.Economic value of biodiversityf.International conventions in nature conservation and landscape protection (Landscape Convention, CBD, CITES, UNESCO, Bonn, Bern, Ramsar, etc.)3.The origin, development and present nature conservation in the Czech lands (allowance 2/0) a.The history of nature conservation and landscape protection in the Czech Landsb.The development and present legislation on nature conservation and landscape protectionc.\"General\" and \"special\" nature conservation and landscape protectiond.\"Central list of nature conservation\"e.The current state of nature conservation and landscape protection in the CRf.Problems of nature conservation and landscape protection in the CR4.General nature conservation and landscape protection (allowance 2/2) a.Significant landscape componentsb.System of ecological stabilityc.General conservation of plants and animalsd.Conservation of birdse.Conservation of wood speciesf.Paleontological findsg.Conservation of cavesh.Protection of the character of the landscape and natural parksi.Temporarily protected areasj.Problematic issues related to this protection in practice5.Special nature conservation and landscape protection (allowance 2/2) a.Noteworthy trees and their protective zonesb.Specially protected plants and animalsc.Rescue programmes and stationsd.Red and black lists of endangered speciese.Issues related with conservation of populationsf.Trade of endangered species6.Specially protected areas (allowance 2/2) a.Categorie of specially protected areas and the differences between themb.The process of designation and zoningc.Basic and further protective conditionsd.Protective zonese.Care plansf.Marking specially protected areasg.The issue of contractual protectionh.Solution of real or potential conflicts with any business activitiesi.Economic benefit / loss from the existence of specially protected areas7.Management measures in nature conservation and landscape protection (allowance 2/0) a.Strategy of management interventionsb.\"Plan of care\"c.Fundamental procedures of conservation managementd.Practical examples of conservation management interventions8.Participants in nature conservation and landscape protection (allowance 2/2) a.State administrative bodiesb.Local authorities (municipalities and regions)c.The public (NGO, charities, foundations and others)d.Nature Guarde.AOPK ČR9.European legislation and Nature 2000 (allowance 2/2) a.Birds Directiveb.Habitats Directivec.Nature 2000d.Birds Arease.Sites of European Importancef.Examples of real conflicts10.Exploration and research works in nature conservation & investors obligations (allowance 2/2) a.Inventory, mapping, monitoringb.Natural scientific study and biological assessmentsc.Assessments of plans and projects significantly affecting Bird Areas and Sites of European Importanced.Environmental impact assessmente.Authorized personsf.Use in practise11.Property rights and theirs limitations & economic instruments in nature conservation (allowance 2/2) a.Property rights and their limitationsb.The tax (dis) advantagec.Compensation for agricultural and forestry restrictionsd.Conclusion of agreements to improve the natural environment and landscapee.Payment of damages by selected specially protected animalsf.Applicable grant titles12.Responsibility in area of nature conservation and landscape protection (allowance 2/2) a.The term \"responsibility\" and its formsb.The administrative law liabilityc.Liability for offensesd.Criminal liabilitye.Civil liabilityf.Liability for environmental damage"
     },
     {
       "label": "[section] 1.",
-      "content": "2.International organizations and programmes in nature conservation and landscape protection (allowance 2/2)"
+      "content": "a.Developments in the approach to nature conservation and landscape protectionb.Philosophical and other aspects of nature conservation and landscape protectionc.Global problems of nature conservation and landscape protectiond.International organizations and programs in nature conservation and landscape protection (IUCN, WWF, UNEP, MAB)"
     },
     {
       "label": "[section] The origins and development of nature conservation in the world",
-      "content": "2.International organizations and programmes in nature conservation and landscape protection (allowance 2/2)"
+      "content": "a.Developments in the approach to nature conservation and landscape protectionb.Philosophical and other aspects of nature conservation and landscape protectionc.Global problems of nature conservation and landscape protectiond.International organizations and programs in nature conservation and landscape protection (IUCN, WWF, UNEP, MAB)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Biodiversity and its protection (allowance 2/2)"
-    },
-    {
-      "label": "[section] International organizations and programmes in nature conservation and landscape protection",
-      "content": "3.Biodiversity and its protection (allowance 2/2)"
-    },
-    {
-      "label": "[section] 3.",
-      "content": "4.International conventions on nature and landscape protection (allowance 2/2)"
+      "content": "a.The term, levels and development of biodiversityb.Biodiversity on Earth and in the CRc.Reasons of threats and losses in biodiversityd.Strategy species protection (protection of ex situ and in situ)e.Economic value of biodiversityf.International conventions in nature conservation and landscape protection (Landscape Convention, CBD, CITES, UNESCO, Bonn, Bern, Ramsar, etc.)"
     },
     {
       "label": "[section] Biodiversity and its protection",
-      "content": "4.International conventions on nature and landscape protection (allowance 2/2)"
+      "content": "a.The term, levels and development of biodiversityb.Biodiversity on Earth and in the CRc.Reasons of threats and losses in biodiversityd.Strategy species protection (protection of ex situ and in situ)e.Economic value of biodiversityf.International conventions in nature conservation and landscape protection (Landscape Convention, CBD, CITES, UNESCO, Bonn, Bern, Ramsar, etc.)"
     },
     {
-      "label": "[section] 4.",
-      "content": "5.The origin, development and present nature conservation in the Czech lands (allowance 2/2)"
-    },
-    {
-      "label": "[section] International conventions on nature and landscape protection",
-      "content": "5.The origin, development and present nature conservation in the Czech lands (allowance 2/2)"
-    },
-    {
-      "label": "[section] 5.",
-      "content": "6.General nature and landscape protection (allowance 2/2)"
+      "label": "[section] 3.",
+      "content": "a.The history of nature conservation and landscape protection in the Czech Landsb.The development and present legislation on nature conservation and landscape protectionc.\"General\" and \"special\" nature conservation and landscape protectiond.\"Central list of nature conservation\"e.The current state of nature conservation and landscape protection in the CRf.Problems of nature conservation and landscape protection in the CR"
     },
     {
       "label": "[section] The origin, development and present nature conservation in the Czech lands",
-      "content": "6.General nature and landscape protection (allowance 2/2)"
+      "content": "a.The history of nature conservation and landscape protection in the Czech Landsb.The development and present legislation on nature conservation and landscape protectionc.\"General\" and \"special\" nature conservation and landscape protectiond.\"Central list of nature conservation\"e.The current state of nature conservation and landscape protection in the CRf.Problems of nature conservation and landscape protection in the CR"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Significant landscape componentsb.System of ecological stabilityc.General conservation of plants and animalsd.Conservation of birdse.Conservation of wood speciesf.Paleontological findsg.Conservation of cavesh.Protection of the character of the landscape and natural parksi.Temporarily protected areasj.Problematic issues related to this protection in practice"
+    },
+    {
+      "label": "[section] General nature conservation and landscape protection",
+      "content": "a.Significant landscape componentsb.System of ecological stabilityc.General conservation of plants and animalsd.Conservation of birdse.Conservation of wood speciesf.Paleontological findsg.Conservation of cavesh.Protection of the character of the landscape and natural parksi.Temporarily protected areasj.Problematic issues related to this protection in practice"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Noteworthy trees and their protective zonesb.Specially protected plants and animalsc.Rescue programmes and stationsd.Red and black lists of endangered speciese.Issues related with conservation of populationsf.Trade of endangered species"
+    },
+    {
+      "label": "[section] Special nature conservation and landscape protection",
+      "content": "a.Noteworthy trees and their protective zonesb.Specially protected plants and animalsc.Rescue programmes and stationsd.Red and black lists of endangered speciese.Issues related with conservation of populationsf.Trade of endangered species"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Special Nature and landscape protection (allowance 2/2)"
+      "content": "a.Categorie of specially protected areas and the differences between themb.The process of designation and zoningc.Basic and further protective conditionsd.Protective zonese.Care plansf.Marking specially protected areasg.The issue of contractual protectionh.Solution of real or potential conflicts with any business activitiesi.Economic benefit / loss from the existence of specially protected areas"
     },
     {
-      "label": "[section] General nature and landscape protection",
-      "content": "7.Special Nature and landscape protection (allowance 2/2)"
+      "label": "[section] Specially protected areas",
+      "content": "a.Categorie of specially protected areas and the differences between themb.The process of designation and zoningc.Basic and further protective conditionsd.Protective zonese.Care plansf.Marking specially protected areasg.The issue of contractual protectionh.Solution of real or potential conflicts with any business activitiesi.Economic benefit / loss from the existence of specially protected areas"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Specially Protected Areas (allowance 2/2)"
+      "content": "a.Strategy of management interventionsb.\"Plan of care\"c.Fundamental procedures of conservation managementd.Practical examples of conservation management interventions"
     },
     {
-      "label": "[section] Special Nature and landscape protection",
-      "content": "8.Specially Protected Areas (allowance 2/2)"
+      "label": "[section] Management measures in nature conservation and landscape protection",
+      "content": "a.Strategy of management interventionsb.\"Plan of care\"c.Fundamental procedures of conservation managementd.Practical examples of conservation management interventions"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Management measures in nature and landscape protection (allowance 2/2)"
-    },
-    {
-      "label": "[section] Specially Protected Areas",
-      "content": "9.Management measures in nature and landscape protection (allowance 2/2)"
-    },
-    {
-      "label": "[section] 9.",
-      "content": "10.Participants in nature conservation and landscape protection (allowance 2/2)"
-    },
-    {
-      "label": "[section] Management measures in nature and landscape protection",
-      "content": "10.Participants in nature conservation and landscape protection (allowance 2/2)"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "11.European legislation and Nature 2000 (allowance 2/2)"
+      "content": "a.State administrative bodiesb.Local authorities (municipalities and regions)c.The public (NGO, charities, foundations and others)d.Nature Guarde.AOPK ČR"
     },
     {
       "label": "[section] Participants in nature conservation and landscape protection",
-      "content": "11.European legislation and Nature 2000 (allowance 2/2)"
+      "content": "a.State administrative bodiesb.Local authorities (municipalities and regions)c.The public (NGO, charities, foundations and others)d.Nature Guarde.AOPK ČR"
     },
     {
-      "label": "[section] 11.",
-      "content": "12.Surveys and research works in nature conservation, investor obligations (allowance 2/2)"
+      "label": "[section] 9.",
+      "content": "a.Birds Directiveb.Habitats Directivec.Nature 2000d.Birds Arease.Sites of European Importancef.Examples of real conflicts"
     },
     {
       "label": "[section] European legislation and Nature 2000",
-      "content": "12.Surveys and research works in nature conservation, investor obligations (allowance 2/2)"
+      "content": "a.Birds Directiveb.Habitats Directivec.Nature 2000d.Birds Arease.Sites of European Importancef.Examples of real conflicts"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Inventory, mapping, monitoringb.Natural scientific study and biological assessmentsc.Assessments of plans and projects significantly affecting Bird Areas and Sites of European Importanced.Environmental impact assessmente.Authorized personsf.Use in practise"
+    },
+    {
+      "label": "[section] Exploration and research works in nature conservation & investors obligations",
+      "content": "a.Inventory, mapping, monitoringb.Natural scientific study and biological assessmentsc.Assessments of plans and projects significantly affecting Bird Areas and Sites of European Importanced.Environmental impact assessmente.Authorized personsf.Use in practise"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Property rights and their limitationsb.The tax (dis) advantagec.Compensation for agricultural and forestry restrictionsd.Conclusion of agreements to improve the natural environment and landscapee.Payment of damages by selected specially protected animalsf.Applicable grant titles"
+    },
+    {
+      "label": "[section] Property rights and theirs limitations & economic instruments in nature conservation",
+      "content": "a.Property rights and their limitationsb.The tax (dis) advantagec.Compensation for agricultural and forestry restrictionsd.Conclusion of agreements to improve the natural environment and landscapee.Payment of damages by selected specially protected animalsf.Applicable grant titles"
     },
     {
       "label": "[section] 12.",
-      "content": "13.Property rights and their limitations, economic instruments in nature conservation (allowance 2/2)"
+      "content": "a.The term \"responsibility\" and its formsb.The administrative law liabilityc.Liability for offensesd.Criminal liabilitye.Civil liabilityf.Liability for environmental damage"
     },
     {
-      "label": "[section] Surveys and research works in nature conservation, investor obligations",
-      "content": "13.Property rights and their limitations, economic instruments in nature conservation (allowance 2/2)"
-    },
-    {
-      "label": "[section] 13.",
-      "content": "14.Responsibility for illegal actions in nature protection and landscape (allowance 2/2)"
-    },
-    {
-      "label": "[section] Property rights and their limitations, economic instruments in nature conservation",
-      "content": "14.Responsibility for illegal actions in nature protection and landscape (allowance 2/2)"
+      "label": "[section] Responsibility in area of nature conservation and landscape protection",
+      "content": "a.The term \"responsibility\" and its formsb.The administrative law liabilityc.Liability for offensesd.Criminal liabilitye.Civil liabilityf.Liability for environmental damage"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hprofessional educational excursion6 hpreparation for exam46 hpreparation for regular assessment14 helaboration of reports4 hwriting of seminar paper4 hTotal130 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam84 hpreparation for regular assessment14 hwriting of seminar paper14 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "CREDIT: One 20 minutes written test from seminars in the last week of the semester. You have to receive min. 6 points from max. 10 (= 60 %). Submission of a seminar work fulfiling specified conditions during the semester (to 10th seminar) and completing an individual presentation. EXAMINATION: Final 60 minutes written examination from lectures, seminars and information in documents on UIS - the minimal requirement for passing = 60 %. You have to receive min. 12 points from max. 20 (12 = E, 13 -- 14 = D, 15 -- 16 = C, 17 - 18 = B, 19 -- 20 = A). NECESSARY CONDITION: You have always to know first 2 questions (!) of final written examination."
+      "content": "CREDIT: One 20 minutes written test from seminars at 12th week of the semester. You have to receive min. 6 points from max. 10 (= 60 %). Submission of a seminar work fulfiling specified conditions during the semester (to 12th seminar). EXAMINATION: Final 60 minutes written examination from lectures, seminars and information in documents on UIS - the minimal requirement for passing = 60 %. You have to receive min. 12 points from max. 20 (12 = E, 13 -- 14 = D, 15 -- 16 = C, 17 - 18 = B, 19 -- 20 = A). NECESSARY CONDITION: You have always to know first 2 questions (!) of final written examination."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper10 %Final test35 %Final oral exam35 %Special requirements and details10 %Total100 %"
+      "content": "Requirement typeDaily attendanceTotal0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1st ed. Praha: Portál, 349 p. ISBN 80-7178-552-0.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 p. ISBN 978-80-7157-886-4.KOLÁŘ, Filip et al. 2012. Ochrana přírody z pohledu biologa: proč a jak chránit českou přírodu. 1st ed. Praha: Dokořán, 213 p. ISBN 978-80-7363-414-8.Recommended:SÁDLO, Jiří et al. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3rd ed. Praha: Malá Skála, 255 p. ISBN 978-80-86776-06-4.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2nd ed. Sunderland: Sinauer Associates, 319 p. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3rd ed. Malden, MA: Blackwell Pub., 497 p. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1st ed. Praha: Malá Skála, 161 p. ISBN 978-80-86776-07-1."
+      "content": "Basic:PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1st ed. Praha: Portál, 349 p. ISBN 80-7178-552-0.Col. 2007. Zákon o ochraně přírody a krajiny: komentář. 2nd ed. V Praze: C.H. Beck, 590 p. ISBN 978-80-7179-585-8.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 p. ISBN 978-80-7157-886-4.Recommended:SÁDLO, Jiří et al. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3rd ed. Praha: Malá Skála, 255 p. ISBN 978-80-86776-06-4.STEJSKAL, Vojtěch. 2006. Úvod do právní úpravy ochrany přírody a péče o biologickou rozmanitost: právní stav k 1.1.2006. Praha: Linde, 591 p. ISBN 80-7201-609-1.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2nd ed. Sunderland: Sinauer Associates, 319 p. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3rd ed. Malden, MA: Blackwell Pub., 497 p. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1st ed. Praha: Malá Skála, 161 p. ISBN 978-80-86776-07-1."
     },
     {
       "label": "[section] Basic:",
-      "content": "PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1st ed. Praha: Portál, 349 p. ISBN 80-7178-552-0.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 p. ISBN 978-80-7157-886-4.KOLÁŘ, Filip et al. 2012. Ochrana přírody z pohledu biologa: proč a jak chránit českou přírodu. 1st ed. Praha: Dokořán, 213 p. ISBN 978-80-7363-414-8."
+      "content": "PRIMACK, Richard B.; KINDLMANN, Pavel. 2001. Biologické principy ochrany přírody. 1st ed. Praha: Portál, 349 p. ISBN 80-7178-552-0.Col. 2007. Zákon o ochraně přírody a krajiny: komentář. 2nd ed. V Praze: C.H. Beck, 590 p. ISBN 978-80-7179-585-8.LÁZNIČKA, Vladimír. 2007. Ochrana přírody a krajiny. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 82 p. ISBN 978-80-7157-886-4."
     },
     {
       "label": "[section] Recommended:",
-      "content": "SÁDLO, Jiří et al. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3rd ed. Praha: Malá Skála, 255 p. ISBN 978-80-86776-06-4.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2nd ed. Sunderland: Sinauer Associates, 319 p. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3rd ed. Malden, MA: Blackwell Pub., 497 p. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1st ed. Praha: Malá Skála, 161 p. ISBN 978-80-86776-07-1."
+      "content": "SÁDLO, Jiří et al. 2008. Krajina a revoluce: významné přelomy ve vývoji kulturní krajiny českých zemí. 3rd ed. Praha: Malá Skála, 255 p. ISBN 978-80-86776-06-4.STEJSKAL, Vojtěch. 2006. Úvod do právní úpravy ochrany přírody a péče o biologickou rozmanitost: právní stav k 1.1.2006. Praha: Linde, 591 p. ISBN 80-7201-609-1.PRIMACK, Richard B. 2000. A Primer of Conservation Biology. 2nd ed. Sunderland: Sinauer Associates, 319 p. ISBN 0-87893-732-3. Fundamentals of conservation biology. 2006. 3rd ed. Malden, MA: Blackwell Pub., 497 p. ISBN 978-1-4051-3545-0.HÁJEK, Pavel. 2008. Jde pevně kupředu naše zem: krajina českých zemí v období socialismu 1948-1989. 1st ed. Praha: Malá Skála, 161 p. ISBN 978-80-86776-07-1."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-AEG Agroecology, full-time form, initial period WS 2022/2023"
+      "content": "Field of study B-AS-AE Agroecology, full-time form, initial period WS 2019/2020"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:37:17",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:45:35",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

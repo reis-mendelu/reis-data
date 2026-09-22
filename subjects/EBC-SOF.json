@@ -1,9 +1,9 @@
 {
   "courseCode": "EBC-SOF",
   "name": "Společenská odpovědnost a udržitelnost organizací",
-  "nameCs": "Společenská odpovědnost a udržitelnost organizací",
-  "nameEn": "Social Responsibility and Sustainability in Business",
-  "predmetId": "153264",
+  "nameCs": "Společenská odpovědnost firem",
+  "nameEn": "Corporate Social Responsibility",
+  "predmetId": "162624",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "doc. Ing. Sylvie Formánková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162624;lang=cz",
+      "totalPass": 185,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 63,
+            "B": 28,
+            "C": 35,
+            "D": 40,
+            "E": 19,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 185,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 63,
+            "B": 28,
+            "C": 34,
+            "D": 39,
+            "E": 18,
+            "F": 4,
+            "FN": 1
+          },
+          "pass": 182,
+          "fail": 5
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -277,5 +344,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 24/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -31,11 +31,11 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "volitelný"
+      "content": "povinný"
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Jana Burgová, Ph.D."
+      "content": "doc. Dr. Ing. Petr Salaš"
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Jana Burgová, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Dr. Ing. Petr Salaš (cvičící, přednášející, zkoušející)"
+      "content": "Ing. Jana Burgová, Ph.D. (cvičící, přednášející, zkoušející)doc. Dr. Ing. Petr Salaš (garant)"
     },
     {
       "label": "Prerekvizity:",
@@ -115,7 +115,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2025/2026, ZS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -131,7 +131,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -139,11 +139,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 24/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zkouška (5 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 24/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -151,11 +151,11 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "content": "Typ předmětu: povinný"
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -167,7 +167,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Jana Burgová, Ph.D."
+      "content": "Garant předmětu: doc. Dr. Ing. Petr Salaš"
     },
     {
       "label": "[section] Garant předmětu:",
@@ -179,7 +179,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Jana Burgová, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Dr. Ing. Petr Salaš (cvičící, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Jana Burgová, Ph.D. (cvičící, přednášející, zkoušející)doc. Dr. Ing. Petr Salaš (garant)"
     },
     {
       "label": "[section] Vyučující:",
@@ -187,7 +187,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa10.00-11.50ZFEM (Mend)J. BurgováPřednáškaKaždý týden34Středa12.00-13.50ZFEM1 (Mend)J. BurgováCvičeníKaždý týden15Pátek8.00-11.50ZFAA2 (Led)J. BurgováPřednáškaNepravidelně20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -287,7 +287,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h24 hcvičení28 h0 hpráce v terénu10 h30 hkonzultace10 h20 hveřejná prezentace (ústní)4 h2 hpříprava na zkoušku20 h20 hpříprava na průběžné hodnocení20 h19 hpříprava prezentace10 h10 hzpracování seminární práce10 h15 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h24 hcvičení28 h0 hpráce v terénu10 h30 hkonzultace10 h20 hveřejná prezentace (ústní)4 h2 hpříprava na zkoušku20 h20 hpříprava na průběžné hodnocení20 h19 hpříprava prezentace10 h10 hzpracování seminární práce10 h15 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -307,7 +307,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "Specializace Z Zahradnictví, prezenční forma, počáteční období ZS 2019/2020Specializace Z Zahradnictví, kombinovaná forma, počáteční období ZS 2019/2020"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -329,7 +329,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -337,7 +337,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 24/0 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -345,11 +345,11 @@
     },
     {
       "label": "Course type:",
-      "content": "optional"
+      "content": "required"
     },
     {
       "label": "Type of delivery:",
-      "content": "consulting"
+      "content": "usual"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
@@ -361,7 +361,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Jana Burgová, Ph.D."
+      "content": "doc. Dr. Ing. Petr Salaš"
     },
     {
       "label": "Course supervising department:",
@@ -373,7 +373,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Jana Burgová, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Dr. Ing. Petr Salaš (examiner, instructor, lecturer)"
+      "content": "Ing. Jana Burgová, Ph.D. (examiner, instructor, lecturer)doc. Dr. Ing. Petr Salaš (supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -429,7 +429,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2025/2026, WS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -445,7 +445,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -453,11 +453,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 24/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Exam (5 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 24/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -465,11 +465,11 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: optional"
+      "content": "Course type: required"
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: consulting"
+      "content": "Type of delivery: usual"
     },
     {
       "label": "[section] Type of delivery:",
@@ -481,7 +481,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Jana Burgová, Ph.D."
+      "content": "Course supervisor: doc. Dr. Ing. Petr Salaš"
     },
     {
       "label": "[section] Course supervisor:",
@@ -493,7 +493,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Jana Burgová, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Dr. Ing. Petr Salaš (examiner, instructor, lecturer)"
+      "content": "Teachers: Ing. Jana Burgová, Ph.D. (examiner, instructor, lecturer)doc. Dr. Ing. Petr Salaš (supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -501,7 +501,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "-- item not defined --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday10.00-11.50ZFEM (Mend)J. BurgováLectureEvery week34Wednesday12.00-13.50ZFEM1 (Mend)J. BurgováSeminarEvery week15Friday8.00-11.50ZFAA2 (Led)J. BurgováLectureOccasionally20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -601,7 +601,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h24 hpractice28 h0 hfield work10 h30 hconsultation10 h20 hpublic presentation (oral)4 h2 hpreparation for exam20 h20 hpreparation for regular assessment20 h19 hpreparation of presentation10 h10 hwriting of seminar paper10 h15 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h24 hpractice28 h0 hfield work10 h30 hconsultation10 h20 hpublic presentation (oral)4 h2 hpreparation for exam20 h20 hpreparation for regular assessment20 h19 hpreparation of presentation10 h10 hwriting of seminar paper10 h15 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -621,13 +621,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "-- item not defined --"
+      "content": "Track H Horticulture, full-time form, initial period WS 2019/2020Track H Horticulture, part-time form, initial period WS 2019/2020"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 07:29:08",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:39:53",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

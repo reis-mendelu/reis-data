@@ -3,30 +3,62 @@
   "name": "Praxe v areálu LS 2025/2026 - 2 dny / 16 hodin",
   "nameCs": null,
   "nameEn": null,
-  "predmetId": "0",
+  "predmetId": "162235",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
-    "David Drobilič",
-    "Ing. Eliška Zezulová",
-    "Ing. Jana Burgová, Ph.D.",
-    "Ing. Katarína Pavlačková",
-    "Ing. Miloš Jurica, Ph.D.",
-    "Ing. Pavel Híc, Ph.D.",
-    "Ing. Petr Šnurkovič, Ph.D., DiS.",
-    "Ing. Radim Holešinský, Ph.D.",
-    "Ing. Renata Želísková",
-    "Ing. Viktor Filipi",
-    "Ing. Vladimír Mašán, Ph.D.",
-    "Jaroslav Šuldes",
-    "Lenka Vavříková",
-    "Mgr. Radoslav Vlk, Ph.D.",
-    "Miloš Hrstka",
-    "doc. Dr. Ing. Petr Salaš",
-    "doc. Ing. Ivo Soural, Ph.D.",
-    "doc. Ing. Jiří Martinek, Ph.D.",
-    "prof. Mgr. Miroslav Baránek, Ph.D."
+    "Mgr. Radoslav Vlk, Ph.D."
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162235;lang=cz",
+      "totalPass": 409,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 409,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 409,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 409,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 409,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,11 +3,64 @@
   "name": "Angličtina 3",
   "nameCs": "Angličtina 3",
   "nameEn": "English Language 3",
-  "predmetId": "158167",
+  "predmetId": "163225",
   "facultyId": 2,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=163225;lang=cz",
+      "totalPass": 53,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 17,
+            "C": 19,
+            "D": 7,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 53,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 16,
+            "C": 19,
+            "D": 7,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 52,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -452,5 +505,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

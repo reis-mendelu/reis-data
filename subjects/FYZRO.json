@@ -2,8 +2,8 @@
   "courseCode": "FYZRO",
   "name": "Fyziologie rostlin",
   "nameCs": "Fyziologie rostlin",
-  "nameEn": "Fyzilogy of plants",
-  "predmetId": "160842",
+  "nameEn": "General Botany II",
+  "predmetId": "162292",
   "facultyId": 60,
   "aliases": [
     "FRO",
@@ -11,6 +11,73 @@
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162292;lang=cz",
+      "totalPass": 24,
+      "totalFail": 92,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 4,
+            "F": 23,
+            "FN": 6
+          },
+          "pass": 6,
+          "fail": 29
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 5,
+            "F": 5,
+            "FN": 1
+          },
+          "pass": 7,
+          "fail": 6
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 0,
+            "C": 5,
+            "D": 3,
+            "E": 12,
+            "F": 26,
+            "FN": 66
+          },
+          "pass": 24,
+          "fail": 92
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 4,
+            "D": 1,
+            "E": 3,
+            "F": 44,
+            "FN": 61
+          },
+          "pass": 11,
+          "fail": 105
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - ZF",
       "semesterId": "794",
@@ -693,5 +760,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

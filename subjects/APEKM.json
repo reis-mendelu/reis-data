@@ -3,16 +3,54 @@
   "name": "Aplikovaná ekonomika a management",
   "nameCs": "Aplikovaná ekonomika a management",
   "nameEn": "Applied economics and management",
-  "predmetId": "157406",
+  "predmetId": "162256",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
-    "Bc. Ing. Tomáš Dania, Ph.D.",
     "Ing. Renata Kučerová, Ph.D.",
     "JUDr. Andrea Hrdličková, Ph.D.",
     "doc. Ing. Helena Chládková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162256;lang=cz",
+      "totalPass": 37,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 27,
+            "B": 7,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 37,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 27,
+            "B": 7,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 37,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -92,5 +130,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2024/2025"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -31,11 +31,11 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "volitelný"
+      "content": "povinný"
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "prof. RNDr. Ladislav Havel, CSc. (garant, zkoušející)RNDr. Ing. Marek Klemš, Ph.D. (zkoušející)"
+      "content": "prof. RNDr. Ladislav Havel, CSc. (garant, přednášející, zkoušející)Ing. Petr Kalousek, Ph.D. (cvičící)RNDr. Ing. Marek Klemš, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -71,7 +71,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2024/2025, ZS 2022/2023 (a starší)"
+      "content": "LS 2025/2026, ZS 2025/2026, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -87,7 +87,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2024/2025"
     },
     {
       "label": "[section] Semestr:",
@@ -107,11 +107,11 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "content": "Typ předmětu: povinný"
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -135,7 +135,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: prof. RNDr. Ladislav Havel, CSc. (garant, zkoušející)RNDr. Ing. Marek Klemš, Ph.D. (zkoušející)"
+      "content": "Vyučující: prof. RNDr. Ladislav Havel, CSc. (garant, přednášející, zkoušející)Ing. Petr Kalousek, Ph.D. (cvičící)RNDr. Ing. Marek Klemš, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -143,7 +143,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPoznámkaÚterý7.00-8.50Q03B-CHP M. Klemš, L. HavelPřednáškaKaždý týden170 Úterý9.00-10.50C42B-CHP M. KlemšCvičeníKaždý týden22 Úterý11.00-12.50C42B-CHP6P. KalousekCvičeníKaždý týden0Rezerva"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -155,7 +155,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumCelkem0 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumCelkem0 h"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -163,7 +163,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "Program B-CHP Cirkulární horti-produkce, prezenční forma, počáteční období ZS 2024/2025"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -172,174 +172,174 @@
   ],
   "en": [
     {
-      "label": "Kód předmětu:",
+      "label": "Course code:",
       "content": "FROCH"
     },
     {
-      "label": "Název předmětu česky:",
+      "label": "Course title in Czech:",
       "content": "Fyziologie rostlin (CHP)"
     },
     {
-      "label": "Název předmětu anglicky:",
+      "label": "Course title in English:",
       "content": "Plant Physiology"
     },
     {
-      "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "label": "Semester:",
+      "content": "SS 2024/2025"
     },
     {
-      "label": "Způsob ukončení a počet kreditů:",
-      "content": "zkouška (5 kreditů)"
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
     },
     {
-      "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "Stupeň studia:",
-      "content": "-- obsah této položky nebyl definován --"
+      "label": "Level of course:",
+      "content": "-- item not defined --"
     },
     {
-      "label": "Typ předmětu:",
-      "content": "volitelný"
+      "label": "Course type:",
+      "content": "required"
     },
     {
-      "label": "Typ výuky předmětu:",
-      "content": "konzultační"
+      "label": "Type of delivery:",
+      "content": "usual"
     },
     {
-      "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "-- obsah této položky nebyl definován --"
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
     },
     {
-      "label": "Jazyk výuky:",
-      "content": "čeština"
+      "label": "Language of instruction:",
+      "content": "Czech"
     },
     {
-      "label": "Garant předmětu:",
+      "label": "Course supervisor:",
       "content": "prof. RNDr. Ladislav Havel, CSc."
     },
     {
-      "label": "Garantující ústav:",
-      "content": "Ústav biologie rostlin (AF)"
+      "label": "Course supervising department:",
+      "content": "Department of Plant Biology (FA)"
     },
     {
-      "label": "Fakulta:",
-      "content": "Zahradnická fakulta"
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
     },
     {
-      "label": "Vyučující:",
-      "content": "prof. RNDr. Ladislav Havel, CSc. (garant, zkoušející)RNDr. Ing. Marek Klemš, Ph.D. (zkoušející)"
+      "label": "Teachers:",
+      "content": "prof. RNDr. Ladislav Havel, CSc. (examiner, lecturer, supervisor)Ing. Petr Kalousek, Ph.D. (instructor)RNDr. Ing. Marek Klemš, Ph.D. (examiner, instructor, lecturer)"
     },
     {
-      "label": "Prerekvizity:",
-      "content": "žádné"
+      "label": "Prerequisites:",
+      "content": "none"
     },
     {
-      "label": "Celkem",
+      "label": "Total",
       "content": "0 %"
     },
     {
-      "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2024/2025, ZS 2022/2023 (a starší)"
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, WS 2025/2026, WS 2022/2023 (and older)"
     },
     {
-      "label": "Místo výuky:",
+      "label": "Teaching place:",
       "content": "Brno"
     },
     {
-      "label": "[section] Kód předmětu:",
-      "content": "Název předmětu česky: Fyziologie rostlin (CHP)"
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Fyziologie rostlin (CHP)"
     },
     {
-      "label": "[section] Název předmětu česky:",
-      "content": "Název předmětu anglicky: Plant Physiology"
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Plant Physiology"
     },
     {
-      "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2024/2025"
     },
     {
-      "label": "[section] Semestr:",
-      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
     },
     {
-      "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] zkouška (5 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] Forma výuky a dotace hodin:",
-      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: -- item not defined --"
     },
     {
-      "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
     },
     {
-      "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: konzultační"
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
     },
     {
-      "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
-      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
-      "content": "Jazyk výuky: čeština"
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
     },
     {
-      "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: prof. RNDr. Ladislav Havel, CSc."
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. RNDr. Ladislav Havel, CSc."
     },
     {
-      "label": "[section] Garant předmětu:",
-      "content": "Garantující ústav: Ústav biologie rostlin (AF)"
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Plant Biology (FA)"
     },
     {
-      "label": "[section] Garantující ústav:",
-      "content": "Fakulta: Zahradnická fakulta"
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
     },
     {
-      "label": "[section] Fakulta:",
-      "content": "Vyučující: prof. RNDr. Ladislav Havel, CSc. (garant, zkoušející)RNDr. Ing. Marek Klemš, Ph.D. (zkoušející)"
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. RNDr. Ladislav Havel, CSc. (examiner, lecturer, supervisor)Ing. Petr Kalousek, Ph.D. (instructor)RNDr. Ing. Marek Klemš, Ph.D. (examiner, instructor, lecturer)"
     },
     {
-      "label": "[section] Vyučující:",
-      "content": "Prerekvizity: žádné"
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
     },
     {
-      "label": "[section] Rozvrh v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityNoteTuesday7.00-8.50Q03B-CHP M. Klemš, L. HavelLectureEvery week170 Tuesday9.00-10.50C42B-CHP M. KlemšSeminarEvery week22 Tuesday11.00-12.50C42B-CHP6P. KalousekSeminarEvery week0Rezerva"
     },
     {
-      "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "-- obsah této položky nebyl definován --"
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "-- item not defined --"
     },
     {
-      "label": "[section] Obsah předmětu:",
-      "content": "V této jazykové variantě není obsah předmětu vložen."
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
     },
     {
-      "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumCelkem0 h"
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceTotal0 h"
     },
     {
-      "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumCelkem0 %"
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
     },
     {
-      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-CHP Circular horti-production, full-time form, initial period WS 2024/2025"
     },
     {
-      "label": "[section] Vyučován v předchozích obdobích:",
-      "content": "Místo výuky: Brno"
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:09:24",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:24:15",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

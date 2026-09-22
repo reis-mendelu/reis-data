@@ -3,13 +3,52 @@
   "name": "Agroturistika a chov koní",
   "nameCs": "Agroturistika a chov koní",
   "nameEn": "Agrotourism and horse breeding",
-  "predmetId": "157312",
+  "predmetId": "162886",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "Ing. Vladimír Mikule, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162886;lang=cz",
+      "totalPass": 10,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 2,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 2,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -234,5 +273,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

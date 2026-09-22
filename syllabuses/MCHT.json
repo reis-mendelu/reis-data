@@ -199,7 +199,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek13.00-14.50B51L. HanincováPřednáškaKaždý týden20Čtvrtek15.00-15.50B51L. HanincováCvičeníKaždý týden20"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -255,7 +255,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku20 hpříprava prezentace20 hCelkem82 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku20 hpříprava prezentace20 hCelkem82 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -433,7 +433,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday13.00-14.50B51L. HanincováLectureEvery week20Thursday15.00-15.50B51L. HanincováSeminarEvery week20"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -445,7 +445,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam20 hpreparation of presentation20 hTotal82 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam20 hpreparation of presentation20 hTotal82 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -472,6 +472,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:27:16",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:38:13",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

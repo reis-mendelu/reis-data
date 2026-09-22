@@ -3,11 +3,64 @@
   "name": "Vědy o Zemi II (RSZ)",
   "nameCs": "Vědy o Zemi II (RSZ)",
   "nameEn": "Earth Sciences II",
-  "predmetId": "157536",
+  "predmetId": "162232",
   "facultyId": 60,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162232;lang=cz",
+      "totalPass": 25,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 6,
+            "D": 6,
+            "E": 8,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 25,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 6,
+            "D": 6,
+            "E": 7,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -288,5 +341,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

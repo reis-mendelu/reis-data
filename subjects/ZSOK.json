@@ -1,13 +1,100 @@
 {
   "courseCode": "ZSOK",
   "name": "Základy sokolnictví",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "151554",
+  "nameCs": "Základy sokolnictví",
+  "nameEn": "Principles of Falconry",
+  "predmetId": "163241",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=163241;lang=cz",
+      "totalPass": 49,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 19,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 19,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 49,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 49,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 28,
+          "fail": 24,
+          "creditGrades": {
+            "zap": 28,
+            "nezap": 23,
+            "zapNedost": 1
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2023/2024 - LDF",
       "semesterId": "758",
@@ -145,5 +232,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

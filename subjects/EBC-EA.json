@@ -3,7 +3,7 @@
   "name": "Enterprise aplikace",
   "nameCs": "Enterprise aplikace",
   "nameEn": "Enterprise Applications",
-  "predmetId": "156607",
+  "predmetId": "162619",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,59 @@
     "Ing. Ivo Pisařovic, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162619;lang=cz",
+      "totalPass": 59,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 30,
+            "B": 10,
+            "C": 11,
+            "D": 3,
+            "E": 5,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 59,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 29,
+            "B": 10,
+            "C": 10,
+            "D": 2,
+            "E": 5,
+            "F": 3,
+            "FN": 1
+          },
+          "pass": 56,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -132,5 +185,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

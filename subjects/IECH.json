@@ -3,11 +3,50 @@
   "name": "Intenzivní  a extenzivní chovy zvěře",
   "nameCs": "Intenzivní a extenzivní chovy zvěře",
   "nameEn": "Intensive and Extensive Game Breeding",
-  "predmetId": "156897",
+  "predmetId": "161917",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161917;lang=cz",
+      "totalPass": 43,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 21,
+            "C": 8,
+            "D": 6,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 43,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 21,
+            "C": 8,
+            "D": 6,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 43,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -48,5 +87,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

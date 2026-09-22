@@ -3,7 +3,7 @@
   "name": "Obchodní právo 1",
   "nameCs": "Obchodní právo 1",
   "nameEn": "Business Law 1",
-  "predmetId": "156541",
+  "predmetId": "162539",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,59 @@
     "Mgr. Hana Adamová, PhD."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162539;lang=cz",
+      "totalPass": 325,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 6,
+            "C": 4,
+            "D": 3,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 14,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 49,
+            "B": 103,
+            "C": 118,
+            "D": 48,
+            "E": 7,
+            "F": 1,
+            "FN": 7
+          },
+          "pass": 325,
+          "fail": 8
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 49,
+            "B": 97,
+            "C": 114,
+            "D": 45,
+            "E": 6,
+            "F": 15,
+            "FN": 7
+          },
+          "pass": 311,
+          "fail": 22
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -292,5 +345,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

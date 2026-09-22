@@ -1,6 +1,52 @@
 {
   "courseCode": "REGRO",
+  "name": "Regionální rozvoj",
+  "nameCs": null,
+  "nameEn": null,
+  "predmetId": "162220",
+  "facultyId": 60,
   "aliases": [],
-  "stats": [],
-  "lastUpdated": "2026-02-28T10:35:44.983647Z"
+  "teachers": [],
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162220;lang=cz",
+      "totalPass": 8,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 0
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2023/2024"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Studenti mají možnost absolvovat tento předmět i v rámci své zahraniční mobility. V případě zahraniční mobility místo aktivity na semináři studenti vypracují seminární práci na zadané téma a tuto odprezentují online. Závěrečný test i ústní zkouška může proběhnout online, pokud se student nestihne vrátit v průběhu zkouškového období."
+      "content": "Studenti mají možnost absolvovat tento předmět i v rámci své zahraniční mobility. V případě zahraniční mobility místo aktivity na semináři a průběžného testu studenti vypracují seminární práci na zadané téma a tuto odprezentují online. Závěrečný test může proběhnout online, pokud se student nestihne vrátit v průběhu zkouškového období."
     },
     {
       "label": "Jazyk výuky:",
@@ -195,19 +195,19 @@
     },
     {
       "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "12 %"
+      "content": "6 %"
     },
     {
       "label": "Prezentace nebo obhajoba",
       "content": "20 %"
     },
     {
-      "label": "Absolvování závěrečného testu",
-      "content": "50 %"
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "24 %"
     },
     {
-      "label": "Absolvování závěrečné ústní zkoušky",
-      "content": "18 %"
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
     },
     {
       "label": "Celkem",
@@ -215,7 +215,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2024/2025, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -231,7 +231,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2023/2024"
     },
     {
       "label": "[section] Semestr:",
@@ -259,7 +259,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Studenti mají možnost absolvovat tento předmět i v rámci své zahraniční mobility. V případě zahraniční mobility místo aktivity na semináři studenti vypracují seminární práci na zadané téma a tuto odprezentují online. Závěrečný test i ústní zkouška může proběhnout online, pokud se student nestihne vrátit v průběhu zkouškového období."
+      "content": "Možnost studia předmětu během zahraniční mobility: Studenti mají možnost absolvovat tento předmět i v rámci své zahraniční mobility. V případě zahraniční mobility místo aktivity na semináři a průběžného testu studenti vypracují seminární práci na zadané téma a tuto odprezentují online. Závěrečný test může proběhnout online, pokud se student nestihne vrátit v průběhu zkouškového období."
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -287,7 +287,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q44J. MikušováCvičeníLichý týden30Úterý9.00-10.50Q41J. MikušováPřednáškaKaždý týden30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q25N-OIJ. MikušováPřednáškaKaždý týden30Úterý9.00-10.50Q26N-OIJ. MikušováCvičeníSudý týden30"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -371,15 +371,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hseminář14 hpříprava na zkoušku65 hpříprava prezentace33 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hseminář14 hpříprava na zkoušku40 hpříprava na průběžný test25 hpříprava prezentace33 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Student předmět úspěšně ukončí, získá-li alespoň 60 bodů ze čtyř aktivit: aktivita na seminářích a přednáškách (max 12 bodů), prezentace (max 20 bodů), absolvování závěrečného testu (max 50 bodů), ústní zkouška (max 18 bodů), přičemž z každé aktivity je třeba získat alespoň 50 %. Výsledné hodnocení určuje získaný počet bodů, a to méně než 60 bodů F, 60 bodů a více E. 68 bodů a více D, 75 bodů a více C, 83 bodů a více B, 90 bodů a více A."
+      "content": "Student předmět úspěšně ukončí, získá-li alespoň 60 bodů ze čtyř aktivit: aktivita na seminářích (max 6 bodů), prezentace (max 20 bodů), absolvování průběžného testu (max 24 bodů), absolvování závěrečného testu (max 50 bodů). Výsledné hodnocení určuje získaný počet bodů, a to méně než 60 bodů F, 60 bodů a více E. 68 bodů a více D, 75 bodů a více C, 83 bodů a více B, 90 bodů a více A."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích12 %Prezentace nebo obhajoba20 %Absolvování závěrečného testu50 %Absolvování závěrečné ústní zkoušky18 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích6 %Prezentace nebo obhajoba20 %Absolvování průběžného testu (testů)24 %Absolvování závěrečného testu50 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -395,7 +395,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období LS 2024/2025"
+      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období LS 2022/2023Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -417,7 +417,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2023/2024"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -441,7 +441,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "Students have the opportunity to take this subject as part of their mobility abroad. In the case of foreign mobility, instead of an activity at a seminar students prepare a seminar paper on a given topic and present it online. The final test and oral exam can take place online if the student is unable to return during the exam period."
+      "content": "Students have the opportunity to take this subject as part of their mobility abroad. In the case of foreign mobility, instead of an activity at a seminar and a continuous test, students prepare a seminar paper on a given topic and present it online. The final test can take place online if the student is unable to return during the exam period."
     },
     {
       "label": "Language of instruction:",
@@ -597,19 +597,19 @@
     },
     {
       "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "12 %"
+      "content": "6 %"
     },
     {
       "label": "Presentation or defence",
       "content": "20 %"
     },
     {
-      "label": "Final test",
-      "content": "50 %"
+      "label": "Mid-term test(s)",
+      "content": "24 %"
     },
     {
-      "label": "Final oral exam",
-      "content": "18 %"
+      "label": "Final test",
+      "content": "50 %"
     },
     {
       "label": "Total",
@@ -617,7 +617,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2024/2025, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -633,7 +633,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2023/2024"
     },
     {
       "label": "[section] Semester:",
@@ -661,7 +661,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: Students have the opportunity to take this subject as part of their mobility abroad. In the case of foreign mobility, instead of an activity at a seminar students prepare a seminar paper on a given topic and present it online. The final test and oral exam can take place online if the student is unable to return during the exam period."
+      "content": "Mode of delivery for our mobility students abroad: Students have the opportunity to take this subject as part of their mobility abroad. In the case of foreign mobility, instead of an activity at a seminar and a continuous test, students prepare a seminar paper on a given topic and present it online. The final test can take place online if the student is unable to return during the exam period."
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -689,7 +689,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50Q44J. MikušováSeminarOdd week30Tuesday9.00-10.50Q41J. MikušováLectureEvery week30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday11.00-12.50Q25N-OIJ. MikušováLectureEvery week30Tuesday9.00-10.50Q26N-OIJ. MikušováSeminarEven week30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -773,15 +773,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hseminar14 hpreparation for exam65 hpreparation of presentation33 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hseminar14 hpreparation for exam40 hpreparation for regular testing25 hpreparation of presentation33 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The student successfully completes the course if he/she obtains at least 60 points from four activities: seminar and lecture activity (max. 12 points), presentation (max. 20 points), passing the final test (max. 50 points), oral exam (max 18 points). At least 50 % from each activity is necessary to succesfully complete the course. The final grade is determined by the number of points obtained, namely less than 60 points F, 60 points and more E. 68 points and more D, 75 points and more C, 83 points and more B, 90 points and more A."
+      "content": "The student successfully completes the course if he/she obtains at least 60 points from four activities: seminar activity (max. 6 points), presentation (max. 20 points), passing the interim test (max. 24 points), passing the final test (max. 50 points). The final grade is determined by the number of points obtained, namely less than 60 points F, 60 points and more E. 68 points and more D, 75 points and more C, 83 points and more B, 90 points and more A."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation12 %Presentation or defence20 %Final test50 %Final oral exam18 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation6 %Presentation or defence20 %Mid-term test(s)24 %Final test50 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -797,13 +797,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period SS 2024/2025"
+      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period SS 2022/2023Scope ZNOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:57:23",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:13:52",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

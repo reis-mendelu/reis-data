@@ -3,17 +3,56 @@
   "name": "Energetické využití biomasy",
   "nameCs": "Energetické využití biomasy",
   "nameEn": "Biomass Energy Utilization",
-  "predmetId": "157344",
+  "predmetId": "162478",
   "facultyId": 14,
   "aliases": [
-    "ENBM"
+    "ENBM",
+    "EVBM"
   ],
   "teachers": [
-    "Bc. Ing. Zuzana Tichá, Ph.D.",
     "doc. Ing. Martin Fajman, Ph.D.",
     "doc. Ing. Petr Trávníček, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162478;lang=cz",
+      "totalPass": 22,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 3,
+            "C": 3,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 3,
+            "C": 3,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -185,5 +224,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

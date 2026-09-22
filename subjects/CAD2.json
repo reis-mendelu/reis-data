@@ -3,7 +3,7 @@
   "name": "Konstruování nábytku v CAD II",
   "nameCs": "Konstruování nábytku v CAD II",
   "nameEn": "CAD Furniture Construction II",
-  "predmetId": "156680",
+  "predmetId": "161685",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,93 @@
     "doc. Ing. Milan Gaff, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161685;lang=cz",
+      "totalPass": 45,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 0,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 45,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 45,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 43,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 43,
+            "nezap": 5,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -333,5 +420,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

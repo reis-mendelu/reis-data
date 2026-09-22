@@ -3,7 +3,7 @@
   "name": "Statistika",
   "nameCs": "Statistika",
   "nameEn": "Statistics",
-  "predmetId": "160715",
+  "predmetId": "161697",
   "facultyId": 38,
   "aliases": [
     "EBC-ST",
@@ -12,6 +12,73 @@
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161697;lang=cz",
+      "totalPass": 92,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 1,
+            "D": 2,
+            "E": 3,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 7
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 52,
+            "C": 13,
+            "D": 12,
+            "E": 14,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 92,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 49,
+            "C": 11,
+            "D": 9,
+            "E": 9,
+            "F": 14,
+            "FN": 2
+          },
+          "pass": 79,
+          "fail": 16
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -599,5 +666,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

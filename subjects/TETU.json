@@ -3,14 +3,66 @@
   "name": "Technologie tuků",
   "nameCs": "Technologie tuků",
   "nameEn": "Technology of Fats",
-  "predmetId": "157218",
+  "predmetId": "162908",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
-    "Ing. Helena Pluháčková, Ph.D.",
     "Ing. Veronika Švehlová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162908;lang=cz",
+      "totalPass": 35,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 11,
+            "C": 11,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 11,
+            "C": 11,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 34,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -221,5 +273,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

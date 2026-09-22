@@ -1,13 +1,21 @@
 {
   "courseCode": "INK",
-  "name": "Interiérové konstrukce 2",
+  "name": "Interiérové konstrukce",
   "nameCs": "Interiérové konstrukce",
   "nameEn": "Interior Constructions",
   "predmetId": "159589",
   "facultyId": 38,
-  "aliases": [],
+  "aliases": [
+    "IKON",
+    "INKT",
+    "INTK"
+  ],
   "teachers": [
-    "Ing. Eliška Máchová, Ph.D."
+    "Ing. Eliška Máchová, Ph.D.",
+    "Ing. František Kalouda, CSc., MBA",
+    "Ing. Pavla Kotásková, Ph.D.",
+    "Ing. Vojtěch Ondrejka, PhD.",
+    "doc. Ing. arch. Hynek Maňák, Ph.D."
   ],
   "stats": [
     {
@@ -335,5 +343,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

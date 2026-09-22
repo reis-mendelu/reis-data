@@ -3,7 +3,7 @@
   "name": "Management živin v agroekosystému",
   "nameCs": "Management živin v agroekosystému",
   "nameEn": "Nutrition Management in Agroecosystem",
-  "predmetId": "161343",
+  "predmetId": "162372",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "prof. Ing. Pavel Ryant, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162372;lang=cz",
+      "totalPass": 17,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 2,
+            "D": 2,
+            "E": 1,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 5,
+            "D": 3,
+            "E": 4,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 17,
+          "fail": 7
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 3,
+            "D": 1,
+            "E": 3,
+            "F": 15,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 15
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -506,5 +573,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

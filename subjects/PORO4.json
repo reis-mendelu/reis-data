@@ -3,18 +3,56 @@
   "name": "Použití rostlin IV",
   "nameCs": "Použití rostlin IV",
   "nameEn": "Planting Design IV",
-  "predmetId": "157510",
+  "predmetId": "162303",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
     "Ing. Adam Baroš, Ph.D.",
     "Ing. Ivo Ondrášek, Ph.D.",
     "Ing. Miloš Jurica, Ph.D.",
-    "Ing. Terézia Škuláňová",
     "doc. Ing. Jarmila Neugebauerová, Ph.D.",
     "doc. Ing. Jiří Martinek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162303;lang=cz",
+      "totalPass": 27,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 17,
+            "C": 6,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 27,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 17,
+            "C": 6,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 27,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -147,5 +185,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

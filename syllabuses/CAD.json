@@ -7,15 +7,15 @@
     },
     {
       "label": "Název předmětu česky:",
-      "content": "CAD systémy"
+      "content": "Systémy CAD"
     },
     {
       "label": "Název předmětu anglicky:",
-      "content": "CAD Systems"
+      "content": "CAD systems"
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2020/2021"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,15 +23,15 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
-      "content": "bakalářský; magisterský; magisterský navazující"
+      "content": "bakalářský"
     },
     {
       "label": "Typ předmětu:",
-      "content": "povinný"
+      "content": "volitelný"
     },
     {
       "label": "Typ výuky předmětu:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Ne"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,99 +47,159 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Petr Pelikán, Ph.D."
+      "content": "Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "Garantující ústav:",
-      "content": "Ústav inženýrských staveb, tvorby a ochrany krajiny (LDF)"
+      "content": "Ústav zahradnické techniky (ZF)"
     },
     {
       "label": "Fakulta:",
-      "content": "Lesnická a dřevařská fakulta"
+      "content": "Zahradnická fakulta"
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Petr Pelikán, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Ing. Jaromír Skoupil, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška"
+      "content": "žádné"
     },
     {
       "label": "1.",
-      "content": "Uživatelské prostředí aplikace AutoCAD (modelový prostor, souřadný systém, jednotky, ovládání a nastavení aplikace, datové formáty). (dotace 0/3)"
+      "content": "Uživatelské rozhraní AutoCADu. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Kreslící metody, editační metody a výběrové množiny."
+    },
+    {
+      "label": "b.",
+      "content": "Meze, hladiny, typy čar."
+    },
+    {
+      "label": "c.",
+      "content": "Šrafovací vzory a popisy."
+    },
+    {
+      "label": "d.",
+      "content": "Textové styly, písmo."
+    },
+    {
+      "label": "e.",
+      "content": "Kótovací styly, kotovaní."
+    },
+    {
+      "label": "f.",
+      "content": "Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (MAASZ-LÜBECK, 1926, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)"
     },
     {
       "label": "2.",
-      "content": "Kreslicí a editační nástroje. (dotace 0/3)"
+      "content": "Konstrukční nástroje. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Konstrukce pomocí uzlových bodů, posun, zrcadlení a pole."
+    },
+    {
+      "label": "b.",
+      "content": "Konstrukce květinového záhonu. Vektorizace složitějších tvarů."
     },
     {
       "label": "3.",
-      "content": "Metody konstruování (hladiny, režimy kreslení, analytické nástroje, tloušťky a typy čar). (dotace 0/3)"
+      "content": "Knihovna prvků. (dotace 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Definice a tvorba bloků."
+    },
+    {
+      "label": "b.",
+      "content": "Atributy."
+    },
+    {
+      "label": "c.",
+      "content": "Export a import atributů."
+    },
+    {
+      "label": "d.",
+      "content": "Externí reference."
+    },
+    {
+      "label": "e.",
+      "content": "Praktické využití bloků pro tvorbu vlastní knihovny. Knihovny na internetu."
     },
     {
       "label": "4.",
-      "content": "Samostatná práce na dílčím zadání č. 1. (dotace 0/3)"
+      "content": "Projekt řešeného území. (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Zpracování různých typů podkladových dat (katastrální mapa, souřadnice JTSK apod.)"
+    },
+    {
+      "label": "b.",
+      "content": "Vytvoření celkové situace."
+    },
+    {
+      "label": "c.",
+      "content": "Využití vlastní knihovny prvků, včetně bloků s atributy."
+    },
+    {
+      "label": "d.",
+      "content": "Kontingenční tabulka pro zpracování seznamu použitých rostlin."
     },
     {
       "label": "5.",
-      "content": "Anotace (text, kótovací nástroje, odkazy, tabulky, styly, měřítko poznámky). (dotace 0/3)"
+      "content": "Tisk. (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Výkresový prostor."
+    },
+    {
+      "label": "b.",
+      "content": "Popisky, tabulky, legenda."
     },
     {
       "label": "6.",
-      "content": "Samostatná práce na dílčím zadání č. 2. (dotace 0/3)"
+      "content": "3D modelování. (dotace 0/4)"
     },
     {
-      "label": "7.",
-      "content": "Externí reference (formáty podkladových dat, georeference). (dotace 0/3)"
+      "label": "a.",
+      "content": "Pohledy a práce ze souřadnicovým systémem."
     },
     {
-      "label": "8.",
-      "content": "Samostatná práce na dílčím zadání č. 3. (dotace 0/3)"
+      "label": "b.",
+      "content": "Tvorba a modifikace těles."
     },
     {
-      "label": "9.",
-      "content": "Práce s mapovými podklady (formáty a zdroje dat, souřadnicový systém S-JTSK). (dotace 0/3)"
+      "label": "c.",
+      "content": "Tvorba a modifikace ploch."
     },
     {
-      "label": "10.",
-      "content": "Samostatná práce na dílčím zadání č. 4. (dotace 0/3)"
-    },
-    {
-      "label": "11.",
-      "content": "Bloky (definice a tvorba statických a dynamických bloků, atributy). (dotace 0/3)"
-    },
-    {
-      "label": "12.",
-      "content": "Samostatná práce na dílčím zadání č. 5. (dotace 0/3)"
-    },
-    {
-      "label": "13.",
-      "content": "Příprava tisku (prostor rozvržení, formát papíru, práce s výřezy, měřítko tisku, popisové pole). (dotace 0/3)"
-    },
-    {
-      "label": "14.",
-      "content": "Samostatná práce na dílčím zadání č. 6. (dotace 0/3)"
+      "label": "Celkem",
+      "content": "0 %"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "LS 2019/2020, ZS 2019/2020, LS 2018/2019, ZS 2018/2019, LS 2017/2018, ZS 2017/2018 (a starší)"
     },
     {
       "label": "Místo výuky:",
-      "content": "Brno"
+      "content": "Brno, Lednice"
     },
     {
       "label": "[section] Kód předmětu:",
-      "content": "Název předmětu česky: CAD systémy"
+      "content": "Název předmětu česky: Systémy CAD"
     },
     {
       "label": "[section] Název předmětu česky:",
-      "content": "Název předmětu anglicky: CAD Systems"
+      "content": "Název předmětu anglicky: CAD systems"
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2020/2021"
     },
     {
       "label": "[section] Semestr:",
@@ -147,19 +207,19 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zápočet (3 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
-      "content": "Stupeň studia: bakalářský; magisterský; magisterský navazující"
+      "content": "Stupeň studia: bakalářský"
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: povinný"
+      "content": "Typ předmětu: volitelný"
     },
     {
       "label": "[section] Typ předmětu:",
@@ -167,7 +227,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Ne"
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -175,163 +235,115 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Petr Pelikán, Ph.D."
+      "content": "Garant předmětu: Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
-      "content": "Garantující ústav: Ústav inženýrských staveb, tvorby a ochrany krajiny (LDF)"
+      "content": "Garantující ústav: Ústav zahradnické techniky (ZF)"
     },
     {
       "label": "[section] Garantující ústav:",
-      "content": "Fakulta: Lesnická a dřevařská fakulta"
+      "content": "Fakulta: Zahradnická fakulta"
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Petr Pelikán, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Jaromír Skoupil, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+      "content": "Prerekvizity: žádné"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý7.00-9.50B514P. PelikánCvičeníKaždý týden20Úterý10.00-12.50B514P. PelikánCvičeníKaždý týden20Úterý13.00-15.50B514P. PelikánCvičeníKaždý týden20"
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý17.00-18.50A412není určenCvičeníKaždý týden24"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Úvod do CAD technologií v projektování. Cílem předmětu je seznámit studenty s uživatelským prostředím programu AutoCAD a se základy projekčních prací v oblasti stavebnictví formou řešení praktických úloh ve 2D. Schopnost představivosti a osvojení dovedností pro rychlé a správné čtení technických výkresů a schémat. Schopnost zpracovávat technické výkresy v digitální podobě a způsobilost používat AutoCAD při vytváření projektové dokumentace."
+      "content": "Seznámit s principy kreslení a modelování v programu AutoCAD. Vytvářet projekty. Využít získaných poznatků v odborných předmětech (ateliéry, krajinné plánování, krajinná ekologie, atd.)"
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Uživatelské prostředí aplikace AutoCAD (modelový prostor, souřadný systém, jednotky, ovládání a nastavení aplikace, datové formáty). (dotace 0/3)2.Kreslicí a editační nástroje. (dotace 0/3)3.Metody konstruování (hladiny, režimy kreslení, analytické nástroje, tloušťky a typy čar). (dotace 0/3)4.Samostatná práce na dílčím zadání č. 1. (dotace 0/3)5.Anotace (text, kótovací nástroje, odkazy, tabulky, styly, měřítko poznámky). (dotace 0/3)6.Samostatná práce na dílčím zadání č. 2. (dotace 0/3)7.Externí reference (formáty podkladových dat, georeference). (dotace 0/3)8.Samostatná práce na dílčím zadání č. 3. (dotace 0/3)9.Práce s mapovými podklady (formáty a zdroje dat, souřadnicový systém S-JTSK). (dotace 0/3)10.Samostatná práce na dílčím zadání č. 4. (dotace 0/3)11.Bloky (definice a tvorba statických a dynamických bloků, atributy). (dotace 0/3)12.Samostatná práce na dílčím zadání č. 5. (dotace 0/3)13.Příprava tisku (prostor rozvržení, formát papíru, práce s výřezy, měřítko tisku, popisové pole). (dotace 0/3)14.Samostatná práce na dílčím zadání č. 6. (dotace 0/3)"
+      "content": "1.Uživatelské rozhraní AutoCADu. (dotace 0/4) a.Kreslící metody, editační metody a výběrové množiny.b.Meze, hladiny, typy čar.c.Šrafovací vzory a popisy.d.Textové styly, písmo.e.Kótovací styly, kotovaní.f.Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (MAASZ-LÜBECK, 1926, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)2.Konstrukční nástroje. (dotace 0/4) a.Konstrukce pomocí uzlových bodů, posun, zrcadlení a pole.b.Konstrukce květinového záhonu. Vektorizace složitějších tvarů.3.Knihovna prvků. (dotace 0/6) a.Definice a tvorba bloků.b.Atributy.c.Export a import atributů.d.Externí reference.e.Praktické využití bloků pro tvorbu vlastní knihovny. Knihovny na internetu.4.Projekt řešeného území. (dotace 0/8) a.Zpracování různých typů podkladových dat (katastrální mapa, souřadnice JTSK apod.)b.Vytvoření celkové situace.c.Využití vlastní knihovny prvků, včetně bloků s atributy.d.Kontingenční tabulka pro zpracování seznamu použitých rostlin.5.Tisk. (dotace 0/2) a.Výkresový prostor.b.Popisky, tabulky, legenda.6.3D modelování. (dotace 0/4) a.Pohledy a práce ze souřadnicovým systémem.b.Tvorba a modifikace těles.c.Tvorba a modifikace ploch."
     },
     {
       "label": "[section] 1.",
-      "content": "2.Kreslicí a editační nástroje. (dotace 0/3)"
+      "content": "a.Kreslící metody, editační metody a výběrové množiny.b.Meze, hladiny, typy čar.c.Šrafovací vzory a popisy.d.Textové styly, písmo.e.Kótovací styly, kotovaní.f.Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (MAASZ-LÜBECK, 1926, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)"
+    },
+    {
+      "label": "[section] Uživatelské rozhraní AutoCADu.",
+      "content": "a.Kreslící metody, editační metody a výběrové množiny.b.Meze, hladiny, typy čar.c.Šrafovací vzory a popisy.d.Textové styly, písmo.e.Kótovací styly, kotovaní.f.Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (MAASZ-LÜBECK, 1926, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Metody konstruování (hladiny, režimy kreslení, analytické nástroje, tloušťky a typy čar). (dotace 0/3)"
+      "content": "a.Konstrukce pomocí uzlových bodů, posun, zrcadlení a pole.b.Konstrukce květinového záhonu. Vektorizace složitějších tvarů."
     },
     {
-      "label": "[section] Kreslicí a editační nástroje.",
-      "content": "3.Metody konstruování (hladiny, režimy kreslení, analytické nástroje, tloušťky a typy čar). (dotace 0/3)"
+      "label": "[section] Konstrukční nástroje.",
+      "content": "a.Konstrukce pomocí uzlových bodů, posun, zrcadlení a pole.b.Konstrukce květinového záhonu. Vektorizace složitějších tvarů."
     },
     {
       "label": "[section] 3.",
-      "content": "4.Samostatná práce na dílčím zadání č. 1. (dotace 0/3)"
+      "content": "a.Definice a tvorba bloků.b.Atributy.c.Export a import atributů.d.Externí reference.e.Praktické využití bloků pro tvorbu vlastní knihovny. Knihovny na internetu."
     },
     {
-      "label": "[section] Metody konstruování (hladiny, režimy kreslení, analytické nástroje, tloušťky a typy čar).",
-      "content": "4.Samostatná práce na dílčím zadání č. 1. (dotace 0/3)"
+      "label": "[section] Knihovna prvků.",
+      "content": "a.Definice a tvorba bloků.b.Atributy.c.Export a import atributů.d.Externí reference.e.Praktické využití bloků pro tvorbu vlastní knihovny. Knihovny na internetu."
     },
     {
       "label": "[section] 4.",
-      "content": "5.Anotace (text, kótovací nástroje, odkazy, tabulky, styly, měřítko poznámky). (dotace 0/3)"
+      "content": "a.Zpracování různých typů podkladových dat (katastrální mapa, souřadnice JTSK apod.)b.Vytvoření celkové situace.c.Využití vlastní knihovny prvků, včetně bloků s atributy.d.Kontingenční tabulka pro zpracování seznamu použitých rostlin."
     },
     {
-      "label": "[section] Samostatná práce na dílčím zadání č. 1.",
-      "content": "5.Anotace (text, kótovací nástroje, odkazy, tabulky, styly, měřítko poznámky). (dotace 0/3)"
+      "label": "[section] Projekt řešeného území.",
+      "content": "a.Zpracování různých typů podkladových dat (katastrální mapa, souřadnice JTSK apod.)b.Vytvoření celkové situace.c.Využití vlastní knihovny prvků, včetně bloků s atributy.d.Kontingenční tabulka pro zpracování seznamu použitých rostlin."
     },
     {
       "label": "[section] 5.",
-      "content": "6.Samostatná práce na dílčím zadání č. 2. (dotace 0/3)"
+      "content": "a.Výkresový prostor.b.Popisky, tabulky, legenda."
     },
     {
-      "label": "[section] Anotace (text, kótovací nástroje, odkazy, tabulky, styly, měřítko poznámky).",
-      "content": "6.Samostatná práce na dílčím zadání č. 2. (dotace 0/3)"
+      "label": "[section] Tisk.",
+      "content": "a.Výkresový prostor.b.Popisky, tabulky, legenda."
     },
     {
       "label": "[section] 6.",
-      "content": "7.Externí reference (formáty podkladových dat, georeference). (dotace 0/3)"
+      "content": "a.Pohledy a práce ze souřadnicovým systémem.b.Tvorba a modifikace těles.c.Tvorba a modifikace ploch."
     },
     {
-      "label": "[section] Samostatná práce na dílčím zadání č. 2.",
-      "content": "7.Externí reference (formáty podkladových dat, georeference). (dotace 0/3)"
-    },
-    {
-      "label": "[section] 7.",
-      "content": "8.Samostatná práce na dílčím zadání č. 3. (dotace 0/3)"
-    },
-    {
-      "label": "[section] Externí reference (formáty podkladových dat, georeference).",
-      "content": "8.Samostatná práce na dílčím zadání č. 3. (dotace 0/3)"
-    },
-    {
-      "label": "[section] 8.",
-      "content": "9.Práce s mapovými podklady (formáty a zdroje dat, souřadnicový systém S-JTSK). (dotace 0/3)"
-    },
-    {
-      "label": "[section] Samostatná práce na dílčím zadání č. 3.",
-      "content": "9.Práce s mapovými podklady (formáty a zdroje dat, souřadnicový systém S-JTSK). (dotace 0/3)"
-    },
-    {
-      "label": "[section] 9.",
-      "content": "10.Samostatná práce na dílčím zadání č. 4. (dotace 0/3)"
-    },
-    {
-      "label": "[section] Práce s mapovými podklady (formáty a zdroje dat, souřadnicový systém S-JTSK).",
-      "content": "10.Samostatná práce na dílčím zadání č. 4. (dotace 0/3)"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "11.Bloky (definice a tvorba statických a dynamických bloků, atributy). (dotace 0/3)"
-    },
-    {
-      "label": "[section] Samostatná práce na dílčím zadání č. 4.",
-      "content": "11.Bloky (definice a tvorba statických a dynamických bloků, atributy). (dotace 0/3)"
-    },
-    {
-      "label": "[section] 11.",
-      "content": "12.Samostatná práce na dílčím zadání č. 5. (dotace 0/3)"
-    },
-    {
-      "label": "[section] Bloky (definice a tvorba statických a dynamických bloků, atributy).",
-      "content": "12.Samostatná práce na dílčím zadání č. 5. (dotace 0/3)"
-    },
-    {
-      "label": "[section] 12.",
-      "content": "13.Příprava tisku (prostor rozvržení, formát papíru, práce s výřezy, měřítko tisku, popisové pole). (dotace 0/3)"
-    },
-    {
-      "label": "[section] Samostatná práce na dílčím zadání č. 5.",
-      "content": "13.Příprava tisku (prostor rozvržení, formát papíru, práce s výřezy, měřítko tisku, popisové pole). (dotace 0/3)"
-    },
-    {
-      "label": "[section] 13.",
-      "content": "14.Samostatná práce na dílčím zadání č. 6. (dotace 0/3)"
-    },
-    {
-      "label": "[section] Příprava tisku (prostor rozvržení, formát papíru, práce s výřezy, měřítko tisku, popisové pole).",
-      "content": "14.Samostatná práce na dílčím zadání č. 6. (dotace 0/3)"
+      "label": "[section] 3D modelování.",
+      "content": "a.Pohledy a práce ze souřadnicovým systémem.b.Tvorba a modifikace těles.c.Tvorba a modifikace ploch."
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumcvičení42 h16 hzpracování projektů42 h68 hCelkem84 h84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumcvičení28 hpříprava na průběžné hodnocení28 hzpracování projektů28 hCelkem84 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Předmět je ukončen zápočtem. Zápočet bude udělen na základě aktivní účasti na cvičení v rozsahu alespoň 80 % a správně vypracovaných stavebních výkresů v počtu cca 4-6, odevzdávaných průběžně dle termínů stanovených vyučujícím v rámci výukové části semestru."
+      "content": "Zápočet - 2D projekt rodinné zahrady nebo parku. Využití vlastní knihovny prvků pro vytvoření celkové situace. Pro vytvoření osazovacího plánu a rozpisky využít bloků s atributy. Projekt obsahuje dvě rozvržení (výkresy) s celkovou situací řešeného území a osazovací a vytyčovací plán."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %20 %Vypracování semestrální práce80 %80 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumCelkem0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Doporučená:Benton, B. C., Omura, G., 2021. Mastering AutoCAD 2021 and AutoCAD LT 2021. Sybex. 1120 s. ISBN 978-1-119-71535-1.Shih, R., Jumper, L., 2023. AutoCAD 2024 Tutorial First Level 2D Fundamentals. SDC Publications. 488 s. ISBN 978-1-63057-585-4.Špaček, J., Spielmann, M., 2020. AutoCAD: Názorný průvodce pro verze 2019 a 2020. CPress, Brno. 552 s. ISBN 978-80-251-4994-2."
+      "content": "Základní:FOŘT, Petr; KLETEČKA, Jaroslav. 2003. AutoCAD Release 14. 1. vyd. Praha: Computer Press, 399 s. ISBN 80-7226-440-0.Doporučená:ZIKEŠ, Jiří. 1996. Učebnice AutoCADu. 1. vyd. České Budějovice: Kopp, 187 s. ISBN 80-85828-57-X. AutoCAD 2002. 2003. 1. vyd. Praha: Grada, 1093 s. ISBN 80-247-0339-4. AutoCAD Release 12. 1992. Brno: CCB, 199 s.FOŘT, Petr; KLETEČKA, Jaroslav. 1999. AutoCAD 2000. 1. vyd. Praha: Computer Press, 417 s. ISBN 80-7226-229-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2002. Učebnice AutoCAD 2002. 1. vyd. Praha: Computer Press, 364 s. Učebnice pro střední školy. ISBN 80-7226-679-9.MAASZ-LÜBECK, Harry. 1926. Kleine und grosse Gärten: aus der Werkstatt eines Gartengestalters. Frankfurt an der Oder: Trowitzsch & Sohn, 259 s.Lattenberg L. Autocad - align. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Autocad - měřítko při tisku. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Uchopovací reimy v Autocadu. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "FOŘT, Petr; KLETEČKA, Jaroslav. 2003. AutoCAD Release 14. 1. vyd. Praha: Computer Press, 399 s. ISBN 80-7226-440-0."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "Benton, B. C., Omura, G., 2021. Mastering AutoCAD 2021 and AutoCAD LT 2021. Sybex. 1120 s. ISBN 978-1-119-71535-1.Shih, R., Jumper, L., 2023. AutoCAD 2024 Tutorial First Level 2D Fundamentals. SDC Publications. 488 s. ISBN 978-1-63057-585-4.Špaček, J., Spielmann, M., 2020. AutoCAD: Názorný průvodce pro verze 2019 a 2020. CPress, Brno. 552 s. ISBN 978-80-251-4994-2."
+      "content": "ZIKEŠ, Jiří. 1996. Učebnice AutoCADu. 1. vyd. České Budějovice: Kopp, 187 s. ISBN 80-85828-57-X. AutoCAD 2002. 2003. 1. vyd. Praha: Grada, 1093 s. ISBN 80-247-0339-4. AutoCAD Release 12. 1992. Brno: CCB, 199 s.FOŘT, Petr; KLETEČKA, Jaroslav. 1999. AutoCAD 2000. 1. vyd. Praha: Computer Press, 417 s. ISBN 80-7226-229-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2002. Učebnice AutoCAD 2002. 1. vyd. Praha: Computer Press, 364 s. Učebnice pro střední školy. ISBN 80-7226-679-9.MAASZ-LÜBECK, Harry. 1926. Kleine und grosse Gärten: aus der Werkstatt eines Gartengestalters. Frankfurt an der Oder: Trowitzsch & Sohn, 259 s.Lattenberg L. Autocad - align. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Autocad - měřítko při tisku. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Uchopovací reimy v Autocadu. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-KRAJN Krajinářství, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
-      "content": "Místo výuky: Brno"
+      "content": "Místo výuky: Brno, Lednice"
     }
   ],
   "en": [
@@ -341,15 +353,15 @@
     },
     {
       "label": "Course title in Czech:",
-      "content": "CAD systémy"
+      "content": "Systémy CAD"
     },
     {
       "label": "Course title in English:",
-      "content": "CAD Systems"
+      "content": "CAD systems"
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2020/2021"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -357,15 +369,15 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
-      "content": "bachelor; master; master continuing"
+      "content": "bachelor"
     },
     {
       "label": "Course type:",
-      "content": "required"
+      "content": "optional"
     },
     {
       "label": "Type of delivery:",
@@ -373,7 +385,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "No"
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -381,99 +393,155 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Petr Pelikán, Ph.D."
+      "content": "Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "Course supervising department:",
-      "content": "Department of Landscape Management (FFWT)"
+      "content": "Department of Horticultural Machinery (FH)"
     },
     {
       "label": "Faculty:",
-      "content": "Faculty of Forestry and Wood Technology"
+      "content": "Faculty of Horticulture"
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Petr Pelikán, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Ing. Jaromír Skoupil, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not State Bachelor Examination"
+      "content": "none"
     },
     {
       "label": "1.",
-      "content": "AutoCAD user interface (model space, coordinate system, units, application control and settings, data formats). (allowance 0/3)"
+      "content": "User interface of AutoCAD. (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Drawing and editing methods, selection sets."
+    },
+    {
+      "label": "b.",
+      "content": "Viewport limits, layers, line types."
+    },
+    {
+      "label": "c.",
+      "content": "Hatches and labels."
+    },
+    {
+      "label": "d.",
+      "content": "Text styles, fonts."
+    },
+    {
+      "label": "e.",
+      "content": "Dimension style, dimensioning"
     },
     {
       "label": "2.",
-      "content": "Drawing and editing tools. (allowance 0/3)"
+      "content": "Construction tools. (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Construction with nodes, moving, mirroring and array."
+    },
+    {
+      "label": "b.",
+      "content": "Flower patch construction. Vectorization of more dificult shapes."
     },
     {
       "label": "3.",
-      "content": "Design methods (layers, drawing modes, analytical tools, line types and thicknesses). (allowance 0/3)"
+      "content": "Components library. (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Creation blocks."
+    },
+    {
+      "label": "b.",
+      "content": "Attributes."
+    },
+    {
+      "label": "c.",
+      "content": "Exporting and importing attributes"
+    },
+    {
+      "label": "d.",
+      "content": "External references."
+    },
+    {
+      "label": "e.",
+      "content": "Using blocks, custom and internet libraries."
     },
     {
       "label": "4.",
-      "content": "Individual processing of task No. 1. (allowance 0/3)"
+      "content": "Project. (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Processing different types of underlying data (cadastral maps, coordinates, etc.)."
+    },
+    {
+      "label": "b.",
+      "content": "Creation overall situation."
+    },
+    {
+      "label": "c.",
+      "content": "Using own blocks library with attributes."
+    },
+    {
+      "label": "d.",
+      "content": "Contingency table."
     },
     {
       "label": "5.",
-      "content": "Annotation (text, dimensioning tools, links, tables, styles, note scale). (allowance 0/3)"
+      "content": "Printing. (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Drawing area."
+    },
+    {
+      "label": "b.",
+      "content": "abels, tables, key."
     },
     {
       "label": "6.",
-      "content": "Individual processing of task No. 2. (allowance 0/3)"
+      "content": "3D modeling. (allowance 0/4)"
     },
     {
-      "label": "7.",
-      "content": "External references (background data formats, georeferences). (allowance 0/3)"
+      "label": "a.",
+      "content": "Viewports and coordinate system."
     },
     {
-      "label": "8.",
-      "content": "Individual processing of task No. 3. (allowance 0/3)"
+      "label": "b.",
+      "content": "Modeling and modifying objects."
     },
     {
-      "label": "9.",
-      "content": "Work with map data (formats and data sources, coordinate system S-JTSK). (allowance 0/3)"
+      "label": "c.",
+      "content": "Creating and modifying surfaces."
     },
     {
-      "label": "10.",
-      "content": "Individual processing of task No. 4. (allowance 0/3)"
-    },
-    {
-      "label": "11.",
-      "content": "Blocks (definition and creation of static and dynamic blocks, attributes). (allowance 0/3)"
-    },
-    {
-      "label": "12.",
-      "content": "Individual processing of task No. 5. (allowance 0/3)"
-    },
-    {
-      "label": "13.",
-      "content": "Print preparation (layout space, paper size, work with viewports, print scale, description field). (allowance 0/3)"
-    },
-    {
-      "label": "14.",
-      "content": "Individual processing of task No. 6. (allowance 0/3)"
+      "label": "Total",
+      "content": "0 %"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "SS 2019/2020, WS 2019/2020, SS 2018/2019, WS 2018/2019, SS 2017/2018, WS 2017/2018 (and older)"
     },
     {
       "label": "Teaching place:",
-      "content": "Brno"
+      "content": "Brno, Lednice"
     },
     {
       "label": "[section] Course code:",
-      "content": "Course title in Czech: CAD systémy"
+      "content": "Course title in Czech: Systémy CAD"
     },
     {
       "label": "[section] Course title in Czech:",
-      "content": "Course title in English: CAD Systems"
+      "content": "Course title in English: CAD systems"
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2020/2021"
     },
     {
       "label": "[section] Semester:",
@@ -481,19 +549,19 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Pass credit (3 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/3 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
-      "content": "Level of course: bachelor; master; master continuing"
+      "content": "Level of course: bachelor"
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: required"
+      "content": "Course type: optional"
     },
     {
       "label": "[section] Course type:",
@@ -501,7 +569,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: No"
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -509,165 +577,117 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Petr Pelikán, Ph.D."
+      "content": "Course supervisor: Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
-      "content": "Course supervising department: Department of Landscape Management (FFWT)"
+      "content": "Course supervising department: Department of Horticultural Machinery (FH)"
     },
     {
       "label": "[section] Course supervising department:",
-      "content": "Faculty: Faculty of Forestry and Wood Technology"
+      "content": "Faculty: Faculty of Horticulture"
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Petr Pelikán, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: Ing. Jaromír Skoupil, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not State Bachelor Examination"
+      "content": "Prerequisites: none"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday7.00-9.50B514P. PelikánSeminarEvery week20Tuesday10.00-12.50B514P. PelikánSeminarEvery week20Tuesday13.00-15.50B514P. PelikánSeminarEvery week20"
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday17.00-18.50A412not setSeminarEvery week24"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "Introduction to CAD technologies in design. The aim of the course is to present the user environment of the AutoCAD program and the basics of design work in the field of construction in the form of solving practical problems in 2D. Ability to imagine and acquire skills for fast and correct reading of technical drawings and diagrams. Ability to process technical drawings in digital form and the ability to use AutoCAD when creating project documentation."
+      "content": "Introduction to drawing and modeling in AutoCAD. Creating projects. Using learned knowledges in academic courses (studios, landscape planning, landscape ecology, etc.)"
     },
     {
       "label": "[section] Course content:",
-      "content": "1.AutoCAD user interface (model space, coordinate system, units, application control and settings, data formats). (allowance 0/3)2.Drawing and editing tools. (allowance 0/3)3.Design methods (layers, drawing modes, analytical tools, line types and thicknesses). (allowance 0/3)4.Individual processing of task No. 1. (allowance 0/3)5.Annotation (text, dimensioning tools, links, tables, styles, note scale). (allowance 0/3)6.Individual processing of task No. 2. (allowance 0/3)7.External references (background data formats, georeferences). (allowance 0/3)8.Individual processing of task No. 3. (allowance 0/3)9.Work with map data (formats and data sources, coordinate system S-JTSK). (allowance 0/3)10.Individual processing of task No. 4. (allowance 0/3)11.Blocks (definition and creation of static and dynamic blocks, attributes). (allowance 0/3)12.Individual processing of task No. 5. (allowance 0/3)13.Print preparation (layout space, paper size, work with viewports, print scale, description field). (allowance 0/3)14.Individual processing of task No. 6. (allowance 0/3)"
+      "content": "1.User interface of AutoCAD. (allowance 0/4) a.Drawing and editing methods, selection sets.b.Viewport limits, layers, line types.c.Hatches and labels.d.Text styles, fonts.e.Dimension style, dimensioning2.Construction tools. (allowance 0/4) a.Construction with nodes, moving, mirroring and array.b.Flower patch construction. Vectorization of more dificult shapes.3.Components library. (allowance 0/6) a.Creation blocks.b.Attributes.c.Exporting and importing attributesd.External references.e.Using blocks, custom and internet libraries.4.Project. (allowance 0/8) a.Processing different types of underlying data (cadastral maps, coordinates, etc.).b.Creation overall situation.c.Using own blocks library with attributes.d.Contingency table.5.Printing. (allowance 0/2) a.Drawing area.b.abels, tables, key.6.3D modeling. (allowance 0/4) a.Viewports and coordinate system.b.Modeling and modifying objects.c.Creating and modifying surfaces."
     },
     {
       "label": "[section] 1.",
-      "content": "2.Drawing and editing tools. (allowance 0/3)"
+      "content": "a.Drawing and editing methods, selection sets.b.Viewport limits, layers, line types.c.Hatches and labels.d.Text styles, fonts.e.Dimension style, dimensioning"
+    },
+    {
+      "label": "[section] User interface of AutoCAD.",
+      "content": "a.Drawing and editing methods, selection sets.b.Viewport limits, layers, line types.c.Hatches and labels.d.Text styles, fonts.e.Dimension style, dimensioning"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Design methods (layers, drawing modes, analytical tools, line types and thicknesses). (allowance 0/3)"
+      "content": "a.Construction with nodes, moving, mirroring and array.b.Flower patch construction. Vectorization of more dificult shapes."
     },
     {
-      "label": "[section] Drawing and editing tools.",
-      "content": "3.Design methods (layers, drawing modes, analytical tools, line types and thicknesses). (allowance 0/3)"
+      "label": "[section] Construction tools.",
+      "content": "a.Construction with nodes, moving, mirroring and array.b.Flower patch construction. Vectorization of more dificult shapes."
     },
     {
       "label": "[section] 3.",
-      "content": "4.Individual processing of task No. 1. (allowance 0/3)"
+      "content": "a.Creation blocks.b.Attributes.c.Exporting and importing attributesd.External references.e.Using blocks, custom and internet libraries."
     },
     {
-      "label": "[section] Design methods (layers, drawing modes, analytical tools, line types and thicknesses).",
-      "content": "4.Individual processing of task No. 1. (allowance 0/3)"
+      "label": "[section] Components library.",
+      "content": "a.Creation blocks.b.Attributes.c.Exporting and importing attributesd.External references.e.Using blocks, custom and internet libraries."
     },
     {
       "label": "[section] 4.",
-      "content": "5.Annotation (text, dimensioning tools, links, tables, styles, note scale). (allowance 0/3)"
+      "content": "a.Processing different types of underlying data (cadastral maps, coordinates, etc.).b.Creation overall situation.c.Using own blocks library with attributes.d.Contingency table."
     },
     {
-      "label": "[section] Individual processing of task No. 1.",
-      "content": "5.Annotation (text, dimensioning tools, links, tables, styles, note scale). (allowance 0/3)"
+      "label": "[section] Project.",
+      "content": "a.Processing different types of underlying data (cadastral maps, coordinates, etc.).b.Creation overall situation.c.Using own blocks library with attributes.d.Contingency table."
     },
     {
       "label": "[section] 5.",
-      "content": "6.Individual processing of task No. 2. (allowance 0/3)"
+      "content": "a.Drawing area.b.abels, tables, key."
     },
     {
-      "label": "[section] Annotation (text, dimensioning tools, links, tables, styles, note scale).",
-      "content": "6.Individual processing of task No. 2. (allowance 0/3)"
+      "label": "[section] Printing.",
+      "content": "a.Drawing area.b.abels, tables, key."
     },
     {
       "label": "[section] 6.",
-      "content": "7.External references (background data formats, georeferences). (allowance 0/3)"
+      "content": "a.Viewports and coordinate system.b.Modeling and modifying objects.c.Creating and modifying surfaces."
     },
     {
-      "label": "[section] Individual processing of task No. 2.",
-      "content": "7.External references (background data formats, georeferences). (allowance 0/3)"
-    },
-    {
-      "label": "[section] 7.",
-      "content": "8.Individual processing of task No. 3. (allowance 0/3)"
-    },
-    {
-      "label": "[section] External references (background data formats, georeferences).",
-      "content": "8.Individual processing of task No. 3. (allowance 0/3)"
-    },
-    {
-      "label": "[section] 8.",
-      "content": "9.Work with map data (formats and data sources, coordinate system S-JTSK). (allowance 0/3)"
-    },
-    {
-      "label": "[section] Individual processing of task No. 3.",
-      "content": "9.Work with map data (formats and data sources, coordinate system S-JTSK). (allowance 0/3)"
-    },
-    {
-      "label": "[section] 9.",
-      "content": "10.Individual processing of task No. 4. (allowance 0/3)"
-    },
-    {
-      "label": "[section] Work with map data (formats and data sources, coordinate system S-JTSK).",
-      "content": "10.Individual processing of task No. 4. (allowance 0/3)"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "11.Blocks (definition and creation of static and dynamic blocks, attributes). (allowance 0/3)"
-    },
-    {
-      "label": "[section] Individual processing of task No. 4.",
-      "content": "11.Blocks (definition and creation of static and dynamic blocks, attributes). (allowance 0/3)"
-    },
-    {
-      "label": "[section] 11.",
-      "content": "12.Individual processing of task No. 5. (allowance 0/3)"
-    },
-    {
-      "label": "[section] Blocks (definition and creation of static and dynamic blocks, attributes).",
-      "content": "12.Individual processing of task No. 5. (allowance 0/3)"
-    },
-    {
-      "label": "[section] 12.",
-      "content": "13.Print preparation (layout space, paper size, work with viewports, print scale, description field). (allowance 0/3)"
-    },
-    {
-      "label": "[section] Individual processing of task No. 5.",
-      "content": "13.Print preparation (layout space, paper size, work with viewports, print scale, description field). (allowance 0/3)"
-    },
-    {
-      "label": "[section] 13.",
-      "content": "14.Individual processing of task No. 6. (allowance 0/3)"
-    },
-    {
-      "label": "[section] Print preparation (layout space, paper size, work with viewports, print scale, description field).",
-      "content": "14.Individual processing of task No. 6. (allowance 0/3)"
+      "label": "[section] 3D modeling.",
+      "content": "a.Viewports and coordinate system.b.Modeling and modifying objects.c.Creating and modifying surfaces."
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formpractice42 h16 helaboration and execution of projects42 h68 hTotal84 h84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancepractice28 hpreparation for regular assessment28 helaboration and execution of projects28 hTotal84 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The course is completed with credit. Credit will be obtained on the basis of active participation in the exercises (at least 80%) and correctly prepared construction drawings in the number of approx. 4-6, submitted continuously according to the dates set by the teacher within the teaching part of the semester."
+      "content": "Course credit. 2D garden or park project with use of custom features libraries. Blocks with defined attributes should be used for working out a planting plan. Final layout should consist of two viewports with overall groundplan, planting plan and staking plan."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %20 %Term paper80 %80 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceTotal0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Recommended:Benton, B. C., Omura, G., 2021. Mastering AutoCAD 2021 and AutoCAD LT 2021. Sybex. 1120 s. ISBN 978-1-119-71535-1.Shih, R., Jumper, L., 2023. AutoCAD 2024 Tutorial First Level 2D Fundamentals. SDC Publications. 488 s. ISBN 978-1-63057-585-4.Špaček, J., Spielmann, M., 2020. AutoCAD: Názorný průvodce pro verze 2019 a 2020. CPress, Brno. 552 s. ISBN 978-80-251-4994-2."
+      "content": "Basic:FOŘT, Petr; KLETEČKA, Jaroslav. 2003. AutoCAD Release 14. 1st ed. Praha: Computer Press, 399 p. ISBN 80-7226-440-0.Recommended:ZIKEŠ, Jiří. 1996. Učebnice AutoCADu. 1st ed. České Budějovice: Kopp, 187 p. ISBN 80-85828-57-X. AutoCAD 2002. 2003. 1st ed. Praha: Grada, 1093 p. ISBN 80-247-0339-4. AutoCAD Release 12. 1992. Brno: CCB, 199 p.FOŘT, Petr; KLETEČKA, Jaroslav. 1999. AutoCAD 2000. 1st ed. Praha: Computer Press, 417 p. ISBN 80-7226-229-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2002. Učebnice AutoCAD 2002. 1st ed. Praha: Computer Press, 364 p. Učebnice pro střední školy. ISBN 80-7226-679-9.MAASZ-LÜBECK, Harry. 1926. Kleine und grosse Gärten: aus der Werkstatt eines Gartengestalters. Frankfurt an der Oder: Trowitzsch & Sohn, 259 p.Lattenberg L. Autocad - align. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Autocad - měřítko při tisku. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Uchopovací reimy v Autocadu. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "FOŘT, Petr; KLETEČKA, Jaroslav. 2003. AutoCAD Release 14. 1st ed. Praha: Computer Press, 399 p. ISBN 80-7226-440-0."
     },
     {
       "label": "[section] Recommended:",
-      "content": "Benton, B. C., Omura, G., 2021. Mastering AutoCAD 2021 and AutoCAD LT 2021. Sybex. 1120 s. ISBN 978-1-119-71535-1.Shih, R., Jumper, L., 2023. AutoCAD 2024 Tutorial First Level 2D Fundamentals. SDC Publications. 488 s. ISBN 978-1-63057-585-4.Špaček, J., Spielmann, M., 2020. AutoCAD: Názorný průvodce pro verze 2019 a 2020. CPress, Brno. 552 s. ISBN 978-80-251-4994-2."
+      "content": "ZIKEŠ, Jiří. 1996. Učebnice AutoCADu. 1st ed. České Budějovice: Kopp, 187 p. ISBN 80-85828-57-X. AutoCAD 2002. 2003. 1st ed. Praha: Grada, 1093 p. ISBN 80-247-0339-4. AutoCAD Release 12. 1992. Brno: CCB, 199 p.FOŘT, Petr; KLETEČKA, Jaroslav. 1999. AutoCAD 2000. 1st ed. Praha: Computer Press, 417 p. ISBN 80-7226-229-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2002. Učebnice AutoCAD 2002. 1st ed. Praha: Computer Press, 364 p. Učebnice pro střední školy. ISBN 80-7226-679-9.MAASZ-LÜBECK, Harry. 1926. Kleine und grosse Gärten: aus der Werkstatt eines Gartengestalters. Frankfurt an der Oder: Trowitzsch & Sohn, 259 p.Lattenberg L. Autocad - align. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Autocad - měřítko při tisku. Mendelova univerzita: Brno 2013. Video. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Lattenberg L. Uchopovací reimy v Autocadu. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-KRAJN Landscaping, full-time form, initial period WS 2025/2026"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Course listed in previous semesters:",
-      "content": "Teaching place: Brno"
+      "content": "Teaching place: Brno, Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 07:21:48",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:31:41",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

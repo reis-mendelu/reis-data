@@ -1,15 +1,55 @@
 {
   "courseCode": "ENC-BI",
   "name": "Business Intelligence",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "6",
+  "nameCs": "Business Intelligence",
+  "nameEn": "Business Intelligence",
+  "predmetId": "162843",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Jan Vavřina, Ph.D.",
     "Ing. Peter Mikuš"
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162843;lang=cz",
+      "totalPass": 35,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 8,
+            "C": 18,
+            "D": 3,
+            "E": 4,
+            "F": 0,
+            "FN": 4
+          },
+          "pass": 35,
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 8,
+            "C": 18,
+            "D": 3,
+            "E": 4,
+            "F": 0,
+            "FN": 4
+          },
+          "pass": 35,
+          "fail": 4
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

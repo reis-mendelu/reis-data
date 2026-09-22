@@ -1,15 +1,58 @@
 {
   "courseCode": "ENC-SMZ",
-  "name": "Státní magisterská zkouška",
+  "name": "Státní závěrečná zkouška",
   "nameCs": "Státní magisterská zkouška",
   "nameEn": "Master's State Exam",
-  "predmetId": "159919",
+  "predmetId": "162579",
   "facultyId": 2,
-  "aliases": [],
+  "aliases": [
+    "EBC-SBZ",
+    "STAZZK",
+    "SZZ"
+  ],
   "teachers": [
     "Ing. Petr Jedlička, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162579;lang=cz",
+      "totalPass": 198,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 59,
+            "B": 64,
+            "C": 48,
+            "D": 21,
+            "E": 6,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 198,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 59,
+            "B": 64,
+            "C": 48,
+            "D": 21,
+            "E": 6,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 198,
+          "fail": 3
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -337,5 +380,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -1,13 +1,62 @@
 {
   "courseCode": "CEAS",
-  "name": "Chemie aplikovaná - seminář",
+  "name": "Chemie aplikovaná - seminář (B-ARBO, B-LESN)",
   "nameCs": "Chemie aplikovaná - seminář (B-ARBO, B-LESN)",
   "nameEn": "Applied Chemistry - Seminar",
-  "predmetId": "159797",
+  "predmetId": "162078",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=162078;lang=cz",
+      "totalPass": 30,
+      "totalFail": 12,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 12,
+          "creditGrades": {
+            "zap": 30,
+            "nezap": 12,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 12,
+          "creditGrades": {
+            "zap": 30,
+            "nezap": 12,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -64,7 +113,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156962;lang=cz",
       "totalPass": 31,
-      "totalFail": 9,
+      "totalFail": 12,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -78,10 +127,10 @@
             "FN": 0
           },
           "pass": 31,
-          "fail": 9,
+          "fail": 12,
           "creditGrades": {
             "zap": 31,
-            "nezap": 8,
+            "nezap": 11,
             "zapNedost": 1
           }
         },
@@ -499,5 +548,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

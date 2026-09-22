@@ -3,17 +3,86 @@
   "name": "Mikroekonomie 1",
   "nameCs": "Mikroekonomie 1",
   "nameEn": "Microeconomics 1",
-  "predmetId": "160296",
+  "predmetId": "162537",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Bc. Ing. Marek Litzman, Ph.D.",
     "Ing. Aleš Franc, Ph.D.",
+    "Ing. Jitka Dušková, Ph.D.",
+    "Ing. Katarína Adamková",
     "Ing. Michal Mádr, Ph.D.",
     "Ing. Radek Náplava, Ph.D.",
     "Mgr. Ing. Pavlína Komosná, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162537;lang=cz",
+      "totalPass": 228,
+      "totalFail": 264,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 6,
+            "D": 16,
+            "E": 29,
+            "F": 100,
+            "FN": 2
+          },
+          "pass": 52,
+          "fail": 102
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 5,
+            "E": 20,
+            "F": 67,
+            "FN": 3
+          },
+          "pass": 27,
+          "fail": 70
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 16,
+            "C": 44,
+            "D": 57,
+            "E": 107,
+            "F": 237,
+            "FN": 27
+          },
+          "pass": 228,
+          "fail": 264
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 15,
+            "C": 36,
+            "D": 36,
+            "E": 58,
+            "F": 317,
+            "FN": 26
+          },
+          "pass": 149,
+          "fail": 343
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -155,7 +224,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152444;lang=cz",
       "totalPass": 355,
-      "totalFail": 241,
+      "totalFail": 242,
       "terms": [
         {
           "term": "1. opravný",
@@ -193,11 +262,11 @@
             "C": 61,
             "D": 104,
             "E": 151,
-            "F": 187,
+            "F": 188,
             "FN": 54
           },
           "pass": 355,
-          "fail": 241
+          "fail": 242
         },
         {
           "term": "Řádný termín",
@@ -710,5 +779,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

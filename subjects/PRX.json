@@ -499,6 +499,36 @@
       ]
     },
     {
+      "semesterName": "ZS 2020/2021 - PEF",
+      "semesterId": "584",
+      "year": 2020,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123391;lang=cz",
+      "totalPass": 230,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 230,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 230,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
@@ -541,36 +571,6 @@
           "fail": 0,
           "creditGrades": {
             "zap": 1,
-            "nezap": 0,
-            "zapNedost": 0
-          }
-        }
-      ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - PEF",
-      "semesterId": "584",
-      "year": 2020,
-      "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=584;predmet=123391;lang=cz",
-      "totalPass": 230,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 230,
-          "fail": 0,
-          "creditGrades": {
-            "zap": 230,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -638,5 +638,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

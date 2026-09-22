@@ -1,0 +1,809 @@
+{
+  "courseCode": "OZIPR",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "OZIPR"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Ochrana životního prostředí"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Environmental Protection"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav aplikované a krajinné ekologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (cvičící, garant)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Historie ochrany životního prostředí. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj přístupu k ochraně životního prostředí, vývoj lidské populace a nároky na životní prostředí, základní etapy, lidské potřeby, jejich růst a hierarchie."
+    },
+    {
+      "label": "2.",
+      "content": "Udržitelný rozvoj. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Světové summity, koncepce udržitelného rozvoje, globální problémy, Agenda 21, zdravá města, udržitelnost ekologická, ekonomická, sociální, indikátory udržitelnosti, ekologická stopa."
+    },
+    {
+      "label": "3.",
+      "content": "Právní rámec péče o životní prostředí. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj environmentální legislativy, základní zákony, složkové zákony, EIA, SEA, EVVO."
+    },
+    {
+      "label": "4.",
+      "content": "Ekonomické aspekty ochrany životního prostředí. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Ekonomické důsledky poškozování životního prostředí, znečišťovatel platí, internalizace externalit, environmentální účetnictví."
+    },
+    {
+      "label": "5.",
+      "content": "Ekologie a environmentalistika. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základy ekologie, environmentalistika, biosféra, bioakumulace, potravní řetězce, postavení člověka v biosféře."
+    },
+    {
+      "label": "6.",
+      "content": "Ochrana přírody a krajiny. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj ochrany přírody a krajiny, současný stav, obecná a zvláštní ochrana přírody a krajiny, systémy ekologické stability, Natura 2000, účast veřejnosti."
+    },
+    {
+      "label": "7.",
+      "content": "Zemědělství. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tradiční a industriální zemědělství, udržitelné zemědělství, společná zemědělská politika, ekofarmy, biopotraviny. Dopady zemědělství na životní prostředí."
+    },
+    {
+      "label": "8.",
+      "content": "Základní složky životního prostředí - voda. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hydrosféra, základní pojmy a parametry, znečišťující faktory, úloha vody ve výživě lidí a zvířat."
+    },
+    {
+      "label": "9.",
+      "content": "Základní složky životního prostředí - voda. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pitná a užitková voda, úprava a čištění vody, technologie a zařízení."
+    },
+    {
+      "label": "10.",
+      "content": "Základní složky životního prostředí - ovzduší. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Atmosféra, základní pojmy a parametry, znečišťující faktory, rozptyl škodlivin."
+    },
+    {
+      "label": "11.",
+      "content": "Základní složky životního prostředí - půda. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pedosféra, základní pojmy a parametry, znečišťující faktory, vliv zemědělské činnosti na půdní prostředí, kontaminace půdy."
+    },
+    {
+      "label": "12.",
+      "content": "Odpady (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Odpadové hospodářství. Historie nakládání s odpady. Zakládní pojmy. Legislativa."
+    },
+    {
+      "label": "13.",
+      "content": "Odpady (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Jednotlivé způsoby nakládání s odpady - prevenece, recyklace, kompostování, spalování, skládkování."
+    },
+    {
+      "label": "14.",
+      "content": "Udržitelná spotřeba a výroba. (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "EMS, EMAS, LCA, environmentální značení, benchmarking, IPPC, ekodesign, environmentální politika. Prevence vzniku odpadů a znečištění - čistší produkce."
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2022/2023 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Ochrana životního prostředí"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Environmental Protection"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav aplikované a krajinné ekologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (cvičící, garant)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí8.00-11.50ZFD21 (Led)není určenPřednáškaSudý týden20Pondělí13.00-16.50ZFD21 (Led)není určenCvičeníSudý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student získává znalosti, na jejichž základě je schopen chápat svět systémově. Rozumí příčinám současného stavu životního prostředí a zásadám možných náprav. Seznámí se a porozumí globálním problémům životního prostředí. Detailním rozborem základních složek životního prostředí získává student pokročilé dovednosti v oblasti řešení regionálních i lokálních problémů a příčin vzniku znečištění životního prostředí. Student je schopen při řešení složitých problémů oboru řídit a uplatňovat informace o technikách a technologiích čištění jednotlivých složek životního prostředí včetně problematiky odpadového hospodářství. Student je schopen samostatně využívat prevenční a moderní nástroje ochrany životního prostředí v rámci udržitelné spotřeby a výroby i udržitelné společnosti.Při aplikaci environmentálních a ekonomických aspektů ochrany životního prostředí je schopen nést odpovědnost za rozhodování v adekvátních pracovních situacích."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Historie ochrany životního prostředí. (dotace 2/2) a.Vývoj přístupu k ochraně životního prostředí, vývoj lidské populace a nároky na životní prostředí, základní etapy, lidské potřeby, jejich růst a hierarchie.2.Udržitelný rozvoj. (dotace 2/2) a.Světové summity, koncepce udržitelného rozvoje, globální problémy, Agenda 21, zdravá města, udržitelnost ekologická, ekonomická, sociální, indikátory udržitelnosti, ekologická stopa.3.Právní rámec péče o životní prostředí. (dotace 2/2) a.Vývoj environmentální legislativy, základní zákony, složkové zákony, EIA, SEA, EVVO.4.Ekonomické aspekty ochrany životního prostředí. (dotace 2/2) a.Ekonomické důsledky poškozování životního prostředí, znečišťovatel platí, internalizace externalit, environmentální účetnictví.5.Ekologie a environmentalistika. (dotace 2/2) a.Základy ekologie, environmentalistika, biosféra, bioakumulace, potravní řetězce, postavení člověka v biosféře.6.Ochrana přírody a krajiny. (dotace 2/2) a.Vývoj ochrany přírody a krajiny, současný stav, obecná a zvláštní ochrana přírody a krajiny, systémy ekologické stability, Natura 2000, účast veřejnosti.7.Zemědělství. (dotace 2/2) a.Tradiční a industriální zemědělství, udržitelné zemědělství, společná zemědělská politika, ekofarmy, biopotraviny. Dopady zemědělství na životní prostředí.8.Základní složky životního prostředí - voda. (dotace 2/2) a.Hydrosféra, základní pojmy a parametry, znečišťující faktory, úloha vody ve výživě lidí a zvířat.9.Základní složky životního prostředí - voda. (dotace 2/2) a.Pitná a užitková voda, úprava a čištění vody, technologie a zařízení.10.Základní složky životního prostředí - ovzduší. (dotace 2/2) a.Atmosféra, základní pojmy a parametry, znečišťující faktory, rozptyl škodlivin.11.Základní složky životního prostředí - půda. (dotace 2/2) a.Pedosféra, základní pojmy a parametry, znečišťující faktory, vliv zemědělské činnosti na půdní prostředí, kontaminace půdy.12.Odpady (dotace 2/2) a.Odpadové hospodářství. Historie nakládání s odpady. Zakládní pojmy. Legislativa.13.Odpady (dotace 2/2) a.Jednotlivé způsoby nakládání s odpady - prevenece, recyklace, kompostování, spalování, skládkování.14.Udržitelná spotřeba a výroba. (dotace 2/2) a.EMS, EMAS, LCA, environmentální značení, benchmarking, IPPC, ekodesign, environmentální politika. Prevence vzniku odpadů a znečištění - čistší produkce."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Vývoj přístupu k ochraně životního prostředí, vývoj lidské populace a nároky na životní prostředí, základní etapy, lidské potřeby, jejich růst a hierarchie."
+    },
+    {
+      "label": "[section] Historie ochrany životního prostředí.",
+      "content": "a.Vývoj přístupu k ochraně životního prostředí, vývoj lidské populace a nároky na životní prostředí, základní etapy, lidské potřeby, jejich růst a hierarchie."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Světové summity, koncepce udržitelného rozvoje, globální problémy, Agenda 21, zdravá města, udržitelnost ekologická, ekonomická, sociální, indikátory udržitelnosti, ekologická stopa."
+    },
+    {
+      "label": "[section] Udržitelný rozvoj.",
+      "content": "a.Světové summity, koncepce udržitelného rozvoje, globální problémy, Agenda 21, zdravá města, udržitelnost ekologická, ekonomická, sociální, indikátory udržitelnosti, ekologická stopa."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Vývoj environmentální legislativy, základní zákony, složkové zákony, EIA, SEA, EVVO."
+    },
+    {
+      "label": "[section] Právní rámec péče o životní prostředí.",
+      "content": "a.Vývoj environmentální legislativy, základní zákony, složkové zákony, EIA, SEA, EVVO."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Ekonomické důsledky poškozování životního prostředí, znečišťovatel platí, internalizace externalit, environmentální účetnictví."
+    },
+    {
+      "label": "[section] Ekonomické aspekty ochrany životního prostředí.",
+      "content": "a.Ekonomické důsledky poškozování životního prostředí, znečišťovatel platí, internalizace externalit, environmentální účetnictví."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Základy ekologie, environmentalistika, biosféra, bioakumulace, potravní řetězce, postavení člověka v biosféře."
+    },
+    {
+      "label": "[section] Ekologie a environmentalistika.",
+      "content": "a.Základy ekologie, environmentalistika, biosféra, bioakumulace, potravní řetězce, postavení člověka v biosféře."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vývoj ochrany přírody a krajiny, současný stav, obecná a zvláštní ochrana přírody a krajiny, systémy ekologické stability, Natura 2000, účast veřejnosti."
+    },
+    {
+      "label": "[section] Ochrana přírody a krajiny.",
+      "content": "a.Vývoj ochrany přírody a krajiny, současný stav, obecná a zvláštní ochrana přírody a krajiny, systémy ekologické stability, Natura 2000, účast veřejnosti."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Tradiční a industriální zemědělství, udržitelné zemědělství, společná zemědělská politika, ekofarmy, biopotraviny. Dopady zemědělství na životní prostředí."
+    },
+    {
+      "label": "[section] Zemědělství.",
+      "content": "a.Tradiční a industriální zemědělství, udržitelné zemědělství, společná zemědělská politika, ekofarmy, biopotraviny. Dopady zemědělství na životní prostředí."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Hydrosféra, základní pojmy a parametry, znečišťující faktory, úloha vody ve výživě lidí a zvířat."
+    },
+    {
+      "label": "[section] Základní složky životního prostředí - voda.",
+      "content": "a.Hydrosféra, základní pojmy a parametry, znečišťující faktory, úloha vody ve výživě lidí a zvířat."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Pitná a užitková voda, úprava a čištění vody, technologie a zařízení."
+    },
+    {
+      "label": "[section] Základní složky životního prostředí - voda.",
+      "content": "a.Pitná a užitková voda, úprava a čištění vody, technologie a zařízení."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Atmosféra, základní pojmy a parametry, znečišťující faktory, rozptyl škodlivin."
+    },
+    {
+      "label": "[section] Základní složky životního prostředí - ovzduší.",
+      "content": "a.Atmosféra, základní pojmy a parametry, znečišťující faktory, rozptyl škodlivin."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Pedosféra, základní pojmy a parametry, znečišťující faktory, vliv zemědělské činnosti na půdní prostředí, kontaminace půdy."
+    },
+    {
+      "label": "[section] Základní složky životního prostředí - půda.",
+      "content": "a.Pedosféra, základní pojmy a parametry, znečišťující faktory, vliv zemědělské činnosti na půdní prostředí, kontaminace půdy."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Odpadové hospodářství. Historie nakládání s odpady. Zakládní pojmy. Legislativa."
+    },
+    {
+      "label": "[section] Odpady",
+      "content": "a.Odpadové hospodářství. Historie nakládání s odpady. Zakládní pojmy. Legislativa."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Jednotlivé způsoby nakládání s odpady - prevenece, recyklace, kompostování, spalování, skládkování."
+    },
+    {
+      "label": "[section] Odpady",
+      "content": "a.Jednotlivé způsoby nakládání s odpady - prevenece, recyklace, kompostování, spalování, skládkování."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.EMS, EMAS, LCA, environmentální značení, benchmarking, IPPC, ekodesign, environmentální politika. Prevence vzniku odpadů a znečištění - čistší produkce."
+    },
+    {
+      "label": "[section] Udržitelná spotřeba a výroba.",
+      "content": "a.EMS, EMAS, LCA, environmentální značení, benchmarking, IPPC, ekodesign, environmentální politika. Prevence vzniku odpadů a znečištění - čistší produkce."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška24 h0 hcvičení24 h0 hkonzultace8 h0 hpříprava na zkoušku31 h0 hpříprava na průběžný test25 h0 hpříprava prezentace8 h0 hzpracování seminární práce20 h0 hCelkem140 h0 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Ukončení předmětu: závěrečná písemná zkouška (test) z přednášek, seminářů a podkladů v UIS v délce 60 minut. Minimální požadavek na ukončení je zisk 60 %, tj. 12 bodů z 20 (12 = E, 13 - 14 = D, 15 - 16 = C, 17 - 18 = B, 19 - 20 = A)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Doporučená:DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 s. ISBN 978-80-210-6601-4.KALINA, Miroslav. 2004. Kompostování a péče o půdu. 2. vyd. Praha: Grada, 116 s. ISBN 80-247-0907-4.KOTOVICOVÁ, Jana; KNOTEK, Jaroslav; ULČÁK, Zbyněk; TRNKA, Pavel; OPPELTOVÁ, Petra; HUBAČÍKOVÁ, Věra; STEJSKAL, Bohdan; FILIP, Jiří; VAVERKOVÁ, Magdalena Daria; ŠŤASTNÁ, Milada; HORSÁK, Zdeněk; PRUDKÝ, Jan; VAISHAR, Antonín. 2009. Ochrana životního prostředí. Brno: Audiovizuální centrum MZLU v Brně, 183 s. ISBN 978-80-7375-301-6.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1. vyd. Brno: Mendelova univerzita v Brně, 173 s. ISBN 978-80-7375-707-6.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1. vyd. Chrudim: Vodní zdroje Ekomonitor, 343 s. ISBN 978-80-86832-80-7.PLÍVA, Petr a kol. 2009. Kompostování v pásových hromadách na volné ploše. 1. vyd. Praha: Profi Press, 136 s. ISBN 978-80-86726-32-8.VAVERKOVÁ, Magdalena Daria; ADAMCOVÁ, Dana. 2018. Environmental Protection. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=8346."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 s. ISBN 978-80-210-6601-4.KALINA, Miroslav. 2004. Kompostování a péče o půdu. 2. vyd. Praha: Grada, 116 s. ISBN 80-247-0907-4.KOTOVICOVÁ, Jana; KNOTEK, Jaroslav; ULČÁK, Zbyněk; TRNKA, Pavel; OPPELTOVÁ, Petra; HUBAČÍKOVÁ, Věra; STEJSKAL, Bohdan; FILIP, Jiří; VAVERKOVÁ, Magdalena Daria; ŠŤASTNÁ, Milada; HORSÁK, Zdeněk; PRUDKÝ, Jan; VAISHAR, Antonín. 2009. Ochrana životního prostředí. Brno: Audiovizuální centrum MZLU v Brně, 183 s. ISBN 978-80-7375-301-6.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1. vyd. Brno: Mendelova univerzita v Brně, 173 s. ISBN 978-80-7375-707-6.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1. vyd. Chrudim: Vodní zdroje Ekomonitor, 343 s. ISBN 978-80-86832-80-7.PLÍVA, Petr a kol. 2009. Kompostování v pásových hromadách na volné ploše. 1. vyd. Praha: Profi Press, 136 s. ISBN 978-80-86726-32-8.VAVERKOVÁ, Magdalena Daria; ADAMCOVÁ, Dana. 2018. Environmental Protection. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=8346."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-CHP Cirkulární horti-produkce, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Lednice"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "OZIPR"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Ochrana životního prostředí"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Environmental Protection"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Applied and Landscape Ecology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (instructor, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "History of environmental protection. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Philosophic and religious causes of the current environmental situation, evolution of our approach to environmental protection, reactive and proactive approaches."
+    },
+    {
+      "label": "2.",
+      "content": "Fundamentals of ecology, nature and landscape. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Explanation of basic terms and concepts, ecological abiotic and biotic factors, populations, biocoenosis, ecosystem, biome. Bioaccumulation, food chains. Development of living organisms and human position in the biosphere."
+    },
+    {
+      "label": "3.",
+      "content": "Legal framework of environmental protectiom. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic environmental legislation, governmental authorities, NGO, proposed and prepared legislation, grants and governmental programmes, EIA, IPPC."
+    },
+    {
+      "label": "4.",
+      "content": "Economic aspects of environmental protection. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Economic consequences of environmental damage, polluter pays, internalization of externalities, environmental accounting."
+    },
+    {
+      "label": "5.",
+      "content": "Basic environmental components - water. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hydrosphere, basic terms and parameters, European Water Charter, polluting factors, role of water in nutrition of humans and animals."
+    },
+    {
+      "label": "6.",
+      "content": "Basic environmental components - water. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Drinking and service water, water treatment and purification, technologies and facilities."
+    },
+    {
+      "label": "7.",
+      "content": "Basic environmental components - atmosphere. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Atmosphere, basic terms and parameters, polluting factors."
+    },
+    {
+      "label": "8.",
+      "content": "Basic environmental components - soil. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Pedosphere and rock environment, European Soil Carter, basic terms and parameters, pollutants, effect of agricultural activities on pedosphere, environmental effects of mining activities."
+    },
+    {
+      "label": "9.",
+      "content": "Waste (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Catalogue and categorisation of waste materials, solid, liquid and gaseous wastes, industrial wastes, solid municipality waste, waste materials in agriculture, forestry, and veterinary practice."
+    },
+    {
+      "label": "10.",
+      "content": "Waste (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Biomass, biogas, methods of treatment, recycling of wastes."
+    },
+    {
+      "label": "11.",
+      "content": "Prevention of waste production and pollution - cleaner methods of production. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "History of cleaner production in the Czech Republic, basic terms, project of cleaner production and its individual stages, environmental and economic parameters of cleaner production projects."
+    },
+    {
+      "label": "12.",
+      "content": "Agriculture. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Organic farms, organic food, legal and consumer environment in the Czech Republic. Biotechnologies - processing of agricultural wastes."
+    },
+    {
+      "label": "13.",
+      "content": "Sustainable development. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Global environmental problems , ecological crisis, global population explosion, water and food supply, sustainability"
+    },
+    {
+      "label": "14.",
+      "content": "Sustainable production and consumption. (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tools of sustainable development, voluntary agreements, EMS, EMAS, LCA, eco-labelling, environmental policy."
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2022/2023 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Ochrana životního prostředí"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Environmental Protection"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Applied and Landscape Ecology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (instructor, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday8.00-11.50ZFD21 (Led)not setLectureEven week20Monday13.00-16.50ZFD21 (Led)not setSeminarEven week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Course objectives: In this course, students will learn how to understand the ambient world from the systems point of view. They will be able to understand causes of the present condition of the environment and principles of possible remedies. They also will learn about global environmental problems and their causes. Basing on a detailed study of essential environmental components they will acquire advanced skills how to solve both regional and local problems and how to remove causes of environmental pollution. After finishing this course, they will be able to use information about techniques and technologies of cleaning of individual environmental components (including problems concerning waste management). They should be able to work independently and use modern preventive measures and tools of environmental protection within the framework of sustainable production, consumption, and social life. When applying environmental and economic principles and factors of environmental protection, they will also be able to take responsibility when deciding in adequate working situations."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.History of environmental protection. (allowance 2/2) a.Philosophic and religious causes of the current environmental situation, evolution of our approach to environmental protection, reactive and proactive approaches.2.Fundamentals of ecology, nature and landscape. (allowance 2/2) a.Explanation of basic terms and concepts, ecological abiotic and biotic factors, populations, biocoenosis, ecosystem, biome. Bioaccumulation, food chains. Development of living organisms and human position in the biosphere.3.Legal framework of environmental protectiom. (allowance 2/2) a.Basic environmental legislation, governmental authorities, NGO, proposed and prepared legislation, grants and governmental programmes, EIA, IPPC.4.Economic aspects of environmental protection. (allowance 2/2) a.Economic consequences of environmental damage, polluter pays, internalization of externalities, environmental accounting.5.Basic environmental components - water. (allowance 2/2) a.Hydrosphere, basic terms and parameters, European Water Charter, polluting factors, role of water in nutrition of humans and animals.6.Basic environmental components - water. (allowance 2/2) a.Drinking and service water, water treatment and purification, technologies and facilities.7.Basic environmental components - atmosphere. (allowance 2/2) a.Atmosphere, basic terms and parameters, polluting factors.8.Basic environmental components - soil. (allowance 2/2) a.Pedosphere and rock environment, European Soil Carter, basic terms and parameters, pollutants, effect of agricultural activities on pedosphere, environmental effects of mining activities.9.Waste (allowance 2/2) a.Catalogue and categorisation of waste materials, solid, liquid and gaseous wastes, industrial wastes, solid municipality waste, waste materials in agriculture, forestry, and veterinary practice.10.Waste (allowance 2/2) a.Biomass, biogas, methods of treatment, recycling of wastes.11.Prevention of waste production and pollution - cleaner methods of production. (allowance 2/2) a.History of cleaner production in the Czech Republic, basic terms, project of cleaner production and its individual stages, environmental and economic parameters of cleaner production projects.12.Agriculture. (allowance 2/2) a.Organic farms, organic food, legal and consumer environment in the Czech Republic. Biotechnologies - processing of agricultural wastes.13.Sustainable development. (allowance 2/2) a.Global environmental problems , ecological crisis, global population explosion, water and food supply, sustainability14.Sustainable production and consumption. (allowance 2/2) a.Tools of sustainable development, voluntary agreements, EMS, EMAS, LCA, eco-labelling, environmental policy."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Philosophic and religious causes of the current environmental situation, evolution of our approach to environmental protection, reactive and proactive approaches."
+    },
+    {
+      "label": "[section] History of environmental protection.",
+      "content": "a.Philosophic and religious causes of the current environmental situation, evolution of our approach to environmental protection, reactive and proactive approaches."
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Explanation of basic terms and concepts, ecological abiotic and biotic factors, populations, biocoenosis, ecosystem, biome. Bioaccumulation, food chains. Development of living organisms and human position in the biosphere."
+    },
+    {
+      "label": "[section] Fundamentals of ecology, nature and landscape.",
+      "content": "a.Explanation of basic terms and concepts, ecological abiotic and biotic factors, populations, biocoenosis, ecosystem, biome. Bioaccumulation, food chains. Development of living organisms and human position in the biosphere."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Basic environmental legislation, governmental authorities, NGO, proposed and prepared legislation, grants and governmental programmes, EIA, IPPC."
+    },
+    {
+      "label": "[section] Legal framework of environmental protectiom.",
+      "content": "a.Basic environmental legislation, governmental authorities, NGO, proposed and prepared legislation, grants and governmental programmes, EIA, IPPC."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Economic consequences of environmental damage, polluter pays, internalization of externalities, environmental accounting."
+    },
+    {
+      "label": "[section] Economic aspects of environmental protection.",
+      "content": "a.Economic consequences of environmental damage, polluter pays, internalization of externalities, environmental accounting."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Hydrosphere, basic terms and parameters, European Water Charter, polluting factors, role of water in nutrition of humans and animals."
+    },
+    {
+      "label": "[section] Basic environmental components - water.",
+      "content": "a.Hydrosphere, basic terms and parameters, European Water Charter, polluting factors, role of water in nutrition of humans and animals."
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Drinking and service water, water treatment and purification, technologies and facilities."
+    },
+    {
+      "label": "[section] Basic environmental components - water.",
+      "content": "a.Drinking and service water, water treatment and purification, technologies and facilities."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Atmosphere, basic terms and parameters, polluting factors."
+    },
+    {
+      "label": "[section] Basic environmental components - atmosphere.",
+      "content": "a.Atmosphere, basic terms and parameters, polluting factors."
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Pedosphere and rock environment, European Soil Carter, basic terms and parameters, pollutants, effect of agricultural activities on pedosphere, environmental effects of mining activities."
+    },
+    {
+      "label": "[section] Basic environmental components - soil.",
+      "content": "a.Pedosphere and rock environment, European Soil Carter, basic terms and parameters, pollutants, effect of agricultural activities on pedosphere, environmental effects of mining activities."
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Catalogue and categorisation of waste materials, solid, liquid and gaseous wastes, industrial wastes, solid municipality waste, waste materials in agriculture, forestry, and veterinary practice."
+    },
+    {
+      "label": "[section] Waste",
+      "content": "a.Catalogue and categorisation of waste materials, solid, liquid and gaseous wastes, industrial wastes, solid municipality waste, waste materials in agriculture, forestry, and veterinary practice."
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Biomass, biogas, methods of treatment, recycling of wastes."
+    },
+    {
+      "label": "[section] Waste",
+      "content": "a.Biomass, biogas, methods of treatment, recycling of wastes."
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.History of cleaner production in the Czech Republic, basic terms, project of cleaner production and its individual stages, environmental and economic parameters of cleaner production projects."
+    },
+    {
+      "label": "[section] Prevention of waste production and pollution - cleaner methods of production.",
+      "content": "a.History of cleaner production in the Czech Republic, basic terms, project of cleaner production and its individual stages, environmental and economic parameters of cleaner production projects."
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Organic farms, organic food, legal and consumer environment in the Czech Republic. Biotechnologies - processing of agricultural wastes."
+    },
+    {
+      "label": "[section] Agriculture.",
+      "content": "a.Organic farms, organic food, legal and consumer environment in the Czech Republic. Biotechnologies - processing of agricultural wastes."
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Global environmental problems , ecological crisis, global population explosion, water and food supply, sustainability"
+    },
+    {
+      "label": "[section] Sustainable development.",
+      "content": "a.Global environmental problems , ecological crisis, global population explosion, water and food supply, sustainability"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Tools of sustainable development, voluntary agreements, EMS, EMAS, LCA, eco-labelling, environmental policy."
+    },
+    {
+      "label": "[section] Sustainable production and consumption.",
+      "content": "a.Tools of sustainable development, voluntary agreements, EMS, EMAS, LCA, eco-labelling, environmental policy."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture24 h0 hpractice24 h0 hconsultation8 h0 hpreparation for exam31 h0 hpreparation for regular testing25 h0 hpreparation of presentation8 h0 hwriting of seminar paper20 h0 hTotal140 h0 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Completion of the course: Final written exam (test) of lectures, seminars and documents in UIS for 60 minutes. The minimum exit requirement is a 60% gain, ie 12 points out of 20 (12 = E, 13-14 = D, 15-16 = C, 17-18 = B, 19-20 = A)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Recommended:DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 s. ISBN 978-80-210-6601-4.KALINA, Miroslav. 2004. Kompostování a péče o půdu. 2. vyd. Praha: Grada, 116 s. ISBN 80-247-0907-4.KOTOVICOVÁ, Jana; KNOTEK, Jaroslav; ULČÁK, Zbyněk; TRNKA, Pavel; OPPELTOVÁ, Petra; HUBAČÍKOVÁ, Věra; STEJSKAL, Bohdan; FILIP, Jiří; VAVERKOVÁ, Magdalena Daria; ŠŤASTNÁ, Milada; HORSÁK, Zdeněk; PRUDKÝ, Jan; VAISHAR, Antonín. 2009. Ochrana životního prostředí. Brno: Audiovizuální centrum MZLU v Brně, 183 s. ISBN 978-80-7375-301-6.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1. vyd. Brno: Mendelova univerzita v Brně, 173 s. ISBN 978-80-7375-707-6.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1. vyd. Chrudim: Vodní zdroje Ekomonitor, 343 s. ISBN 978-80-86832-80-7.PLÍVA, Petr a kol. 2009. Kompostování v pásových hromadách na volné ploše. 1. vyd. Praha: Profi Press, 136 s. ISBN 978-80-86726-32-8.VAVERKOVÁ, Magdalena Daria; ADAMCOVÁ, Dana. 2018. Environmental Protection. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=8346."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "DOLEŽAL, Tomáš; CHUDÁREK, Tomáš; ČECH, Libor. 2013. Odpadové hospodářství v praxi. Brno: Masarykova univerzita, Centrum pro výzkum toxických látek v prostředí a SITA CZ a.s., 157 s. ISBN 978-80-210-6601-4.KALINA, Miroslav. 2004. Kompostování a péče o půdu. 2. vyd. Praha: Grada, 116 s. ISBN 80-247-0907-4.KOTOVICOVÁ, Jana; KNOTEK, Jaroslav; ULČÁK, Zbyněk; TRNKA, Pavel; OPPELTOVÁ, Petra; HUBAČÍKOVÁ, Věra; STEJSKAL, Bohdan; FILIP, Jiří; VAVERKOVÁ, Magdalena Daria; ŠŤASTNÁ, Milada; HORSÁK, Zdeněk; PRUDKÝ, Jan; VAISHAR, Antonín. 2009. Ochrana životního prostředí. Brno: Audiovizuální centrum MZLU v Brně, 183 s. ISBN 978-80-7375-301-6.KOTOVICOVÁ, Jana; REMTOVÁ, Květa. 2013. Udržitelná spotřeba a výroba. 1. vyd. Brno: Mendelova univerzita v Brně, 173 s. ISBN 978-80-7375-707-6.KURAŠ, Mečislav. 2014. Odpady a jejich zpracování. 1. vyd. Chrudim: Vodní zdroje Ekomonitor, 343 s. ISBN 978-80-86832-80-7.PLÍVA, Petr a kol. 2009. Kompostování v pásových hromadách na volné ploše. 1. vyd. Praha: Profi Press, 136 s. ISBN 978-80-86726-32-8.VAVERKOVÁ, Magdalena Daria; ADAMCOVÁ, Dana. 2018. Environmental Protection. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=8346."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-CHP Circular horti-production, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Lednice"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:49:32",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

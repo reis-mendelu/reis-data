@@ -3,63 +3,135 @@
   "name": "Diplomový seminář 1",
   "nameCs": "Diplomový seminář 1",
   "nameEn": "Master's Thesis Seminar 1",
-  "predmetId": "159064",
+  "predmetId": "162594",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
+    "Bc. Ing. Ivana Karberová, Ph.D.",
     "Bc. Ing. Marek Litzman, Ph.D.",
+    "Dr. Ing. Jana Gláserová",
+    "Dr. Ing. Miloš Drdla, MBA",
     "Ing. Andrea Králiková, Ph.D.",
-    "Ing. Bc. Marcela Basovníková, Ph.D.",
     "Ing. Břetislav Andrlík, Ph.D.",
+    "Ing. Daniel Pastorek, Ph.D.",
     "Ing. Irena Baláková, Ph.D.",
+    "Ing. Jakub Šácha, Ph.D.",
     "Ing. Jan Vavřina, Ph.D.",
+    "Ing. Jitka Dušková, Ph.D.",
     "Ing. Jiří Duda, Ph.D.",
     "Ing. Ladislava Issever Grochová, Ph.D.",
     "Ing. Lenka Procházková, Ph.D.",
+    "Ing. Lucie Veselá, Ph.D.",
     "Ing. Marcel Ševela, Ph.D.",
     "Ing. Marek Záboj, Ph.D.",
     "Ing. Marie Poláchová, Ph.D.",
     "Ing. Martin Širůček, Ph.D.",
     "Ing. Michal Mádr, Ph.D.",
     "Ing. Michal Pšurný, Ph.D.",
-    "Ing. Mikhail Monashev, Ph.D.",
-    "Ing. Peter Albrecht, Ph.D.",
+    "Ing. Milena Otavová, Ph.D.",
+    "Ing. Miloš Grásgruber, Ph.D.",
     "Ing. Petr Jedlička, Ph.D.",
     "Ing. Petr Mikuš, Ph.D.",
+    "Ing. Radek Náplava, Ph.D.",
     "Ing. Radovan Kožíšek, Ph.D.",
     "Ing. Renata Kučerová, Ph.D.",
     "Ing. Soňa Kukučková, Ph.D.",
+    "Ing. Stanislav Mokrý, Ph.D.",
+    "Ing. Terézia Vančová, Ph.D.",
     "Ing. Veronika Antošová, Ph.D.",
     "Ing. Veronika Kočiš Krůtilová, Ph.D.",
+    "Ing. Zuzana Vlasáková, Ph.D.",
     "JUDr. Andrea Hrdličková, Ph.D.",
     "JUDr. Hana Kelblová, Ph.D.",
+    "Jan Hanousek, M.A., Ph.D.",
     "MgA. Daniela Peclová, Ph.D.",
     "Mgr. Eva Šerá, Ph.D.",
-    "Mgr. Hana Adamová, PhD.",
+    "Mgr. Hana Porkertová, Ph.D.",
     "Mgr. Ing. Jana Mikušová, Ph.D.",
+    "Mgr. Ing. Lucie Formanová, Ph.D.",
+    "Mgr. Ing. Markéta Matulová, Ph.D.",
     "Mgr. Ing. Martin Stachoň, Ph.D.",
+    "Mgr. Ing. Naďa Hazuchová, Ph.D.",
     "Mgr. Ing. Pavlína Komosná, Ph.D.",
-    "Mgr. Ondřej Klíma, Ph.D.",
+    "Mgr. Radka Klvaňová, Ph.D.",
     "Mgr. Štěpán Konečný, Ph.D.",
+    "RNDr. Jaromír Běláček, CSc.",
     "RNDr. Lenka Viskotová, Ph.D.",
-    "RNDr. Marie Forbelská, Ph.D.",
+    "doc. Ing. Bc. Petr Suchánek, Ph.D.",
+    "doc. Ing. Hana Bohušová, Ph.D.",
     "doc. Ing. Hana Stojanová, Ph.D.",
     "doc. Ing. Helena Chládková, Ph.D.",
     "doc. Ing. Kateřina Provazník Ryglová, Ph.D.",
     "doc. Ing. Luboš Střelec, Ph.D.",
-    "doc. Ing. Lucie Veselá, Ph.D.",
+    "doc. Ing. Luděk Kouba, Ph.D.",
     "doc. Ing. Patrik Svoboda, Ph.D.",
+    "doc. Ing. Pavel Syrovátka, Ph.D.",
     "doc. Ing. Pavel Žufan, Ph.D.",
     "doc. Ing. Petr Rozmahel, Ph.D.",
     "doc. Ing. Svatopluk Kapounek, Ph.D.",
     "doc. Ing. Sylvie Formánková, Ph.D.",
+    "doc. Ing. Václav Adamec, Ph.D.",
     "doc. Ing. et Ing. Lea Kubíčková, Ph.D.",
+    "doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M.",
     "doc. Mgr. Veronika Blašková, Ph.D.",
+    "doc. Mgr. et Mgr. Robert Stojanov, Ph.D.",
     "doc. PhDr. Martina Rašticová, Ph.D.",
     "prof. Ing. Jana Stávková, CSc.",
-    "prof. Ing. Lubor Lacina, Ph.D."
+    "prof. Ing. Mgr. Jitka Janová, Ph.D.",
+    "prof. Ing. Petr David, Ph.D.",
+    "prof. Mgr. David Hampel, Ph.D.",
+    "prof. RNDr. Jan Hanousek, CSc., DSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162594;lang=cz",
+      "totalPass": 172,
+      "totalFail": 27,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 172,
+          "fail": 27,
+          "creditGrades": {
+            "zap": 172,
+            "nezap": 27,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 172,
+          "fail": 27,
+          "creditGrades": {
+            "zap": 172,
+            "nezap": 27,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -116,7 +188,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156310;lang=cz",
       "totalPass": 136,
-      "totalFail": 41,
+      "totalFail": 43,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -130,10 +202,10 @@
             "FN": 0
           },
           "pass": 136,
-          "fail": 41,
+          "fail": 43,
           "creditGrades": {
             "zap": 136,
-            "nezap": 41,
+            "nezap": 43,
             "zapNedost": 0
           }
         },
@@ -551,5 +623,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

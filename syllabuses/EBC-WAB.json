@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2023/2024"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět je možné studovat během zahraničního výjezdu."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Ivo Pisařovic, Ph.D."
+      "content": "Ing. Jan Kolomazník, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,143 +59,143 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Ivo Pisařovic, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Bc. Martin Šulc (cvičící, tutor)Bc. Jan Vavřina (cvičící, tutor)"
+      "content": "Ing. Jan Kolomazník, Ph.D. (cvičící, garant, přednášející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "Základy objektového návrhu a ne Státní bakalářská zkouška"
     },
     {
       "label": "1.",
-      "content": "Architektura backendových služeb (dotace 4/6)"
+      "content": "Úvod do problematiky webových aplikací (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "Architektury webových aplikací"
+      "content": "Webové inženýrství jako vědní disciplína z pohledu vývoje služeb"
     },
     {
       "label": "b.",
-      "content": "Client-server, microservices"
+      "content": "Internetové technologie a protokoly z pohledu poskytovatele"
     },
     {
       "label": "c.",
-      "content": "Kontejnerizace, Docker"
+      "content": "Klasifikace webových aplikací z pohledu poskytovatele"
     },
     {
       "label": "2.",
-      "content": "Komunikace (dotace 4/8)"
+      "content": "Technologie webových aplikací (dotace 2/6)"
     },
     {
       "label": "a.",
-      "content": "REST API"
+      "content": "Serverové skriptovací jazyky"
     },
     {
       "label": "b.",
-      "content": "SOAP"
+      "content": "Využití databázových technologií"
     },
     {
       "label": "c.",
-      "content": "WebSocket, STOMP, Socket.IO"
-    },
-    {
-      "label": "d.",
-      "content": "GraphQL"
-    },
-    {
-      "label": "e.",
-      "content": "Alternativní formy komunikace"
+      "content": "Nástroje na podporu vývoje webových aplikací"
     },
     {
       "label": "3.",
-      "content": "Testování (dotace 1/4)"
+      "content": "Bezpečnost webových aplikací (dotace 2/6)"
     },
     {
       "label": "a.",
-      "content": "Unit testy"
+      "content": "Autentizace a autorizace uživatelů"
     },
     {
       "label": "b.",
-      "content": "Integrační testy"
+      "content": "Šifrování dat"
+    },
+    {
+      "label": "c.",
+      "content": "Bezpečnostní slabiny webových aplikací"
+    },
+    {
+      "label": "d.",
+      "content": "Bezpečnostní audit"
     },
     {
       "label": "4.",
-      "content": "Zabezpečení (dotace 4/6)"
+      "content": "Moderní serverové rozhraní webových aplikací (dotace 2/4)"
     },
     {
       "label": "a.",
-      "content": "Validace vstupních dat"
+      "content": "SOAP a REST API"
     },
     {
       "label": "b.",
-      "content": "Autentizace a autorizace"
+      "content": "Knihovny a vývojové rámce"
     },
     {
       "label": "c.",
-      "content": "Metody zabezpečení webových aplikací"
+      "content": "Nástroje pro práci s REST API"
     },
     {
       "label": "d.",
-      "content": "Zranitelnosti (SQL injection, NoSQL injection, CSRF, XSS)"
-    },
-    {
-      "label": "e.",
-      "content": "Bezpečnostní politiky hesel a správy uživatelů"
-    },
-    {
-      "label": "f.",
-      "content": "Nahrávání a stahování souborů"
-    },
-    {
-      "label": "g.",
-      "content": "DDoS"
-    },
-    {
-      "label": "h.",
-      "content": "Šifrování a hashování"
+      "content": "Testování rozhraní webových aplikací"
     },
     {
       "label": "5.",
-      "content": "Frameworky (dotace 1/4)"
+      "content": "Komunikace a přenos dat mezi komponentami distribuovaných systémů (dotace 2/6)"
     },
     {
       "label": "a.",
-      "content": "Node.js, Express.js, Deno.js"
+      "content": "Elektronická výměna dat"
     },
     {
       "label": "b.",
-      "content": "Flask, FastAPI, Django"
+      "content": "Asynchronní přenosy dat"
     },
     {
       "label": "c.",
-      "content": "Spring, .NET"
+      "content": "Webové služby a integrace systémů"
     },
     {
-      "label": "d.",
-      "content": "Ruby on Rails"
+      "label": "6.",
+      "content": "Webové aplikace a GIS (dotace 2/2)"
     },
     {
-      "label": "e.",
-      "content": "Gin, Beego, Echo"
+      "label": "a.",
+      "content": "Zapojení PostGis databáze do projektu"
     },
     {
-      "label": "f.",
-      "content": "Laravel, Slim, Symfony, Nette"
+      "label": "b.",
+      "content": "Návrh REST Api pro výměnu prostorových informaci"
     },
     {
-      "label": "g.",
-      "content": "Alternativy"
+      "label": "c.",
+      "content": "Generování rastrových tiles"
     },
     {
-      "label": "Vypracování semestrální práce",
-      "content": "60 %"
+      "label": "7.",
+      "content": "Trendy v oblasti webových aplikací (dotace 2/2)"
     },
     {
-      "label": "Absolvování průběžného testu (testů)",
+      "label": "a.",
+      "content": "Hybridní aplikace"
+    },
+    {
+      "label": "b.",
+      "content": "Cloudové služby"
+    },
+    {
+      "label": "c.",
+      "content": "Monitoring webové služby"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
       "content": "10 %"
     },
     {
+      "label": "Vypracování semestrální práce",
+      "content": "45 %"
+    },
+    {
       "label": "Absolvování závěrečné ústní zkoušky",
-      "content": "30 %"
+      "content": "45 %"
     },
     {
       "label": "Celkem",
@@ -203,7 +203,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -219,7 +219,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2023/2024"
     },
     {
       "label": "[section] Semestr:",
@@ -247,7 +247,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraničního výjezdu."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -255,7 +255,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Ivo Pisařovic, Ph.D."
+      "content": "Garant předmětu: Ing. Jan Kolomazník, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -267,87 +267,107 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Ivo Pisařovic, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Bc. Martin Šulc (cvičící, tutor)Bc. Jan Vavřina (cvičící, tutor)"
+      "content": "Vyučující: Ing. Jan Kolomazník, Ph.D. (cvičící, garant, přednášející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "Prerekvizity: Základy objektového návrhu a ne Státní bakalářská zkouška"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q16B-OII. PisařovicPřednáškaSudý týden69Středa9.00-10.50Q09B-OIM. ŠulcCvičeníKaždý týden23Středa11.00-12.50Q09B-OIM. ŠulcCvičeníKaždý týden23Středa15.00-16.50Q07B-OIJ. VavřinaCvičeníKaždý týden23"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q09B-OIJ. KolomazníkCvičeníKaždý týden20Pondělí11.00-12.50Q09B-OIJ. KolomazníkCvičeníKaždý týden20Středa13.00-14.50Q16B-OIJ. KolomazníkPřednáškaSudý týden40"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Cílem předmětu je seznámit studenty s moderními metodami vývoje webového backendu. Vzhledem k tomu, že backendové technologie se velmi rychle rozvíjí, je předmět postaven tak, aby primárním výstupem byly obecné znalosti spíše než znalost konkrétního frameworku. Student by měl být schopen i po několika letech po dokončení předmětu vyvíjet webový backend pomocí aktuálních technologií. Studenti si během semestru vyzkouší řadu různých technologií a důraz je kladen na práci na projektu."
+      "content": "Cílem předmětu je naučit studenty pracovat s moderními technologiemi vývoje serverových služeb. V rámci tohoto cíle se studenti naučí pracovat s moderními frameworky pro PHP, naučí se použít technologie pro zabezpečení serverových aplikací jako například JWT a vytvářet REST a SOAP služby."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Architektura backendových služeb (dotace 4/6) a.Architektury webových aplikacíb.Client-server, microservicesc.Kontejnerizace, Docker2.Komunikace (dotace 4/8) a.REST APIb.SOAPc.WebSocket, STOMP, Socket.IOd.GraphQLe.Alternativní formy komunikace3.Testování (dotace 1/4) a.Unit testyb.Integrační testy4.Zabezpečení (dotace 4/6) a.Validace vstupních datb.Autentizace a autorizacec.Metody zabezpečení webových aplikacíd.Zranitelnosti (SQL injection, NoSQL injection, CSRF, XSS)e.Bezpečnostní politiky hesel a správy uživatelůf.Nahrávání a stahování souborůg.DDoSh.Šifrování a hashování5.Frameworky (dotace 1/4) a.Node.js, Express.js, Deno.jsb.Flask, FastAPI, Djangoc.Spring, .NETd.Ruby on Railse.Gin, Beego, Echof.Laravel, Slim, Symfony, Netteg.Alternativy"
+      "content": "1.Úvod do problematiky webových aplikací (dotace 2/2) a.Webové inženýrství jako vědní disciplína z pohledu vývoje služebb.Internetové technologie a protokoly z pohledu poskytovatelec.Klasifikace webových aplikací z pohledu poskytovatele2.Technologie webových aplikací (dotace 2/6) a.Serverové skriptovací jazykyb.Využití databázových technologiíc.Nástroje na podporu vývoje webových aplikací3.Bezpečnost webových aplikací (dotace 2/6) a.Autentizace a autorizace uživatelůb.Šifrování datc.Bezpečnostní slabiny webových aplikacíd.Bezpečnostní audit4.Moderní serverové rozhraní webových aplikací (dotace 2/4) a.SOAP a REST APIb.Knihovny a vývojové rámcec.Nástroje pro práci s REST APId.Testování rozhraní webových aplikací5.Komunikace a přenos dat mezi komponentami distribuovaných systémů (dotace 2/6) a.Elektronická výměna datb.Asynchronní přenosy datc.Webové služby a integrace systémů6.Webové aplikace a GIS (dotace 2/2) a.Zapojení PostGis databáze do projektub.Návrh REST Api pro výměnu prostorových informacic.Generování rastrových tiles7.Trendy v oblasti webových aplikací (dotace 2/2) a.Hybridní aplikaceb.Cloudové službyc.Monitoring webové služby"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Architektury webových aplikacíb.Client-server, microservicesc.Kontejnerizace, Docker"
+      "content": "a.Webové inženýrství jako vědní disciplína z pohledu vývoje služebb.Internetové technologie a protokoly z pohledu poskytovatelec.Klasifikace webových aplikací z pohledu poskytovatele"
     },
     {
-      "label": "[section] Architektura backendových služeb",
-      "content": "a.Architektury webových aplikacíb.Client-server, microservicesc.Kontejnerizace, Docker"
+      "label": "[section] Úvod do problematiky webových aplikací",
+      "content": "a.Webové inženýrství jako vědní disciplína z pohledu vývoje služebb.Internetové technologie a protokoly z pohledu poskytovatelec.Klasifikace webových aplikací z pohledu poskytovatele"
     },
     {
       "label": "[section] 2.",
-      "content": "a.REST APIb.SOAPc.WebSocket, STOMP, Socket.IOd.GraphQLe.Alternativní formy komunikace"
+      "content": "a.Serverové skriptovací jazykyb.Využití databázových technologiíc.Nástroje na podporu vývoje webových aplikací"
     },
     {
-      "label": "[section] Komunikace",
-      "content": "a.REST APIb.SOAPc.WebSocket, STOMP, Socket.IOd.GraphQLe.Alternativní formy komunikace"
+      "label": "[section] Technologie webových aplikací",
+      "content": "a.Serverové skriptovací jazykyb.Využití databázových technologiíc.Nástroje na podporu vývoje webových aplikací"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Unit testyb.Integrační testy"
+      "content": "a.Autentizace a autorizace uživatelůb.Šifrování datc.Bezpečnostní slabiny webových aplikacíd.Bezpečnostní audit"
     },
     {
-      "label": "[section] Testování",
-      "content": "a.Unit testyb.Integrační testy"
+      "label": "[section] Bezpečnost webových aplikací",
+      "content": "a.Autentizace a autorizace uživatelůb.Šifrování datc.Bezpečnostní slabiny webových aplikacíd.Bezpečnostní audit"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Validace vstupních datb.Autentizace a autorizacec.Metody zabezpečení webových aplikacíd.Zranitelnosti (SQL injection, NoSQL injection, CSRF, XSS)e.Bezpečnostní politiky hesel a správy uživatelůf.Nahrávání a stahování souborůg.DDoSh.Šifrování a hashování"
+      "content": "a.SOAP a REST APIb.Knihovny a vývojové rámcec.Nástroje pro práci s REST APId.Testování rozhraní webových aplikací"
     },
     {
-      "label": "[section] Zabezpečení",
-      "content": "a.Validace vstupních datb.Autentizace a autorizacec.Metody zabezpečení webových aplikacíd.Zranitelnosti (SQL injection, NoSQL injection, CSRF, XSS)e.Bezpečnostní politiky hesel a správy uživatelůf.Nahrávání a stahování souborůg.DDoSh.Šifrování a hashování"
+      "label": "[section] Moderní serverové rozhraní webových aplikací",
+      "content": "a.SOAP a REST APIb.Knihovny a vývojové rámcec.Nástroje pro práci s REST APId.Testování rozhraní webových aplikací"
     },
     {
       "label": "[section] 5.",
-      "content": "a.Node.js, Express.js, Deno.jsb.Flask, FastAPI, Djangoc.Spring, .NETd.Ruby on Railse.Gin, Beego, Echof.Laravel, Slim, Symfony, Netteg.Alternativy"
+      "content": "a.Elektronická výměna datb.Asynchronní přenosy datc.Webové služby a integrace systémů"
     },
     {
-      "label": "[section] Frameworky",
-      "content": "a.Node.js, Express.js, Deno.jsb.Flask, FastAPI, Djangoc.Spring, .NETd.Ruby on Railse.Gin, Beego, Echof.Laravel, Slim, Symfony, Netteg.Alternativy"
+      "label": "[section] Komunikace a přenos dat mezi komponentami distribuovaných systémů",
+      "content": "a.Elektronická výměna datb.Asynchronní přenosy datc.Webové služby a integrace systémů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Zapojení PostGis databáze do projektub.Návrh REST Api pro výměnu prostorových informacic.Generování rastrových tiles"
+    },
+    {
+      "label": "[section] Webové aplikace a GIS",
+      "content": "a.Zapojení PostGis databáze do projektub.Návrh REST Api pro výměnu prostorových informacic.Generování rastrových tiles"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Hybridní aplikaceb.Cloudové službyc.Monitoring webové služby"
+    },
+    {
+      "label": "[section] Trendy v oblasti webových aplikací",
+      "content": "a.Hybridní aplikaceb.Cloudové službyc.Monitoring webové služby"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku20 hpříprava na průběžný test10 hzpracování projektů68 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška12 hcvičení24 hCelkem36 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "# Účast - Docházka je dobrovolná. # Písemka - 10 bodů, min. 0 - Implementace části backendové aplikace podle připravené šablony - Nutné implementovat tak, aby procházely dané automatické testy # Projekt - 60 bodů, min. 30 - Body jsou udělovány postupně: povinná obhajoba zadání 5 bodů, 1. průběžná obhajoba 10 bodů, 2. průběžná obhajoba 20 bodů, finální obhajoba 25 bodů. - Implementace komplexní webové aplikace. - Implementuje se jednoduchý frontend napojený na komplexní backendové služby. - Projekt se vypracovává individuálně. - Na projektu se pracuje průběžně, to je prokázáno commity v git repozitáři. - Finální obhajoba projektu je navázána na zkoušku. # Zkouška - Pro přihlášení na zkoušku je třeba získat min. 20 bodů v součtu z písemky a prvních třech obhajob projektu. - Za zkoušku je 30 bodů, min. 15 - Ústní zkouška. - Ověřování pochopení principů vývoje backendu a teoretických znalostí z přednášek. Výsledná známka je součtem bodů ze zkoušky a projektu. Celkově lze získat maximálně 100 bodů. Pro úspěšné ukončení je třeba získat minimálně 60 bodů. A 90 - 100 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 67 F 0 - 59"
+      "content": "Kontrola a hodnocení projektu, závěrečný test v eLearningovém prostředí UIS z oblasti SQL, databázových systémů, webových aplikací, tvorby API a webových služeb. Z testu je možné získat 50 bodů (minimum je 25), z toho je nutné získat alespoň 12 bodů za otevřené otázky. Za projekt demonstrující získané znalosti a dovednosti z probírané tématiky je možné získat 50 bodů (minimum je 25)."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumVypracování semestrální práce60 %Absolvování průběžného testu (testů)10 %Absolvování závěrečné ústní zkoušky30 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce45 %Absolvování závěrečné ústní zkoušky45 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Doporučená:GOLDBERG, Josh. Learning TypeScript. O'Reilly Media, 2022. ISBN 9781098110338.JAMES, Gough; DANIEL, Bryant a MATTHEW, Auburn. Mastering API Architecture. O'Reilly Media, 2022. ISBN 9781492090632.JUSTIN, Dennison; WES, Bryan a ZACHARY, Memos. RESTful API with Express. Online course: ACI Learning, Packt Publishing, 2024. ISBN 9781836207696.MATTHEW, Auburn a JOSE, Haro. Microservice APIs. Manning Publications, 2023. ISBN 9781617298417."
+      "content": "Základní:LOUDON, Kyle. 2010. Developing large web applications : [producing code that can grow and thrive]. 1. vyd. Sebastopol, CA: O'Reilly, 279 s. ISBN 978-0-596-80302-5.Doporučená:AALST, W., MYLOPOULOS, J., ROBINSON, B. Design Requirements Engineering: A Ten-Year Perspective : Design Requirements Workshop, Cleveland, OH, USA, June 3-6, 2007, Revised and Invited Papers. Berlin, Heidelberg, ISBN 9783540929666. HOGAN, B P. HTML5 a CSS3: výukový kurz webového vývojáře, Brno, Computer Press, 2011. ISBN 978-80-251-3576-1. STEPHENS, R. K., PLEW, R. R.: Naučte se SQL za 21 dní: pochopte principy jazyka relačních databází, uplatněte získané dovednosti při tvorbě dotazů a databázových aplikací. Brno, Computer Press, 2004. ISBN 80-7226-870-8. WILTON, P., COLBY, J W.Beginning SQL. Wrox, 2011. ISBN 978-0-764-57732-1. GROFF, J R., WEINBERG, P N. SQL: kompletní průvodce. Brno, CP Books, 2005, ISBN 80-251-0369-2."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "LOUDON, Kyle. 2010. Developing large web applications : [producing code that can grow and thrive]. 1. vyd. Sebastopol, CA: O'Reilly, 279 s. ISBN 978-0-596-80302-5."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "GOLDBERG, Josh. Learning TypeScript. O'Reilly Media, 2022. ISBN 9781098110338.JAMES, Gough; DANIEL, Bryant a MATTHEW, Auburn. Mastering API Architecture. O'Reilly Media, 2022. ISBN 9781492090632.JUSTIN, Dennison; WES, Bryan a ZACHARY, Memos. RESTful API with Express. Online course: ACI Learning, Packt Publishing, 2024. ISBN 9781836207696.MATTHEW, Auburn a JOSE, Haro. Microservice APIs. Manning Publications, 2023. ISBN 9781617298417."
+      "content": "AALST, W., MYLOPOULOS, J., ROBINSON, B. Design Requirements Engineering: A Ten-Year Perspective : Design Requirements Workshop, Cleveland, OH, USA, June 3-6, 2007, Revised and Invited Papers. Berlin, Heidelberg, ISBN 9783540929666. HOGAN, B P. HTML5 a CSS3: výukový kurz webového vývojáře, Brno, Computer Press, 2011. ISBN 978-80-251-3576-1. STEPHENS, R. K., PLEW, R. R.: Naučte se SQL za 21 dní: pochopte principy jazyka relačních databází, uplatněte získané dovednosti při tvorbě dotazů a databázových aplikací. Brno, Computer Press, 2004. ISBN 80-7226-870-8. WILTON, P., COLBY, J W.Beginning SQL. Wrox, 2011. ISBN 978-0-764-57732-1. GROFF, J R., WEINBERG, P N. SQL: kompletní průvodce. Brno, CP Books, 2005, ISBN 80-251-0369-2."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -369,7 +389,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2023/2024"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -393,7 +413,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The course can be studied by mobility students abroad."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -401,7 +421,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Ivo Pisařovic, Ph.D."
+      "content": "Ing. Jan Kolomazník, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -413,143 +433,147 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Ivo Pisařovic, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Bc. Martin Šulc (instructor, tutor)Bc. Jan Vavřina (instructor, tutor)"
+      "content": "Ing. Jan Kolomazník, Ph.D. (instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "Basics of Object Oriented Design and not Final Bachelor Exam"
     },
     {
       "label": "1.",
-      "content": "Architecture of backend services (allowance 4/6)"
+      "content": "Introduction to Web Applications (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Architectures of web applications"
+      "content": "Exploration of web engineering as a distinct academic field focusing on service development"
     },
     {
       "label": "b.",
-      "content": "Client-server, microservices"
+      "content": "Overview of internet technologies and protocols from a service provider's perspective"
     },
     {
       "label": "c.",
-      "content": "Containerization, Docker"
+      "content": "Classification of web applications from a service provider's standpoint"
     },
     {
       "label": "2.",
-      "content": "Communication (allowance 4/8)"
+      "content": "Web Application Technology (allowance 2/6)"
     },
     {
       "label": "a.",
-      "content": "REST API"
+      "content": "Examination of server-side scripting languages"
     },
     {
       "label": "b.",
-      "content": "SOAP"
+      "content": "Usage and application of database technologies"
     },
     {
       "label": "c.",
-      "content": "WebSocket, STOMP, Socket.IO"
-    },
-    {
-      "label": "d.",
-      "content": "GraphQL"
-    },
-    {
-      "label": "e.",
-      "content": "Alternative forms of communication"
+      "content": "Tools and practices that facilitate web application development"
     },
     {
       "label": "3.",
-      "content": "Testing (allowance 1/4)"
+      "content": "Web Application Security (allowance 2/6)"
     },
     {
       "label": "a.",
-      "content": "Unit testing"
+      "content": "User authentication and authorization techniques"
     },
     {
       "label": "b.",
-      "content": "Integration testing"
+      "content": "Data encryption methodologies"
+    },
+    {
+      "label": "c.",
+      "content": "Common security vulnerabilities in web applications"
+    },
+    {
+      "label": "d.",
+      "content": "Practices and procedures for security audits"
     },
     {
       "label": "4.",
-      "content": "Security (allowance 4/6)"
+      "content": "Modern Server Interfaces for Web Applications (allowance 2/4)"
     },
     {
       "label": "a.",
-      "content": "Validation of input data"
+      "content": "An in-depth look at SOAP and REST APIs"
     },
     {
       "label": "b.",
-      "content": "Authentication and authorization"
+      "content": "Libraries and development frameworks for server interfaces"
     },
     {
       "label": "c.",
-      "content": "Web application security methods"
+      "content": "Tools for effective REST API manipulation"
     },
     {
       "label": "d.",
-      "content": "Vulnerabilities (SQL injection, NoSQL injection, CSRF, XSS)"
-    },
-    {
-      "label": "e.",
-      "content": "Password and user management security policies"
-    },
-    {
-      "label": "f.",
-      "content": "File uploads and downloads"
-    },
-    {
-      "label": "g.",
-      "content": "DDoS"
-    },
-    {
-      "label": "h.",
-      "content": "Encryption"
+      "content": "Techniques and tools for web application interface testing"
     },
     {
       "label": "5.",
-      "content": "Frameworks (allowance 1/4)"
+      "content": "Communication and Data Transfer in Distributed Systems (allowance 2/6)"
     },
     {
       "label": "a.",
-      "content": "Node.js, Express.js, Deno.js"
+      "content": "Procedures for electronic data interchange"
     },
     {
       "label": "b.",
-      "content": "Flask, FastAPI, Django"
+      "content": "Asynchronous data transfer mechanisms"
     },
     {
       "label": "c.",
-      "content": "Spring, .NET"
+      "content": "Integration of web services into distributed systems"
+    },
+    {
+      "label": "6.",
+      "content": "Web Applications and Geographic Information Systems (GIS) (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Integration of PostGIS databases into projects"
+    },
+    {
+      "label": "b.",
+      "content": "Design of REST APIs for spatial information exchange"
+    },
+    {
+      "label": "c.",
+      "content": "Generation of raster tiles in GIS applications"
+    },
+    {
+      "label": "7.",
+      "content": "Emerging Trends in Web Applications (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Examination of hybrid application development"
+    },
+    {
+      "label": "b.",
+      "content": "Introduction to cloud services in web application development"
+    },
+    {
+      "label": "c.",
+      "content": "Solutions for high-availability applications"
     },
     {
       "label": "d.",
-      "content": "Ruby on Rails"
+      "content": "Techniques for monitoring web services"
     },
     {
-      "label": "e.",
-      "content": "Gin, Beego, Echo"
-    },
-    {
-      "label": "f.",
-      "content": "Laravel, Slim, Symfony, Nette"
-    },
-    {
-      "label": "g.",
-      "content": "Alternatives"
-    },
-    {
-      "label": "Term paper",
-      "content": "60 %"
-    },
-    {
-      "label": "Mid-term test(s)",
+      "label": "Active lecture/seminar/workshop/tutorial participation",
       "content": "10 %"
     },
     {
+      "label": "Term paper",
+      "content": "45 %"
+    },
+    {
       "label": "Final oral exam",
-      "content": "30 %"
+      "content": "45 %"
     },
     {
       "label": "Total",
@@ -557,7 +581,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -573,7 +597,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2023/2024"
     },
     {
       "label": "[section] Semester:",
@@ -601,7 +625,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The course can be studied by mobility students abroad."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -609,7 +633,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Ivo Pisařovic, Ph.D."
+      "content": "Course supervisor: Ing. Jan Kolomazník, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -621,93 +645,113 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Ivo Pisařovic, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Bc. Martin Šulc (instructor, tutor)Bc. Jan Vavřina (instructor, tutor)"
+      "content": "Teachers: Ing. Jan Kolomazník, Ph.D. (instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "Prerequisites: Basics of Object Oriented Design and not Final Bachelor Exam"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday11.00-12.50Q16B-OII. PisařovicLectureEven week69Wednesday9.00-10.50Q09B-OIM. ŠulcSeminarEvery week23Wednesday11.00-12.50Q09B-OIM. ŠulcSeminarEvery week23Wednesday15.00-16.50Q07B-OIJ. VavřinaSeminarEvery week23"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday9.00-10.50Q09B-OIJ. KolomazníkSeminarEvery week20Monday11.00-12.50Q09B-OIJ. KolomazníkSeminarEvery week20Wednesday13.00-14.50Q16B-OIJ. KolomazníkLectureEven week40"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The aim of the course is to introduce students to modern methods of web backend development. Since backend technologies are rapidly evolving, the course is structured so that the primary outcome is general knowledge rather than knowledge of a specific framework. The student should still be able to develop a web backend using current technologies several years after completing the course. Students will try a variety of technologies during the semester and emphasis is placed on project work."
+      "content": "The objective of this course is to equip students with a comprehensive understanding of contemporary technologies used in server services development. This includes the utilization of modern PHP frameworks, the application of security technologies such as JSON Web Tokens (JWT) for server applications, and the creation of robust and scalable REST and SOAP services. By the end of the course, students will possess a sophisticated skill set that is crucial for developing, securing, and maintaining high-quality web services."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Architecture of backend services (allowance 4/6) a.Architectures of web applicationsb.Client-server, microservicesc.Containerization, Docker2.Communication (allowance 4/8) a.REST APIb.SOAPc.WebSocket, STOMP, Socket.IOd.GraphQLe.Alternative forms of communication3.Testing (allowance 1/4) a.Unit testingb.Integration testing4.Security (allowance 4/6) a.Validation of input datab.Authentication and authorizationc.Web application security methodsd.Vulnerabilities (SQL injection, NoSQL injection, CSRF, XSS)e.Password and user management security policiesf.File uploads and downloadsg.DDoSh.Encryption5.Frameworks (allowance 1/4) a.Node.js, Express.js, Deno.jsb.Flask, FastAPI, Djangoc.Spring, .NETd.Ruby on Railse.Gin, Beego, Echof.Laravel, Slim, Symfony, Netteg.Alternatives"
+      "content": "1.Introduction to Web Applications (allowance 2/2) a.Exploration of web engineering as a distinct academic field focusing on service developmentb.Overview of internet technologies and protocols from a service provider's perspectivec.Classification of web applications from a service provider's standpoint2.Web Application Technology (allowance 2/6) a.Examination of server-side scripting languagesb.Usage and application of database technologiesc.Tools and practices that facilitate web application development3.Web Application Security (allowance 2/6) a.User authentication and authorization techniquesb.Data encryption methodologiesc.Common security vulnerabilities in web applicationsd.Practices and procedures for security audits4.Modern Server Interfaces for Web Applications (allowance 2/4) a.An in-depth look at SOAP and REST APIsb.Libraries and development frameworks for server interfacesc.Tools for effective REST API manipulationd.Techniques and tools for web application interface testing5.Communication and Data Transfer in Distributed Systems (allowance 2/6) a.Procedures for electronic data interchangeb.Asynchronous data transfer mechanismsc.Integration of web services into distributed systems6.Web Applications and Geographic Information Systems (GIS) (allowance 2/2) a.Integration of PostGIS databases into projectsb.Design of REST APIs for spatial information exchangec.Generation of raster tiles in GIS applications7.Emerging Trends in Web Applications (allowance 2/2) a.Examination of hybrid application developmentb.Introduction to cloud services in web application developmentc.Solutions for high-availability applicationsd.Techniques for monitoring web services"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Architectures of web applicationsb.Client-server, microservicesc.Containerization, Docker"
+      "content": "a.Exploration of web engineering as a distinct academic field focusing on service developmentb.Overview of internet technologies and protocols from a service provider's perspectivec.Classification of web applications from a service provider's standpoint"
     },
     {
-      "label": "[section] Architecture of backend services",
-      "content": "a.Architectures of web applicationsb.Client-server, microservicesc.Containerization, Docker"
+      "label": "[section] Introduction to Web Applications",
+      "content": "a.Exploration of web engineering as a distinct academic field focusing on service developmentb.Overview of internet technologies and protocols from a service provider's perspectivec.Classification of web applications from a service provider's standpoint"
     },
     {
       "label": "[section] 2.",
-      "content": "a.REST APIb.SOAPc.WebSocket, STOMP, Socket.IOd.GraphQLe.Alternative forms of communication"
+      "content": "a.Examination of server-side scripting languagesb.Usage and application of database technologiesc.Tools and practices that facilitate web application development"
     },
     {
-      "label": "[section] Communication",
-      "content": "a.REST APIb.SOAPc.WebSocket, STOMP, Socket.IOd.GraphQLe.Alternative forms of communication"
+      "label": "[section] Web Application Technology",
+      "content": "a.Examination of server-side scripting languagesb.Usage and application of database technologiesc.Tools and practices that facilitate web application development"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Unit testingb.Integration testing"
+      "content": "a.User authentication and authorization techniquesb.Data encryption methodologiesc.Common security vulnerabilities in web applicationsd.Practices and procedures for security audits"
     },
     {
-      "label": "[section] Testing",
-      "content": "a.Unit testingb.Integration testing"
+      "label": "[section] Web Application Security",
+      "content": "a.User authentication and authorization techniquesb.Data encryption methodologiesc.Common security vulnerabilities in web applicationsd.Practices and procedures for security audits"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Validation of input datab.Authentication and authorizationc.Web application security methodsd.Vulnerabilities (SQL injection, NoSQL injection, CSRF, XSS)e.Password and user management security policiesf.File uploads and downloadsg.DDoSh.Encryption"
+      "content": "a.An in-depth look at SOAP and REST APIsb.Libraries and development frameworks for server interfacesc.Tools for effective REST API manipulationd.Techniques and tools for web application interface testing"
     },
     {
-      "label": "[section] Security",
-      "content": "a.Validation of input datab.Authentication and authorizationc.Web application security methodsd.Vulnerabilities (SQL injection, NoSQL injection, CSRF, XSS)e.Password and user management security policiesf.File uploads and downloadsg.DDoSh.Encryption"
+      "label": "[section] Modern Server Interfaces for Web Applications",
+      "content": "a.An in-depth look at SOAP and REST APIsb.Libraries and development frameworks for server interfacesc.Tools for effective REST API manipulationd.Techniques and tools for web application interface testing"
     },
     {
       "label": "[section] 5.",
-      "content": "a.Node.js, Express.js, Deno.jsb.Flask, FastAPI, Djangoc.Spring, .NETd.Ruby on Railse.Gin, Beego, Echof.Laravel, Slim, Symfony, Netteg.Alternatives"
+      "content": "a.Procedures for electronic data interchangeb.Asynchronous data transfer mechanismsc.Integration of web services into distributed systems"
     },
     {
-      "label": "[section] Frameworks",
-      "content": "a.Node.js, Express.js, Deno.jsb.Flask, FastAPI, Djangoc.Spring, .NETd.Ruby on Railse.Gin, Beego, Echof.Laravel, Slim, Symfony, Netteg.Alternatives"
+      "label": "[section] Communication and Data Transfer in Distributed Systems",
+      "content": "a.Procedures for electronic data interchangeb.Asynchronous data transfer mechanismsc.Integration of web services into distributed systems"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Integration of PostGIS databases into projectsb.Design of REST APIs for spatial information exchangec.Generation of raster tiles in GIS applications"
+    },
+    {
+      "label": "[section] Web Applications and Geographic Information Systems (GIS)",
+      "content": "a.Integration of PostGIS databases into projectsb.Design of REST APIs for spatial information exchangec.Generation of raster tiles in GIS applications"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Examination of hybrid application developmentb.Introduction to cloud services in web application developmentc.Solutions for high-availability applicationsd.Techniques for monitoring web services"
+    },
+    {
+      "label": "[section] Emerging Trends in Web Applications",
+      "content": "a.Examination of hybrid application developmentb.Introduction to cloud services in web application developmentc.Solutions for high-availability applicationsd.Techniques for monitoring web services"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam20 hpreparation for regular testing10 helaboration and execution of projects68 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture12 hpractice24 hTotal36 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "# Attendance - Attendance is voluntary. # Written test - 10 points, min. 0 - Implementation of part of a backend application according to a prepared template - Must be implemented so that it passes the given automatic tests # Project - 60 points, min. 30 - Points are awarded gradually: mandatory assignment defense 5 points, 1st interim defense 10 points, 2nd interim defense 20 points, final defense 25 points. - Implementation of a complex web application. - A simple frontend connected to complex backend services. - The project is developed individually. - The project is worked on continuously, this is demonstrated by commits in git repository. - The project defense is linked to the exam. # Exam - To register for the exam, you must obtain a minimum of 20 points in total from the written test and the first three project defenses. - The exam is worth 30 points, min. 15 - Oral exam. - Verification of understanding of backend development principles and theoretical knowledge from lectures. The final grade is the sum of the points from the exam and the project. A maximum of 100 points can be obtained overall. A minimum of 60 points is required for successful completion. A 90 - 100 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 67 F 0 - 59"
+      "content": "Final Evaluation and Project Review: The course concludes with an examination through the UIS eLearning environment, covering topics such as SQL, database systems, web applications, API creation, and web services. The test holds a potential 50 points, with a minimum requirement of 25. At least 12 points must be achieved through open-ended questions. In addition to the test, students are expected to submit a project demonstrating the acquired knowledge and skills related to the topics discussed throughout the course. This project also bears a potential score of 50 points, with a minimum requirement of 25 points to pass."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceTerm paper60 %Mid-term test(s)10 %Final oral exam30 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper45 %Final oral exam45 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Recommended:GOLDBERG, Josh. Learning TypeScript. O'Reilly Media, 2022. ISBN 9781098110338.JAMES, Gough; DANIEL, Bryant a MATTHEW, Auburn. Mastering API Architecture. O'Reilly Media, 2022. ISBN 9781492090632.JUSTIN, Dennison; WES, Bryan a ZACHARY, Memos. RESTful API with Express. Online course: ACI Learning, Packt Publishing, 2024. ISBN 9781836207696.MATTHEW, Auburn a JOSE, Haro. Microservice APIs. Manning Publications, 2023. ISBN 9781617298417."
+      "content": "Basic:LOUDON, Kyle. 2010. Developing large web applications : [producing code that can grow and thrive]. 1st ed. Sebastopol, CA: O'Reilly, 279 p. ISBN 978-0-596-80302-5.Recommended:AALST, W., MYLOPOULOS, J., ROBINSON, B. Design Requirements Engineering: A Ten-Year Perspective : Design Requirements Workshop, Cleveland, OH, USA, June 3-6, 2007, Revised and Invited Papers. Berlin, Heidelberg, ISBN 9783540929666. HOGAN, B P. HTML5 a CSS3: výukový kurz webového vývojáře, Brno, Computer Press, 2011. ISBN 978-80-251-3576-1. STEPHENS, R. K., PLEW, R. R.: Naučte se SQL za 21 dní: pochopte principy jazyka relačních databází, uplatněte získané dovednosti při tvorbě dotazů a databázových aplikací. Brno, Computer Press, 2004. ISBN 80-7226-870-8. WILTON, P., COLBY, J W.Beginning SQL. Wrox, 2011. ISBN 978-0-764-57732-1. GROFF, J R., WEINBERG, P N. SQL: kompletní průvodce. Brno, CP Books, 2005, ISBN 80-251-0369-2."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "LOUDON, Kyle. 2010. Developing large web applications : [producing code that can grow and thrive]. 1st ed. Sebastopol, CA: O'Reilly, 279 p. ISBN 978-0-596-80302-5."
     },
     {
       "label": "[section] Recommended:",
-      "content": "GOLDBERG, Josh. Learning TypeScript. O'Reilly Media, 2022. ISBN 9781098110338.JAMES, Gough; DANIEL, Bryant a MATTHEW, Auburn. Mastering API Architecture. O'Reilly Media, 2022. ISBN 9781492090632.JUSTIN, Dennison; WES, Bryan a ZACHARY, Memos. RESTful API with Express. Online course: ACI Learning, Packt Publishing, 2024. ISBN 9781836207696.MATTHEW, Auburn a JOSE, Haro. Microservice APIs. Manning Publications, 2023. ISBN 9781617298417."
+      "content": "AALST, W., MYLOPOULOS, J., ROBINSON, B. Design Requirements Engineering: A Ten-Year Perspective : Design Requirements Workshop, Cleveland, OH, USA, June 3-6, 2007, Revised and Invited Papers. Berlin, Heidelberg, ISBN 9783540929666. HOGAN, B P. HTML5 a CSS3: výukový kurz webového vývojáře, Brno, Computer Press, 2011. ISBN 978-80-251-3576-1. STEPHENS, R. K., PLEW, R. R.: Naučte se SQL za 21 dní: pochopte principy jazyka relačních databází, uplatněte získané dovednosti při tvorbě dotazů a databázových aplikací. Brno, Computer Press, 2004. ISBN 80-7226-870-8. WILTON, P., COLBY, J W.Beginning SQL. Wrox, 2011. ISBN 978-0-764-57732-1. GROFF, J R., WEINBERG, P N. SQL: kompletní průvodce. Brno, CP Books, 2005, ISBN 80-251-0369-2."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:46:52",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:02:05",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

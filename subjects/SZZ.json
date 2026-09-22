@@ -3,15 +3,187 @@
   "name": "Státní závěrečná zkouška",
   "nameCs": "Státní závěrečná zkouška",
   "nameEn": "Final State Examination",
-  "predmetId": "160723",
+  "predmetId": "162785",
   "facultyId": 60,
   "aliases": [
+    "EBC-SBZ",
+    "ENC-SMZ",
     "STAZZK"
   ],
   "teachers": [
     "doc. Ing. Vojtěch Kumbár, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161865;lang=cz",
+      "totalPass": 105,
+      "totalFail": 11,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 36,
+            "B": 23,
+            "C": 26,
+            "D": 17,
+            "E": 3,
+            "F": 11,
+            "FN": 0
+          },
+          "pass": 105,
+          "fail": 11
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 36,
+            "B": 23,
+            "C": 26,
+            "D": 17,
+            "E": 3,
+            "F": 11,
+            "FN": 0
+          },
+          "pass": 105,
+          "fail": 11
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=160300;lang=cz",
+      "totalPass": 80,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 32,
+            "C": 26,
+            "D": 10,
+            "E": 0,
+            "F": 8,
+            "FN": 0
+          },
+          "pass": 80,
+          "fail": 8
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 12,
+            "B": 32,
+            "C": 26,
+            "D": 10,
+            "E": 0,
+            "F": 8,
+            "FN": 0
+          },
+          "pass": 80,
+          "fail": 8
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162785;lang=cz",
+      "totalPass": 265,
+      "totalFail": 13,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 118,
+            "B": 70,
+            "C": 55,
+            "D": 18,
+            "E": 4,
+            "F": 13,
+            "FN": 0
+          },
+          "pass": 265,
+          "fail": 13
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 118,
+            "B": 70,
+            "C": 55,
+            "D": 18,
+            "E": 4,
+            "F": 13,
+            "FN": 0
+          },
+          "pass": 265,
+          "fail": 13
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162302;lang=cz",
+      "totalPass": 71,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 33,
+            "B": 14,
+            "C": 18,
+            "D": 3,
+            "E": 3,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 71,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 33,
+            "B": 14,
+            "C": 17,
+            "D": 2,
+            "E": 3,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 69,
+          "fail": 3
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -1721,45 +1893,6 @@
       ]
     },
     {
-      "semesterName": "ZS 2020/2021 - ZF",
-      "semesterId": "590",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=125255;lang=cz",
-      "totalPass": 5,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 1,
-            "B": 0,
-            "C": 1,
-            "D": 3,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 5,
-          "fail": 0
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 1,
-            "B": 0,
-            "C": 1,
-            "D": 3,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 5,
-          "fail": 0
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2020/2021 - PEF",
       "semesterId": "584",
       "year": 2020,
@@ -1806,6 +1939,45 @@
           },
           "pass": 7,
           "fail": 1
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2020/2021 - ZF",
+      "semesterId": "590",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=590;predmet=125255;lang=cz",
+      "totalPass": 5,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
         }
       ]
     },
@@ -1885,5 +2057,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

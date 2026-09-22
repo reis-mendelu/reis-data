@@ -1,0 +1,673 @@
+{
+  "courseCode": "ENC-IDS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-IDS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Interdisciplinární seminář"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Leadership od Sustainability"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné absolvovat i během zahraniční mobility. Studenti plní požadavky distanční formou prostřednictvím kombinace online konzultací, samostatného studia a průběžné práce na seminární práci. Kontakt s vyučujícím probíhá online (MS Teams/e-mail). Studenti odevzdají seminární práci a její prezentaci v elektronické podobě v termínech stanovených vyučujícím. Aktivita na seminářích je nahrazena individuálními či týmovými online úkoly. Zápočet může být udělen na základě distančního splnění všech požadavků a kvality prezentovaných výstupů. Studijní náročnost i obsah jsou ekvivalentní prezenční výuce."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. PhDr. Martina Rašticová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav managementu (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. PhDr. Martina Rašticová, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Eva Šerá, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Klíčová ekonomická témata a řízení ekonomických procesů (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy ekonomického řízení v kontextu cirkulárního hospodaření"
+    },
+    {
+      "label": "b.",
+      "content": "Finanční aspekty a nástroje pro podporu cirkulárních modelů"
+    },
+    {
+      "label": "2.",
+      "content": "Propojení cirkulární ekonomiky se společenskými a přírodními vědami (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Sociální a environmentální dopady cirkulárního hospodaření"
+    },
+    {
+      "label": "b.",
+      "content": "Vztah mezi oběhovým hospodářstvím a udržitelným rozvojem"
+    },
+    {
+      "label": "3.",
+      "content": "Legislativní a společenské potřeby v oblasti udržitelnosti (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "ESG reporting a jeho význam pro podniky a společnosti"
+    },
+    {
+      "label": "b.",
+      "content": "Řízení rizik souvisejících s environmentálními a sociálními faktory"
+    },
+    {
+      "label": "4.",
+      "content": "Ekonomicky udržitelné přístupy a praktická řešení (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Identifikace a implementace cirkulárních modelů ve firmách"
+    },
+    {
+      "label": "b.",
+      "content": "Inovativní technologie a jejich role v podpoře cirkulární ekonomiky"
+    },
+    {
+      "label": "5.",
+      "content": "Interdisciplinární propojení cirkulární ekonomiky v různých dimenzích (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Ekonomické aspekty oběhového hospodářství v zemědělství a zahradnictví"
+    },
+    {
+      "label": "b.",
+      "content": "Lesnictví a regionální rozvoj v kontextu cirkulární ekonomiky"
+    },
+    {
+      "label": "6.",
+      "content": "Corporate Social Responsibility (Společenská odpovědnost firem) (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Přínos firmy pro společnost a její stakeholdery"
+    },
+    {
+      "label": "b.",
+      "content": "Udržitelnost jako komplexní a dlouhodobý přístup k hodnocení dopadů firmy"
+    },
+    {
+      "label": "7.",
+      "content": "Sustainable Development Goals (Cíle udržitelného rozvoje) (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam a role SDGs při dosahování udržitelného rozvoje"
+    },
+    {
+      "label": "b.",
+      "content": "Spolupráce vlád, firem a organizací na realizaci SDGs a udržitelných projektů"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "30 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2026/2027 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Interdisciplinární seminář"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Leadership od Sustainability"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné absolvovat i během zahraniční mobility. Studenti plní požadavky distanční formou prostřednictvím kombinace online konzultací, samostatného studia a průběžné práce na seminární práci. Kontakt s vyučujícím probíhá online (MS Teams/e-mail). Studenti odevzdají seminární práci a její prezentaci v elektronické podobě v termínech stanovených vyučujícím. Aktivita na seminářích je nahrazena individuálními či týmovými online úkoly. Zápočet může být udělen na základě distančního splnění všech požadavků a kvality prezentovaných výstupů. Studijní náročnost i obsah jsou ekvivalentní prezenční výuce."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. PhDr. Martina Rašticová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav managementu (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. PhDr. Martina Rašticová, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Eva Šerá, Ph.D. (cvičící, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí15.00-18.50Q33M. Rašticová, E. ŠeráCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu Interdisciplinární seminář je poskytnout studentům možnost vyzkoušet si praktické přístupy k otázkám cirkulárního hospodaření a reagovat na aktuální ekonomické, environmentální a sociální změny. Předmět se zaměřuje na klíčová ekonomická témata spojená s řízením ekonomických procesů a rozšiřuje je o současné otázky z oblasti společenských a přírodních věd. Součástí tohoto předmětu je také ESG reporting, což zahrnuje udržitelné řízení v oblastech environmentálních, sociálních a řízení rizik. Studenti získají znalosti a dovednosti pro vytváření ekonomicky udržitelných přístupů a praktická řešení problémů firem v různých ekonomických sektorech. Interdisciplinární seminář navazuje na koncept cirkulární ekonomiky a propojuje různé oblasti, jako je ekonomie, zemědělství, zahradnictví, lesnictví a regionální dimenze. Studenti si tak budou budovat širokou znalostní základnu a hlubší povědomí o oběhovém hospodářství, které je ovlivněno dostupnými technologiemi, institucionálním rámcem ekonomiky a preferencemi společnosti. Cílem je připravit studenty na aplikaci těchto poznatků a dovedností v praxi, aby mohli aktivně přispět k ekonomicky udržitelnému rozvoji a řešení současných výzev ve světě."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Klíčová ekonomická témata a řízení ekonomických procesů (dotace 0/8) a.Principy ekonomického řízení v kontextu cirkulárního hospodařeníb.Finanční aspekty a nástroje pro podporu cirkulárních modelů2.Propojení cirkulární ekonomiky se společenskými a přírodními vědami (dotace 0/8) a.Sociální a environmentální dopady cirkulárního hospodařeníb.Vztah mezi oběhovým hospodářstvím a udržitelným rozvojem3.Legislativní a společenské potřeby v oblasti udržitelnosti (dotace 0/8) a.ESG reporting a jeho význam pro podniky a společnostib.Řízení rizik souvisejících s environmentálními a sociálními faktory4.Ekonomicky udržitelné přístupy a praktická řešení (dotace 0/8) a.Identifikace a implementace cirkulárních modelů ve firmáchb.Inovativní technologie a jejich role v podpoře cirkulární ekonomiky5.Interdisciplinární propojení cirkulární ekonomiky v různých dimenzích (dotace 0/8) a.Ekonomické aspekty oběhového hospodářství v zemědělství a zahradnictvíb.Lesnictví a regionální rozvoj v kontextu cirkulární ekonomiky6.Corporate Social Responsibility (Společenská odpovědnost firem) (dotace 0/8) a.Přínos firmy pro společnost a její stakeholderyb.Udržitelnost jako komplexní a dlouhodobý přístup k hodnocení dopadů firmy7.Sustainable Development Goals (Cíle udržitelného rozvoje) (dotace 0/8) a.Význam a role SDGs při dosahování udržitelného rozvojeb.Spolupráce vlád, firem a organizací na realizaci SDGs a udržitelných projektů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Principy ekonomického řízení v kontextu cirkulárního hospodařeníb.Finanční aspekty a nástroje pro podporu cirkulárních modelů"
+    },
+    {
+      "label": "[section] Klíčová ekonomická témata a řízení ekonomických procesů",
+      "content": "a.Principy ekonomického řízení v kontextu cirkulárního hospodařeníb.Finanční aspekty a nástroje pro podporu cirkulárních modelů"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Sociální a environmentální dopady cirkulárního hospodařeníb.Vztah mezi oběhovým hospodářstvím a udržitelným rozvojem"
+    },
+    {
+      "label": "[section] Propojení cirkulární ekonomiky se společenskými a přírodními vědami",
+      "content": "a.Sociální a environmentální dopady cirkulárního hospodařeníb.Vztah mezi oběhovým hospodářstvím a udržitelným rozvojem"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.ESG reporting a jeho význam pro podniky a společnostib.Řízení rizik souvisejících s environmentálními a sociálními faktory"
+    },
+    {
+      "label": "[section] Legislativní a společenské potřeby v oblasti udržitelnosti",
+      "content": "a.ESG reporting a jeho význam pro podniky a společnostib.Řízení rizik souvisejících s environmentálními a sociálními faktory"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Identifikace a implementace cirkulárních modelů ve firmáchb.Inovativní technologie a jejich role v podpoře cirkulární ekonomiky"
+    },
+    {
+      "label": "[section] Ekonomicky udržitelné přístupy a praktická řešení",
+      "content": "a.Identifikace a implementace cirkulárních modelů ve firmáchb.Inovativní technologie a jejich role v podpoře cirkulární ekonomiky"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Ekonomické aspekty oběhového hospodářství v zemědělství a zahradnictvíb.Lesnictví a regionální rozvoj v kontextu cirkulární ekonomiky"
+    },
+    {
+      "label": "[section] Interdisciplinární propojení cirkulární ekonomiky v různých dimenzích",
+      "content": "a.Ekonomické aspekty oběhového hospodářství v zemědělství a zahradnictvíb.Lesnictví a regionální rozvoj v kontextu cirkulární ekonomiky"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Přínos firmy pro společnost a její stakeholderyb.Udržitelnost jako komplexní a dlouhodobý přístup k hodnocení dopadů firmy"
+    },
+    {
+      "label": "[section] Corporate Social Responsibility (Společenská odpovědnost firem)",
+      "content": "a.Přínos firmy pro společnost a její stakeholderyb.Udržitelnost jako komplexní a dlouhodobý přístup k hodnocení dopadů firmy"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Význam a role SDGs při dosahování udržitelného rozvojeb.Spolupráce vlád, firem a organizací na realizaci SDGs a udržitelných projektů"
+    },
+    {
+      "label": "[section] Sustainable Development Goals (Cíle udržitelného rozvoje)",
+      "content": "a.Význam a role SDGs při dosahování udržitelného rozvojeb.Spolupráce vlád, firem a organizací na realizaci SDGs a udržitelných projektů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumseminář56 hkonzultace6 hprojektová práce8 hveřejná prezentace (ústní)6 hpříprava na průběžné hodnocení8 hpříprava prezentace8 hzpracování projektů8 hzpracování seminární práce12 hCelkem112 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předpokladem ukončení předmětu je získání zápočtu za vypracování a prezentaci seminární práce a na základě aktivity na seminářích (celkem min. 61 z max. 100 bodů)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Vypracování semestrální práce40 %Prezentace nebo obhajoba30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:TETŘEVOVÁ, Liběna. 2017. Společenská odpovědnost firem společensky citlivých odvětví. 1. vyd. Praha: Grada Publishing, 215 s. Expert. ISBN 978-80-271-0285-3.VRABCOVÁ, Pavla. 2021. Udržitelné podnikání v praxi: dobrovolné nástroje (nejen) zemědělských a lesnických podniků. Praha: Grada, 192 s. ISBN 978-80-271-3303-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "TETŘEVOVÁ, Liběna. 2017. Společenská odpovědnost firem společensky citlivých odvětví. 1. vyd. Praha: Grada Publishing, 215 s. Expert. ISBN 978-80-271-0285-3.VRABCOVÁ, Pavla. 2021. Udržitelné podnikání v praxi: dobrovolné nástroje (nejen) zemědělských a lesnických podniků. Praha: Grada, 192 s. ISBN 978-80-271-3303-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-CE Cirkulární ekonomika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-IDS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Interdisciplinární seminář"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Leadership od Sustainability"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course can be completed during a study abroad mobility. Students may fulfil all course requirements in a distance-learning mode through a combination of online consultations, independent study, and continuous work on the seminar paper. Communication with the instructor takes place online (MS Teams/e-mail). Students submit the seminar paper and its presentation electronically within deadlines set by the instructor. Seminar participation is replaced by individual or team online assignments. The course credit can be awarded based on the successful distance completion of all requirements and the quality of the submitted outputs. The workload and learning outcomes are fully equivalent to those of the on-campus format."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. PhDr. Martina Rašticová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Management (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. PhDr. Martina Rašticová, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Eva Šerá, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Key Economic Topics and Management of Economic Processes (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles of economic management in the context of circular systems"
+    },
+    {
+      "label": "b.",
+      "content": "Financial aspects and instruments supporting circular business models"
+    },
+    {
+      "label": "2.",
+      "content": "Linking Circular Economy with Social and Natural Sciences (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Social and environmental impacts of circular practices"
+    },
+    {
+      "label": "b.",
+      "content": "The relationship between the circular economy and sustainable development"
+    },
+    {
+      "label": "3.",
+      "content": "Legislative and Societal Requirements in the Field of Sustainability (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "ESG reporting and its significance for companies and society"
+    },
+    {
+      "label": "b.",
+      "content": "Risk management related to environmental and social factors"
+    },
+    {
+      "label": "4.",
+      "content": "Economically Sustainable Approaches and Practical Solutions (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Identification and implementation of circular models within companies"
+    },
+    {
+      "label": "b.",
+      "content": "Innovative technologies and their role in supporting the circular economy"
+    },
+    {
+      "label": "5.",
+      "content": "Interdisciplinary Connections of the Circular Economy Across Different Dimensions (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Economic aspects of circular practices in agriculture and horticulture"
+    },
+    {
+      "label": "b.",
+      "content": "Forestry and regional development in the context of the circular economy"
+    },
+    {
+      "label": "6.",
+      "content": "Corporate Social Responsibility (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "The contribution of a company to society and its stakeholders"
+    },
+    {
+      "label": "b.",
+      "content": "Sustainability as a comprehensive and long-term approach to assessing a company’s impacts"
+    },
+    {
+      "label": "7.",
+      "content": "Sustainable Development Goals (SDGs) (allowance 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "The importance and role of SDGs in achieving sustainable development"
+    },
+    {
+      "label": "b.",
+      "content": "Collaboration between governments, companies, and organizations in implementing SDGs and sustainable projects"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "30 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2026/2027 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Interdisciplinární seminář"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Leadership od Sustainability"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course can be completed during a study abroad mobility. Students may fulfil all course requirements in a distance-learning mode through a combination of online consultations, independent study, and continuous work on the seminar paper. Communication with the instructor takes place online (MS Teams/e-mail). Students submit the seminar paper and its presentation electronically within deadlines set by the instructor. Seminar participation is replaced by individual or team online assignments. The course credit can be awarded based on the successful distance completion of all requirements and the quality of the submitted outputs. The workload and learning outcomes are fully equivalent to those of the on-campus format."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. PhDr. Martina Rašticová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Management (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. PhDr. Martina Rašticová, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Eva Šerá, Ph.D. (examiner, instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday15.00-18.50Q33M. Rašticová, E. ŠeráSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the Interdisciplinary Seminar course is to provide students with the opportunity to try out practical approaches to circular economy issues and respond to current economic, environmental, and social changes. The course focuses on key economic topics related to the management of economic processes and expands them to include current issues in the social and natural sciences. The course also covers ESG reporting, which includes sustainable management in the areas of environment, social issues, and risk management. Students will gain the knowledge and skills to develop economically sustainable approaches and practical solutions to problems faced by companies in various economic sectors. The interdisciplinary seminar builds on the concept of the circular economy and links various fields such as economics, agriculture, horticulture, forestry, and regional dimensions. Students will thus build a broad knowledge base and a deeper understanding of the circular economy, which is influenced by available technologies, the institutional framework of the economy, and societal preferences. The aim is to prepare students to apply this knowledge and skills in practice so that they can actively contribute to economically sustainable development and address current global challenges."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Key Economic Topics and Management of Economic Processes (allowance 0/8) a.Principles of economic management in the context of circular systemsb.Financial aspects and instruments supporting circular business models2.Linking Circular Economy with Social and Natural Sciences (allowance 0/8) a.Social and environmental impacts of circular practicesb.The relationship between the circular economy and sustainable development3.Legislative and Societal Requirements in the Field of Sustainability (allowance 0/8) a.ESG reporting and its significance for companies and societyb.Risk management related to environmental and social factors4.Economically Sustainable Approaches and Practical Solutions (allowance 0/8) a.Identification and implementation of circular models within companiesb.Innovative technologies and their role in supporting the circular economy5.Interdisciplinary Connections of the Circular Economy Across Different Dimensions (allowance 0/8) a.Economic aspects of circular practices in agriculture and horticultureb.Forestry and regional development in the context of the circular economy6.Corporate Social Responsibility (allowance 0/8) a.The contribution of a company to society and its stakeholdersb.Sustainability as a comprehensive and long-term approach to assessing a company’s impacts7.Sustainable Development Goals (SDGs) (allowance 0/8) a.The importance and role of SDGs in achieving sustainable developmentb.Collaboration between governments, companies, and organizations in implementing SDGs and sustainable projects"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Principles of economic management in the context of circular systemsb.Financial aspects and instruments supporting circular business models"
+    },
+    {
+      "label": "[section] Key Economic Topics and Management of Economic Processes",
+      "content": "a.Principles of economic management in the context of circular systemsb.Financial aspects and instruments supporting circular business models"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Social and environmental impacts of circular practicesb.The relationship between the circular economy and sustainable development"
+    },
+    {
+      "label": "[section] Linking Circular Economy with Social and Natural Sciences",
+      "content": "a.Social and environmental impacts of circular practicesb.The relationship between the circular economy and sustainable development"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.ESG reporting and its significance for companies and societyb.Risk management related to environmental and social factors"
+    },
+    {
+      "label": "[section] Legislative and Societal Requirements in the Field of Sustainability",
+      "content": "a.ESG reporting and its significance for companies and societyb.Risk management related to environmental and social factors"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Identification and implementation of circular models within companiesb.Innovative technologies and their role in supporting the circular economy"
+    },
+    {
+      "label": "[section] Economically Sustainable Approaches and Practical Solutions",
+      "content": "a.Identification and implementation of circular models within companiesb.Innovative technologies and their role in supporting the circular economy"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Economic aspects of circular practices in agriculture and horticultureb.Forestry and regional development in the context of the circular economy"
+    },
+    {
+      "label": "[section] Interdisciplinary Connections of the Circular Economy Across Different Dimensions",
+      "content": "a.Economic aspects of circular practices in agriculture and horticultureb.Forestry and regional development in the context of the circular economy"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.The contribution of a company to society and its stakeholdersb.Sustainability as a comprehensive and long-term approach to assessing a company’s impacts"
+    },
+    {
+      "label": "[section] Corporate Social Responsibility",
+      "content": "a.The contribution of a company to society and its stakeholdersb.Sustainability as a comprehensive and long-term approach to assessing a company’s impacts"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.The importance and role of SDGs in achieving sustainable developmentb.Collaboration between governments, companies, and organizations in implementing SDGs and sustainable projects"
+    },
+    {
+      "label": "[section] Sustainable Development Goals (SDGs)",
+      "content": "a.The importance and role of SDGs in achieving sustainable developmentb.Collaboration between governments, companies, and organizations in implementing SDGs and sustainable projects"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendanceseminar56 hconsultation6 hproject work8 hpublic presentation (oral)6 hpreparation for regular assessment8 hpreparation of presentation8 helaboration and execution of projects8 hwriting of seminar paper12 hTotal112 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The prerequisite for completing the course is obtaining a credit for the preparation and presentation of a seminar paper and based on activity in seminars (a total of at least 61 out of a maximum of 100 points)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Term paper40 %Presentation or defence30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:TETŘEVOVÁ, Liběna. 2017. Společenská odpovědnost firem společensky citlivých odvětví. 1st ed. Praha: Grada Publishing, 215 p. Expert. ISBN 978-80-271-0285-3.VRABCOVÁ, Pavla. 2021. Udržitelné podnikání v praxi: dobrovolné nástroje (nejen) zemědělských a lesnických podniků. Praha: Grada, 192 p. ISBN 978-80-271-3303-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "TETŘEVOVÁ, Liběna. 2017. Společenská odpovědnost firem společensky citlivých odvětví. 1st ed. Praha: Grada Publishing, 215 p. Expert. ISBN 978-80-271-0285-3.VRABCOVÁ, Pavla. 2021. Udržitelné podnikání v praxi: dobrovolné nástroje (nejen) zemědělských a lesnických podniků. Praha: Grada, 192 p. ISBN 978-80-271-3303-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-CE Circular Economy, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:13:27",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

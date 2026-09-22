@@ -2,14 +2,82 @@
   "courseCode": "MIKRO",
   "name": "Mikrobiologie",
   "nameCs": "Mikrobiologie",
-  "nameEn": "Microbiology",
-  "predmetId": "157468",
+  "nameEn": "Microbilogy",
+  "predmetId": "162361",
   "facultyId": 60,
   "aliases": [
+    "MIB",
     "MIKRBA"
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162361;lang=cz",
+      "totalPass": 55,
+      "totalFail": 10,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 9,
+            "D": 3,
+            "E": 3,
+            "F": 2,
+            "FN": 3
+          },
+          "pass": 17,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 9,
+            "C": 20,
+            "D": 12,
+            "E": 7,
+            "F": 2,
+            "FN": 8
+          },
+          "pass": 55,
+          "fail": 10
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 7,
+            "C": 10,
+            "D": 9,
+            "E": 3,
+            "F": 20,
+            "FN": 9
+          },
+          "pass": 36,
+          "fail": 29
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -474,5 +542,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -27,7 +27,7 @@
     },
     {
       "label": "Stupeň studia:",
-      "content": "magisterský; magisterský navazující"
+      "content": "magisterský"
     },
     {
       "label": "Typ předmětu:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Studium předmětu je možné."
+      "content": "Ano."
     },
     {
       "label": "Jazyk výuky:",
@@ -67,55 +67,155 @@
     },
     {
       "label": "1.",
-      "content": "Analýza potravin, rozdělení metod (dotace 2/0)"
+      "content": "Metody používané v analýze potravin (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "chemické metody"
+    },
+    {
+      "label": "b.",
+      "content": "fyzikálně chemické metody"
     },
     {
       "label": "2.",
-      "content": "Interakce záření a hmoty, UV-VIS spektrometrie (dotace 2/0)"
+      "content": "Chromatografické a elektroforetické, optické rozdělení a principy stanovení (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "fyzikální a jejich rozsah"
+    },
+    {
+      "label": "b.",
+      "content": "optické metody a jejich principy"
     },
     {
       "label": "3.",
-      "content": "Voda a sušina (dotace 2/0)"
+      "content": "elektrochemické metody, rozdělení a principy měření (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "konduktometrická titrace"
+    },
+    {
+      "label": "b.",
+      "content": "potenciometrická titrace"
     },
     {
       "label": "4.",
-      "content": "Minerální látky (dotace 2/0)"
+      "content": "plynová chromatografie a její aplikace (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "instrumentační komponenty"
+    },
+    {
+      "label": "b.",
+      "content": "detektoty"
     },
     {
       "label": "5.",
-      "content": "Bílkoviny a aminokyseliny (dotace 2/0)"
+      "content": "Termodynamika separace (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "retenční objem a retenční čas"
+    },
+    {
+      "label": "b.",
+      "content": "účinnost chromatografické kolony"
     },
     {
       "label": "6.",
-      "content": "Sacharidy (dotace 2/0)"
+      "content": "faktory pro rozlišení separace v koloně (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "faktor účinnosti"
+    },
+    {
+      "label": "b.",
+      "content": "faktor selektivity faktor kapacity"
     },
     {
       "label": "7.",
-      "content": "Tuky (dotace 2/0)"
+      "content": "Analytická informace z chromatogramu (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "kvantitativní informace"
+    },
+    {
+      "label": "b.",
+      "content": "externí standard"
+    },
+    {
+      "label": "c.",
+      "content": "metoda standardního přídavku"
     },
     {
       "label": "8.",
-      "content": "Vitamíny (dotace 2/0)"
+      "content": "Mikroextrakce na tuhou fázi (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "princip zachycení na vlákno"
+    },
+    {
+      "label": "b.",
+      "content": "stanovení adsopční doby"
     },
     {
       "label": "9.",
-      "content": "Senzorické látky (dotace 2/0)"
+      "content": "Hmotová spektrometrie (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "podstata hmotové spektrometrie"
+    },
+    {
+      "label": "b.",
+      "content": "spektra positivně nabitých iontů"
     },
     {
       "label": "10.",
-      "content": "Aditivní látky, negativní látky (dotace 2/0)"
+      "content": "Aplikace hmotnostní spektrometrie (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "organické polutanty ze životního prostředí"
+    },
+    {
+      "label": "b.",
+      "content": "GC-MS pro analýzy esterů a dalších vonných sloučenin"
     },
     {
       "label": "11.",
-      "content": "Měření antioxidační kapacity (dotace 2/0)"
+      "content": "Princip a aplikace HPLC (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "instrumentační kompoínenty"
+    },
+    {
+      "label": "b.",
+      "content": "detektory konstrukční principy"
     },
     {
       "label": "12.",
-      "content": "Uplatnění metod (dotace 2/0)"
+      "content": "Aplikace HPLC (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Využití v potravinářství"
+    },
+    {
+      "label": "b.",
+      "content": "látkový rozsah na kolonách pro potravinářské analýzy"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -131,7 +231,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -147,7 +247,7 @@
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
-      "content": "Stupeň studia: magisterský; magisterský navazující"
+      "content": "Stupeň studia: magisterský"
     },
     {
       "label": "[section] Stupeň studia:",
@@ -159,7 +259,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné."
+      "content": "Možnost studia předmětu během zahraniční mobility: Ano."
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -187,7 +287,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek12.00-15.50ZFAC4 (Led)I. SouralPřednáškaSudý týden20Pátek14.00-18.50ZFAA1 (Led)I. SouralPřednáškaNepravidelně42"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek12.00-15.50ZFAC1 (Led)I. SouralPřednáškaLichý týden22Pátek8.00-11.50ZFAA1 (Led)I. SouralPřednáškaNepravidelně42"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -195,99 +295,107 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Analýza potravin, rozdělení metod (dotace 2/0)2.Interakce záření a hmoty, UV-VIS spektrometrie (dotace 2/0)3.Voda a sušina (dotace 2/0)4.Minerální látky (dotace 2/0)5.Bílkoviny a aminokyseliny (dotace 2/0)6.Sacharidy (dotace 2/0)7.Tuky (dotace 2/0)8.Vitamíny (dotace 2/0)9.Senzorické látky (dotace 2/0)10.Aditivní látky, negativní látky (dotace 2/0)11.Měření antioxidační kapacity (dotace 2/0)12.Uplatnění metod (dotace 2/0)"
+      "content": "1.Metody používané v analýze potravin (dotace 2/0) a.chemické metodyb.fyzikálně chemické metody2.Chromatografické a elektroforetické, optické rozdělení a principy stanovení (dotace 2/0) a.fyzikální a jejich rozsahb.optické metody a jejich principy3.elektrochemické metody, rozdělení a principy měření (dotace 2/0) a.konduktometrická titraceb.potenciometrická titrace4.plynová chromatografie a její aplikace (dotace 2/0) a.instrumentační komponentyb.detektoty5.Termodynamika separace (dotace 2/0) a.retenční objem a retenční časb.účinnost chromatografické kolony6.faktory pro rozlišení separace v koloně (dotace 2/0) a.faktor účinnostib.faktor selektivity faktor kapacity7.Analytická informace z chromatogramu (dotace 2/0) a.kvantitativní informaceb.externí standardc.metoda standardního přídavku8.Mikroextrakce na tuhou fázi (dotace 2/0) a.princip zachycení na vláknob.stanovení adsopční doby9.Hmotová spektrometrie (dotace 2/0) a.podstata hmotové spektrometrieb.spektra positivně nabitých iontů10.Aplikace hmotnostní spektrometrie (dotace 2/0) a.organické polutanty ze životního prostředíb.GC-MS pro analýzy esterů a dalších vonných sloučenin11.Princip a aplikace HPLC (dotace 2/0) a.instrumentační kompoínentyb.detektory konstrukční principy12.Aplikace HPLC (dotace 2/0) a.Využití v potravinářstvíb.látkový rozsah na kolonách pro potravinářské analýzy"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Interakce záření a hmoty, UV-VIS spektrometrie (dotace 2/0)"
+      "content": "a.chemické metodyb.fyzikálně chemické metody"
     },
     {
-      "label": "[section] Analýza potravin, rozdělení metod",
-      "content": "2.Interakce záření a hmoty, UV-VIS spektrometrie (dotace 2/0)"
+      "label": "[section] Metody používané v analýze potravin",
+      "content": "a.chemické metodyb.fyzikálně chemické metody"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Voda a sušina (dotace 2/0)"
+      "content": "a.fyzikální a jejich rozsahb.optické metody a jejich principy"
     },
     {
-      "label": "[section] Interakce záření a hmoty, UV-VIS spektrometrie",
-      "content": "3.Voda a sušina (dotace 2/0)"
+      "label": "[section] Chromatografické a elektroforetické, optické rozdělení a principy stanovení",
+      "content": "a.fyzikální a jejich rozsahb.optické metody a jejich principy"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Minerální látky (dotace 2/0)"
+      "content": "a.konduktometrická titraceb.potenciometrická titrace"
     },
     {
-      "label": "[section] Voda a sušina",
-      "content": "4.Minerální látky (dotace 2/0)"
+      "label": "[section] elektrochemické metody, rozdělení a principy měření",
+      "content": "a.konduktometrická titraceb.potenciometrická titrace"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Bílkoviny a aminokyseliny (dotace 2/0)"
+      "content": "a.instrumentační komponentyb.detektoty"
     },
     {
-      "label": "[section] Minerální látky",
-      "content": "5.Bílkoviny a aminokyseliny (dotace 2/0)"
+      "label": "[section] plynová chromatografie a její aplikace",
+      "content": "a.instrumentační komponentyb.detektoty"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Sacharidy (dotace 2/0)"
+      "content": "a.retenční objem a retenční časb.účinnost chromatografické kolony"
     },
     {
-      "label": "[section] Bílkoviny a aminokyseliny",
-      "content": "6.Sacharidy (dotace 2/0)"
+      "label": "[section] Termodynamika separace",
+      "content": "a.retenční objem a retenční časb.účinnost chromatografické kolony"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Tuky (dotace 2/0)"
+      "content": "a.faktor účinnostib.faktor selektivity faktor kapacity"
     },
     {
-      "label": "[section] Sacharidy",
-      "content": "7.Tuky (dotace 2/0)"
+      "label": "[section] faktory pro rozlišení separace v koloně",
+      "content": "a.faktor účinnostib.faktor selektivity faktor kapacity"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Vitamíny (dotace 2/0)"
+      "content": "a.kvantitativní informaceb.externí standardc.metoda standardního přídavku"
     },
     {
-      "label": "[section] Tuky",
-      "content": "8.Vitamíny (dotace 2/0)"
+      "label": "[section] Analytická informace z chromatogramu",
+      "content": "a.kvantitativní informaceb.externí standardc.metoda standardního přídavku"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Senzorické látky (dotace 2/0)"
+      "content": "a.princip zachycení na vláknob.stanovení adsopční doby"
     },
     {
-      "label": "[section] Vitamíny",
-      "content": "9.Senzorické látky (dotace 2/0)"
+      "label": "[section] Mikroextrakce na tuhou fázi",
+      "content": "a.princip zachycení na vláknob.stanovení adsopční doby"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Aditivní látky, negativní látky (dotace 2/0)"
+      "content": "a.podstata hmotové spektrometrieb.spektra positivně nabitých iontů"
     },
     {
-      "label": "[section] Senzorické látky",
-      "content": "10.Aditivní látky, negativní látky (dotace 2/0)"
+      "label": "[section] Hmotová spektrometrie",
+      "content": "a.podstata hmotové spektrometrieb.spektra positivně nabitých iontů"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Měření antioxidační kapacity (dotace 2/0)"
+      "content": "a.organické polutanty ze životního prostředíb.GC-MS pro analýzy esterů a dalších vonných sloučenin"
     },
     {
-      "label": "[section] Aditivní látky, negativní látky",
-      "content": "11.Měření antioxidační kapacity (dotace 2/0)"
+      "label": "[section] Aplikace hmotnostní spektrometrie",
+      "content": "a.organické polutanty ze životního prostředíb.GC-MS pro analýzy esterů a dalších vonných sloučenin"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Uplatnění metod (dotace 2/0)"
+      "content": "a.instrumentační kompoínentyb.detektory konstrukční principy"
     },
     {
-      "label": "[section] Měření antioxidační kapacity",
-      "content": "12.Uplatnění metod (dotace 2/0)"
+      "label": "[section] Princip a aplikace HPLC",
+      "content": "a.instrumentační kompoínentyb.detektory konstrukční principy"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Využití v potravinářstvíb.látkový rozsah na kolonách pro potravinářské analýzy"
+    },
+    {
+      "label": "[section] Aplikace HPLC",
+      "content": "a.Využití v potravinářstvíb.látkový rozsah na kolonách pro potravinářské analýzy"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h14 hpříprava na zkoušku88 h98 hCelkem112 h112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h28 hseminář20 h20 hworkshop10 h10 hpříprava na zkoušku10 h10 hpříprava na průběžný test10 h10 hpříprava prezentace10 h10 hzpracování protokolů4 h4 hzpracování projektů10 h10 hzpracování seminární práce10 h10 hCelkem112 h112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -295,15 +403,15 @@
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAbsolvování závěrečného testu100 %100 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 s. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2. vyd. Ostrava: Pavel Klouda, 132 s. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 s. ISBN 0-444-81868-5.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 s. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 s. ISBN 978-0-12-813266-1.Doporučená: Toxins and Contaminants in Indian Food Products. 2017. ISBN 9783319480497. http://dx.doi.org/10.1007/978-3-319-48049-7."
+      "content": "Základní:GOLIÁŠ, Jan. 2014. Skladování a zpracování ovoce a zeleniny. 1. vyd. Brno: Mendelova univerzita v Brně, 131 s. ISBN 978-80-7509-195-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 s. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2. vyd. Ostrava: Pavel Klouda, 132 s. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 s. ISBN 0-444-81868-5.NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 s. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 s. ISBN 978-0-12-813266-1.Doporučená: Toxins and Contaminants in Indian Food Products. 2017. ISBN 9783319480497. http://dx.doi.org/10.1007/978-3-319-48049-7."
     },
     {
       "label": "[section] Základní:",
-      "content": "NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 s. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2. vyd. Ostrava: Pavel Klouda, 132 s. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 s. ISBN 0-444-81868-5.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 s. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 s. ISBN 978-0-12-813266-1."
+      "content": "GOLIÁŠ, Jan. 2014. Skladování a zpracování ovoce a zeleniny. 1. vyd. Brno: Mendelova univerzita v Brně, 131 s. ISBN 978-80-7509-195-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 s. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2. vyd. Ostrava: Pavel Klouda, 132 s. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 s. ISBN 0-444-81868-5.NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 s. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 s. ISBN 978-0-12-813266-1."
     },
     {
       "label": "[section] Doporučená:",
@@ -311,7 +419,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace NZTKP Zpracovatelské technologie a kvalita potravin, prezenční forma, počáteční období ZS 2025/2026Specializace NZTKP Zpracovatelské technologie a kvalita potravin, kombinovaná forma, počáteční období ZS 2025/2026"
+      "content": "Specializace NZTKP Zpracovatelské technologie a kvalita potravin, kombinovaná forma, počáteční období ZS 2021/2022Specializace NZTKP Zpracovatelské technologie a kvalita potravin, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -333,7 +441,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -345,7 +453,7 @@
     },
     {
       "label": "Level of course:",
-      "content": "master; master continuing"
+      "content": "master"
     },
     {
       "label": "Course type:",
@@ -357,7 +465,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "Studying the subject is possible."
+      "content": "Yes."
     },
     {
       "label": "Language of instruction:",
@@ -385,55 +493,155 @@
     },
     {
       "label": "1.",
-      "content": "Food analysis, division of methods (allowance 2/0)"
+      "content": "Methods used in food analysis (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "chemical methods"
+    },
+    {
+      "label": "b.",
+      "content": "physico-chemical methods"
     },
     {
       "label": "2.",
-      "content": "Interaction of radiation and matter, UV-VIS spectrometry (allowance 2/0)"
+      "content": "Chromatographic and electrophoretic, optical distribution and determination principles (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "physical and their extent"
+    },
+    {
+      "label": "b.",
+      "content": "optical methods and their principles"
     },
     {
       "label": "3.",
-      "content": "Water and dry matter (allowance 2/0)"
+      "content": "electrochemical methods, classification and measurement principles (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "conductometric titration"
+    },
+    {
+      "label": "b.",
+      "content": "potentiometric titration"
     },
     {
       "label": "4.",
-      "content": "Mineral substances (allowance 2/0)"
+      "content": "gas chromatography and its applications (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "instrumentation components"
+    },
+    {
+      "label": "b.",
+      "content": "detectors"
     },
     {
       "label": "5.",
-      "content": "Proteins and amino acids (allowance 2/0)"
+      "content": "Thermodynamics of separation (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "retention volume and retention time"
+    },
+    {
+      "label": "b.",
+      "content": "chromatographic column efficiency"
     },
     {
       "label": "6.",
-      "content": "Saccharides (allowance 2/0)"
+      "content": "factors to distinguish column separation (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "efficiency factor"
+    },
+    {
+      "label": "b.",
+      "content": "selectivity factor"
+    },
+    {
+      "label": "c.",
+      "content": "capacity factor"
     },
     {
       "label": "7.",
-      "content": "Fats (allowance 2/0)"
+      "content": "Analytical information from the chromatogram (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "quantitative information"
+    },
+    {
+      "label": "b.",
+      "content": "external standard"
+    },
+    {
+      "label": "c.",
+      "content": "standard addition method"
     },
     {
       "label": "8.",
-      "content": "Vitamins (allowance 2/0)"
+      "content": "Solid phase microextraction (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "the principle of attachment to the fiber"
+    },
+    {
+      "label": "b.",
+      "content": "determination of adsorption time"
     },
     {
       "label": "9.",
-      "content": "Sensory substances (allowance 2/0)"
+      "content": "Mass spectrometry (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "essence of mass spectrometry"
+    },
+    {
+      "label": "b.",
+      "content": "spectra of positively charged ions"
     },
     {
       "label": "10.",
-      "content": "Additive substances, negative substances (allowance 2/0)"
+      "content": "Application of mass spectrometry (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "organic pollutants from the environment"
+    },
+    {
+      "label": "b.",
+      "content": "GC-MS for analysis of esters and other fragrance compounds"
     },
     {
       "label": "11.",
-      "content": "Measurement of antioxidant capacity (allowance 2/0)"
+      "content": "Principle and application of HPLC (allowance 2/0)"
+    },
+    {
+      "label": "b.",
+      "content": "detectors and design principles"
     },
     {
       "label": "12.",
-      "content": "Application of methods (allowance 2/0)"
+      "content": "HPLC application (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Use in food industry"
+    },
+    {
+      "label": "b.",
+      "content": "mass range on columns for food analysis"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -449,7 +657,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -465,7 +673,7 @@
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
-      "content": "Level of course: master; master continuing"
+      "content": "Level of course: master"
     },
     {
       "label": "[section] Level of course:",
@@ -477,7 +685,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: Studying the subject is possible."
+      "content": "Mode of delivery for our mobility students abroad: Yes."
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -505,7 +713,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday12.00-15.50ZFAC4 (Led)I. SouralLectureEven week20Friday14.00-18.50ZFAA1 (Led)I. SouralLectureOccasionally42"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday12.00-15.50ZFAC1 (Led)I. SouralLectureOdd week22Friday8.00-11.50ZFAA1 (Led)I. SouralLectureOccasionally42"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -513,99 +721,107 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Food analysis, division of methods (allowance 2/0)2.Interaction of radiation and matter, UV-VIS spectrometry (allowance 2/0)3.Water and dry matter (allowance 2/0)4.Mineral substances (allowance 2/0)5.Proteins and amino acids (allowance 2/0)6.Saccharides (allowance 2/0)7.Fats (allowance 2/0)8.Vitamins (allowance 2/0)9.Sensory substances (allowance 2/0)10.Additive substances, negative substances (allowance 2/0)11.Measurement of antioxidant capacity (allowance 2/0)12.Application of methods (allowance 2/0)"
+      "content": "1.Methods used in food analysis (allowance 2/0) a.chemical methodsb.physico-chemical methods2.Chromatographic and electrophoretic, optical distribution and determination principles (allowance 2/0) a.physical and their extentb.optical methods and their principles3.electrochemical methods, classification and measurement principles (allowance 2/0) a.conductometric titrationb.potentiometric titration4.gas chromatography and its applications (allowance 2/0) a.instrumentation componentsb.detectors5.Thermodynamics of separation (allowance 2/0) a.retention volume and retention timeb.chromatographic column efficiency6.factors to distinguish column separation (allowance 2/0) a.efficiency factorb.selectivity factorc.capacity factor7.Analytical information from the chromatogram (allowance 2/0) a.quantitative informationb.external standardc.standard addition method8.Solid phase microextraction (allowance 2/0) a.the principle of attachment to the fiberb.determination of adsorption time9.Mass spectrometry (allowance 2/0) a.essence of mass spectrometryb.spectra of positively charged ions10.Application of mass spectrometry (allowance 2/0) a.organic pollutants from the environmentb.GC-MS for analysis of esters and other fragrance compounds11.Principle and application of HPLC (allowance 2/0) a.instrumentation componentsb.detectors and design principles12.HPLC application (allowance 2/0) a.Use in food industryb.mass range on columns for food analysis"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Interaction of radiation and matter, UV-VIS spectrometry (allowance 2/0)"
+      "content": "a.chemical methodsb.physico-chemical methods"
     },
     {
-      "label": "[section] Food analysis, division of methods",
-      "content": "2.Interaction of radiation and matter, UV-VIS spectrometry (allowance 2/0)"
+      "label": "[section] Methods used in food analysis",
+      "content": "a.chemical methodsb.physico-chemical methods"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Water and dry matter (allowance 2/0)"
+      "content": "a.physical and their extentb.optical methods and their principles"
     },
     {
-      "label": "[section] Interaction of radiation and matter, UV-VIS spectrometry",
-      "content": "3.Water and dry matter (allowance 2/0)"
+      "label": "[section] Chromatographic and electrophoretic, optical distribution and determination principles",
+      "content": "a.physical and their extentb.optical methods and their principles"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Mineral substances (allowance 2/0)"
+      "content": "a.conductometric titrationb.potentiometric titration"
     },
     {
-      "label": "[section] Water and dry matter",
-      "content": "4.Mineral substances (allowance 2/0)"
+      "label": "[section] electrochemical methods, classification and measurement principles",
+      "content": "a.conductometric titrationb.potentiometric titration"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Proteins and amino acids (allowance 2/0)"
+      "content": "a.instrumentation componentsb.detectors"
     },
     {
-      "label": "[section] Mineral substances",
-      "content": "5.Proteins and amino acids (allowance 2/0)"
+      "label": "[section] gas chromatography and its applications",
+      "content": "a.instrumentation componentsb.detectors"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Saccharides (allowance 2/0)"
+      "content": "a.retention volume and retention timeb.chromatographic column efficiency"
     },
     {
-      "label": "[section] Proteins and amino acids",
-      "content": "6.Saccharides (allowance 2/0)"
+      "label": "[section] Thermodynamics of separation",
+      "content": "a.retention volume and retention timeb.chromatographic column efficiency"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Fats (allowance 2/0)"
+      "content": "a.efficiency factorb.selectivity factorc.capacity factor"
     },
     {
-      "label": "[section] Saccharides",
-      "content": "7.Fats (allowance 2/0)"
+      "label": "[section] factors to distinguish column separation",
+      "content": "a.efficiency factorb.selectivity factorc.capacity factor"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Vitamins (allowance 2/0)"
+      "content": "a.quantitative informationb.external standardc.standard addition method"
     },
     {
-      "label": "[section] Fats",
-      "content": "8.Vitamins (allowance 2/0)"
+      "label": "[section] Analytical information from the chromatogram",
+      "content": "a.quantitative informationb.external standardc.standard addition method"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Sensory substances (allowance 2/0)"
+      "content": "a.the principle of attachment to the fiberb.determination of adsorption time"
     },
     {
-      "label": "[section] Vitamins",
-      "content": "9.Sensory substances (allowance 2/0)"
+      "label": "[section] Solid phase microextraction",
+      "content": "a.the principle of attachment to the fiberb.determination of adsorption time"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Additive substances, negative substances (allowance 2/0)"
+      "content": "a.essence of mass spectrometryb.spectra of positively charged ions"
     },
     {
-      "label": "[section] Sensory substances",
-      "content": "10.Additive substances, negative substances (allowance 2/0)"
+      "label": "[section] Mass spectrometry",
+      "content": "a.essence of mass spectrometryb.spectra of positively charged ions"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Measurement of antioxidant capacity (allowance 2/0)"
+      "content": "a.organic pollutants from the environmentb.GC-MS for analysis of esters and other fragrance compounds"
     },
     {
-      "label": "[section] Additive substances, negative substances",
-      "content": "11.Measurement of antioxidant capacity (allowance 2/0)"
+      "label": "[section] Application of mass spectrometry",
+      "content": "a.organic pollutants from the environmentb.GC-MS for analysis of esters and other fragrance compounds"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Application of methods (allowance 2/0)"
+      "content": "a.instrumentation componentsb.detectors and design principles"
     },
     {
-      "label": "[section] Measurement of antioxidant capacity",
-      "content": "12.Application of methods (allowance 2/0)"
+      "label": "[section] Principle and application of HPLC",
+      "content": "a.instrumentation componentsb.detectors and design principles"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Use in food industryb.mass range on columns for food analysis"
+    },
+    {
+      "label": "[section] HPLC application",
+      "content": "a.Use in food industryb.mass range on columns for food analysis"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h14 hpreparation for exam88 h98 hTotal112 h112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h28 hseminar20 h20 hworkshop10 h10 hpreparation for exam10 h10 hpreparation for regular testing10 h10 hpreparation of presentation10 h10 helaboration of reports4 h4 helaboration and execution of projects10 h10 hwriting of seminar paper10 h10 hTotal112 h112 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -613,15 +829,15 @@
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formFinal test100 %100 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 p. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2nd ed. Ostrava: Pavel Klouda, 132 p. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 p. ISBN 0-444-81868-5.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 p. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 p. ISBN 978-0-12-813266-1.Recommended: Toxins and Contaminants in Indian Food Products. 2017. ISBN 9783319480497. http://dx.doi.org/10.1007/978-3-319-48049-7."
+      "content": "Basic:GOLIÁŠ, Jan. 2014. Skladování a zpracování ovoce a zeleniny. 1st ed. Brno: Mendelova univerzita v Brně, 131 p. ISBN 978-80-7509-195-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 p. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2nd ed. Ostrava: Pavel Klouda, 132 p. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 p. ISBN 0-444-81868-5.NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 p. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 p. ISBN 978-0-12-813266-1.Recommended: Toxins and Contaminants in Indian Food Products. 2017. ISBN 9783319480497. http://dx.doi.org/10.1007/978-3-319-48049-7."
     },
     {
       "label": "[section] Basic:",
-      "content": "NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 p. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2nd ed. Ostrava: Pavel Klouda, 132 p. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 p. ISBN 0-444-81868-5.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 p. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 p. ISBN 978-0-12-813266-1."
+      "content": "GOLIÁŠ, Jan. 2014. Skladování a zpracování ovoce a zeleniny. 1st ed. Brno: Mendelova univerzita v Brně, 131 p. ISBN 978-80-7509-195-6.KUBÁŇ, Vlastimil. 2007. Analýza potravin. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 202 p. ISBN 978-80-7375-036-7.KLOUDA, Pavel. 2003. Moderní analytické metody. 2nd ed. Ostrava: Pavel Klouda, 132 p. ISBN 80-86369-07-2.BÉLANGER, Jean; PARÉ, Jean. 1997. Instrumental methods in food analysis. Amsterdam-Lausanne-New York-Shannon-Tokyo: Elsevier, 479 p. ISBN 0-444-81868-5.NIELSEN, S. Suzanne. 2017. Food Analysis. ISBN 9783319457765. http://dx.doi.org/10.1007/978-3-319-45776-5.NIELSEN, S. Suzanne. 2017. Food Analysis Laboratory Manual. ISBN 9783319441276. http://dx.doi.org/10.1007/978-3-319-44127-6.MEHTA, Bhavbhuti; CHEUNG, Peter. 2015. Handbook of Food Chemistry. Berlin: Springer Berlin Heidelberg, 1173 p. ISBN 978-3-642-36604-8. Springer Handbook of Odor. 2017. ISBN 9783319269320. http://dx.doi.org/10.1007/978-3-319-26932-0.PICO, Yolanda. 2020. Chemical Analysis of Food: Techniques and Applications, Second Edition. Spain: Academic Press, 916 p. ISBN 978-0-12-813266-1."
     },
     {
       "label": "[section] Recommended:",
@@ -629,13 +845,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track NPHTFQ Post-harvest technologies and food quality, full-time form, initial period WS 2025/2026Track NPHTFQ Post-harvest technologies and food quality, part-time form, initial period WS 2025/2026"
+      "content": "Track NPHTFQ Post-harvest technologies and food quality, part-time form, initial period WS 2021/2022Track NPHTFQ Post-harvest technologies and food quality, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 08:28:37",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:39:10",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

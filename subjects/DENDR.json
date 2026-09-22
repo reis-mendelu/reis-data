@@ -1,17 +1,94 @@
 {
   "courseCode": "DENDR",
-  "name": "Dendrologie (B-KRAJN)",
-  "nameCs": "Dendrologie (B-KRAJN)",
+  "name": "Dendrologie",
+  "nameCs": "Dendrologie",
   "nameEn": "Dendrology",
-  "predmetId": "160645",
+  "predmetId": "162487",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
     "Ing. Anna Kupec",
-    "Ing. Lukáš Karas, Ph.D.",
     "Ing. Martin Šenfeldr, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161822;lang=cz",
+      "totalPass": 23,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 9,
+            "C": 6,
+            "D": 5,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 9,
+            "C": 6,
+            "D": 5,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162487;lang=cz",
+      "totalPass": 11,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 5,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 5,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -57,7 +134,7 @@
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156790;lang=cz",
-      "totalPass": 29,
+      "totalPass": 30,
       "totalFail": 0,
       "terms": [
         {
@@ -66,12 +143,12 @@
             "A": 1,
             "B": 10,
             "C": 11,
-            "D": 4,
+            "D": 5,
             "E": 3,
             "F": 0,
             "FN": 0
           },
-          "pass": 29,
+          "pass": 30,
           "fail": 0
         },
         {
@@ -676,5 +753,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

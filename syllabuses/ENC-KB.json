@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2022/2023"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Jiří Balej, Ph.D. (cvičící, tutor, zkoušející)Ing. Andrej Juríčka (cvičící, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (garant, přednášející, tutor, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (přednášející, tutor, zkoušející)"
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, přednášející, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Ludmila Kunderová (cvičící, přednášející, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -123,7 +123,7 @@
     },
     {
       "label": "a.",
-      "content": "aplikace uživatelských rolí a oprávnění"
+      "content": "aplikace uživatelský rolí a oprávnění"
     },
     {
       "label": "b.",
@@ -315,7 +315,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -331,7 +331,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2022/2023"
     },
     {
       "label": "[section] Semestr:",
@@ -379,7 +379,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, tutor, zkoušející)Ing. Andrej Juríčka (cvičící, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (garant, přednášející, tutor, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, přednášející, zkoušející)Ing. Andrej Juríčka (cvičící, přednášející, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Ludmila Kunderová (cvičící, přednášející, zkoušející)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -387,7 +387,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q01.48N-OIJ. Balej, A. JuríčkaCvičeníKaždý týden19Pondělí17.00-18.50Q01.48N-OIJ. Balej, A. JuríčkaCvičeníKaždý týden19Úterý13.00-14.50Q15N-OIC. Klimeš, T. SochorPřednáškaKaždý týden48"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q01.48N-OIJ. Balej, A. JuríčkaCvičeníKaždý týden20Úterý15.00-16.50Q01.48N-OIJ. Balej, A. JuríčkaCvičeníKaždý týden21Úterý17.00-18.50Q03N-OIC. Klimeš, T. SochorPřednáškaKaždý týden80"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -395,7 +395,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Obecné principy zajišťování bezpečnosti a dostupnosti digitálních aktiv (dotace 2/2) a.hodnocení digitálních aktiv, hodnocení a eliminace rizikb.bezpečnostní politikyc.fyzická a organizační ochrana infrastruktury2.Kryptografie a kryptoanalýza (dotace 2/2) a.symetrické a asymetrické algoritmyb.hash funkcec.bezpečnostní techniky založené na kryptografických systémech3.AAA - Authentication, authorization, accounting (dotace 2/2) a.heslové politiky, nakládání s hesly, vícefaktorová autentizaceb.uživatelské účty, skupiny, oprávněníc.centralizovaná autentizace/autorizace/accountingd.single-sign on4.Ochrana serverů a dat (dotace 2/2) a.aplikace uživatelských rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků5.Management a monitoring služeb a sítě (dotace 2/2) a.cíle monitoringu serverůb.metriky pro monitorování služebc.nástroje pro monitorováníd.logging a syslog server6.Zabezpečení komunikace služeb (dotace 2/2) a.PKI, certifikáty, šifrovaná komunikaceb.elektronický podpisc.vysoká dostupnost (anycast, DNS, CDN)7.Nástroje pro ochranu koncových stanic (dotace 2/4) a.antiviry, antimalware apod.b.personální firewally a jejich možnostic.hromadná správa koncových stanicd.řízení přístupu koncových uzlů do sítě (network admission)8.Techniky ochrany síťové infrastruktury (dotace 4/8) a.zabezpečení protokolu IP (IP spoofing apod.)b.segmentace sítí, VLANc.síťové firewally, IPS apod.d.NGFW, webové proxye.VPN (site-to-site, remote access)9.Zabezpečení bezdrátové komunikace (dotace 2/2) a.PSK vs. enterprise (protokol IEEE 802.1x)b.bezdrátové kontroléry a jejich řízeníc.kontrola rádiového spektra a detekce cizích APd.specifika IoT sítí10.Speciální nástroje pro zabezpečení sítí (dotace 2/2) a.honeypoty a jejich možnosti a omezeníb.princip a účel sandboxůc.serverová virtualizace pro vysokou dostupnost11.Legislativní rámec kybernetické bezpečnosti (dotace 2/0) a.osobní data – vymezení pojmu a nástroje ochranyb.Zákon o kybernetické bezpečnosti, GDPR, NIS2, ...c.kybernetická bezpečnost na úrovni organizace a státu12.CSIRT a CERT týmy a SOC centra a jejich působnost (dotace 2/0) a.vymezení pojmu CSIRT a CERT a odlišnost od SOCb.postavení CSIRT a SOC v organizacíchc.prosazování zásad bezpečnostní politiky a její nástroje13.Sociální inženýrství (dotace 2/0) a.metody sociálního inženýrství (phishing, pharming, …)b.způsoby obranyc.školení uživatelů"
+      "content": "1.Obecné principy zajišťování bezpečnosti a dostupnosti digitálních aktiv (dotace 2/2) a.hodnocení digitálních aktiv, hodnocení a eliminace rizikb.bezpečnostní politikyc.fyzická a organizační ochrana infrastruktury2.Kryptografie a kryptoanalýza (dotace 2/2) a.symetrické a asymetrické algoritmyb.hash funkcec.bezpečnostní techniky založené na kryptografických systémech3.AAA - Authentication, authorization, accounting (dotace 2/2) a.heslové politiky, nakládání s hesly, vícefaktorová autentizaceb.uživatelské účty, skupiny, oprávněníc.centralizovaná autentizace/autorizace/accountingd.single-sign on4.Ochrana serverů a dat (dotace 2/2) a.aplikace uživatelský rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků5.Management a monitoring služeb a sítě (dotace 2/2) a.cíle monitoringu serverůb.metriky pro monitorování služebc.nástroje pro monitorováníd.logging a syslog server6.Zabezpečení komunikace služeb (dotace 2/2) a.PKI, certifikáty, šifrovaná komunikaceb.elektronický podpisc.vysoká dostupnost (anycast, DNS, CDN)7.Nástroje pro ochranu koncových stanic (dotace 2/4) a.antiviry, antimalware apod.b.personální firewally a jejich možnostic.hromadná správa koncových stanicd.řízení přístupu koncových uzlů do sítě (network admission)8.Techniky ochrany síťové infrastruktury (dotace 4/8) a.zabezpečení protokolu IP (IP spoofing apod.)b.segmentace sítí, VLANc.síťové firewally, IPS apod.d.NGFW, webové proxye.VPN (site-to-site, remote access)9.Zabezpečení bezdrátové komunikace (dotace 2/2) a.PSK vs. enterprise (protokol IEEE 802.1x)b.bezdrátové kontroléry a jejich řízeníc.kontrola rádiového spektra a detekce cizích APd.specifika IoT sítí10.Speciální nástroje pro zabezpečení sítí (dotace 2/2) a.honeypoty a jejich možnosti a omezeníb.princip a účel sandboxůc.serverová virtualizace pro vysokou dostupnost11.Legislativní rámec kybernetické bezpečnosti (dotace 2/0) a.osobní data – vymezení pojmu a nástroje ochranyb.Zákon o kybernetické bezpečnosti, GDPR, NIS2, ...c.kybernetická bezpečnost na úrovni organizace a státu12.CSIRT a CERT týmy a SOC centra a jejich působnost (dotace 2/0) a.vymezení pojmu CSIRT a CERT a odlišnost od SOCb.postavení CSIRT a SOC v organizacíchc.prosazování zásad bezpečnostní politiky a její nástroje13.Sociální inženýrství (dotace 2/0) a.metody sociálního inženýrství (phishing, pharming, …)b.způsoby obranyc.školení uživatelů"
     },
     {
       "label": "[section] 1.",
@@ -423,11 +423,11 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.aplikace uživatelských rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků"
+      "content": "a.aplikace uživatelský rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků"
     },
     {
       "label": "[section] Ochrana serverů a dat",
-      "content": "a.aplikace uživatelských rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků"
+      "content": "a.aplikace uživatelský rolí a oprávněníb.audit událostí (např. SELinux)c.zálohování datd.šifrování disků"
     },
     {
       "label": "[section] 5.",
@@ -503,7 +503,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku42 hpříprava na průběžné hodnocení42 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku42 hpříprava na průběžné hodnocení42 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -527,7 +527,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2023/2024Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2023/2024"
+      "content": "Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2021/2022Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -549,7 +549,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2022/2023"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -593,7 +593,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, tutor)Ing. Andrej Juríčka (examiner, instructor, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, lecturer, supervisor, tutor)doc. RNDr. Tomáš Sochor, CSc. (examiner, lecturer, tutor)"
+      "content": "Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer)Ing. Andrej Juríčka (examiner, instructor, lecturer)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor)Ing. Ludmila Kunderová (examiner, instructor, lecturer)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -849,7 +849,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -865,7 +865,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2022/2023"
     },
     {
       "label": "[section] Semester:",
@@ -913,7 +913,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, tutor)Ing. Andrej Juríčka (examiner, instructor, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, lecturer, supervisor, tutor)doc. RNDr. Tomáš Sochor, CSc. (examiner, lecturer, tutor)"
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, instructor, lecturer)Ing. Andrej Juríčka (examiner, instructor, lecturer)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor)Ing. Ludmila Kunderová (examiner, instructor, lecturer)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -921,7 +921,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday15.00-16.50Q01.48N-OIJ. Balej, A. JuríčkaSeminarEvery week19Monday17.00-18.50Q01.48N-OIJ. Balej, A. JuríčkaSeminarEvery week19Tuesday13.00-14.50Q15N-OIC. Klimeš, T. SochorLectureEvery week48"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday11.00-12.50Q01.48N-OIJ. Balej, A. JuríčkaSeminarEvery week20Tuesday15.00-16.50Q01.48N-OIJ. Balej, A. JuríčkaSeminarEvery week21Tuesday17.00-18.50Q03N-OIC. Klimeš, T. SochorLectureEvery week80"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -1037,7 +1037,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam42 hpreparation for regular assessment42 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam42 hpreparation for regular assessment42 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -1061,13 +1061,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme C-OI Open Informatics, full-time form, initial period WS 2023/2024Programme C-OI Open Informatics, full-time form, initial period SS 2023/2024"
+      "content": "Programme C-OI Open Informatics, full-time form, initial period WS 2021/2022Programme C-OI Open Informatics, full-time form, initial period SS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:57:16",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:13:44",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

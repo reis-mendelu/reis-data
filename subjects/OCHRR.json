@@ -3,11 +3,55 @@
   "name": "Ochrana rostlin",
   "nameCs": "Ochrana rostlin",
   "nameEn": "Plant Protection",
-  "predmetId": "157075",
+  "predmetId": "161984",
   "facultyId": 14,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Ing. Barbora Jílková, Ph.D.",
+    "Ing. Jana Víchová, Ph.D.",
+    "Ing. Žaneta Pražanová, Ph.D.",
+    "doc. Ing. Hana Šefrová, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161984;lang=cz",
+      "totalPass": 41,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 14,
+            "C": 11,
+            "D": 6,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 41,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 14,
+            "C": 11,
+            "D": 6,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 41,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -204,5 +248,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

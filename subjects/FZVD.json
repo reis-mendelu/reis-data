@@ -3,7 +3,7 @@
   "name": "Fyzikální vlastnosti dřeva",
   "nameCs": "Fyzikální vlastnosti dřeva",
   "nameEn": "Physical Properties of Wood",
-  "predmetId": "156713",
+  "predmetId": "161726",
   "facultyId": 38,
   "aliases": [
     "FVDR",
@@ -11,6 +11,73 @@
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161726;lang=cz",
+      "totalPass": 21,
+      "totalFail": 12,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 11,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 11
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 5,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 4,
+            "C": 4,
+            "D": 5,
+            "E": 7,
+            "F": 11,
+            "FN": 1
+          },
+          "pass": 21,
+          "fail": 12
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 3,
+            "D": 3,
+            "E": 2,
+            "F": 21,
+            "FN": 1
+          },
+          "pass": 11,
+          "fail": 22
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -280,5 +347,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

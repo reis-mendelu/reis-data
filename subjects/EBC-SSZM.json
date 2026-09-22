@@ -3,11 +3,78 @@
   "name": "Správa síťových zařízení MikroTik",
   "nameCs": "Správa síťových zařízení MikroTik",
   "nameEn": "MikroTik Network Device Management",
-  "predmetId": "157841",
+  "predmetId": "162879",
   "facultyId": 2,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162879;lang=cz",
+      "totalPass": 39,
+      "totalFail": 10,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 0,
+            "D": 6,
+            "E": 4,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 6
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 5,
+            "C": 6,
+            "D": 15,
+            "E": 9,
+            "F": 7,
+            "FN": 3
+          },
+          "pass": 39,
+          "fail": 10
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 6,
+            "D": 9,
+            "E": 3,
+            "F": 22,
+            "FN": 3
+          },
+          "pass": 24,
+          "fail": 25
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -263,5 +330,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,11 +3,50 @@
   "name": "Prezentační dovednosti v angličtině",
   "nameCs": "Prezentační dovednosti v angličtině",
   "nameEn": "Presentation Skills in English",
-  "predmetId": "157952",
+  "predmetId": "163039",
   "facultyId": 23,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163039;lang=cz",
+      "totalPass": 23,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 6,
+            "C": 9,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 23,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 6,
+            "C": 9,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 23,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -257,5 +296,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

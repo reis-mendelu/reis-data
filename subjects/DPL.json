@@ -3,7 +3,7 @@
   "name": "Diplomová práce",
   "nameCs": "Diplomová práce",
   "nameEn": "Diploma Thesis",
-  "predmetId": "156831",
+  "predmetId": "161863",
   "facultyId": 38,
   "aliases": [
     "DIPR",
@@ -17,70 +17,58 @@
     "Z-DP"
   ],
   "teachers": [
-    "Ing. Adam Kořený, Ph.D.",
-    "Ing. Aleš Kučera, Ph.D.",
-    "Ing. Dagmar Palovčíková",
-    "Ing. Dominika Krausková",
-    "Ing. Eliška Máchová, Ph.D.",
-    "Ing. Helena Prokopová",
-    "Ing. Jakub Drimaj, Ph.D.",
-    "Ing. Jakub Dömény, Ph.D.",
-    "Ing. Jakub Černý, Ph.D.",
-    "Ing. Jan Deutscher, Ph.D.",
-    "Ing. Jan Světlík, Ph.D.",
-    "Ing. Jan Tippner, Ph.D.",
-    "Ing. Jana Marková, Ph.D.",
-    "Ing. Jitka Meňházová, Ph.D.",
-    "Ing. Jitka Čechová",
-    "Ing. Jiří Kadlec, Ph.D.",
-    "Ing. Josef Hlavatý, Ph.D.",
-    "Ing. Kateřina Houšková, Ph.D.",
-    "Ing. Luboš Staněk, Ph.D.",
-    "Ing. Marie Balková, Ph.D.",
-    "Ing. Martin Brabec, Ph.D.",
-    "Ing. Martin Kománek",
-    "Ing. Michal Bošanský, Ph.D.",
-    "Ing. Michal Friedl, Ph.D.",
-    "Ing. Miloš Trifković",
-    "Ing. Ondřej Košulič, Ph.D.",
-    "Ing. Ondřej Prokop, Ph.D.",
-    "Ing. Pavla Kotásková, Ph.D.",
-    "Ing. Pavla Mocová, Ph.D.",
-    "Ing. Petr Dujka, Ph.D.",
-    "Ing. Tomáš Koutecký, Ph.D.",
-    "Ing. Tomáš Pospíšil",
-    "Ing. Veronika Hunková, Ph.D.",
-    "Ing. Vojtěch Ondrejka, PhD.",
-    "Ing. Vít Novák, Ph.D.",
-    "Ing. Vít Šeda, Ph.D.",
-    "Ing. Zdeněk Patočka, Ph.D.",
-    "Ing. Zuzana Sochorová, Ph.D.",
-    "Ing. et Ing. Tomáš Pipíška, Ph.D.",
-    "Mgr. Ing. et Ing. Pavel Bednář, Ph.D.",
-    "Mgr. Josef Kašák, Ph.D.",
-    "Mgr. Martin Duľa, Ph.D.",
-    "Mgr. Maryna Babenko, Ph.D. et Ph.D.",
-    "Mgr. Zuzana Paschová, Ph.D.",
-    "doc. Bc. Ing. Jitka Fialová, MSc, Ph.D.",
-    "doc. Ing. Antonín Martiník, Ph.D.",
-    "doc. Ing. Daniela Tesařová, Ph.D.",
-    "doc. Ing. David Březina, Ph.D.",
-    "doc. Ing. Jiří Foit, Ph.D.",
-    "doc. Ing. Luďka Hanincová, Ph.D.",
-    "doc. Ing. Milan Gaff, Ph.D.",
-    "doc. Ing. Miloň Dvořák, Ph.D.",
-    "doc. Ing. Petr Hrůza, Ph.D.",
-    "doc. Ing. Petr Kupec, Ph.D.",
-    "doc. Ing. Petr Čermák, Ph.D.",
-    "doc. Ing. Radek Pokorný, Ph.D.",
-    "doc. Ing. Tomáš Mikita, Ph.D.",
-    "doc. Ing. Tomáš Zemánek, Ph.D.",
-    "doc. Ing. Václav Kupčák, CSc.",
-    "doc. Ing. Zdeněk Adamec, Ph.D.",
-    "doc. Ing. arch. Hynek Maňák, Ph.D.",
-    "doc. Mgr. Aleš Bajer, Ph.D."
+    "Mgr. Zuzana Paschová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161863;lang=cz",
+      "totalPass": 118,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 118,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 118,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 118,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 118,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -278,5 +266,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

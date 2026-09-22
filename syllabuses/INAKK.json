@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/12 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 12/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Studium předmětu je možné."
+      "content": "Možné, po individuální konzultaci"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. Ing. Ivo Soural, Ph.D."
+      "content": "Ing. Jarmila Kožíšková, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Hana Dočekalová (cvičící, zkoušející)doc. Ing. Ivo Soural, Ph.D. (cvičící, garant, zkoušející)Ing. Petr Šnurkovič, Ph.D., DiS. (cvičící, zkoušející)"
+      "content": "Ing. Miroslav Horák, Ph.D. (cvičící, přednášející)Ing. Jarmila Kožíšková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Petr Šnurkovič, Ph.D., DiS. (cvičící, přednášející)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,55 +67,179 @@
     },
     {
       "label": "1.",
-      "content": "Bezpečnost a ochrana zdraví při práci v laboratoři (dotace 0/2)"
+      "content": "Separační techniky GC a HPLC (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení separačních technik pro GC a pro HPLC"
+    },
+    {
+      "label": "b.",
+      "content": "Volba dělící fáze"
+    },
+    {
+      "label": "c.",
+      "content": "rozpustnost fází"
     },
     {
       "label": "2.",
-      "content": "Analytický signál a vyhodnocení (dotace 0/2)"
+      "content": "Chromatografické metody podle fází (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "metody přímé kalibrace"
+    },
+    {
+      "label": "b.",
+      "content": "metody kalibrační křivky"
     },
     {
       "label": "3.",
-      "content": "Rozdělení metod (dotace 0/2)"
+      "content": "Chromatografické křivky (dotace 0/1)"
+    },
+    {
+      "label": "a.",
+      "content": "linearita křivky"
+    },
+    {
+      "label": "b.",
+      "content": "rozsah linearity"
     },
     {
       "label": "4.",
-      "content": "Elektrochemické metody (dotace 0/2)"
+      "content": "Aparaturní sestava GC (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "dílčí prvky a kolony"
+    },
+    {
+      "label": "b.",
+      "content": "Dávkování vzorku"
     },
     {
       "label": "5.",
-      "content": "Separační metody (dotace 0/2)"
+      "content": "Separační kolony (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "separační kolony náplňové"
+    },
+    {
+      "label": "b.",
+      "content": "separační kolony kapilární"
     },
     {
       "label": "6.",
-      "content": "Plynová chromatografie (dotace 0/2)"
+      "content": "Dávkování vzorků (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "chromatografickou stříkačkou"
+    },
+    {
+      "label": "b.",
+      "content": "dávkovacím ventilem"
     },
     {
       "label": "7.",
-      "content": "Kapalinová chromatografie (dotace 0/2)"
+      "content": "Separační kolony (dotace 0/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Kolony pouze se sorbentem"
+    },
+    {
+      "label": "b.",
+      "content": "Kolony smáčené"
     },
     {
       "label": "8.",
-      "content": "Optické metody (dotace 0/2)"
+      "content": "Detektory a jejich vlastnosti (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "detektory plamenoionizační"
+    },
+    {
+      "label": "b.",
+      "content": "detektory hmotnostní"
+    },
+    {
+      "label": "c.",
+      "content": "detektory vodivostní"
     },
     {
       "label": "9.",
-      "content": "Molekulová absorpční spektrometrie (dotace 0/2)"
+      "content": "Techniky HPLC (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Volba mobilní fáze"
+    },
+    {
+      "label": "b.",
+      "content": "detektory v HPLC"
+    },
+    {
+      "label": "c.",
+      "content": "průtok mobilní fáze"
     },
     {
       "label": "10.",
-      "content": "Kolorimetrie (dotace 0/2)"
+      "content": "Stanovení látkových složek v biologické matrici (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "biologické matrice vodné"
+    },
+    {
+      "label": "b.",
+      "content": "biologické matrice koncentrované"
     },
     {
       "label": "11.",
-      "content": "Elektromigrační metody, hmotnostní spektrometrie (dotace 0/2)"
+      "content": "Ionizační detekce (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vytvoření ionizačního proudu"
+    },
+    {
+      "label": "b.",
+      "content": "Převedení proudu na chromatografický signal"
     },
     {
       "label": "12.",
-      "content": "Termická analýza (dotace 0/2)"
+      "content": "Chromatografický záznam (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Zpracování signálu v časové ose"
+    },
+    {
+      "label": "b.",
+      "content": "Linearita odezvy"
+    },
+    {
+      "label": "c.",
+      "content": "Souměrnost píků"
+    },
+    {
+      "label": "13.",
+      "content": "Kvantifikace výsledků (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Přímá kalibrace"
+    },
+    {
+      "label": "b.",
+      "content": "Podle kalibrační přímky"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -131,7 +255,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -139,11 +263,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/12 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 12/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zápočet (3 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/12 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 12/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -159,7 +283,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné."
+      "content": "Možnost studia předmětu během zahraniční mobility: Možné, po individuální konzultaci"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -167,7 +291,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. Ing. Ivo Soural, Ph.D."
+      "content": "Garant předmětu: Ing. Jarmila Kožíšková, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -179,7 +303,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Hana Dočekalová (cvičící, zkoušející)doc. Ing. Ivo Soural, Ph.D. (cvičící, garant, zkoušející)Ing. Petr Šnurkovič, Ph.D., DiS. (cvičící, zkoušející)"
+      "content": "Vyučující: Ing. Miroslav Horák, Ph.D. (cvičící, přednášející)Ing. Jarmila Kožíšková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Petr Šnurkovič, Ph.D., DiS. (cvičící, přednášející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -187,115 +311,131 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa10.00-13.50ZFAC4 (Led)I. Soural, H. Dočekalová, P. ŠnurkovičCvičeníLichý týden20Pátek8.00-11.50ZFAA1 (Led)I. Soural, H. Dočekalová, P. ŠnurkovičCvičeníNepravidelně20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa10.00-11.50ZFAB1 (Led)J. Kožíšková, M. Horák, P. ŠnurkovičCvičeníKaždý týden11Pátek8.00-12.50ZFD11 (Led)J. Kožíšková, M. Horák, P. ŠnurkovičPřednáškaNepravidelně42"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Cílem předmětu je naučit studenty principům a analýzám pomocí instrumentálních metod."
+      "content": "Cílem předmětu je naučit studenty základním pojmům v plynové a kapalinové chromatografii. Pro potřeby instrumentace vytvořit vztahy pro případné úpravy před chromatografickou analýzou. Kvantifikaci chromatografické analýzy vztáhnout pro upravené vzorky biologické matrice."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Bezpečnost a ochrana zdraví při práci v laboratoři (dotace 0/2)2.Analytický signál a vyhodnocení (dotace 0/2)3.Rozdělení metod (dotace 0/2)4.Elektrochemické metody (dotace 0/2)5.Separační metody (dotace 0/2)6.Plynová chromatografie (dotace 0/2)7.Kapalinová chromatografie (dotace 0/2)8.Optické metody (dotace 0/2)9.Molekulová absorpční spektrometrie (dotace 0/2)10.Kolorimetrie (dotace 0/2)11.Elektromigrační metody, hmotnostní spektrometrie (dotace 0/2)12.Termická analýza (dotace 0/2)"
+      "content": "1.Separační techniky GC a HPLC (dotace 0/2) a.Rozdělení separačních technik pro GC a pro HPLCb.Volba dělící fázec.rozpustnost fází2.Chromatografické metody podle fází (dotace 0/2) a.metody přímé kalibraceb.metody kalibrační křivky3.Chromatografické křivky (dotace 0/1) a.linearita křivkyb.rozsah linearity4.Aparaturní sestava GC (dotace 0/2) a.dílčí prvky a kolonyb.Dávkování vzorku5.Separační kolony (dotace 0/0) a.separační kolony náplňovéb.separační kolony kapilární6.Dávkování vzorků (dotace 0/2) a.chromatografickou stříkačkoub.dávkovacím ventilem7.Separační kolony (dotace 0/1) a.Kolony pouze se sorbentemb.Kolony smáčené8.Detektory a jejich vlastnosti (dotace 0/2) a.detektory plamenoionizačníb.detektory hmotnostníc.detektory vodivostní9.Techniky HPLC (dotace 0/2) a.Volba mobilní fázeb.detektory v HPLCc.průtok mobilní fáze10.Stanovení látkových složek v biologické matrici (dotace 0/2) a.biologické matrice vodnéb.biologické matrice koncentrované11.Ionizační detekce (dotace 2/0) a.Vytvoření ionizačního proudub.Převedení proudu na chromatografický signal12.Chromatografický záznam (dotace 2/0) a.Zpracování signálu v časové oseb.Linearita odezvyc.Souměrnost píků13.Kvantifikace výsledků (dotace 2/0) a.Přímá kalibraceb.Podle kalibrační přímky"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Analytický signál a vyhodnocení (dotace 0/2)"
+      "content": "a.Rozdělení separačních technik pro GC a pro HPLCb.Volba dělící fázec.rozpustnost fází"
     },
     {
-      "label": "[section] Bezpečnost a ochrana zdraví při práci v laboratoři",
-      "content": "2.Analytický signál a vyhodnocení (dotace 0/2)"
+      "label": "[section] Separační techniky GC a HPLC",
+      "content": "a.Rozdělení separačních technik pro GC a pro HPLCb.Volba dělící fázec.rozpustnost fází"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Rozdělení metod (dotace 0/2)"
+      "content": "a.metody přímé kalibraceb.metody kalibrační křivky"
     },
     {
-      "label": "[section] Analytický signál a vyhodnocení",
-      "content": "3.Rozdělení metod (dotace 0/2)"
+      "label": "[section] Chromatografické metody podle fází",
+      "content": "a.metody přímé kalibraceb.metody kalibrační křivky"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Elektrochemické metody (dotace 0/2)"
+      "content": "a.linearita křivkyb.rozsah linearity"
     },
     {
-      "label": "[section] Rozdělení metod",
-      "content": "4.Elektrochemické metody (dotace 0/2)"
+      "label": "[section] Chromatografické křivky",
+      "content": "a.linearita křivkyb.rozsah linearity"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Separační metody (dotace 0/2)"
+      "content": "a.dílčí prvky a kolonyb.Dávkování vzorku"
     },
     {
-      "label": "[section] Elektrochemické metody",
-      "content": "5.Separační metody (dotace 0/2)"
+      "label": "[section] Aparaturní sestava GC",
+      "content": "a.dílčí prvky a kolonyb.Dávkování vzorku"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Plynová chromatografie (dotace 0/2)"
+      "content": "a.separační kolony náplňovéb.separační kolony kapilární"
     },
     {
-      "label": "[section] Separační metody",
-      "content": "6.Plynová chromatografie (dotace 0/2)"
+      "label": "[section] Separační kolony",
+      "content": "a.separační kolony náplňovéb.separační kolony kapilární"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Kapalinová chromatografie (dotace 0/2)"
+      "content": "a.chromatografickou stříkačkoub.dávkovacím ventilem"
     },
     {
-      "label": "[section] Plynová chromatografie",
-      "content": "7.Kapalinová chromatografie (dotace 0/2)"
+      "label": "[section] Dávkování vzorků",
+      "content": "a.chromatografickou stříkačkoub.dávkovacím ventilem"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Optické metody (dotace 0/2)"
+      "content": "a.Kolony pouze se sorbentemb.Kolony smáčené"
     },
     {
-      "label": "[section] Kapalinová chromatografie",
-      "content": "8.Optické metody (dotace 0/2)"
+      "label": "[section] Separační kolony",
+      "content": "a.Kolony pouze se sorbentemb.Kolony smáčené"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Molekulová absorpční spektrometrie (dotace 0/2)"
+      "content": "a.detektory plamenoionizačníb.detektory hmotnostníc.detektory vodivostní"
     },
     {
-      "label": "[section] Optické metody",
-      "content": "9.Molekulová absorpční spektrometrie (dotace 0/2)"
+      "label": "[section] Detektory a jejich vlastnosti",
+      "content": "a.detektory plamenoionizačníb.detektory hmotnostníc.detektory vodivostní"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Kolorimetrie (dotace 0/2)"
+      "content": "a.Volba mobilní fázeb.detektory v HPLCc.průtok mobilní fáze"
     },
     {
-      "label": "[section] Molekulová absorpční spektrometrie",
-      "content": "10.Kolorimetrie (dotace 0/2)"
+      "label": "[section] Techniky HPLC",
+      "content": "a.Volba mobilní fázeb.detektory v HPLCc.průtok mobilní fáze"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Elektromigrační metody, hmotnostní spektrometrie (dotace 0/2)"
+      "content": "a.biologické matrice vodnéb.biologické matrice koncentrované"
     },
     {
-      "label": "[section] Kolorimetrie",
-      "content": "11.Elektromigrační metody, hmotnostní spektrometrie (dotace 0/2)"
+      "label": "[section] Stanovení látkových složek v biologické matrici",
+      "content": "a.biologické matrice vodnéb.biologické matrice koncentrované"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Termická analýza (dotace 0/2)"
+      "content": "a.Vytvoření ionizačního proudub.Převedení proudu na chromatografický signal"
     },
     {
-      "label": "[section] Elektromigrační metody, hmotnostní spektrometrie",
-      "content": "12.Termická analýza (dotace 0/2)"
+      "label": "[section] Ionizační detekce",
+      "content": "a.Vytvoření ionizačního proudub.Převedení proudu na chromatografický signal"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Zpracování signálu v časové oseb.Linearita odezvyc.Souměrnost píků"
+    },
+    {
+      "label": "[section] Chromatografický záznam",
+      "content": "a.Zpracování signálu v časové oseb.Linearita odezvyc.Souměrnost píků"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Přímá kalibraceb.Podle kalibrační přímky"
+    },
+    {
+      "label": "[section] Kvantifikace výsledků",
+      "content": "a.Přímá kalibraceb.Podle kalibrační přímky"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumcvičení24 h12 hpříprava na průběžné hodnocení12 h40 hzpracování protokolů48 h32 hCelkem84 h84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumcvičení28 h12 hseminář10 h10 hlaboratorní práce24 h24 hworkshop10 h20 hpříprava na zkoušku0 h8 hzpracování protokolů10 h10 hzpracování projektů2 h0 hCelkem84 h84 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Ukončení předmětu zápočtem: zápočtový test a zpracování protokolů z laboratorního cvičení. V zápočtovém testu musí student správně odpovědět na 50% otázek."
+      "content": "Ukončení předmětu zápočtem: zpracování protokolů z laboratorního cvičení. Celkem 7 protokolů, rozsah 2 strany A4"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích50 %50 %Absolvování závěrečného testu50 %50 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -307,7 +447,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace ZTKP Zpracovatelské technologie a kvalita potravin, prezenční forma, počáteční období ZS 2024/2025Specializace ZTKP Zpracovatelské technologie a kvalita potravin, kombinovaná forma, počáteční období ZS 2024/2025"
+      "content": "Specializace ZTKP Zpracovatelské technologie a kvalita potravin, prezenční forma, počáteční období ZS 2020/2021Specializace ZTKP Zpracovatelské technologie a kvalita potravin, kombinovaná forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -329,7 +469,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -337,7 +477,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 0/12 (lectures per period / seminars per period)"
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 12/0 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -353,7 +493,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "Studying the subject is possible."
+      "content": "Possible, after individual consultation"
     },
     {
       "label": "Language of instruction:",
@@ -361,7 +501,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. Ing. Ivo Soural, Ph.D."
+      "content": "Ing. Jarmila Kožíšková, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -373,7 +513,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Hana Dočekalová (examiner, instructor)doc. Ing. Ivo Soural, Ph.D. (examiner, instructor, supervisor)Ing. Petr Šnurkovič, Ph.D., DiS. (examiner, instructor)"
+      "content": "Ing. Miroslav Horák, Ph.D. (instructor, lecturer)Ing. Jarmila Kožíšková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Petr Šnurkovič, Ph.D., DiS. (instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -381,55 +521,179 @@
     },
     {
       "label": "1.",
-      "content": "Safety and health protection when working in the laboratory (allowance 0/2)"
+      "content": "Separation techniques in GC and HPLC (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Resolution of separation techniques for GC and HPLC"
+    },
+    {
+      "label": "b.",
+      "content": "Selection of phase separation"
+    },
+    {
+      "label": "c.",
+      "content": "Solubility of phases"
     },
     {
       "label": "2.",
-      "content": "Analytical signal and evaluation (allowance 0/2)"
+      "content": "The chromatographic methods according to phases (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "direct calibration methods"
+    },
+    {
+      "label": "b.",
+      "content": "calibration curve method"
     },
     {
       "label": "3.",
-      "content": "Division of methods (allowance 0/2)"
+      "content": "chromatographic curves (allowance 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "linearity of the curve"
+    },
+    {
+      "label": "b.",
+      "content": "linearity range"
     },
     {
       "label": "4.",
-      "content": "Electrochemical methods (allowance 0/2)"
+      "content": "apparatus assembly GC (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "partial elements and columns"
+    },
+    {
+      "label": "b.",
+      "content": "sample dosing"
     },
     {
       "label": "5.",
-      "content": "Separation methods (allowance 0/2)"
+      "content": "separation columns (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "packed separation columns"
+    },
+    {
+      "label": "b.",
+      "content": "capillary separation columns"
     },
     {
       "label": "6.",
-      "content": "Gas chromatography (allowance 0/2)"
+      "content": "sampling (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "chromatographic syringe"
+    },
+    {
+      "label": "b.",
+      "content": "valve dosing"
     },
     {
       "label": "7.",
-      "content": "Liquid chromatography (allowance 0/2)"
+      "content": "separation columns (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "columns with sorbent only"
+    },
+    {
+      "label": "b.",
+      "content": "wetted columns"
     },
     {
       "label": "8.",
-      "content": "Optical methods (allowance 0/2)"
+      "content": "detectors and their properties (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "detectors pflanenoionization"
+    },
+    {
+      "label": "b.",
+      "content": "mass detectors"
+    },
+    {
+      "label": "c.",
+      "content": "conductivity detector"
     },
     {
       "label": "9.",
-      "content": "Molecular absorption spectrometry (allowance 0/2)"
+      "content": "HPLC techniques (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "mobile phase selection"
+    },
+    {
+      "label": "b.",
+      "content": "detectors in HPLC"
+    },
+    {
+      "label": "c.",
+      "content": "mobile phase flow"
     },
     {
       "label": "10.",
-      "content": "Colorimeter (allowance 0/2)"
+      "content": "determination of constituents in biological matrix (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "an aqueous biological matrix"
+    },
+    {
+      "label": "b.",
+      "content": "concentrated biological matrix"
     },
     {
       "label": "11.",
-      "content": "Electromigration methods, mass spectrometry (allowance 0/2)"
+      "content": "ionization detection (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "generation of ionizing current"
+    },
+    {
+      "label": "b.",
+      "content": "converting the current to a chromatographic signal"
     },
     {
       "label": "12.",
-      "content": "Thermal analysis (allowance 0/2)"
+      "content": "chromatographic record (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "signal processing in the timeline"
+    },
+    {
+      "label": "b.",
+      "content": "linearity of the response"
+    },
+    {
+      "label": "c.",
+      "content": "peak symmetry"
+    },
+    {
+      "label": "13.",
+      "content": "quantification of results (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "direct calibration"
+    },
+    {
+      "label": "b.",
+      "content": "according to the calibration line"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -445,7 +709,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -453,11 +717,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 0/12 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 12/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Pass credit (3 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 0/12 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 12/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -473,7 +737,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: Studying the subject is possible."
+      "content": "Mode of delivery for our mobility students abroad: Possible, after individual consultation"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -481,7 +745,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. Ing. Ivo Soural, Ph.D."
+      "content": "Course supervisor: Ing. Jarmila Kožíšková, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -493,7 +757,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Hana Dočekalová (examiner, instructor)doc. Ing. Ivo Soural, Ph.D. (examiner, instructor, supervisor)Ing. Petr Šnurkovič, Ph.D., DiS. (examiner, instructor)"
+      "content": "Teachers: Ing. Miroslav Horák, Ph.D. (instructor, lecturer)Ing. Jarmila Kožíšková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Petr Šnurkovič, Ph.D., DiS. (instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -501,115 +765,131 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday10.00-13.50ZFAC4 (Led)I. Soural, H. Dočekalová, P. ŠnurkovičSeminarOdd week20Friday8.00-11.50ZFAA1 (Led)I. Soural, H. Dočekalová, P. ŠnurkovičSeminarOccasionally20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday10.00-11.50ZFAB1 (Led)J. Kožíšková, M. Horák, P. ŠnurkovičSeminarEvery week11Friday8.00-12.50ZFD11 (Led)J. Kožíšková, M. Horák, P. ŠnurkovičLectureOccasionally42"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The aim of the course is to teach students principles and analyzes using instrumental methods."
+      "content": "The aim of the course is to teach students the basic concepts in gas and liquid chromatography. For needs instrumentation make adjustments before chromatographic analysis. Relate quantification of chromatographic analysis for treated biological matrix samples."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Safety and health protection when working in the laboratory (allowance 0/2)2.Analytical signal and evaluation (allowance 0/2)3.Division of methods (allowance 0/2)4.Electrochemical methods (allowance 0/2)5.Separation methods (allowance 0/2)6.Gas chromatography (allowance 0/2)7.Liquid chromatography (allowance 0/2)8.Optical methods (allowance 0/2)9.Molecular absorption spectrometry (allowance 0/2)10.Colorimeter (allowance 0/2)11.Electromigration methods, mass spectrometry (allowance 0/2)12.Thermal analysis (allowance 0/2)"
+      "content": "1.Separation techniques in GC and HPLC (allowance 2/0) a.Resolution of separation techniques for GC and HPLCb.Selection of phase separationc.Solubility of phases2.The chromatographic methods according to phases (allowance 0/2) a.direct calibration methodsb.calibration curve method3.chromatographic curves (allowance 0/2) a.linearity of the curveb.linearity range4.apparatus assembly GC (allowance 2/0) a.partial elements and columnsb.sample dosing5.separation columns (allowance 2/0) a.packed separation columnsb.capillary separation columns6.sampling (allowance 2/0) a.chromatographic syringeb.valve dosing7.separation columns (allowance 2/0) a.columns with sorbent onlyb.wetted columns8.detectors and their properties (allowance 2/0) a.detectors pflanenoionizationb.mass detectorsc.conductivity detector9.HPLC techniques (allowance 2/0) a.mobile phase selectionb.detectors in HPLCc.mobile phase flow10.determination of constituents in biological matrix (allowance 2/0) a.an aqueous biological matrixb.concentrated biological matrix11.ionization detection (allowance 2/0) a.generation of ionizing currentb.converting the current to a chromatographic signal12.chromatographic record (allowance 2/0) a.signal processing in the timelineb.linearity of the responsec.peak symmetry13.quantification of results (allowance 0/0) a.direct calibrationb.according to the calibration line"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Analytical signal and evaluation (allowance 0/2)"
+      "content": "a.Resolution of separation techniques for GC and HPLCb.Selection of phase separationc.Solubility of phases"
     },
     {
-      "label": "[section] Safety and health protection when working in the laboratory",
-      "content": "2.Analytical signal and evaluation (allowance 0/2)"
+      "label": "[section] Separation techniques in GC and HPLC",
+      "content": "a.Resolution of separation techniques for GC and HPLCb.Selection of phase separationc.Solubility of phases"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Division of methods (allowance 0/2)"
+      "content": "a.direct calibration methodsb.calibration curve method"
     },
     {
-      "label": "[section] Analytical signal and evaluation",
-      "content": "3.Division of methods (allowance 0/2)"
+      "label": "[section] The chromatographic methods according to phases",
+      "content": "a.direct calibration methodsb.calibration curve method"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Electrochemical methods (allowance 0/2)"
+      "content": "a.linearity of the curveb.linearity range"
     },
     {
-      "label": "[section] Division of methods",
-      "content": "4.Electrochemical methods (allowance 0/2)"
+      "label": "[section] chromatographic curves",
+      "content": "a.linearity of the curveb.linearity range"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Separation methods (allowance 0/2)"
+      "content": "a.partial elements and columnsb.sample dosing"
     },
     {
-      "label": "[section] Electrochemical methods",
-      "content": "5.Separation methods (allowance 0/2)"
+      "label": "[section] apparatus assembly GC",
+      "content": "a.partial elements and columnsb.sample dosing"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Gas chromatography (allowance 0/2)"
+      "content": "a.packed separation columnsb.capillary separation columns"
     },
     {
-      "label": "[section] Separation methods",
-      "content": "6.Gas chromatography (allowance 0/2)"
+      "label": "[section] separation columns",
+      "content": "a.packed separation columnsb.capillary separation columns"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Liquid chromatography (allowance 0/2)"
+      "content": "a.chromatographic syringeb.valve dosing"
     },
     {
-      "label": "[section] Gas chromatography",
-      "content": "7.Liquid chromatography (allowance 0/2)"
+      "label": "[section] sampling",
+      "content": "a.chromatographic syringeb.valve dosing"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Optical methods (allowance 0/2)"
+      "content": "a.columns with sorbent onlyb.wetted columns"
     },
     {
-      "label": "[section] Liquid chromatography",
-      "content": "8.Optical methods (allowance 0/2)"
+      "label": "[section] separation columns",
+      "content": "a.columns with sorbent onlyb.wetted columns"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Molecular absorption spectrometry (allowance 0/2)"
+      "content": "a.detectors pflanenoionizationb.mass detectorsc.conductivity detector"
     },
     {
-      "label": "[section] Optical methods",
-      "content": "9.Molecular absorption spectrometry (allowance 0/2)"
+      "label": "[section] detectors and their properties",
+      "content": "a.detectors pflanenoionizationb.mass detectorsc.conductivity detector"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Colorimeter (allowance 0/2)"
+      "content": "a.mobile phase selectionb.detectors in HPLCc.mobile phase flow"
     },
     {
-      "label": "[section] Molecular absorption spectrometry",
-      "content": "10.Colorimeter (allowance 0/2)"
+      "label": "[section] HPLC techniques",
+      "content": "a.mobile phase selectionb.detectors in HPLCc.mobile phase flow"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Electromigration methods, mass spectrometry (allowance 0/2)"
+      "content": "a.an aqueous biological matrixb.concentrated biological matrix"
     },
     {
-      "label": "[section] Colorimeter",
-      "content": "11.Electromigration methods, mass spectrometry (allowance 0/2)"
+      "label": "[section] determination of constituents in biological matrix",
+      "content": "a.an aqueous biological matrixb.concentrated biological matrix"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Thermal analysis (allowance 0/2)"
+      "content": "a.generation of ionizing currentb.converting the current to a chromatographic signal"
     },
     {
-      "label": "[section] Electromigration methods, mass spectrometry",
-      "content": "12.Thermal analysis (allowance 0/2)"
+      "label": "[section] ionization detection",
+      "content": "a.generation of ionizing currentb.converting the current to a chromatographic signal"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.signal processing in the timelineb.linearity of the responsec.peak symmetry"
+    },
+    {
+      "label": "[section] chromatographic record",
+      "content": "a.signal processing in the timelineb.linearity of the responsec.peak symmetry"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.direct calibrationb.according to the calibration line"
+    },
+    {
+      "label": "[section] quantification of results",
+      "content": "a.direct calibrationb.according to the calibration line"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formpractice24 h12 hpreparation for regular assessment12 h40 helaboration of reports48 h32 hTotal84 h84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formpractice28 h12 hseminar10 h10 hlaboratory work24 h24 hworkshop10 h20 hpreparation for exam0 h8 helaboration of reports10 h10 helaboration and execution of projects2 h0 hTotal84 h84 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Completion of the course credit: assessment test and processing protocols from laboratory exercises. In the test 50 % of questions must be correctly answered."
+      "content": "Completion of the course credit: processing protocols from laboratory exercises. Total 7 protocols, 2 pages A4"
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation50 %50 %Final test50 %50 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -621,13 +901,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track PHTFQ Post-harvest technologies and food quality, full-time form, initial period WS 2024/2025Track PHTFQ Post-harvest technologies and food quality, part-time form, initial period WS 2024/2025"
+      "content": "Track PHTFQ Post-harvest technologies and food quality, full-time form, initial period WS 2020/2021Track PHTFQ Post-harvest technologies and food quality, part-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 08:16:45",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:29:56",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

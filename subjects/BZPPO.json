@@ -3,13 +3,80 @@
   "name": "Bezpečnost práce a požární ochrana",
   "nameCs": "Bezpečnost práce a požární ochrana",
   "nameEn": "Occupational Safety and Fire Safety",
-  "predmetId": "157043",
+  "predmetId": "161951",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "doc. Ing. Petr Trávníček, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161951;lang=cz",
+      "totalPass": 53,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 2,
+            "D": 4,
+            "E": 6,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 8,
+            "C": 8,
+            "D": 14,
+            "E": 23,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 53,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 6,
+            "D": 10,
+            "E": 17,
+            "F": 17,
+            "FN": 0
+          },
+          "pass": 37,
+          "fail": 17
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -237,5 +304,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

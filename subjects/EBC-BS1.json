@@ -3,7 +3,7 @@
   "name": "Bakalářský seminář 1",
   "nameCs": "Bakalářský seminář 1",
   "nameEn": "Bachelor's Thesis Seminar 1",
-  "predmetId": "159845",
+  "predmetId": "163156",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -27,6 +27,7 @@
     "Ing. Jiří Duda, Ph.D.",
     "Ing. Klára Plecitá",
     "Ing. Lenka Procházková, Ph.D.",
+    "Ing. Lucie Veselá, Ph.D.",
     "Ing. Luděk Benada, Ph.D.",
     "Ing. Marcel Ševela, Ph.D.",
     "Ing. Marek Záboj, Ph.D.",
@@ -53,7 +54,7 @@
     "Ing. Zuzana Vlasáková, Ph.D.",
     "JUDr. Andrea Hrdličková, Ph.D.",
     "JUDr. Hana Kelblová, Ph.D.",
-    "JUDr. Ing. Jitka Matějková, Ph.D.",
+    "JUDr. Ing. Jitka Matějková",
     "MgA. Daniela Peclová, Ph.D.",
     "Mgr. Bc. Ondřej Pavelek, Ph.D.",
     "Mgr. Eva Šerá, Ph.D.",
@@ -71,7 +72,6 @@
     "doc. Ing. Bc. Petr Suchánek, Ph.D.",
     "doc. Ing. Helena Chládková, Ph.D.",
     "doc. Ing. Luboš Střelec, Ph.D.",
-    "doc. Ing. Lucie Veselá, Ph.D.",
     "doc. Ing. Luděk Kouba, Ph.D.",
     "doc. Ing. Patrik Svoboda, Ph.D.",
     "doc. Ing. Pavel Syrovátka, Ph.D.",
@@ -85,6 +85,55 @@
     "prof. RNDr. Jan Hanousek, CSc., DSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=163156;lang=cz",
+      "totalPass": 19,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 19,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 19,
+            "nezap": 4,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 19,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 19,
+            "nezap": 4,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -160,7 +209,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156531;lang=cz",
       "totalPass": 242,
-      "totalFail": 33,
+      "totalFail": 34,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -174,10 +223,10 @@
             "FN": 0
           },
           "pass": 242,
-          "fail": 33,
+          "fail": 34,
           "creditGrades": {
             "zap": 242,
-            "nezap": 33,
+            "nezap": 34,
             "zapNedost": 0
           }
         },
@@ -663,5 +712,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -7,15 +7,15 @@
     },
     {
       "label": "Název předmětu česky:",
-      "content": "Metodologie výzkumu"
+      "content": "Základy metodologie"
     },
     {
       "label": "Název předmětu anglicky:",
-      "content": "Research methodology"
+      "content": "Fundamentals of Methodology"
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Možné"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Mgr. Jiří Čeněk, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)doc. PhDr. Dušan Janák, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Ing. Mgr. Jiří Čeněk, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Martin Kovanič, MA, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "Státní bakalářská zkouška"
+      "content": "žádné"
     },
     {
       "label": "1.",
@@ -115,6 +115,66 @@
     },
     {
       "label": "4.",
+      "content": "Kvalitativní výzkum I: Sběr dat (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Co je kvalitativní na kvalitativních datech"
+    },
+    {
+      "label": "b.",
+      "content": "Metody sběru kvalitativních dat"
+    },
+    {
+      "label": "c.",
+      "content": "Kvalitativní dotazování"
+    },
+    {
+      "label": "5.",
+      "content": "Kvalitativní výzkum II: Rozhovor (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Struktorvaný a semi-strukturovaný rozhovor"
+    },
+    {
+      "label": "b.",
+      "content": "Laické a expertní rozhovory"
+    },
+    {
+      "label": "c.",
+      "content": "Konstrukce návodu na rozhovor"
+    },
+    {
+      "label": "d.",
+      "content": "Vedení rozhovoru"
+    },
+    {
+      "label": "6.",
+      "content": "Kvalitativní výzkum III: Analýza dat (dotace 2/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Co je kvalitativní analýza dat"
+    },
+    {
+      "label": "b.",
+      "content": "Interpretativní přístup - co je to interpretace a jak interpretovat data"
+    },
+    {
+      "label": "c.",
+      "content": "Tematická analýza"
+    },
+    {
+      "label": "d.",
+      "content": "Kvalitativní obsahová analýza"
+    },
+    {
+      "label": "e.",
+      "content": "Diskurzivní analýza"
+    },
+    {
+      "label": "7.",
       "content": "Měření (dotace 2/1)"
     },
     {
@@ -130,7 +190,7 @@
       "content": "Chyby měření; Reliabilita; Validita; Zkreslení v měření"
     },
     {
-      "label": "5.",
+      "label": "8.",
       "content": "Kvantitativní metody I: Dotazníkové šetření (dotace 2/1)"
     },
     {
@@ -146,7 +206,7 @@
       "content": "Způsoby zajištění vysoké návratnosti dotazníků"
     },
     {
-      "label": "6.",
+      "label": "9.",
       "content": "Kvantitativní metody II: Experimentální výzkumný design (dotace 2/1)"
     },
     {
@@ -166,7 +226,7 @@
       "content": "Příprava experimentu; Experimentální kontrola a nevysvětlený rozptyl; Laboratorní a terénní experiment"
     },
     {
-      "label": "7.",
+      "label": "10.",
       "content": "Kvantitativní metody III: Od dat k informacím (dotace 2/1)"
     },
     {
@@ -184,50 +244,6 @@
     {
       "label": "d.",
       "content": "Statistické testování hypotéz: statistická významnost a její limity, korekce významnosti, velikost účinku"
-    },
-    {
-      "label": "8.",
-      "content": "Kvalitativní výzkum I: Logika kvalitativního výzkumu a základní metody sběru dat (dotace 2/1)"
-    },
-    {
-      "label": "a.",
-      "content": "Co je kvalitativní na kvalitativních datech"
-    },
-    {
-      "label": "b.",
-      "content": "Logika kvalitativního výýzkumu"
-    },
-    {
-      "label": "c.",
-      "content": "Metody sběru kvalitativních dat"
-    },
-    {
-      "label": "9.",
-      "content": "Kvalitativní výzkum II: Rozhovor a obsahová analýza dokumentů (dotace 2/1)"
-    },
-    {
-      "label": "a.",
-      "content": "Struktorvaný a semi-strukturovaný rozhovor"
-    },
-    {
-      "label": "b.",
-      "content": "Obsahová analýza dokumentů"
-    },
-    {
-      "label": "10.",
-      "content": "Kvalitativní výzkum III: Analýza dat a prezentace výsledků (dotace 2/1)"
-    },
-    {
-      "label": "a.",
-      "content": "Co je kvalitativní analýza dat"
-    },
-    {
-      "label": "b.",
-      "content": "Kódování jako základní postup kvalitativní analýzy dat"
-    },
-    {
-      "label": "c.",
-      "content": "Tvorba výzkumné zprávy a prezentace dat"
     },
     {
       "label": "11.",
@@ -251,7 +267,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -259,15 +275,15 @@
     },
     {
       "label": "[section] Kód předmětu:",
-      "content": "Název předmětu česky: Metodologie výzkumu"
+      "content": "Název předmětu česky: Základy metodologie"
     },
     {
       "label": "[section] Název předmětu česky:",
-      "content": "Název předmětu anglicky: Research methodology"
+      "content": "Název předmětu anglicky: Fundamentals of Methodology"
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -295,7 +311,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Možné"
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -315,15 +331,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Mgr. Jiří Čeněk, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)doc. PhDr. Dušan Janák, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Mgr. Jiří Čeněk, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Martin Kovanič, MA, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: Státní bakalářská zkouška"
+      "content": "Prerekvizity: žádné"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý15.00-16.50Aula (ČP II.)J. Čeněk, D. JanákPřednáškaKaždý týden190Úterý17.00-17.50Z11 (ČP II.)J. Čeněk, D. JanákCvičeníKaždý týden50Středa15.00-15.50Z2 (ČP II.)J. Čeněk, D. JanákCvičeníKaždý týden40Středa16.00-16.50Z2 (ČP II.)J. Čeněk, D. JanákCvičeníKaždý týden40"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí16.00-16.50Z7 (ČP II.)J. Čeněk, M. KovaničCvičeníKaždý týden32Pondělí17.00-17.50Z7 (ČP II.)J. Čeněk, M. KovaničCvičeníKaždý týden32Úterý12.00-12.50Z8 (ČP II.)J. Čeněk, M. KovaničCvičeníKaždý týden32Úterý13.00-13.50Z24 (ČP II.)J. Čeněk, M. KovaničCvičeníKaždý týden24Úterý17.00-18.50Aula (ČP II.)J. Čeněk, M. KovaničPřednáškaKaždý týden190"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -331,7 +347,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Základní informace k předmětu (dotace 2/1) a.Organizace výuky, přednášek a seminářůb.Požadavky ke zkoušce, seznámení se základní literaturouc.Specifikace průběžných úkolů2.Proces sociálního výzkumu (dotace 2/1) a.Základní termíny: cíle výzkumu, výzkumná otázka, hypotéza, teorie - jejich konstrukty a proměnnéb.Výzkumný cyklusc.Typy výzkumů; Volba výzkumného designu3.Výzkumný výběr (dotace 2/1) a.Populace a vzorek, Plánování výběru; Chyby při výběrub.Metody výběruc.Velikost výzkumného vzorku; Metody vzorkování v kvalitativním výzkumu4.Měření (dotace 2/1) a.Od konstruktu k měření; Problémy s měřením v sociálních vědách; Typy datb.Typy proměnných; Úrovně měřeníc.Chyby měření; Reliabilita; Validita; Zkreslení v měření5.Kvantitativní metody I: Dotazníkové šetření (dotace 2/1) a.Typy dotazníkových šetření; Atraktivita dotazníkového šetřeníb.Tvorba otázek dotazníku; Otázky a škály; Škálováníc.Způsoby zajištění vysoké návratnosti dotazníků6.Kvantitativní metody II: Experimentální výzkumný design (dotace 2/1) a.Korelace a kauzalitab.Historie experimentováníc.Experimentální a kvaziexperimentální výzkumný designd.Příprava experimentu; Experimentální kontrola a nevysvětlený rozptyl; Laboratorní a terénní experiment7.Kvantitativní metody III: Od dat k informacím (dotace 2/1) a.Příprava dat k analýze; Vypořádání se s chybějícími datyb.Třídění dat na základě analýzy: roztřídění, paramterická a neparametrická statistika, analýza dat a počtu proměnných - univariační, bivariační a multivariační analýza datc.Mira polohy a míra variabilityd.Statistické testování hypotéz: statistická významnost a její limity, korekce významnosti, velikost účinku8.Kvalitativní výzkum I: Logika kvalitativního výzkumu a základní metody sběru dat (dotace 2/1) a.Co je kvalitativní na kvalitativních datechb.Logika kvalitativního výýzkumuc.Metody sběru kvalitativních dat9.Kvalitativní výzkum II: Rozhovor a obsahová analýza dokumentů (dotace 2/1) a.Struktorvaný a semi-strukturovaný rozhovorb.Obsahová analýza dokumentů10.Kvalitativní výzkum III: Analýza dat a prezentace výsledků (dotace 2/1) a.Co je kvalitativní analýza datb.Kódování jako základní postup kvalitativní analýzy datc.Tvorba výzkumné zprávy a prezentace dat11.Výzkumná etika (dotace 2/1) a.Eticky problematický výzkum - vědecké pochybeníb.Etické principy - minimalizace újmy, náklady a přínosyc.Informovaný souhlas; Tajení skutečného cíle výzkumu"
+      "content": "1.Základní informace k předmětu (dotace 2/1) a.Organizace výuky, přednášek a seminářůb.Požadavky ke zkoušce, seznámení se základní literaturouc.Specifikace průběžných úkolů2.Proces sociálního výzkumu (dotace 2/1) a.Základní termíny: cíle výzkumu, výzkumná otázka, hypotéza, teorie - jejich konstrukty a proměnnéb.Výzkumný cyklusc.Typy výzkumů; Volba výzkumného designu3.Výzkumný výběr (dotace 2/1) a.Populace a vzorek, Plánování výběru; Chyby při výběrub.Metody výběruc.Velikost výzkumného vzorku; Metody vzorkování v kvalitativním výzkumu4.Kvalitativní výzkum I: Sběr dat (dotace 2/1) a.Co je kvalitativní na kvalitativních datechb.Metody sběru kvalitativních datc.Kvalitativní dotazování5.Kvalitativní výzkum II: Rozhovor (dotace 2/1) a.Struktorvaný a semi-strukturovaný rozhovorb.Laické a expertní rozhovoryc.Konstrukce návodu na rozhovord.Vedení rozhovoru6.Kvalitativní výzkum III: Analýza dat (dotace 2/1) a.Co je kvalitativní analýza datb.Interpretativní přístup - co je to interpretace a jak interpretovat datac.Tematická analýzad.Kvalitativní obsahová analýzae.Diskurzivní analýza7.Měření (dotace 2/1) a.Od konstruktu k měření; Problémy s měřením v sociálních vědách; Typy datb.Typy proměnných; Úrovně měřeníc.Chyby měření; Reliabilita; Validita; Zkreslení v měření8.Kvantitativní metody I: Dotazníkové šetření (dotace 2/1) a.Typy dotazníkových šetření; Atraktivita dotazníkového šetřeníb.Tvorba otázek dotazníku; Otázky a škály; Škálováníc.Způsoby zajištění vysoké návratnosti dotazníků9.Kvantitativní metody II: Experimentální výzkumný design (dotace 2/1) a.Korelace a kauzalitab.Historie experimentováníc.Experimentální a kvaziexperimentální výzkumný designd.Příprava experimentu; Experimentální kontrola a nevysvětlený rozptyl; Laboratorní a terénní experiment10.Kvantitativní metody III: Od dat k informacím (dotace 2/1) a.Příprava dat k analýze; Vypořádání se s chybějícími datyb.Třídění dat na základě analýzy: roztřídění, paramterická a neparametrická statistika, analýza dat a počtu proměnných - univariační, bivariační a multivariační analýza datc.Mira polohy a míra variabilityd.Statistické testování hypotéz: statistická významnost a její limity, korekce významnosti, velikost účinku11.Výzkumná etika (dotace 2/1) a.Eticky problematický výzkum - vědecké pochybeníb.Etické principy - minimalizace újmy, náklady a přínosyc.Informovaný souhlas; Tajení skutečného cíle výzkumu"
     },
     {
       "label": "[section] 1.",
@@ -359,6 +375,30 @@
     },
     {
       "label": "[section] 4.",
+      "content": "a.Co je kvalitativní na kvalitativních datechb.Metody sběru kvalitativních datc.Kvalitativní dotazování"
+    },
+    {
+      "label": "[section] Kvalitativní výzkum I: Sběr dat",
+      "content": "a.Co je kvalitativní na kvalitativních datechb.Metody sběru kvalitativních datc.Kvalitativní dotazování"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Struktorvaný a semi-strukturovaný rozhovorb.Laické a expertní rozhovoryc.Konstrukce návodu na rozhovord.Vedení rozhovoru"
+    },
+    {
+      "label": "[section] Kvalitativní výzkum II: Rozhovor",
+      "content": "a.Struktorvaný a semi-strukturovaný rozhovorb.Laické a expertní rozhovoryc.Konstrukce návodu na rozhovord.Vedení rozhovoru"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Co je kvalitativní analýza datb.Interpretativní přístup - co je to interpretace a jak interpretovat datac.Tematická analýzad.Kvalitativní obsahová analýzae.Diskurzivní analýza"
+    },
+    {
+      "label": "[section] Kvalitativní výzkum III: Analýza dat",
+      "content": "a.Co je kvalitativní analýza datb.Interpretativní přístup - co je to interpretace a jak interpretovat datac.Tematická analýzad.Kvalitativní obsahová analýzae.Diskurzivní analýza"
+    },
+    {
+      "label": "[section] 7.",
       "content": "a.Od konstruktu k měření; Problémy s měřením v sociálních vědách; Typy datb.Typy proměnných; Úrovně měřeníc.Chyby měření; Reliabilita; Validita; Zkreslení v měření"
     },
     {
@@ -366,7 +406,7 @@
       "content": "a.Od konstruktu k měření; Problémy s měřením v sociálních vědách; Typy datb.Typy proměnných; Úrovně měřeníc.Chyby měření; Reliabilita; Validita; Zkreslení v měření"
     },
     {
-      "label": "[section] 5.",
+      "label": "[section] 8.",
       "content": "a.Typy dotazníkových šetření; Atraktivita dotazníkového šetřeníb.Tvorba otázek dotazníku; Otázky a škály; Škálováníc.Způsoby zajištění vysoké návratnosti dotazníků"
     },
     {
@@ -374,7 +414,7 @@
       "content": "a.Typy dotazníkových šetření; Atraktivita dotazníkového šetřeníb.Tvorba otázek dotazníku; Otázky a škály; Škálováníc.Způsoby zajištění vysoké návratnosti dotazníků"
     },
     {
-      "label": "[section] 6.",
+      "label": "[section] 9.",
       "content": "a.Korelace a kauzalitab.Historie experimentováníc.Experimentální a kvaziexperimentální výzkumný designd.Příprava experimentu; Experimentální kontrola a nevysvětlený rozptyl; Laboratorní a terénní experiment"
     },
     {
@@ -382,36 +422,12 @@
       "content": "a.Korelace a kauzalitab.Historie experimentováníc.Experimentální a kvaziexperimentální výzkumný designd.Příprava experimentu; Experimentální kontrola a nevysvětlený rozptyl; Laboratorní a terénní experiment"
     },
     {
-      "label": "[section] 7.",
+      "label": "[section] 10.",
       "content": "a.Příprava dat k analýze; Vypořádání se s chybějícími datyb.Třídění dat na základě analýzy: roztřídění, paramterická a neparametrická statistika, analýza dat a počtu proměnných - univariační, bivariační a multivariační analýza datc.Mira polohy a míra variabilityd.Statistické testování hypotéz: statistická významnost a její limity, korekce významnosti, velikost účinku"
     },
     {
       "label": "[section] Kvantitativní metody III: Od dat k informacím",
       "content": "a.Příprava dat k analýze; Vypořádání se s chybějícími datyb.Třídění dat na základě analýzy: roztřídění, paramterická a neparametrická statistika, analýza dat a počtu proměnných - univariační, bivariační a multivariační analýza datc.Mira polohy a míra variabilityd.Statistické testování hypotéz: statistická významnost a její limity, korekce významnosti, velikost účinku"
-    },
-    {
-      "label": "[section] 8.",
-      "content": "a.Co je kvalitativní na kvalitativních datechb.Logika kvalitativního výýzkumuc.Metody sběru kvalitativních dat"
-    },
-    {
-      "label": "[section] Kvalitativní výzkum I: Logika kvalitativního výzkumu a základní metody sběru dat",
-      "content": "a.Co je kvalitativní na kvalitativních datechb.Logika kvalitativního výýzkumuc.Metody sběru kvalitativních dat"
-    },
-    {
-      "label": "[section] 9.",
-      "content": "a.Struktorvaný a semi-strukturovaný rozhovorb.Obsahová analýza dokumentů"
-    },
-    {
-      "label": "[section] Kvalitativní výzkum II: Rozhovor a obsahová analýza dokumentů",
-      "content": "a.Struktorvaný a semi-strukturovaný rozhovorb.Obsahová analýza dokumentů"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "a.Co je kvalitativní analýza datb.Kódování jako základní postup kvalitativní analýzy datc.Tvorba výzkumné zprávy a prezentace dat"
-    },
-    {
-      "label": "[section] Kvalitativní výzkum III: Analýza dat a prezentace výsledků",
-      "content": "a.Co je kvalitativní analýza datb.Kódování jako základní postup kvalitativní analýzy datc.Tvorba výzkumné zprávy a prezentace dat"
     },
     {
       "label": "[section] 11.",
@@ -423,11 +439,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška26 hcvičení13 hseminář1 hpříprava na zkoušku50 hzpracování seminární práce50 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška26 hcvičení13 hseminář1 hpříprava na zkoušku50 hzpracování seminární práce50 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Pro úspěšné ukončení předmětu je student/studentka povinen/povinna: 1) Vypracovat průběžnou seminární práci (SEM1) ve formě stručného výzkumného záměru do předdefinovaného strukturovaného formuláře (do 2. 11. 2025, 23:59). 2) Vypracovat závěrečnou seminární práci (SEM2) ve formě finálního výzkumného záměru, podle předdefinované struktury (do 23. 12. 2025, 23:59). 3) Úkol kvalitativní metodologie (do 1. 12. 2025, 23:59) 4) Úspěšně složit závěrečnou zkoušku. ad 1 a 2) Zpracování obou seminárních prací se bude řídit podmínkami uvedenými v tomto sylabu a požadavky vyučujícího. Student/studentka obdrží zpětnou vazbu od vyučujícího k oběma seminárním pracím (průběžné i závěrečné). Bodování dílčích aktivit: 1) SEM1: 15b 2) SEM2: 25b 3) Úkol kvalitativní metodologie: 10b 3) Zkouška: 50b Celkem: 100b Požadavek na zápočet a připuštění ke zkoušce: 25b (z 1+2+3) Minimální počet bodů ze všech aktivit na úspěšné ukončení kurzu: 60b (z 1+2+3+4) Další informace - Je potřeba vše odevzdat včas. Odevzdává se výhradně do UIS odevzdáváren, nikoliv mailem ani jinými způsoby. Seminární práce odevzdané mimo příslušnou odevzdávárnu či odevzdané po termínu uzavření odevzdávárny se považují za neodevzdané. - Bez výmluv (mimo závažného onemocnění – doložit zprávou od doktora), bez výjimek! - Veškeré studijní materiály jsou na Teams, komunikace probíhá přes Teams Nulová tolerance k podvodnému jednání! - Opisování - Plagiáty včetně autoplagiátů, např. https://www.wikihow.cz/Jak-se-vyhnout-plagi%C3%A1torstv%C3%AD - Práce s ChatGPT a jinými AI jazykovými modely povolena, ale regulována. Viz Dokument \"Pravidla využívání AI\". ad 4) Závěrečná zkouška bude mít podobu testu s uzavřenými i otevřenými otázkami. Pro úspěšné složení zkoušky je nutné získat alespoň 60 % bodů ze všech možných."
+      "content": "Pro úspěšné ukončení předmětu je student/studentka povinen/povinna: 1) Vypracovat průběžnou seminární práci (SEM1) ve formě stručného výzkumného záměru do předdefinovaného strukturovaného formuláře (do 31. 10. 2021, 23.59). 2) Vypracovat závěrečnou seminární práci (SEM2) ve formě finálního výzkumného záměru, podle předdefinované struktury (do 5. 12. 2021, 23.59). 3) Úspěšně složit závěrečnou zkoušku. ad 1 a 2) Zpracování obou seminárních prací se bude řídit podmínkami uvedenými v tomto sylabu a požadavky vyučujícího. Student/studentka obdrží zpětnou vazbu od vyučujícího k oběma seminárním pracím (průběžné i závěrečné). Bodování dílčích aktivit: 1) SEM1: 15b 2) SEM2: 35b 3) Zkouška: 50b Celkem: 100b Požadavek na zápočet a připuštění ke zkoušce: 25b (z 1+2) Minimální počet bodů ze všech aktivit na úspěšné ukončení kurzu: 60b (z 1+2+3) Další informace - Je potřeba vše odevzdat včas. Odevzdává se výhradně do UIS odevzdáváren, nikoliv mailem ani jinými způsoby. Seminární práce odevzdané mimo příslušnou odevzdávárnu či odevzdané po termínu uzavření odevzdávárny se považují za neodevzdané. - Bez výmluv (mimo závažného onemocnění – doložit zprávou od doktora), bez výjimek! - Populární výmluvy: Cestování, práce, moc dalších povinností, chyba UIS, osobní problémy, apod… Nulová tolerance k podvodnému jednání! - Opisování - Plagiáty včetně autoplagiátů, např. https://www.wikihow.cz/Jak-se-vyhnout-plagi%C3%A1torstv%C3%AD ad 3) Závěrečná zkouška bude mít podobu testu s uzavřenými i otevřenými otázkami. Pro úspěšné složení zkoušky je nutné získat alespoň 60 % bodů ze všech možných."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -443,7 +459,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program N-METS Mezinárodní teritoriální studia, prezenční forma, počáteční období LS 2024/2025Program N-RER Regionální rozvoj, prezenční forma, počáteční období LS 2024/2025Program N-RER Regionální rozvoj, prezenční forma, počáteční období ZS 2025/2026Program N-METS Mezinárodní teritoriální studia, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Program N-RER Regionální rozvoj, prezenční forma, počáteční období LS 2020/2021Program N-METS Mezinárodní teritoriální studia, prezenční forma, počáteční období LS 2020/2021Program N-METS Mezinárodní teritoriální studia, prezenční forma, počáteční období ZS 2021/2022Program N-RER Regionální rozvoj, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -457,15 +473,15 @@
     },
     {
       "label": "Course title in Czech:",
-      "content": "Metodologie výzkumu"
+      "content": "Základy metodologie"
     },
     {
       "label": "Course title in English:",
-      "content": "Research methodology"
+      "content": "Fundamentals of Methodology"
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -489,7 +505,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "Possible"
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -509,11 +525,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Mgr. Jiří Čeněk, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)doc. PhDr. Dušan Janák, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "Ing. Mgr. Jiří Čeněk, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Martin Kovanič, MA, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "State Bachelor Exam"
+      "content": "none"
     },
     {
       "label": "Total",
@@ -521,7 +537,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -529,15 +545,15 @@
     },
     {
       "label": "[section] Course code:",
-      "content": "Course title in Czech: Metodologie výzkumu"
+      "content": "Course title in Czech: Základy metodologie"
     },
     {
       "label": "[section] Course title in Czech:",
-      "content": "Course title in English: Research methodology"
+      "content": "Course title in English: Fundamentals of Methodology"
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -565,7 +581,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: Possible"
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -585,15 +601,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Mgr. Jiří Čeněk, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)doc. PhDr. Dušan Janák, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "Teachers: Ing. Mgr. Jiří Čeněk, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Martin Kovanič, MA, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: State Bachelor Exam"
+      "content": "Prerequisites: none"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday15.00-16.50Aula (ČP II.)J. Čeněk, D. JanákLectureEvery week190Tuesday17.00-17.50Z11 (ČP II.)J. Čeněk, D. JanákSeminarEvery week50Wednesday15.00-15.50Z2 (ČP II.)J. Čeněk, D. JanákSeminarEvery week40Wednesday16.00-16.50Z2 (ČP II.)J. Čeněk, D. JanákSeminarEvery week40"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday16.00-16.50Z7 (ČP II.)J. Čeněk, M. KovaničSeminarEvery week32Monday17.00-17.50Z7 (ČP II.)J. Čeněk, M. KovaničSeminarEvery week32Tuesday12.00-12.50Z8 (ČP II.)J. Čeněk, M. KovaničSeminarEvery week32Tuesday13.00-13.50Z24 (ČP II.)J. Čeněk, M. KovaničSeminarEvery week24Tuesday17.00-18.50Aula (ČP II.)J. Čeněk, M. KovaničLectureEvery week190"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -605,7 +621,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture26 hpractice13 hseminar1 hpreparation for exam50 hwriting of seminar paper50 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture26 hpractice13 hseminar1 hpreparation for exam50 hwriting of seminar paper50 hTotal140 h"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -621,13 +637,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme C-INTS International Territorial Studies, full-time form, initial period SS 2024/2025Programme C-RED Regional Development, full-time form, initial period SS 2024/2025Programme C-RED Regional Development, full-time form, initial period WS 2025/2026Programme C-INTS International Territorial Studies, full-time form, initial period WS 2025/2026"
+      "content": "Programme C-RED Regional Development, full-time form, initial period SS 2020/2021Programme C-INTS International Territorial Studies, full-time form, initial period SS 2020/2021Programme C-INTS International Territorial Studies, full-time form, initial period WS 2021/2022Programme C-RED Regional Development, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 09:46:41",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 10:15:08",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

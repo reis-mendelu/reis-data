@@ -3,10 +3,9 @@
   "name": "Státní bakalářská zkouška",
   "nameCs": "Státní bakalářská zkouška",
   "nameEn": "State Bachelor Exam",
-  "predmetId": "159398",
+  "predmetId": "162680",
   "facultyId": 23,
   "aliases": [
-    "EBC-SBZ",
     "SBZ",
     "STBAZK"
   ],
@@ -14,6 +13,45 @@
     "Mgr. Pavel Reich, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162680;lang=cz",
+      "totalPass": 145,
+      "totalFail": 18,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 54,
+            "C": 50,
+            "D": 25,
+            "E": 3,
+            "F": 18,
+            "FN": 0
+          },
+          "pass": 145,
+          "fail": 18
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 54,
+            "C": 50,
+            "D": 25,
+            "E": 3,
+            "F": 18,
+            "FN": 0
+          },
+          "pass": 145,
+          "fail": 18
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -430,5 +468,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -271,7 +271,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý13.00-14.50B42není určenPřednáškaKaždý týden22Úterý15.00-16.50B42není určenCvičeníKaždý týden22"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -355,7 +355,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška20 hcvičení6 hlaboratorní práce6 hpráce v terénu16 hodborná exkurze16 hkonzultace1 hworkshop4 hpříprava na zkoušku67 hpříprava na průběžný test4 hzpracování protokolů6 hzpracování projektů4 hCelkem150 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumpřednáška20 hcvičení6 hlaboratorní práce6 hpráce v terénu16 hodborná exkurze16 hkonzultace1 hworkshop4 hpříprava na zkoušku67 hpříprava na průběžný test4 hzpracování protokolů6 hzpracování projektů4 hCelkem150 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -657,7 +657,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday13.00-14.50B42not setLectureEvery week22Tuesday15.00-16.50B42not setSeminarEvery week22"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -741,7 +741,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture20 hpractice6 hlaboratory work6 hfield work16 hprofessional educational excursion16 hconsultation1 hworkshop4 hpreparation for exam67 hpreparation for regular testing4 helaboration of reports6 helaboration and execution of projects4 hTotal150 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelecture20 hpractice6 hlaboratory work6 hfield work16 hprofessional educational excursion16 hconsultation1 hworkshop4 hpreparation for exam67 hpreparation for regular testing4 helaboration of reports6 helaboration and execution of projects4 hTotal150 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -772,6 +772,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:25:06",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:36:41",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

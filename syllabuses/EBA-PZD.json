@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 3/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Pavel Turčínek, Ph.D."
+      "content": "Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,35 +59,91 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Pavel Turčínek, Ph.D. (garant)"
+      "content": "Ing. Jan Turčínek, Ph.D. (cvičící, garant, přednášející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a (Moderní informační technologie v AJ nebo nyní Moderní informační technologie v AJ)"
+      "content": "(Moderní informační technologie v AJ nebo nyní Moderní informační technologie v AJ nebo Výpočetní technika a algoritmizace I v AJ nebo Informatika pro ekonomy I v AJ) a ne Státní bakalářská zkouška a ne (Výpočetní technika a algoritmizace II v AJ a Informatika pro ekonomy II v AJ)"
     },
     {
       "label": "1.",
-      "content": "Data a informace (dotace 2/2)"
+      "content": "Internetové technologie (dotace 3/9)"
     },
     {
       "label": "a.",
-      "content": "Informace, data, znalosti"
+      "content": "Základní principy a služby sítě Internet"
     },
     {
       "label": "b.",
-      "content": "Sběr dat, ukládání dat, zpracování, prezentace"
+      "content": "Technologie WWW, jazyky HTML a CSS"
     },
     {
       "label": "c.",
-      "content": "Principy uložení dat (čísla, znaky – převod dat)Číselné soustavy"
+      "content": "Webové šablony a redakční systémy"
     },
     {
       "label": "d.",
-      "content": "Statický a dynamický pohled na data"
+      "content": "Pokročilé vyhledávání na Internetu"
     },
     {
       "label": "2.",
-      "content": "Databázové systémy (dotace 8/8)"
+      "content": "Principy uložení dat v počítači (dotace 9/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vnitřní reprezentace dat v počítači"
+    },
+    {
+      "label": "b.",
+      "content": "Datové a souborové formáty"
+    },
+    {
+      "label": "c.",
+      "content": "Komprimace, archivace a zálohování"
+    },
+    {
+      "label": "3.",
+      "content": "Úvod do algoritmizace (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Algoritmus a jeho vlastnosti"
+    },
+    {
+      "label": "b.",
+      "content": "Základní algoritmické konstrukce"
+    },
+    {
+      "label": "c.",
+      "content": "Vývojové diagramy"
+    },
+    {
+      "label": "4.",
+      "content": "Algoritmizace hromadného zpracování dat (dotace 15/15)"
+    },
+    {
+      "label": "a.",
+      "content": "Zápis algoritmů v jazyce VBA"
+    },
+    {
+      "label": "b.",
+      "content": "Makra, procedury a funkce"
+    },
+    {
+      "label": "c.",
+      "content": "Podmínky a cykly, základní algoritmy"
+    },
+    {
+      "label": "d.",
+      "content": "Algoritmy nad polem a maticí, řazení"
+    },
+    {
+      "label": "e.",
+      "content": "Práce se strukturovanými daty"
+    },
+    {
+      "label": "5.",
+      "content": "Databázové systémy (dotace 9/9)"
     },
     {
       "label": "a.",
@@ -99,87 +155,19 @@
     },
     {
       "label": "c.",
-      "content": "Ukládání vztahů mezi daty"
+      "content": "Ukládání vztahů v relačních databázích"
     },
     {
       "label": "d.",
-      "content": "Návrh datového modelu (Excel, databázový systém)"
-    },
-    {
-      "label": "e.",
-      "content": "Syntaxe a sémantika jazyka SQL, principy jeho využití"
-    },
-    {
-      "label": "f.",
-      "content": "Tvorba dotazů v jazyku SQL, práce s databází, získávání informací."
-    },
-    {
-      "label": "3.",
-      "content": "Úvod do algoritmizace (dotace 8/8)"
-    },
-    {
-      "label": "a.",
-      "content": "Algoritmus a jeho vlastnosti"
-    },
-    {
-      "label": "b.",
-      "content": "Role algorimizace"
-    },
-    {
-      "label": "c.",
-      "content": "Základní algoritmické konstrukce"
-    },
-    {
-      "label": "d.",
-      "content": "Proměnné"
-    },
-    {
-      "label": "e.",
-      "content": "Výrazy"
-    },
-    {
-      "label": "f.",
-      "content": "Vývojové diagramy"
-    },
-    {
-      "label": "g.",
-      "content": "Jednoduché algoritmy"
-    },
-    {
-      "label": "4.",
-      "content": "Algoritmizace hromadného zpracování dat (dotace 8/8)"
-    },
-    {
-      "label": "a.",
-      "content": "Syntaxe a sémantika jazyka PYTHON"
-    },
-    {
-      "label": "b.",
-      "content": "Zápis algoritmů ve jazyce PYTHON"
-    },
-    {
-      "label": "c.",
-      "content": "funkce a metody"
-    },
-    {
-      "label": "d.",
-      "content": "Základní algoritmy"
-    },
-    {
-      "label": "e.",
-      "content": "Algoritmy nad strukturovanými daty, zpracování strukturovaných dat"
-    },
-    {
-      "label": "f.",
-      "content": "Zpracování velkých objemů dat"
+      "content": "Jazyk SQL a jeho využití"
     },
     {
       "label": "Absolvování průběžného testu (testů)",
-      "content": "50 %"
+      "content": "80 %"
     },
     {
       "label": "Absolvování závěrečného testu",
-      "content": "50 %"
+      "content": "20 %"
     },
     {
       "label": "Celkem",
@@ -187,7 +175,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -203,7 +191,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -211,11 +199,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 3/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (4 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 3/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -239,7 +227,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Pavel Turčínek, Ph.D."
+      "content": "Garant předmětu: Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -251,67 +239,75 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. Pavel Turčínek, Ph.D. (garant)"
+      "content": "Vyučující: Ing. Jan Turčínek, Ph.D. (cvičící, garant, přednášející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a (Moderní informační technologie v AJ nebo nyní Moderní informační technologie v AJ)"
+      "content": "Prerekvizity: (Moderní informační technologie v AJ nebo nyní Moderní informační technologie v AJ nebo Výpočetní technika a algoritmizace I v AJ nebo Informatika pro ekonomy I v AJ) a ne Státní bakalářská zkouška a ne (Výpočetní technika a algoritmizace II v AJ a Informatika pro ekonomy II v AJ)"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q15B-EAMAJ. TurčínekPřednáškaKaždý týden23Pondělí15.00-16.50Q04B-EAMAJ. TurčínekCvičeníKaždý týden23"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí7.00-9.50Q47J. TurčínekCvičeníKaždý týden12Pondělí10.00-12.50Q47J. TurčínekCvičeníKaždý týden12Čtvrtek10.00-12.50Q47J. TurčínekCvičeníKaždý týden12Pátek8.00-10.50Q16J. TurčínekPřednáškaKaždý týden80"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Předmět rozvíjí kompetence v aplikacích vybraných informačních technologií v podnikové praxi. Studenti si osvojí zásady a přístupy správně strukturovaného algoritmického myšlení zejména v kontextu úloh hromadného zpracování dat a ekonomických výpočtů, získají schopnost analyzovat a popisovat podnikové procesy, získají schopnost pracovat s podnikovými daty (pochopení jejich souvislostí – jaká data potřebuji, jak spolu souvisí, jak jsou vzájemně propojeny, základy modelování dat, schopnost z nich získávat smysluplné informace), získají schopnost pokládat dotazy v relačním databázovém systému (SQL), získají základní schopnost užití skriptovacího jazyka Python, získají schopnost zpracovávat textová data."
+      "content": "Předmět rozvíjí kompetence v aplikacích vybraných informačních technologií v podnikové praxi. Student porozumí základním principům webových technologií, získá znalosti a praktické dovednosti pro práci s nejčastěji používanými souborovými formáty. Dále si osvojí zásady a přístupy správně strukturovaného algoritmického myšlení zejména v kontextu úloh hromadného zpracování dat a ekonomických výpočtů, bude schopen vytvářet makra v tabulkovém procesoru MS Excel a pokládat dotazy v relačním databázovém systému."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Data a informace (dotace 2/2) a.Informace, data, znalostib.Sběr dat, ukládání dat, zpracování, prezentacec.Principy uložení dat (čísla, znaky – převod dat)Číselné soustavyd.Statický a dynamický pohled na data2.Databázové systémy (dotace 8/8) a.Typy databázových systémůb.Relační databázový modelc.Ukládání vztahů mezi datyd.Návrh datového modelu (Excel, databázový systém)e.Syntaxe a sémantika jazyka SQL, principy jeho využitíf.Tvorba dotazů v jazyku SQL, práce s databází, získávání informací.3.Úvod do algoritmizace (dotace 8/8) a.Algoritmus a jeho vlastnostib.Role algorimizacec.Základní algoritmické konstrukced.Proměnnée.Výrazyf.Vývojové diagramyg.Jednoduché algoritmy4.Algoritmizace hromadného zpracování dat (dotace 8/8) a.Syntaxe a sémantika jazyka PYTHONb.Zápis algoritmů ve jazyce PYTHONc.funkce a metodyd.Základní algoritmye.Algoritmy nad strukturovanými daty, zpracování strukturovaných datf.Zpracování velkých objemů dat"
+      "content": "1.Internetové technologie (dotace 3/9) a.Základní principy a služby sítě Internetb.Technologie WWW, jazyky HTML a CSSc.Webové šablony a redakční systémyd.Pokročilé vyhledávání na Internetu2.Principy uložení dat v počítači (dotace 9/3) a.Vnitřní reprezentace dat v počítačib.Datové a souborové formátyc.Komprimace, archivace a zálohování3.Úvod do algoritmizace (dotace 6/6) a.Algoritmus a jeho vlastnostib.Základní algoritmické konstrukcec.Vývojové diagramy4.Algoritmizace hromadného zpracování dat (dotace 15/15) a.Zápis algoritmů v jazyce VBAb.Makra, procedury a funkcec.Podmínky a cykly, základní algoritmyd.Algoritmy nad polem a maticí, řazeníe.Práce se strukturovanými daty5.Databázové systémy (dotace 9/9) a.Typy databázových systémůb.Relační databázový modelc.Ukládání vztahů v relačních databázíchd.Jazyk SQL a jeho využití"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Informace, data, znalostib.Sběr dat, ukládání dat, zpracování, prezentacec.Principy uložení dat (čísla, znaky – převod dat)Číselné soustavyd.Statický a dynamický pohled na data"
+      "content": "a.Základní principy a služby sítě Internetb.Technologie WWW, jazyky HTML a CSSc.Webové šablony a redakční systémyd.Pokročilé vyhledávání na Internetu"
     },
     {
-      "label": "[section] Data a informace",
-      "content": "a.Informace, data, znalostib.Sběr dat, ukládání dat, zpracování, prezentacec.Principy uložení dat (čísla, znaky – převod dat)Číselné soustavyd.Statický a dynamický pohled na data"
+      "label": "[section] Internetové technologie",
+      "content": "a.Základní principy a služby sítě Internetb.Technologie WWW, jazyky HTML a CSSc.Webové šablony a redakční systémyd.Pokročilé vyhledávání na Internetu"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Typy databázových systémůb.Relační databázový modelc.Ukládání vztahů mezi datyd.Návrh datového modelu (Excel, databázový systém)e.Syntaxe a sémantika jazyka SQL, principy jeho využitíf.Tvorba dotazů v jazyku SQL, práce s databází, získávání informací."
+      "content": "a.Vnitřní reprezentace dat v počítačib.Datové a souborové formátyc.Komprimace, archivace a zálohování"
     },
     {
-      "label": "[section] Databázové systémy",
-      "content": "a.Typy databázových systémůb.Relační databázový modelc.Ukládání vztahů mezi datyd.Návrh datového modelu (Excel, databázový systém)e.Syntaxe a sémantika jazyka SQL, principy jeho využitíf.Tvorba dotazů v jazyku SQL, práce s databází, získávání informací."
+      "label": "[section] Principy uložení dat v počítači",
+      "content": "a.Vnitřní reprezentace dat v počítačib.Datové a souborové formátyc.Komprimace, archivace a zálohování"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Algoritmus a jeho vlastnostib.Role algorimizacec.Základní algoritmické konstrukced.Proměnnée.Výrazyf.Vývojové diagramyg.Jednoduché algoritmy"
+      "content": "a.Algoritmus a jeho vlastnostib.Základní algoritmické konstrukcec.Vývojové diagramy"
     },
     {
       "label": "[section] Úvod do algoritmizace",
-      "content": "a.Algoritmus a jeho vlastnostib.Role algorimizacec.Základní algoritmické konstrukced.Proměnnée.Výrazyf.Vývojové diagramyg.Jednoduché algoritmy"
+      "content": "a.Algoritmus a jeho vlastnostib.Základní algoritmické konstrukcec.Vývojové diagramy"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Syntaxe a sémantika jazyka PYTHONb.Zápis algoritmů ve jazyce PYTHONc.funkce a metodyd.Základní algoritmye.Algoritmy nad strukturovanými daty, zpracování strukturovaných datf.Zpracování velkých objemů dat"
+      "content": "a.Zápis algoritmů v jazyce VBAb.Makra, procedury a funkcec.Podmínky a cykly, základní algoritmyd.Algoritmy nad polem a maticí, řazeníe.Práce se strukturovanými daty"
     },
     {
       "label": "[section] Algoritmizace hromadného zpracování dat",
-      "content": "a.Syntaxe a sémantika jazyka PYTHONb.Zápis algoritmů ve jazyce PYTHONc.funkce a metodyd.Základní algoritmye.Algoritmy nad strukturovanými daty, zpracování strukturovaných datf.Zpracování velkých objemů dat"
+      "content": "a.Zápis algoritmů v jazyce VBAb.Makra, procedury a funkcec.Podmínky a cykly, základní algoritmyd.Algoritmy nad polem a maticí, řazeníe.Práce se strukturovanými daty"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Typy databázových systémůb.Relační databázový modelc.Ukládání vztahů v relačních databázíchd.Jazyk SQL a jeho využití"
+    },
+    {
+      "label": "[section] Databázové systémy",
+      "content": "a.Typy databázových systémůb.Relační databázový modelc.Ukládání vztahů v relačních databázíchd.Jazyk SQL a jeho využití"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku36 hpříprava na průběžný test20 hCelkem112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška42 hcvičení42 hpříprava na zkoušku8 hpříprava na průběžný test20 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Studenti navštěvují cvičení, ve kterém jsou řádně zapsáni. Účast ve výuce je nepovinná. Zkouška bude rozdělena do dvou testů. První test se bude věnovat problematice zpracování dat pomoci databázových systémů. Maximální počet získaných bodů je 50. Test je plánován do 6. týdne. Druhý test se bude zaměřovat na oblast algoritmizace. Bude možné za něj získat 50 bodů. Druhý test je plánován na konec výukové části semestru. V rámci zkouškového období budou mít studenti možnost si jednotlivé testy opravit. Mají tedy pro oba testy vždy řádný a dva opravné termíny. Studenti musí z každé části testu získat minimálně 20 bodů. Celkové hodnocení je dáno součtem bodů z obou testů: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů). V případě podvodného jednání bude ověřování znalostí vyhodnoceno jako neúspěšné a bude podán podnět k zahájení disciplinárního řízení."
+      "content": "Studenti navštěvují cvičení, ve kterém jsou řádně zapsáni. Účast ve výuce je nepovinná. Náhrada cvičení v prezenční výuce je možná pouze u stejného cvičícího a s jeho předchozím souhlasem. Studenti absolvují dva průběžné testy, kterými prokáží praktické schopnosti aplikace osvojených poznatků v konkrétních úlohách. První průběžný test zahrnuje webové technologie, principy uložení dat v počítači a základní algoritmické konstrukce, lze z něj získat až 30 bodů. Druhý průběžný test zahrnuje hromadné zpracování dat v jazycích VBA (v prostředí MS Excel) a SQL (v DBS PostgreSQL), lze z něj získat až 50 bodů. Pro udělení zápočtu je nutné získat dohromady alespoň 40 bodů. Každý z průběžných testů je možné jednou opravit, platí vždy poslední získaný výsledek. Zkouška ověřuje porozumění pojmům a principům a chápání souvislostí. Je tvořena e-testem v UIS, ze kterého lze získat až 20 bodů, minimum není stanoveno. Celkové hodnocení je dáno součtem bodů z průběžných testů a závěrečné zkoušky: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů). V případě podvodného jednání bude ověřování znalostí vyhodnoceno jako neúspěšné a bude podán podnět k zahájení disciplinárního řízení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)50 %Absolvování závěrečného testu50 %Celkem100 %"
+      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)80 %Absolvování závěrečného testu20 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -327,7 +323,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-EAMA Economics and Management, prezenční forma, počáteční období ZS 2023/2024Program B-EAMA Economics and Management, prezenční forma, počáteční období LS 2023/2024"
+      "content": "Specializace SBVA Vývoj aplikací v AJ, prezenční forma, počáteční období ZS 2019/2020Program B-EAMA Economics and Management, prezenční forma, počáteční období LS 2020/2021Program B-EAMA Economics and Management, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -349,7 +345,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -357,7 +353,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 3/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -381,7 +377,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Pavel Turčínek, Ph.D."
+      "content": "Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -393,15 +389,35 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+      "content": "Ing. Jan Turčínek, Ph.D. (instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and (Modern Information Technologies or now Modern Information Technologies)"
+      "content": "(Modern Information Technologies or now Modern Information Technologies or Computer Technology and Algorithms I or Informatics for Economists I) and not Final Bachelor Exam and not (Computer Technology and Algorithms II and Informatics for Economists II)"
     },
     {
       "label": "1.",
-      "content": "Principles of data storage (allowance 4/4)"
+      "content": "Internet technologies (allowance 3/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic principles and Internet services"
+    },
+    {
+      "label": "b.",
+      "content": "WWW technology, HTML and CSS languages"
+    },
+    {
+      "label": "c.",
+      "content": "Web templates and CMS"
+    },
+    {
+      "label": "d.",
+      "content": "Advanced Internet search"
+    },
+    {
+      "label": "2.",
+      "content": "Principles of data storage (allowance 9/3)"
     },
     {
       "label": "a.",
@@ -409,31 +425,15 @@
     },
     {
       "label": "b.",
-      "content": "Information, data, knowledge, skills"
-    },
-    {
-      "label": "2.",
-      "content": "Database systems (allowance 8/8)"
-    },
-    {
-      "label": "a.",
-      "content": "Types of database systems"
-    },
-    {
-      "label": "b.",
-      "content": "Relational database model"
+      "content": "Data formats and file formats"
     },
     {
       "label": "c.",
-      "content": "Storing relationships in a relational database"
-    },
-    {
-      "label": "d.",
-      "content": "SQL"
+      "content": "Compression, archiving and backup"
     },
     {
       "label": "3.",
-      "content": "Introduction to algorithmization (allowance 8/8)"
+      "content": "Introduction to algorithmization (allowance 6/6)"
     },
     {
       "label": "a.",
@@ -449,15 +449,15 @@
     },
     {
       "label": "4.",
-      "content": "Algorithmization of mass data processing (allowance 8/8)"
+      "content": "Algorithmization of mass data processing (allowance 15/15)"
     },
     {
       "label": "a.",
-      "content": "Creating algorithms in PYTHON language"
+      "content": "Creating algorithms in VBA language"
     },
     {
       "label": "b.",
-      "content": "Functions and methods"
+      "content": "Macros, procedures and functions"
     },
     {
       "label": "c.",
@@ -465,19 +465,39 @@
     },
     {
       "label": "d.",
-      "content": "Algorithms over structured data"
+      "content": "Algorithms over array and matrix, sorting"
     },
     {
       "label": "e.",
-      "content": "Processing large volumes of data"
+      "content": "Structured data processing"
+    },
+    {
+      "label": "5.",
+      "content": "Database systems (allowance 9/9)"
+    },
+    {
+      "label": "a.",
+      "content": "Types of database systems"
+    },
+    {
+      "label": "b.",
+      "content": "Relational database model"
+    },
+    {
+      "label": "c.",
+      "content": "Storing relationships in a relational database"
+    },
+    {
+      "label": "d.",
+      "content": "SQL and its use"
     },
     {
       "label": "Mid-term test(s)",
-      "content": "50 %"
+      "content": "80 %"
     },
     {
       "label": "Final test",
-      "content": "50 %"
+      "content": "20 %"
     },
     {
       "label": "Total",
@@ -485,7 +505,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -501,7 +521,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -509,11 +529,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 3/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (4 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 3/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -537,7 +557,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Pavel Turčínek, Ph.D."
+      "content": "Course supervisor: Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -549,39 +569,39 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+      "content": "Teachers: Ing. Jan Turčínek, Ph.D. (instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and (Modern Information Technologies or now Modern Information Technologies)"
+      "content": "Prerequisites: (Modern Information Technologies or now Modern Information Technologies or Computer Technology and Algorithms I or Informatics for Economists I) and not Final Bachelor Exam and not (Computer Technology and Algorithms II and Informatics for Economists II)"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday13.00-14.50Q15B-EAMAJ. TurčínekLectureEvery week23Monday15.00-16.50Q04B-EAMAJ. TurčínekSeminarEvery week23"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday7.00-9.50Q47J. TurčínekSeminarEvery week12Monday10.00-12.50Q47J. TurčínekSeminarEvery week12Thursday10.00-12.50Q47J. TurčínekSeminarEvery week12Friday8.00-10.50Q16J. TurčínekLectureEvery week80"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The subject develops competencies in applications of selected information technologies in business practice. Students will acquire the principles and approaches of properly structured algorithmic thinking, especially in the context of mass data processing tasks and economic calculations, acquire the ability to analyze and describe business processes, acquire the ability to work with enterprise data, acquire the ability to ask questions in a relational database system (SQL), acquire basic the ability to use the Python scripting language, they will acquire the ability to process text data."
+      "content": "The course develops competencies in the applications of selected information technologies in business practice. Students will understand the basic principles of web technologies, they will gain knowledge and practical skills for working with the most commonly used file formats. They will also acquire the principles and approaches of properly structured algorithmic thinking, especially in the context of tasks of mass data processing and economic calculations, they will be able to create macros in the MS Excel spreadsheet and ask queries in a relational database system."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Principles of data storage (allowance 4/4) a.Internal representation of data in computerb.Information, data, knowledge, skills2.Database systems (allowance 8/8) a.Types of database systemsb.Relational database modelc.Storing relationships in a relational databased.SQL3.Introduction to algorithmization (allowance 8/8) a.Algorithm and its propertiesb.Basic algorithmic constructionsc.Flowcharts4.Algorithmization of mass data processing (allowance 8/8) a.Creating algorithms in PYTHON languageb.Functions and methodsc.Conditions and cycles, basic algorithmsd.Algorithms over structured datae.Processing large volumes of data"
+      "content": "1.Internet technologies (allowance 3/9) a.Basic principles and Internet servicesb.WWW technology, HTML and CSS languagesc.Web templates and CMSd.Advanced Internet search2.Principles of data storage (allowance 9/3) a.Internal representation of data in computerb.Data formats and file formatsc.Compression, archiving and backup3.Introduction to algorithmization (allowance 6/6) a.Algorithm and its propertiesb.Basic algorithmic constructionsc.Flowcharts4.Algorithmization of mass data processing (allowance 15/15) a.Creating algorithms in VBA languageb.Macros, procedures and functionsc.Conditions and cycles, basic algorithmsd.Algorithms over array and matrix, sortinge.Structured data processing5.Database systems (allowance 9/9) a.Types of database systemsb.Relational database modelc.Storing relationships in a relational databased.SQL and its use"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Internal representation of data in computerb.Information, data, knowledge, skills"
+      "content": "a.Basic principles and Internet servicesb.WWW technology, HTML and CSS languagesc.Web templates and CMSd.Advanced Internet search"
     },
     {
-      "label": "[section] Principles of data storage",
-      "content": "a.Internal representation of data in computerb.Information, data, knowledge, skills"
+      "label": "[section] Internet technologies",
+      "content": "a.Basic principles and Internet servicesb.WWW technology, HTML and CSS languagesc.Web templates and CMSd.Advanced Internet search"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Types of database systemsb.Relational database modelc.Storing relationships in a relational databased.SQL"
+      "content": "a.Internal representation of data in computerb.Data formats and file formatsc.Compression, archiving and backup"
     },
     {
-      "label": "[section] Database systems",
-      "content": "a.Types of database systemsb.Relational database modelc.Storing relationships in a relational databased.SQL"
+      "label": "[section] Principles of data storage",
+      "content": "a.Internal representation of data in computerb.Data formats and file formatsc.Compression, archiving and backup"
     },
     {
       "label": "[section] 3.",
@@ -593,23 +613,31 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.Creating algorithms in PYTHON languageb.Functions and methodsc.Conditions and cycles, basic algorithmsd.Algorithms over structured datae.Processing large volumes of data"
+      "content": "a.Creating algorithms in VBA languageb.Macros, procedures and functionsc.Conditions and cycles, basic algorithmsd.Algorithms over array and matrix, sortinge.Structured data processing"
     },
     {
       "label": "[section] Algorithmization of mass data processing",
-      "content": "a.Creating algorithms in PYTHON languageb.Functions and methodsc.Conditions and cycles, basic algorithmsd.Algorithms over structured datae.Processing large volumes of data"
+      "content": "a.Creating algorithms in VBA languageb.Macros, procedures and functionsc.Conditions and cycles, basic algorithmsd.Algorithms over array and matrix, sortinge.Structured data processing"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Types of database systemsb.Relational database modelc.Storing relationships in a relational databased.SQL and its use"
+    },
+    {
+      "label": "[section] Database systems",
+      "content": "a.Types of database systemsb.Relational database modelc.Storing relationships in a relational databased.SQL and its use"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam36 hpreparation for regular testing20 hTotal112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture42 hpractice42 hpreparation for exam8 hpreparation for regular testing20 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Students attend the exercise in which they are duly registered. Participation in classes is optional. The exam will be divided into two tests. The first test will deal with the issue of data processing using database systems. The maximum number of points obtained is 50. The test is planned until the 6th week. The second test will focus on the area of algorithmization. It will be possible to get 50 points for it. The second test is planned at the end of the teaching part of the semester. During the exam period, students will have the opportunity to resit individual tests. They therefore always have a regular and two correction dates for both tests. Students must score a minimum of 20 points in each part of the test. The overall rating is given by the sum of the points from both tests: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent behavior, the knowledge verification will be evaluated as unsuccessful and a disciplinary procedure will be initiated."
+      "content": "Students attend seminars in which they are properly enrolled. Attendance is compulsory. Replacement of the seminar is possible only with the same lecturer. Students pass two tests to demonstrate practical skills in applying the acquired knowledge in specific tasks. The first test covers the field of web technologies, principles of data storage and basic algorithm constructions, up to 30 points can be obtained. The second test covers the field of mass data processing in VBA language (in MS Excel) and SQL (in PostgreSQL), up to 50 points can be obtained. To get the credit it is necessary to get at least 40 points together. Each of the tests can be corrected once, the last obtained result is valid. The exam verifies the understanding of concepts and principles and the understanding of the context. It consists of an e-test in UIS, from which up to 20 points can be obtained, the minimum is not set. The final evaluation is given by the sum of the results from tests and the exam as follows: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent conduct, the verification of knowledge will be assessed as unsuccessful and disciplinary proceedings will be initiated."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceMid-term test(s)50 %Final test50 %Total100 %"
+      "content": "Requirement typeDaily attendanceMid-term test(s)80 %Final test20 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -625,13 +653,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-EAMA Economics and Management, full-time form, initial period WS 2023/2024Programme B-EAMA Economics and Management, full-time form, initial period SS 2023/2024"
+      "content": "Track SBVA Applications Development, full-time form, initial period WS 2019/2020Programme B-EAMA Economics and Management, full-time form, initial period SS 2020/2021Programme B-EAMA Economics and Management, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:37:31",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:49:57",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

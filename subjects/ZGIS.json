@@ -3,7 +3,7 @@
   "name": "Základy GIS",
   "nameCs": "Základy GIS",
   "nameEn": "Basics of GIS",
-  "predmetId": "157162",
+  "predmetId": "162032",
   "facultyId": 14,
   "aliases": [
     "RRGISR"
@@ -13,6 +13,73 @@
     "Ing. Tomáš Mašíček, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162032;lang=cz",
+      "totalPass": 29,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 6,
+            "D": 1,
+            "E": 0,
+            "F": 5,
+            "FN": 1
+          },
+          "pass": 8,
+          "fail": 6
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 6,
+            "C": 11,
+            "D": 2,
+            "E": 2,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 29,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 5,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 13,
+            "FN": 2
+          },
+          "pass": 17,
+          "fail": 15
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -321,5 +388,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

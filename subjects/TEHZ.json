@@ -3,7 +3,7 @@
   "name": "Trh a evidence hospodářských zvířat",
   "nameCs": "Trh a evidence hospodářských zvířat",
   "nameEn": "Market and Animal Record Keeping",
-  "predmetId": "158662",
+  "predmetId": "162017",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,45 @@
     "doc. Ing. Radek Filipčík, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162017;lang=cz",
+      "totalPass": 38,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 12,
+            "C": 9,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 38,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 15,
+            "B": 12,
+            "C": 9,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 38,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -246,5 +285,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

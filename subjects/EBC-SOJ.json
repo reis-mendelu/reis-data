@@ -3,16 +3,65 @@
   "name": "Seminář obchodního jednání",
   "nameCs": "Seminář obchodního jednání",
   "nameEn": "Business Negotiation Seminar",
-  "predmetId": "156556",
+  "predmetId": "159852",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
-    "JUDr. Ing. Jitka Matějková, Ph.D.",
+    "JUDr. Ing. Jitka Matějková",
     "Mgr. Ing. Jana Mikušová, Ph.D.",
-    "Mgr. Ondřej Klíma, Ph.D.",
+    "Mgr. Ondřej Klíma",
     "Mgr. Štěpán Konečný, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=159852;lang=cz",
+      "totalPass": 97,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 97,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 97,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 97,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 97,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -229,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,32 +3,71 @@
   "name": "Ochrana rostlin K",
   "nameCs": "Ochrana rostlin K",
   "nameEn": "Plant Protection K",
-  "predmetId": "157384",
+  "predmetId": "162814",
   "facultyId": 14,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162814;lang=cz",
+      "totalPass": 22,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 9,
+            "C": 7,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 9,
+            "C": 7,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=779;predmet=157384;lang=cz",
-      "totalPass": 24,
+      "totalPass": 25,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 6,
-            "B": 5,
+            "B": 6,
             "C": 8,
             "D": 5,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 24,
+          "pass": 25,
           "fail": 0
         },
         {
@@ -271,5 +310,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

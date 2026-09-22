@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Ing. Václav Adamec, Ph.D. (cvičící)Ing. Jakub Šácha, Ph.D. (garant, přednášející, zkoušející)Mgr. Kateřina Žáková, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "Ing. Jakub Šácha, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Kateřina Žáková, Ph.D. (cvičící, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -98,12 +98,16 @@
       "content": "Modelování sezónnosti"
     },
     {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
       "label": "Absolvování průběžného testu (testů)",
       "content": "40 %"
     },
     {
       "label": "Absolvování závěrečného testu",
-      "content": "60 %"
+      "content": "50 %"
     },
     {
       "label": "Celkem",
@@ -111,7 +115,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -127,7 +131,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -175,7 +179,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Ing. Václav Adamec, Ph.D. (cvičící)Ing. Jakub Šácha, Ph.D. (garant, přednášející, zkoušející)Mgr. Kateřina Žáková, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Jakub Šácha, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Kateřina Žáková, Ph.D. (cvičící, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -183,7 +187,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q36K. Žáková, V. AdamecCvičeníKaždý týden28Čtvrtek9.00-10.50Q03K. Žáková, J. ŠáchaPřednáškaKaždý týden28"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q22J. ŠáchaPřednáškaKaždý týden74Středa11.00-12.50Q37K. ŽákováCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -211,15 +215,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení14 hpříprava na zkoušku42 hpříprava na průběžné hodnocení10 hpříprava na průběžný test32 hCelkem112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška14 hcvičení14 hpříprava na zkoušku42 hpříprava na průběžné hodnocení10 hpříprava na průběžný test32 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Celkové hodnocení studenta se odvíjí od počtu bodů získaných během celého semestru a to následujícím způsobem: 1) Průběžný test (max. 40 bodů, minimální bodový zisk 25 bodů): řádný termín testu je rozdělen na dvě části v průběhu semestru. Student má možnost využít jedné souhrnné opravy, při jejím úspěšném abslovování student získá jen minimálních 25 bodů. Termíny budou upřesněny vždy nejpozději první týden semestru. 2) Zkoušková písemná práce (max. 60 bodů, minimální bodový zisk pro e-test je 8 b): Písemná práce se píše ve zkouškovém období formou kombinace e-testu (20 bodů) a praktických úkolů s využitím software (40 bodů)."
+      "content": "Celkové hodnocení studenta se odvíjí od počtu bodů získaných během celého semestru a to následujícím způsobem: 1) Aktivita ve cvičení (max. 10 bodů, minimální bodový zisk není požadován): předpokládají se základní znalosti z dříve probrané látky na přednáškách či cvičeních, které mohou být ověřovány v písemné formě od 2. týdne semestru. Opravné možnosti nejsou možné, stejně tak náhrady z důvodu absence. 2) Průběžný test (max. 40 bodů, minimální bodový zisk 25 bodů): řádný termín testu se píše v průběhu semestru. Student má možnost využít jedné souhrnné opravy, při jejím úspěšném abslovování student získá jen minimálních 25 bodů. Termíny budou upřesněny vždy nejpozději první týden semestru. 3) Zkoušková písemná práce (max. 50 bodů, minimální bodový zisk není stanoven): Písemná práce se píše ve zkouškovém období formou kombinace e-testu a papírové písemky, která zahrnuje zahrnuje teoretickou i praktickou část předmětu."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)40 %Absolvování závěrečného testu60 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Absolvování průběžného testu (testů)40 %Absolvování závěrečného testu50 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -231,7 +235,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace EBMCR Management cestovního ruchu, prezenční forma, počáteční období ZS 2022/2023Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -253,7 +257,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -297,11 +301,15 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Ing. Václav Adamec, Ph.D. (instructor)Ing. Jakub Šácha, Ph.D. (examiner, lecturer, supervisor)Mgr. Kateřina Žáková, Ph.D. (examiner, instructor, lecturer)"
+      "content": "Ing. Jakub Šácha, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Kateřina Žáková, Ph.D. (examiner, instructor)"
     },
     {
       "label": "Prerequisites:",
       "content": "Applied Statistics and not Final Bachelor Exam"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
     },
     {
       "label": "Mid-term test(s)",
@@ -309,7 +317,7 @@
     },
     {
       "label": "Final test",
-      "content": "60 %"
+      "content": "50 %"
     },
     {
       "label": "Total",
@@ -317,7 +325,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -333,7 +341,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -381,7 +389,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Ing. Václav Adamec, Ph.D. (instructor)Ing. Jakub Šácha, Ph.D. (examiner, lecturer, supervisor)Mgr. Kateřina Žáková, Ph.D. (examiner, instructor, lecturer)"
+      "content": "Teachers: Ing. Jakub Šácha, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Kateřina Žáková, Ph.D. (examiner, instructor)"
     },
     {
       "label": "[section] Teachers:",
@@ -389,7 +397,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday13.00-14.50Q36K. Žáková, V. AdamecSeminarEvery week28Thursday9.00-10.50Q03K. Žáková, J. ŠáchaLectureEvery week28"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50Q22J. ŠáchaLectureEvery week74Wednesday11.00-12.50Q37K. ŽákováSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -401,15 +409,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice14 hpreparation for exam42 hpreparation for regular assessment10 hpreparation for regular testing32 hTotal112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture14 hpractice14 hpreparation for exam42 hpreparation for regular assessment10 hpreparation for regular testing32 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Midterm test (max. 40 points, minimum score 25 points): the regular term of the test is divided into two parts which are written during the semester. The student has the opportunity to use one overall corrective term, if it is successfully completed, the student will receive only a minimum of 25 points. 2) Written exam (max. 60 points, minimum score 8 points for e-test): it is written during the exam period in the form of a combination of e-test (20 points) and practical tasks using software (40 points)."
+      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Activity in seminars (max. 10 points, minimum point gain is not required): basic knowledge from the lecture is assumed, the student is may be assessed in the paper-based from the 2nd week of the semestr. Resits are not possible, as well as compensation due to absence. 2) Midterm test (max. 40 points, minimum score 25 points): regular term of the test is written during the semester. The student has the opportunity to use one corrective term, if it is successfully completed, the student will receive only a minimum of 25 points. 3) Written exam (max. 70 points, minimum score is not specified): it is written during the exam period in the form of a combination of e-test and paper test both the theoretical and practical parts of the subject."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceMid-term test(s)40 %Final test60 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Mid-term test(s)40 %Final test50 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -421,13 +429,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track EBMCR Tourism Management, full-time form, initial period WS 2022/2023Programme B-FS Financial Services, full-time form, initial period WS 2023/2024"
+      "content": "Programme B-FS Financial Services, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:45:51",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:00:41",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

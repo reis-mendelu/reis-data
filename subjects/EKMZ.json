@@ -3,7 +3,7 @@
   "name": "Ekonomika životního prostředí",
   "nameCs": "Ekonomika životního prostředí",
   "nameEn": "Environmental Economics",
-  "predmetId": "156884",
+  "predmetId": "161904",
   "facultyId": 38,
   "aliases": [
     "EZPR"
@@ -13,12 +13,65 @@
   ],
   "stats": [
     {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161904;lang=cz",
+      "totalPass": 26,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 5,
+            "C": 8,
+            "D": 7,
+            "E": 4,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 4,
+            "C": 8,
+            "D": 7,
+            "E": 4,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 25,
+          "fail": 2
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156884;lang=cz",
-      "totalPass": 28,
+      "totalPass": 29,
       "totalFail": 1,
       "terms": [
         {
@@ -42,11 +95,11 @@
             "B": 9,
             "C": 6,
             "D": 3,
-            "E": 1,
+            "E": 2,
             "F": 1,
             "FN": 0
           },
-          "pass": 28,
+          "pass": 29,
           "fail": 1
         },
         {
@@ -186,5 +239,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

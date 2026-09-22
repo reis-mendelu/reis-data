@@ -3,11 +3,50 @@
   "name": "Optimalizace procesů hydrotermické úpravy dřeva",
   "nameCs": "Optimalizace procesů hydrotermické úpravy dřeva",
   "nameEn": "Optimization of Hydrothermal Wood Treatment Processes",
-  "predmetId": "156863",
+  "predmetId": "161887",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161887;lang=cz",
+      "totalPass": 7,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 7,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 7,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -204,5 +243,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

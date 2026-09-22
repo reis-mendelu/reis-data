@@ -3,7 +3,7 @@
   "name": "Lesnictví a funkce lesa",
   "nameCs": "Lesnictví a funkce lesa",
   "nameEn": "Forestry and forest functions",
-  "predmetId": "157319",
+  "predmetId": "162890",
   "facultyId": 14,
   "aliases": [
     "LSFL"
@@ -14,6 +14,59 @@
     "doc. Ing. Robert Knott, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162890;lang=cz",
+      "totalPass": 34,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 9,
+            "C": 12,
+            "D": 5,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 9,
+            "C": 10,
+            "D": 3,
+            "E": 2,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -372,5 +425,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

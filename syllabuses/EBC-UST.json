@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -35,7 +35,7 @@
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "normální, konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "RNDr. Jaromír Běláček, CSc. (cvičící)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Jakub Šácha, Ph.D. (přednášející)Ing. Terézia Vančová, Ph.D. (zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící)"
+      "content": "doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Michaela Staňková, Ph.D. (cvičící, přednášející)Ing. Jakub Šácha, Ph.D. (cvičící)"
     },
     {
       "label": "Prerekvizity:",
@@ -142,8 +142,16 @@
       "content": "neparametrické testy"
     },
     {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "5 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "10 %"
+    },
+    {
       "label": "Absolvování průběžného testu (testů)",
-      "content": "45 %"
+      "content": "30 %"
     },
     {
       "label": "Absolvování závěrečného testu",
@@ -159,7 +167,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, ZS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -175,7 +183,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -199,7 +207,7 @@
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: normální, konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -223,7 +231,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: RNDr. Jaromír Běláček, CSc. (cvičící)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Jakub Šácha, Ph.D. (přednášející)Ing. Terézia Vančová, Ph.D. (zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící)"
+      "content": "Vyučující: doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Michaela Staňková, Ph.D. (cvičící, přednášející)Ing. Jakub Šácha, Ph.D. (cvičící)"
     },
     {
       "label": "[section] Vyučující:",
@@ -231,7 +239,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q03V. Blašková, J. ŠáchaPřednáškaKaždý týden200Pondělí13.00-14.50Q37J. BěláčekCvičeníKaždý týden22Pondělí15.00-16.50Q37J. BěláčekCvičeníKaždý týden22Úterý13.00-14.50Q37L. ViskotováCvičeníKaždý týden22Úterý15.00-16.50Q37L. ViskotováCvičeníKaždý týden22Čtvrtek7.00-8.50Q36L. ViskotováCvičeníKaždý týden22Čtvrtek9.00-10.50Q36L. ViskotováCvičeníKaždý týden22Čtvrtek13.00-14.50Q37L. ViskotováCvičeníKaždý týden22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q03V. BlaškováPřednáškaKaždý týden170Pondělí13.00-14.50Q36V. Blašková, M. StaňkováCvičeníKaždý týden26Středa9.00-10.50Q37M. Staňková, J. ŠáchaCvičeníKaždý týden26Čtvrtek13.00-14.50Q37M. StaňkováCvičeníKaždý týden26"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -275,15 +283,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku62 hpříprava na průběžné hodnocení15 hpříprava na průběžný test35 hCelkem168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku62 hpříprava na průběžné hodnocení15 hpříprava na průběžný test25 hzpracování projektů10 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "V průběhu semestru mohou studenti získat body do průběžného hodnocení za: 1) Zápočtový test (2 pokusy). Zápočtový test je rozdělený na dvě části. Maximum je 45 bodů, minimum pro splnění je u každé části 50 % bodů. 2) Bonusové body -- lze získat až 5 bonusových bodů ve cvičeních – hodnotí se pouze ve svém cvičení a náhrady v jiném cvičení nejsou možné. Malý zápočet získají studenti pokud splnili 50 % bodů v zápočtových testech. Studenti, kteří mají malý zápočet mohou absolvovat závěrečnou zkoušku. Závěrečná zkouška se skládá z e-testu, který zahrnuje teoretickou i praktickou část předmětu a ústní zkoušky, kde bude ověřeno pochopení problematiky předmětu. Ústní zkouška je povinná. Při neúspěšném absolvování ústní zkoušky student opakuje i e-test. V e-testu lze získat maximálně 45 bodů (minimum je stanoveno na 45 %) a ústní zkouška má maximum 10 bodů a minimum je stanoveno na 5. Výsledné hodnocení předmětu je tak dáno součtem získaných bodů a to následovně: [90 – 100] bodů = A [83 – 90) bodů = B [75 – 83) bodů = C [68 – 75) bodů = D [60 – 68) bodů = E [0 – 60) bodů = F Během všech testů mohou studenti použít psací pomůcky, oficiální vzorcový list, kalkulačku. Pro identifikaci studenta je nutné předložit kartu studenta. Jakékoli opisování, zaznamenávání nebo vynášení průběžných testů či zkouškových písemek, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky či průběžných testů bude považováno za nesplnění podmínek k ukončení předmětu a za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením F a zahájí disciplinární řízení se studentem, jehož výsledkem může být až ukončení studia."
+      "content": "V průběhu semestru mohou studenti získat body za: 1. Aktivní účast na cvičeních – hodnotí se pouze ve svém cvičení a náhrady v jiném cvičení nejsou možné (maximum je 5 bodů, minimum není stanoveno). 2. Individuální praktický úkol (maximum je 10 bodů, minimum není stanoveno) - je možné vypracovat pouze ve svém řádně zapsaném cvičení. 3. Zápočtový test (2 pokusy) - řádný termín testu je v průběhu semestru, opravný termín se píše v zápočtovém týdnu. Maximum bodů je 30 (minimum je stanoveno na 15). Pro získání malého zápočtu je nutné splnit 20 bodů z průběžného hodnocení. Studenti, kteří mají malý zápočet mohou absolvovat závěrečnou zkoušku. Závěrečná zkouška se skládá z e-testu, který zahrnuje teoretickou i praktickou část předmětu a ústní zkoušky, kde bude ověřeno pochopení problematiky předmětu. Ústní zkouška je povinná. Při neúspěšném absolvování ústní zkoušky student opakuje i e-test. V e-testu lze získat maximálně 45 bodů (minimum není stanoveno) a ústní zkouška má maximum 10 bodů a minimum je stanoveno na 5. Výsledné hodnocení předmětu je tak dáno součtem získaných bodů a to následovně: [90 – 100] bodů = A [83 – 90) bodů = B [75 – 83) bodů = C [68 – 75) bodů = D [60 – 68) bodů = E [0 – 60) bodů = F Během všech testů mohou studenti použít psací pomůcky, oficiální vzorcový list, kalkulačku. Pro identifikaci studenta je nutné předložit kartu studenta. Jakékoli opisování, zaznamenávání nebo vynášení průběžných testů či zkouškových písemek, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky či průběžných testů bude považováno za nesplnění podmínek k ukončení předmětu a za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením F a zahájí disciplinární řízení se studentem, jehož výsledkem může být až ukončení studia."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)45 %Absolvování závěrečného testu45 %Absolvování závěrečné ústní zkoušky10 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích5 %Vypracování semestrální práce10 %Absolvování průběžného testu (testů)30 %Absolvování závěrečného testu45 %Absolvování závěrečné ústní zkoušky10 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -295,7 +303,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2024/2025Program B-MOS Management obchodu a služeb, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2020/2021Program B-MOS Management obchodu a služeb, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -317,7 +325,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -337,7 +345,7 @@
     },
     {
       "label": "Type of delivery:",
-      "content": "usual, consulting"
+      "content": "usual"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
@@ -361,7 +369,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "RNDr. Jaromír Běláček, CSc. (instructor)doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Jakub Šácha, Ph.D. (lecturer)Ing. Terézia Vančová, Ph.D. (examiner)RNDr. Lenka Viskotová, Ph.D. (instructor)"
+      "content": "doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Michaela Staňková, Ph.D. (instructor, lecturer)Ing. Jakub Šácha, Ph.D. (instructor)"
     },
     {
       "label": "Prerequisites:",
@@ -436,8 +444,16 @@
       "content": "non-parametric testing"
     },
     {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "5 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "10 %"
+    },
+    {
       "label": "Mid-term test(s)",
-      "content": "45 %"
+      "content": "30 %"
     },
     {
       "label": "Final test",
@@ -453,7 +469,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, WS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -469,7 +485,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -493,7 +509,7 @@
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: usual, consulting"
+      "content": "Type of delivery: usual"
     },
     {
       "label": "[section] Type of delivery:",
@@ -517,7 +533,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: RNDr. Jaromír Běláček, CSc. (instructor)doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Jakub Šácha, Ph.D. (lecturer)Ing. Terézia Vančová, Ph.D. (examiner)RNDr. Lenka Viskotová, Ph.D. (instructor)"
+      "content": "Teachers: doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Michaela Staňková, Ph.D. (instructor, lecturer)Ing. Jakub Šácha, Ph.D. (instructor)"
     },
     {
       "label": "[section] Teachers:",
@@ -525,7 +541,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50Q03V. Blašková, J. ŠáchaLectureEvery week200Monday13.00-14.50Q37J. BěláčekSeminarEvery week22Monday15.00-16.50Q37J. BěláčekSeminarEvery week22Tuesday13.00-14.50Q37L. ViskotováSeminarEvery week22Tuesday15.00-16.50Q37L. ViskotováSeminarEvery week22Thursday7.00-8.50Q36L. ViskotováSeminarEvery week22Thursday9.00-10.50Q36L. ViskotováSeminarEvery week22Thursday13.00-14.50Q37L. ViskotováSeminarEvery week22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50Q03V. BlaškováLectureEvery week170Monday13.00-14.50Q36V. Blašková, M. StaňkováSeminarEvery week26Wednesday9.00-10.50Q37M. Staňková, J. ŠáchaSeminarEvery week26Thursday13.00-14.50Q37M. StaňkováSeminarEvery week26"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -569,15 +585,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam62 hpreparation for regular assessment15 hpreparation for regular testing35 hTotal168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam62 hpreparation for regular assessment15 hpreparation for regular testing25 helaboration and execution of projects10 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "During the semester, students can earn points for: 1) Two tests (2 attempts). The maximum is 45 points (minimum for fulfillment is 50 % points). 2) In addition, you can get up to 5 bonus points in the exercises during the semester - they are evaluated only in their seminary and substitutions are not possible. Students will receive a small credit if they get at least 50 % for tests points. Students with a small credit can pass the final exam. The final test consists of an e-test that includes both the theoretical and practical parts of the subject, followed by an oral test, where the understanding of the subject matter will be verified. The oral exam is mandatory and in the case of basic ignorance is automatically rated F. In a failed oral exam, the student also repeats the e-test. A maximum of 45 points can be obtained in the e-test (minimum is 45 %) and the oral exam has a maximum of 10 points and the minimum is set at 5. The result of continuous monitoring of study obligations is after successful completion of the final written exam taken into account in completing the course. The final evaluation of the course is given by the sum of points obtained as follows: [90 – 100] points = A [83 – 90) points = B [75 – 83) points = C [68 – 75) points = D [60 – 68) points = E [0 – 60) points = F Students will bring writing accessories and the student card for written work. Students can use calculator and official formulas. Any copying, recording or excerpt of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by F and teacher initiate disciplinary proceedings, which may result in termination of studies."
+      "content": "During the semester, students can earn points for: 1. Active participation in the seminary - they are evaluated only in their seminary and substitutions are not possible (maximum is 5 points, minimum is not set). 2. Individual practical project (maximum is 10 points, minimum is not set). 3. Compliance with the continuos test. The maximum points is 30 (minimum of 15 points). To obtain a small credit, it is necessary to meet 20 points from the continuous evaluation. Students with a small credit can pass the final exam. The final test consists of an e-test that includes both the theoretical and practical parts of the subject, followed by an oral test, where the understanding of the subject matter will be verified. The oral exam is mandatory and in the case of basic ignorance is automatically rated F. In a failed oral exam, the student also repeats the e-test. A maximum of 45 points can be obtained in the e-test (minimum is not specified) and the oral exam has a maximum of 10 points and the minimum is set at 5. The result of continuous monitoring of study obligations is after successful completion of the final written exam taken into account in completing the course. The final evaluation of the course is given by the sum of points obtained as follows: [90 – 100] points = A [83 – 90) points = B [75 – 83) points = C [68 – 75) points = D [60 – 68) points = E [0 – 60) points = F Students will bring writing accessories and the student card for written work. Students can use calculator and official formulas. Any copying, recording or excerpt of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by F and teacher initiate disciplinary proceedings, which may result in termination of studies."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceMid-term test(s)45 %Final test45 %Final oral exam10 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation5 %Term paper10 %Mid-term test(s)30 %Final test45 %Final oral exam10 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -589,13 +605,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-FS Financial Services, full-time form, initial period WS 2024/2025Programme B-MOS Trade and Services Management, full-time form, initial period WS 2024/2025"
+      "content": "Programme B-FS Financial Services, full-time form, initial period WS 2020/2021Programme B-MOS Trade and Services Management, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:46:17",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:01:22",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

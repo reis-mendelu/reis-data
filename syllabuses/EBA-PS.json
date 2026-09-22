@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2022/2023"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Jiří Balej, Ph.D. (garant)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, zkoušející)"
+      "content": "Ing. Jiří Balej, Ph.D. (garant)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -287,7 +287,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2024/2025, ZS 2022/2023 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, LS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -303,7 +303,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2022/2023"
     },
     {
       "label": "[section] Semestr:",
@@ -311,11 +311,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (6 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -351,7 +351,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (garant)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (garant)doc. RNDr. Tomáš Sochor, CSc. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -359,7 +359,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek13.00-14.50Q01.48Z-EXCT. SochorCvičeníLichý týden12"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek15.00-16.50Q-LCNAT. SochorPřednáškaKaždý týden12Čtvrtek17.00-18.50Q-LCNAT. SochorCvičeníKaždý týden12"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -459,7 +459,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku42 hpříprava na průběžný test42 hzpracování protokolů28 hCelkem168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku42 hpříprava na průběžný test42 hzpracování protokolů28 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -505,7 +505,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2022/2023"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -513,7 +513,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -549,7 +549,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Jiří Balej, Ph.D. (supervisor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer)"
+      "content": "Ing. Jiří Balej, Ph.D. (supervisor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "Prerequisites:",
@@ -777,7 +777,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2024/2025, WS 2022/2023 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, SS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -793,7 +793,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2022/2023"
     },
     {
       "label": "[section] Semester:",
@@ -801,11 +801,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (6 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -841,7 +841,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Jiří Balej, Ph.D. (supervisor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer)"
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (supervisor)doc. RNDr. Tomáš Sochor, CSc. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "[section] Teachers:",
@@ -849,7 +849,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday13.00-14.50Q01.48Z-EXCT. SochorSeminarOdd week12"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday15.00-16.50Q-LCNAT. SochorLectureEvery week12Thursday17.00-18.50Q-LCNAT. SochorSeminarEvery week12"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -949,7 +949,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam42 hpreparation for regular testing42 helaboration of reports28 hTotal168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam42 hpreparation for regular testing42 helaboration of reports28 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -980,6 +980,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:37:26",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:49:53",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

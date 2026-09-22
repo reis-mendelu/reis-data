@@ -3,13 +3,66 @@
   "name": "Podniková ekonomika (FT)",
   "nameCs": "Podniková ekonomika (FT)",
   "nameEn": "Business Economics (FT)",
-  "predmetId": "157387",
+  "predmetId": "162233",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
     "Ing. Eliška Svobodová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162233;lang=cz",
+      "totalPass": 14,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 2,
+            "D": 6,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 2,
+            "D": 3,
+            "E": 3,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 3
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -103,5 +156,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

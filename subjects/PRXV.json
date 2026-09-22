@@ -1,20 +1,20 @@
 {
   "courseCode": "PRXV",
-  "name": "Praxe volitelná provozní",
+  "name": "Odborná praxe - VaV",
   "nameCs": "Praxe volitelná provozní",
   "nameEn": "Practical Training",
-  "predmetId": "159700",
-  "facultyId": 38,
+  "predmetId": "162049",
+  "facultyId": 60,
   "aliases": [],
   "teachers": [],
   "stats": [
     {
-      "semesterName": "ZS 2025/2026 - LDF",
-      "semesterId": "796",
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
       "year": 2025,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159700;lang=cz",
-      "totalPass": 19,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=162049;lang=cz",
+      "totalPass": 16,
       "totalFail": 0,
       "terms": [
         {
@@ -28,10 +28,59 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 19,
+          "pass": 16,
           "fail": 0,
           "creditGrades": {
-            "zap": 19,
+            "zap": 16,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 16,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 16,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2025/2026 - LDF",
+      "semesterId": "796",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159700;lang=cz",
+      "totalPass": 14,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 14,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -578,5 +627,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

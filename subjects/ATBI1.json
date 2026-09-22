@@ -2,13 +2,23 @@
   "courseCode": "ATBI1",
   "name": "Ateliér biotechniky I",
   "nameCs": "Ateliér biotechniky I",
-  "nameEn": "Design Studio I",
+  "nameEn": "Project Studio of Planting Design I",
   "predmetId": "159210",
   "facultyId": 60,
   "aliases": [
     "ATB"
   ],
   "teachers": [
+    "Bc. Ing. et Ing. Lenka Miksová, Ph.D.",
+    "Ing. Barbora Dohnalová, Ph.D.",
+    "Ing. Daniel Matějka, Ph.D.",
+    "Ing. Darek Lacina, Ph.D.",
+    "Ing. Jozef Sedláček, Ph.D.",
+    "Ing. Kristýna Kříčková",
+    "Ing. Pavel Borusík, Ph.D.",
+    "Ing. Radim Klepárník, Ph.D.",
+    "Ing. arch. Johana Kratochvilová",
+    "doc. Ing. Lukáš Štefl, Ph.D.",
     "doc. Ing. Petr Kučera, Ph.D."
   ],
   "stats": [
@@ -19,7 +29,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=794;predmet=159210;lang=cz",
       "totalPass": 30,
-      "totalFail": 5,
+      "totalFail": 6,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -29,11 +39,11 @@
             "C": 8,
             "D": 3,
             "E": 0,
-            "F": 5,
+            "F": 6,
             "FN": 0
           },
           "pass": 30,
-          "fail": 5
+          "fail": 6
         },
         {
           "term": "Řádný termín",
@@ -222,5 +232,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

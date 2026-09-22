@@ -15,7 +15,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=160302;lang=cz",
       "totalPass": 77,
-      "totalFail": 70,
+      "totalFail": 71,
       "terms": [
         {
           "term": "1. opravný",
@@ -67,10 +67,10 @@
             "FN": 0
           },
           "pass": 77,
-          "fail": 70,
+          "fail": 71,
           "creditGrades": {
             "zap": 77,
-            "nezap": 64,
+            "nezap": 65,
             "zapNedost": 6
           }
         },
@@ -102,7 +102,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=154688;lang=cz",
       "totalPass": 107,
-      "totalFail": 84,
+      "totalFail": 85,
       "terms": [
         {
           "term": "1. opravný",
@@ -154,10 +154,10 @@
             "FN": 0
           },
           "pass": 107,
-          "fail": 84,
+          "fail": 85,
           "creditGrades": {
             "zap": 107,
-            "nezap": 76,
+            "nezap": 77,
             "zapNedost": 8
           }
         },
@@ -189,7 +189,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=146874;lang=cz",
       "totalPass": 221,
-      "totalFail": 131,
+      "totalFail": 133,
       "terms": [
         {
           "term": "1. opravný",
@@ -241,10 +241,10 @@
             "FN": 0
           },
           "pass": 221,
-          "fail": 131,
+          "fail": 133,
           "creditGrades": {
             "zap": 221,
-            "nezap": 95,
+            "nezap": 97,
             "zapNedost": 36
           }
         },
@@ -363,7 +363,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=138508;lang=cz",
       "totalPass": 139,
-      "totalFail": 114,
+      "totalFail": 115,
       "terms": [
         {
           "term": "1. opravný",
@@ -415,10 +415,10 @@
             "FN": 0
           },
           "pass": 139,
-          "fail": 114,
+          "fail": 115,
           "creditGrades": {
             "zap": 139,
-            "nezap": 94,
+            "nezap": 95,
             "zapNedost": 20
           }
         },
@@ -444,5 +444,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

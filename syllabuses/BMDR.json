@@ -179,7 +179,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027 (a starší)"
+      "content": "(a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -251,7 +251,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaÚterý13.00-14.50B51N-TBD 112P. Horáček, B. VojáčkováPřednáškaKaždý týden20Úterý15.00-16.50B51N-TBD 112P. Horáček, B. VojáčkováCvičeníKaždý týden20"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -359,7 +359,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení18 hpráce v terénu4 hkonzultace2 hworkshop2 hzpracování seminární práce20 hCelkem70 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumpřednáška24 hcvičení18 hpráce v terénu4 hkonzultace2 hworkshop2 hzpracování seminární práce20 hCelkem70 h"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -367,11 +367,11 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 s. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav a kol. 2010. Péče o dřeviny rostoucí mimo les. 3. vyd. Vlašim: ČSOP, 696 s. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 s. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 s. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 s. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 s. ISBN 978-0-226-58632-8."
+      "content": "Základní:HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 s. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav a kol. 2010. Péče o dřeviny rostoucí mimo les. 3. vyd. Vlašim: ČSOP, 696 s. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 s. Research for amenity trees ;. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 s. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 s. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 s. ISBN 978-0-226-58632-8."
     },
     {
       "label": "[section] Základní:",
-      "content": "HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 s. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav a kol. 2010. Péče o dřeviny rostoucí mimo les. 3. vyd. Vlašim: ČSOP, 696 s. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 s. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 s. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 s. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 s. ISBN 978-0-226-58632-8."
+      "content": "HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 s. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav a kol. 2010. Péče o dřeviny rostoucí mimo les. 3. vyd. Vlašim: ČSOP, 696 s. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 s. Research for amenity trees ;. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 s. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 s. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 s. ISBN 978-0-226-58632-8."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
@@ -465,7 +465,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027 (and older)"
+      "content": "(and older)"
     },
     {
       "label": "Teaching place:",
@@ -537,7 +537,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50B51N-TBD 112P. Horáček, B. VojáčkováLectureEvery week20Tuesday15.00-16.50B51N-TBD 112P. Horáček, B. VojáčkováSeminarEvery week20"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -549,7 +549,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice18 hfield work4 hconsultation2 hworkshop2 hwriting of seminar paper20 hTotal70 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelecture24 hpractice18 hfield work4 hconsultation2 hworkshop2 hwriting of seminar paper20 hTotal70 h"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -557,11 +557,11 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 p. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav et al. 2010. Péče o dřeviny rostoucí mimo les. 3rd ed. Vlašim: ČSOP, 696 p. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 p. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 p. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 p. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 p. ISBN 978-0-226-58632-8."
+      "content": "Basic:HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 p. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav et al. 2010. Péče o dřeviny rostoucí mimo les. 3rd ed. Vlašim: ČSOP, 696 p. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 p. Research for amenity trees ;. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 p. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 p. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 p. ISBN 978-0-226-58632-8."
     },
     {
       "label": "[section] Basic:",
-      "content": "HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 p. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav et al. 2010. Péče o dřeviny rostoucí mimo les. 3rd ed. Vlašim: ČSOP, 696 p. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 p. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 p. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 p. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 p. ISBN 978-0-226-58632-8."
+      "content": "HORÁČEK, Petr. 2008. Fyzikální a mechanické vlastnosti dřeva I. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 124 p. ISBN 978-80-7375-169-2.KOLAŘÍK, Jaroslav et al. 2010. Péče o dřeviny rostoucí mimo les. 3rd ed. Vlašim: ČSOP, 696 p. Metodika Českého svazu ochránců přírody ;. ISBN 978-80-86327-85-3.KOLAŘÍK, Jaroslav; PRAUS, Luděk; BULÍŘ, Pavel; AMBROS, Antonín; JAŠKOVÁ, Věra; BORSKÝ, Jiří. 2019. Standardy péče o přírodu a krajinu AA02 004 Bezpečnostní vazby a ostatní stabilizační systémy. https://standardy.nature.cz/res/archive/417/068629.pdf?seek=1555316196.KOLAŘÍK, Jaroslav; PRAUS, Luděk; MIKITA, Tomáš; VOJÁČKOVÁ, Barbora; KRÁSA, Antonín; JANÍKOVÁ, Jana. 2018. Standardy péče o přírodu a krajinu A01 001 - Hodnocení stavu stromů. https://standardy.nature.cz/res/archive/414/068331.pdf?seek=1552472268.KOLAŘÍK, Jaroslav; MARTINEK, Petr; BULÍŘ, Pavel; HAUPT, Pavel; HOJNÝ, Luděk; HLINOMAZOVÁ, Ingrid. 2019. Standardy péče o přírodu a krajinu A02 009 - Speciální zásahy na stromech. https://standardy.nature.cz/res/archive/420/069037.pdf?seek=1558949818.MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 p. Research for amenity trees ;. ISBN 0-11-753067-0.MATTHECK, Claus. 1991. Trees: the mechanical design. Berlin: Springer-Verlag, 121 p. ISBN 3-540-54276-0.WESSOLLY, Lothar; ERB, Martin. 2016. Tree Statics and Tree Inspection. Berlin - Hannover: Patzer Verlag, 288 p. ISBN 978-3-87617-143-2.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 p. ISBN 978-0-226-58632-8."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
@@ -572,6 +572,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:19:22",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:28:57",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,17 +3,53 @@
   "name": "Voda v krajině a zahradě",
   "nameCs": "Voda v krajině a zahradě",
   "nameEn": "Water in the Landscape and Garden",
-  "predmetId": "157517",
+  "predmetId": "162311",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
-    "Bc. Ing. Jana Šimečková",
-    "Ing. Pavel Borusík, Ph.D.",
     "doc. JUDr. Ing. Radek Jurčík, Ph.D., MBA, LL.M.",
-    "prof. Ing. Blahoslav Maršálek, CSc.",
-    "prof. Ing. Pavel Šimek, Ph.D."
+    "prof. Ing. Blahoslav Maršálek, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162311;lang=cz",
+      "totalPass": 18,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 5,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 5,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -196,5 +232,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

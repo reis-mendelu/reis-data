@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2023/2024"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět je možné studovat během zahraniční mobility. Pro ukončení předmětu je na základě komunikace s garantem předmětu nutné připravit prezentaci o průběhu studia v zahraničí, zahrnující veškeré aspekty zahradnického výstavnictví v navštívené zemi."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -67,67 +67,71 @@
     },
     {
       "label": "1.",
-      "content": "Význam a historie výstavní tvorby. (dotace 2/0)"
+      "content": "Úvod do předmětu. (dotace 2/0)"
     },
     {
       "label": "2.",
-      "content": "Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)"
+      "content": "Význam a historie výstavní tvorby. (dotace 2/0)"
     },
     {
       "label": "3.",
-      "content": "Vývoj evropských a našich zahradnických výstav. (dotace 2/0)"
+      "content": "Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)"
     },
     {
       "label": "4.",
-      "content": "Areály zahradnických výstav a jejich členění. (dotace 2/0)"
+      "content": "Vývoj evropských a našich zahradnických výstav. (dotace 2/0)"
     },
     {
       "label": "5.",
-      "content": "Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)"
+      "content": "Areály zahradnických výstav a jejich členění. (dotace 2/0)"
     },
     {
       "label": "6.",
-      "content": "Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)"
+      "content": "Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)"
     },
     {
       "label": "7.",
-      "content": "Námět. (dotace 2/4)"
+      "content": "Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)"
     },
     {
       "label": "8.",
-      "content": "Libreto. (dotace 2/2)"
+      "content": "Námět. (dotace 2/4)"
     },
     {
       "label": "9.",
-      "content": "Scénář. (dotace 2/4)"
+      "content": "Libreto. (dotace 2/2)"
     },
     {
       "label": "10.",
-      "content": "Projekt. (dotace 2/8)"
+      "content": "Scénář. (dotace 2/4)"
     },
     {
       "label": "11.",
-      "content": "Realizace a likvidace expozic. (dotace 2/4)"
+      "content": "Projekt. (dotace 2/12)"
     },
     {
       "label": "12.",
+      "content": "Realizace a likvidace expozic. (dotace 2/2)"
+    },
+    {
+      "label": "13.",
       "content": "Propagace, PR a doprovodné aktivity. (dotace 2/0)"
     },
     {
+      "label": "14.",
+      "content": "Návštěva zahradnické výstavy. (dotace 2/2)"
+    },
+    {
       "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "20 %"
+      "content": "50 %"
     },
     {
       "label": "Vypracování semestrální práce",
-      "content": "40 %"
-    },
-    {
-      "label": "Prezentace nebo obhajoba",
       "content": "20 %"
     },
     {
       "label": "Absolvování závěrečné ústní zkoušky",
-      "content": "20 %"
+      "content": "30 %"
     },
     {
       "label": "Celkem",
@@ -135,7 +139,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -151,7 +155,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2023/2024"
     },
     {
       "label": "[section] Semestr:",
@@ -179,7 +183,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility. Pro ukončení předmětu je na základě komunikace s garantem předmětu nutné připravit prezentaci o průběhu studia v zahraničí, zahrnující veškeré aspekty zahradnického výstavnictví v navštívené zemi."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -207,131 +211,143 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa8.00-9.50ZFSK2 (Led)J. MartinekPřednáškaKaždý týden21Středa10.00-11.50ZFSK2 (Led)J. MartinekCvičeníKaždý týden21"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek8.00-9.50ZFD22 (Led)J. MartinekPřednáškaKaždý týden15Čtvrtek10.00-11.50ZFD22 (Led)J. MartinekCvičeníKaždý týden15"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Cílem předmětu je seznámit studenty s aktuálními trendy v prezentaci zahradnického oboru, zahrnujícími jak zahradnické produkty, tak zahradní umění. Předmět se zaměřuje na plánování a realizaci výstav v interiérech i exteriérech, včetně jejich propagace a organizace přidružených akcí. Tento předmět je klíčový pro rozvoj praktických dovedností studentů v oblasti prezentace a komunikace zahradnických témat. Po absolvování předmětu budou studenti schopni: 1) Identifikovat a aplikovat aktuální trendy v prezentaci zahradnických produktů a zahradního umění. 2) Navrhovat a realizovat tematické výstavy v různých typech prostorů. 3) Efektivně propagovat výstavy a organizovat přidružené akce. 4) Projít celým procesem tvorby výstavy, od plánování přes realizaci až po vyhodnocení a prezentaci výsledků v týmu/pracovní skupině."
+      "content": "Cílem předmětu je seznámit studenty s aktuálními trendy v prezentování zahradnického oboru veřejnosti, ať už se jedná o různorodé produkty zahradnické produkce či díla zahradního umění, a to především formou souborných nebo tematických výstav pořádaných v interiéru i exteriéru, včetně jejich propagace a tvorby přidružených akcí. V rámci přednášek a cvičení se studenti seznámí na modelových objektech s celým tvůrčím a realizačním procesem vybraných výstav."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Význam a historie výstavní tvorby. (dotace 2/0)2.Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)3.Vývoj evropských a našich zahradnických výstav. (dotace 2/0)4.Areály zahradnických výstav a jejich členění. (dotace 2/0)5.Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)6.Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)7.Námět. (dotace 2/4)8.Libreto. (dotace 2/2)9.Scénář. (dotace 2/4)10.Projekt. (dotace 2/8)11.Realizace a likvidace expozic. (dotace 2/4)12.Propagace, PR a doprovodné aktivity. (dotace 2/0)"
+      "content": "1.Úvod do předmětu. (dotace 2/0)2.Význam a historie výstavní tvorby. (dotace 2/0)3.Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)4.Vývoj evropských a našich zahradnických výstav. (dotace 2/0)5.Areály zahradnických výstav a jejich členění. (dotace 2/0)6.Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)7.Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)8.Námět. (dotace 2/4)9.Libreto. (dotace 2/2)10.Scénář. (dotace 2/4)11.Projekt. (dotace 2/12)12.Realizace a likvidace expozic. (dotace 2/2)13.Propagace, PR a doprovodné aktivity. (dotace 2/0)14.Návštěva zahradnické výstavy. (dotace 2/2)"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)"
+      "content": "2.Význam a historie výstavní tvorby. (dotace 2/0)"
     },
     {
-      "label": "[section] Význam a historie výstavní tvorby.",
-      "content": "2.Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)"
+      "label": "[section] Úvod do předmětu.",
+      "content": "2.Význam a historie výstavní tvorby. (dotace 2/0)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Vývoj evropských a našich zahradnických výstav. (dotace 2/0)"
+      "content": "3.Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)"
     },
     {
-      "label": "[section] Perspektivy a soudobé trendy výstavní tvorby.",
-      "content": "3.Vývoj evropských a našich zahradnických výstav. (dotace 2/0)"
+      "label": "[section] Význam a historie výstavní tvorby.",
+      "content": "3.Perspektivy a soudobé trendy výstavní tvorby. (dotace 2/0)"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Areály zahradnických výstav a jejich členění. (dotace 2/0)"
+      "content": "4.Vývoj evropských a našich zahradnických výstav. (dotace 2/0)"
     },
     {
-      "label": "[section] Vývoj evropských a našich zahradnických výstav.",
-      "content": "4.Areály zahradnických výstav a jejich členění. (dotace 2/0)"
+      "label": "[section] Perspektivy a soudobé trendy výstavní tvorby.",
+      "content": "4.Vývoj evropských a našich zahradnických výstav. (dotace 2/0)"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)"
+      "content": "5.Areály zahradnických výstav a jejich členění. (dotace 2/0)"
     },
     {
-      "label": "[section] Areály zahradnických výstav a jejich členění.",
-      "content": "5.Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)"
+      "label": "[section] Vývoj evropských a našich zahradnických výstav.",
+      "content": "5.Areály zahradnických výstav a jejich členění. (dotace 2/0)"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)"
+      "content": "6.Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)"
     },
     {
-      "label": "[section] Typy výstav a jejich třídění, výstaviště jako součást urbánního celku.",
-      "content": "6.Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)"
+      "label": "[section] Areály zahradnických výstav a jejich členění.",
+      "content": "6.Typy výstav a jejich třídění, výstaviště jako součást urbánního celku. (dotace 2/0)"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Námět. (dotace 2/4)"
+      "content": "7.Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)"
     },
     {
-      "label": "[section] Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění.",
-      "content": "7.Námět. (dotace 2/4)"
+      "label": "[section] Typy výstav a jejich třídění, výstaviště jako součást urbánního celku.",
+      "content": "7.Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění. (dotace 2/2)"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Libreto. (dotace 2/2)"
+      "content": "8.Námět. (dotace 2/4)"
     },
     {
-      "label": "[section] Námět.",
-      "content": "8.Libreto. (dotace 2/2)"
+      "label": "[section] Metodika tvorby výstav, kompozice v zahradnickém výstavnictví a jejich členění.",
+      "content": "8.Námět. (dotace 2/4)"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Scénář. (dotace 2/4)"
+      "content": "9.Libreto. (dotace 2/2)"
     },
     {
-      "label": "[section] Libreto.",
-      "content": "9.Scénář. (dotace 2/4)"
+      "label": "[section] Námět.",
+      "content": "9.Libreto. (dotace 2/2)"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Projekt. (dotace 2/8)"
+      "content": "10.Scénář. (dotace 2/4)"
     },
     {
-      "label": "[section] Scénář.",
-      "content": "10.Projekt. (dotace 2/8)"
+      "label": "[section] Libreto.",
+      "content": "10.Scénář. (dotace 2/4)"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Realizace a likvidace expozic. (dotace 2/4)"
+      "content": "11.Projekt. (dotace 2/12)"
     },
     {
-      "label": "[section] Projekt.",
-      "content": "11.Realizace a likvidace expozic. (dotace 2/4)"
+      "label": "[section] Scénář.",
+      "content": "11.Projekt. (dotace 2/12)"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Propagace, PR a doprovodné aktivity. (dotace 2/0)"
+      "content": "12.Realizace a likvidace expozic. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Projekt.",
+      "content": "12.Realizace a likvidace expozic. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Propagace, PR a doprovodné aktivity. (dotace 2/0)"
     },
     {
       "label": "[section] Realizace a likvidace expozic.",
-      "content": "12.Propagace, PR a doprovodné aktivity. (dotace 2/0)"
+      "content": "13.Propagace, PR a doprovodné aktivity. (dotace 2/0)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Návštěva zahradnické výstavy. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Propagace, PR a doprovodné aktivity.",
+      "content": "14.Návštěva zahradnické výstavy. (dotace 2/2)"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení24 hpráce v terénu17 hkonzultace10 hkolokvium8 hvýstava10 hpříprava na zkoušku30 hpříprava prezentace20 hzpracování projektů25 hCelkem168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení4 hpráce v terénu4 hkonzultace6 hprojektová práce12 hkolokvium2 hpříprava na zkoušku15 hpříprava na průběžné hodnocení5 hpříprava prezentace20 hzpracování projektů24 hzpracování seminární práce20 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Zápočet bude udělen na základě minimálně 80% účasti na přednáškách i cvičeních a vytvoření prezentace o zpracovávaném semestrálním projektu. Tato prezentace musí být ve stanoveném termínu představena všem studentům a následně vložena do systému UIS (odevzdávárna). Zkouška proběhne po udělení zápočtu ve zkouškovém období aktuálního semestru prezenční kolokviální formou (vždy v rozsahu vyučující a max. 5 studentů) a bude se skládat ze dvou částí – ověření praktických tvůrčích dovedností (vytvoření prezentace s libretem zadaného modelového objektu a její představení členům kolokvia) a teoretických znalostí studenta (zodpovězení individuální otázky vycházející z probraných témat zahradnického výstavnictví). Každá část kolokvia bude hodnocena maximálně 50 body. Hodnocení znalostí a dovedností bude probíhat podle klasifikační stupnice A až F: A = 100–90 bodů, B = 89,9–80 bodů, C = 79,9–70 bodů, D = 69,9–60 bodů, E = 59,9–51 bodů a F = 50,9 a méně. Pro úspěšné absolvování předmětu je nutné dosáhnout minimálně 51 bodů. Kolokviální zkouška bude probíhat v průběhu jednoho celého pracovního dne a musí být splněna v termínech vypsaných garantem předmětu dle harmonogramu příslušného akademického roku. Kromě řádného termínu jsou k vykonání zkoušky povoleny maximálně další dva opravné termíny."
+      "content": "Zápočet bude udělen za zpracovaný projekt, zkouška bude probíhat formou ústního pohovoru. Inovace předmětu Zahradnické výstavnictví byla financována z projektu OPVK Inovace studijních programů zahradnických oborů, reg. Č. CZ.1.07/2.2.00/28.0220"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích20 %Vypracování semestrální práce40 %Prezentace nebo obhajoba20 %Absolvování závěrečné ústní zkoušky20 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích50 %Vypracování semestrální práce20 %Absolvování závěrečné ústní zkoušky30 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:KREJČIŘÍK, Přemysl; KUŤKOVÁ, Tatiana; KŘESADLOVÁ, Lenka; LETÁ, Michaela; RABUŠIC, Bohuslav; TLUSTÝ, Jaromír; VAIDA, Pavel. 2022. Zaujatí rostlinami, aneb, Příběh rostlin: kritický katalog k výstavě, státní zámek Lednice 1.7.-30.9.2022. 1. vyd. Brno: Mendelova univerzita v Brně, 109 s. ISBN 978-80-7509-865-8.MARTINEK, Jiří; RABUŠIC, Bohuslav. 2021. Použití květinových aranžmá v historických interiérech. 1. vyd. Brno: Mendelova univerzita v Brně, 59 s. ISBN 978-80-7509-806-1.MARTINEK, Jiří; KREJČIŘÍK, Přemysl. 2021. Použití rostlin v historických interiérech. 1. vyd. V Brně: Mendelova univerzita, 64 s. ISBN 978-80-7509-829-0.NOVÁK, Zdeněk; ZÁMEČNÍK, Roman. 2017. Zahrada Evropy. Kritický katalog výstavy. 1. vyd. Praha: Národní zemědělské muzeum, s.p.o., 119 s. ISBN 978-80-86874-93-7. https://www.nzm.cz/veda-a-vyzkum/odborne-publikace/zahrada-evropy-kriticky-katalog-vystavy Jardins do conhecimento: 12. festival internacional de jardins = Gardens of knowledge : 12th international garden festival. 2016. Ponte de Lima: Município de Ponte de Lima, 135 s. ISBN 978-972-8846-56-5.HOLLENGREEN, Laura Holden; PEARCE, Celia. 2014. Meet me at the fair: a worlďs fair reader. Pittsburgh: ETC Press, 532 s. ISBN 978-1-312-11587-3.SOLBERG SØILEN, Klaus. 2013. Exhibit marketing and trade show intelligence: successful boothmanship and booth design. 1. vyd. Heidelberg: Springer, 150 s. Management for professionals. ISBN 978-3-642-43465-5.Doporučená:MARTINEK, Jiří; KŘÍČKOVÁ, Kristýna; KREJČIŘÍK, Přemysl; KŘESADLOVÁ, Lenka; KUŤKOVÁ, Tatiana; LETÁ, Michaela; RABUŠIC, Bohuslav; SPĚVÁKOVÁ, Eva; TLUSTÝ, Jaromír a VAIDA, Pavel. Zaujatí rostlinami aneb příběh rostlin. Lednice, Státní zámek Lednice: Mendelova univerzita v Brně, 1. 7. – 30. 9. 2022. Závěrečná výstava projektu. Lednice, 1. 7. 2022 - 30. 9. 2022. https://pribehrostlin.cz/OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 58 s. ISBN 80-7157-363-9.MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.MARTÍNEK, Jiří a NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 24. 5. 2014 - 30. 9. 2014. MARTINEK, Jiří a RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 19. 5. 2020 - 3. 7. 2020. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří a KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 4. 6. 2017 - 8. 10. 2017. TAUBER, Jiří; SVOBODA, Jaroslav a MARTINEK, Jiří. Výstava designu nábytku a květinových vazeb v Lednici. Lednice, 27. 6. 2019 - 1. 9. 2019. Great exhibitions. 2010. Oxford: Shire Publications, 64 s. Shire library. ISBN 978-074780-723-0.PAVLŮ, Dušan. 2009. Veletrhy a výstavy: kultura, komunikace, multimedialita, marketing. 1. vyd. Praha: Professional Publishing, 380 s. ISBN 978-80-86946-38-2."
+      "content": "Základní:MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.BITTNEROVÁ, Marie; ŠEBESTOVÁ KINDELMANNOVÁ, Hana; KUNTE, Libor; KUŤKOVÁ, Tatiana; MARTINEK, Jiří; NEUGEBAUEROVÁ, Jarmila a kol. 2011. Floristika: [učebnice floristiky v podání předních českých floristů]. Praha: Profi Press, 406 s. ISBN 978-80-86726-43-4.OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 58 s. ISBN 80-7157-363-9.BROOKER, Graeme; STONE, Sally. 2010. Co je interiérový design?. Praha: Slovart, 265 s. ISBN 978-80-7391-435-6.TANGAZ, Tomris. 2006. Škola interiérového designu. V Praze: Slovart, 144 s. ISBN 978-80-7209-856-9. Interior design visual presentation: a guide to graphics, models, and presentation techniques. 2. vyd. Hoboken: John Wiley & Sons, 238 s. ISBN 0-471-22552-5.MARTÍNEK, Jiří a NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 24. 5. 2014 - 30. 9. 2014. MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.KAŠŠÁK, Pavol; MARTINEK, Jiří. 2012. Floral Art in Public Spaces. Floral design. 2012(5), 2–13. ISSN 1176-9726.MARTINEK, Jiří a RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 19. 5. 2020 - 3. 7. 2020. MARTÍNEK, Jiří; SOJA, Miroslav; KAŠŠÁK, Pavol; NEUGEBAUEROVÁ, Jarmila a WILHELMOVÁ, Dana a kol. In Spring. Soutěž mladých zahradních architektů v Galerii Vaňkovka. Galerie Vaňkovka, Brno, 18. 2. 2010 - 7. 3. 2010. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří a KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 4. 6. 2017 - 8. 10. 2017."
     },
     {
       "label": "[section] Základní:",
-      "content": "KREJČIŘÍK, Přemysl; KUŤKOVÁ, Tatiana; KŘESADLOVÁ, Lenka; LETÁ, Michaela; RABUŠIC, Bohuslav; TLUSTÝ, Jaromír; VAIDA, Pavel. 2022. Zaujatí rostlinami, aneb, Příběh rostlin: kritický katalog k výstavě, státní zámek Lednice 1.7.-30.9.2022. 1. vyd. Brno: Mendelova univerzita v Brně, 109 s. ISBN 978-80-7509-865-8.MARTINEK, Jiří; RABUŠIC, Bohuslav. 2021. Použití květinových aranžmá v historických interiérech. 1. vyd. Brno: Mendelova univerzita v Brně, 59 s. ISBN 978-80-7509-806-1.MARTINEK, Jiří; KREJČIŘÍK, Přemysl. 2021. Použití rostlin v historických interiérech. 1. vyd. V Brně: Mendelova univerzita, 64 s. ISBN 978-80-7509-829-0.NOVÁK, Zdeněk; ZÁMEČNÍK, Roman. 2017. Zahrada Evropy. Kritický katalog výstavy. 1. vyd. Praha: Národní zemědělské muzeum, s.p.o., 119 s. ISBN 978-80-86874-93-7. https://www.nzm.cz/veda-a-vyzkum/odborne-publikace/zahrada-evropy-kriticky-katalog-vystavy Jardins do conhecimento: 12. festival internacional de jardins = Gardens of knowledge : 12th international garden festival. 2016. Ponte de Lima: Município de Ponte de Lima, 135 s. ISBN 978-972-8846-56-5.HOLLENGREEN, Laura Holden; PEARCE, Celia. 2014. Meet me at the fair: a worlďs fair reader. Pittsburgh: ETC Press, 532 s. ISBN 978-1-312-11587-3.SOLBERG SØILEN, Klaus. 2013. Exhibit marketing and trade show intelligence: successful boothmanship and booth design. 1. vyd. Heidelberg: Springer, 150 s. Management for professionals. ISBN 978-3-642-43465-5."
-    },
-    {
-      "label": "[section] Doporučená:",
-      "content": "MARTINEK, Jiří; KŘÍČKOVÁ, Kristýna; KREJČIŘÍK, Přemysl; KŘESADLOVÁ, Lenka; KUŤKOVÁ, Tatiana; LETÁ, Michaela; RABUŠIC, Bohuslav; SPĚVÁKOVÁ, Eva; TLUSTÝ, Jaromír a VAIDA, Pavel. Zaujatí rostlinami aneb příběh rostlin. Lednice, Státní zámek Lednice: Mendelova univerzita v Brně, 1. 7. – 30. 9. 2022. Závěrečná výstava projektu. Lednice, 1. 7. 2022 - 30. 9. 2022. https://pribehrostlin.cz/OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 58 s. ISBN 80-7157-363-9.MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.MARTÍNEK, Jiří a NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 24. 5. 2014 - 30. 9. 2014. MARTINEK, Jiří a RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 19. 5. 2020 - 3. 7. 2020. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří a KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 4. 6. 2017 - 8. 10. 2017. TAUBER, Jiří; SVOBODA, Jaroslav a MARTINEK, Jiří. Výstava designu nábytku a květinových vazeb v Lednici. Lednice, 27. 6. 2019 - 1. 9. 2019. Great exhibitions. 2010. Oxford: Shire Publications, 64 s. Shire library. ISBN 978-074780-723-0.PAVLŮ, Dušan. 2009. Veletrhy a výstavy: kultura, komunikace, multimedialita, marketing. 1. vyd. Praha: Professional Publishing, 380 s. ISBN 978-80-86946-38-2."
+      "content": "MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.BITTNEROVÁ, Marie; ŠEBESTOVÁ KINDELMANNOVÁ, Hana; KUNTE, Libor; KUŤKOVÁ, Tatiana; MARTINEK, Jiří; NEUGEBAUEROVÁ, Jarmila a kol. 2011. Floristika: [učebnice floristiky v podání předních českých floristů]. Praha: Profi Press, 406 s. ISBN 978-80-86726-43-4.OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 58 s. ISBN 80-7157-363-9.BROOKER, Graeme; STONE, Sally. 2010. Co je interiérový design?. Praha: Slovart, 265 s. ISBN 978-80-7391-435-6.TANGAZ, Tomris. 2006. Škola interiérového designu. V Praze: Slovart, 144 s. ISBN 978-80-7209-856-9. Interior design visual presentation: a guide to graphics, models, and presentation techniques. 2. vyd. Hoboken: John Wiley & Sons, 238 s. ISBN 0-471-22552-5.MARTÍNEK, Jiří a NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 24. 5. 2014 - 30. 9. 2014. MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.KAŠŠÁK, Pavol; MARTINEK, Jiří. 2012. Floral Art in Public Spaces. Floral design. 2012(5), 2–13. ISSN 1176-9726.MARTINEK, Jiří a RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 19. 5. 2020 - 3. 7. 2020. MARTÍNEK, Jiří; SOJA, Miroslav; KAŠŠÁK, Pavol; NEUGEBAUEROVÁ, Jarmila a WILHELMOVÁ, Dana a kol. In Spring. Soutěž mladých zahradních architektů v Galerii Vaňkovka. Galerie Vaňkovka, Brno, 18. 2. 2010 - 7. 3. 2010. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří a KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 4. 6. 2017 - 8. 10. 2017."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-FLT Floristická tvorba, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Program B-FLT Floristická tvorba, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -353,7 +369,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2023/2024"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -377,7 +393,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The course can be studied as part of a mobility abroad. In order to complete the course, it is necessary to prepare a presentation on the foreign mobility, including all aspects of the horticultural exhibition in the visited country, based on communication with the course guarantor."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -405,67 +421,71 @@
     },
     {
       "label": "1.",
-      "content": "The importance and history of exhibition design. (allowance 2/0)"
+      "content": "Introduction to the course. (allowance 2/0)"
     },
     {
       "label": "2.",
-      "content": "Perspectives and trends in contemporary exhibition creation. (allowance 2/0)"
+      "content": "The importance and history of exhibitory creation. (allowance 2/0)"
     },
     {
       "label": "3.",
-      "content": "The development of the horticultural trade fairs in the European context. (allowance 2/0)"
+      "content": "Perspectives and trends of contemporaneous exhibitory creation. (allowance 2/0)"
     },
     {
       "label": "4.",
-      "content": "Horticultural show venues and their division. (allowance 2/0)"
+      "content": "The development of horticultural exhibitions in the European context. (allowance 2/0)"
     },
     {
       "label": "5.",
-      "content": "Types of exhibitions and their classification, the exhibition area as part of the urban space. (allowance 2/0)"
+      "content": "Venues of horticultural exhibitions and their division. (allowance 2/0)"
     },
     {
       "label": "6.",
-      "content": "Methods for creating and compiling horticultural exhibitions. (allowance 2/2)"
+      "content": "Types of exhibitions and their classification, the exhibition as a part of the urban space. (allowance 2/0)"
     },
     {
       "label": "7.",
-      "content": "The theme (motif). (allowance 2/4)"
+      "content": "Methodology of exhibition creations and composition of horticultural exposures. (allowance 2/2)"
     },
     {
       "label": "8.",
-      "content": "The libretto. (allowance 2/2)"
+      "content": "Theme (motive). (allowance 2/4)"
     },
     {
       "label": "9.",
-      "content": "The scenario. (allowance 2/4)"
+      "content": "Libretto. (allowance 2/2)"
     },
     {
       "label": "10.",
-      "content": "The project. (allowance 2/8)"
+      "content": "Scenario. (allowance 2/4)"
     },
     {
       "label": "11.",
-      "content": "Exposure implementation and removal. (allowance 2/4)"
+      "content": "Project. (allowance 2/12)"
     },
     {
       "label": "12.",
-      "content": "Promotion, PR and other accompanying activities. (allowance 2/0)"
+      "content": "Implmentation and removal of exposures. (allowance 2/2)"
+    },
+    {
+      "label": "13.",
+      "content": "Promotions, Public Relations and accompanying activities. (allowance 2/0)"
+    },
+    {
+      "label": "14.",
+      "content": "Participation in a horticultural exhibition. (allowance 2/2)"
     },
     {
       "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "20 %"
+      "content": "50 %"
     },
     {
       "label": "Term paper",
-      "content": "40 %"
-    },
-    {
-      "label": "Presentation or defence",
       "content": "20 %"
     },
     {
       "label": "Final oral exam",
-      "content": "20 %"
+      "content": "30 %"
     },
     {
       "label": "Total",
@@ -473,7 +493,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -489,7 +509,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2023/2024"
     },
     {
       "label": "[section] Semester:",
@@ -517,7 +537,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The course can be studied as part of a mobility abroad. In order to complete the course, it is necessary to prepare a presentation on the foreign mobility, including all aspects of the horticultural exhibition in the visited country, based on communication with the course guarantor."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -545,137 +565,149 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday8.00-9.50ZFSK2 (Led)J. MartinekLectureEvery week21Wednesday10.00-11.50ZFSK2 (Led)J. MartinekSeminarEvery week21"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday8.00-9.50ZFD22 (Led)J. MartinekLectureEvery week15Thursday10.00-11.50ZFD22 (Led)J. MartinekSeminarEvery week15"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The aim of the course is to familiarise students with current trends in the presentation of the horticultural sector, including both horticultural products and garden art. The course focuses on the planning and execution of indoor and outdoor exhibitions, including their promotion and the organisation of related events. This course is key to developing students' practical skills in the presentation and communication of horticultural issues. On completion of the course students will be able to: 1) Identify and apply current trends in the presentation of horticultural products and garden art. 2) Design and implement thematic exhibitions in different types of space. 3) Promote exhibitions effectively and organise related events. 4) Pass through the whole process of creating an exhibition, from planning to implementation, evaluation and presentation of the results in a team/working group."
+      "content": "The aim of the course is to familiarize students with contemporary trends in presenting of horticultural branches to the public, whether presentation includes diverse products of horticultural production or landscape design projects. Students will study examples of exhibitional premises mainly in the form of comprehensive or thematic exhibitions organized indoor or open-air. Case studies will include the publicity activities and production of accompanying programme or activities also. During the lectures and exercises, students will receive the information on the whole creative and implementation process of selected exhibitions on case studies objects."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.The importance and history of exhibition design. (allowance 2/0)2.Perspectives and trends in contemporary exhibition creation. (allowance 2/0)3.The development of the horticultural trade fairs in the European context. (allowance 2/0)4.Horticultural show venues and their division. (allowance 2/0)5.Types of exhibitions and their classification, the exhibition area as part of the urban space. (allowance 2/0)6.Methods for creating and compiling horticultural exhibitions. (allowance 2/2)7.The theme (motif). (allowance 2/4)8.The libretto. (allowance 2/2)9.The scenario. (allowance 2/4)10.The project. (allowance 2/8)11.Exposure implementation and removal. (allowance 2/4)12.Promotion, PR and other accompanying activities. (allowance 2/0)"
+      "content": "1.Introduction to the course. (allowance 2/0)2.The importance and history of exhibitory creation. (allowance 2/0)3.Perspectives and trends of contemporaneous exhibitory creation. (allowance 2/0)4.The development of horticultural exhibitions in the European context. (allowance 2/0)5.Venues of horticultural exhibitions and their division. (allowance 2/0)6.Types of exhibitions and their classification, the exhibition as a part of the urban space. (allowance 2/0)7.Methodology of exhibition creations and composition of horticultural exposures. (allowance 2/2)8.Theme (motive). (allowance 2/4)9.Libretto. (allowance 2/2)10.Scenario. (allowance 2/4)11.Project. (allowance 2/12)12.Implmentation and removal of exposures. (allowance 2/2)13.Promotions, Public Relations and accompanying activities. (allowance 2/0)14.Participation in a horticultural exhibition. (allowance 2/2)"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Perspectives and trends in contemporary exhibition creation. (allowance 2/0)"
+      "content": "2.The importance and history of exhibitory creation. (allowance 2/0)"
     },
     {
-      "label": "[section] The importance and history of exhibition design.",
-      "content": "2.Perspectives and trends in contemporary exhibition creation. (allowance 2/0)"
+      "label": "[section] Introduction to the course.",
+      "content": "2.The importance and history of exhibitory creation. (allowance 2/0)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.The development of the horticultural trade fairs in the European context. (allowance 2/0)"
+      "content": "3.Perspectives and trends of contemporaneous exhibitory creation. (allowance 2/0)"
     },
     {
-      "label": "[section] Perspectives and trends in contemporary exhibition creation.",
-      "content": "3.The development of the horticultural trade fairs in the European context. (allowance 2/0)"
+      "label": "[section] The importance and history of exhibitory creation.",
+      "content": "3.Perspectives and trends of contemporaneous exhibitory creation. (allowance 2/0)"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Horticultural show venues and their division. (allowance 2/0)"
+      "content": "4.The development of horticultural exhibitions in the European context. (allowance 2/0)"
     },
     {
-      "label": "[section] The development of the horticultural trade fairs in the European context.",
-      "content": "4.Horticultural show venues and their division. (allowance 2/0)"
+      "label": "[section] Perspectives and trends of contemporaneous exhibitory creation.",
+      "content": "4.The development of horticultural exhibitions in the European context. (allowance 2/0)"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Types of exhibitions and their classification, the exhibition area as part of the urban space. (allowance 2/0)"
+      "content": "5.Venues of horticultural exhibitions and their division. (allowance 2/0)"
     },
     {
-      "label": "[section] Horticultural show venues and their division.",
-      "content": "5.Types of exhibitions and their classification, the exhibition area as part of the urban space. (allowance 2/0)"
+      "label": "[section] The development of horticultural exhibitions in the European context.",
+      "content": "5.Venues of horticultural exhibitions and their division. (allowance 2/0)"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Methods for creating and compiling horticultural exhibitions. (allowance 2/2)"
+      "content": "6.Types of exhibitions and their classification, the exhibition as a part of the urban space. (allowance 2/0)"
     },
     {
-      "label": "[section] Types of exhibitions and their classification, the exhibition area as part of the urban space.",
-      "content": "6.Methods for creating and compiling horticultural exhibitions. (allowance 2/2)"
+      "label": "[section] Venues of horticultural exhibitions and their division.",
+      "content": "6.Types of exhibitions and their classification, the exhibition as a part of the urban space. (allowance 2/0)"
     },
     {
       "label": "[section] 6.",
-      "content": "7.The theme (motif). (allowance 2/4)"
+      "content": "7.Methodology of exhibition creations and composition of horticultural exposures. (allowance 2/2)"
     },
     {
-      "label": "[section] Methods for creating and compiling horticultural exhibitions.",
-      "content": "7.The theme (motif). (allowance 2/4)"
+      "label": "[section] Types of exhibitions and their classification, the exhibition as a part of the urban space.",
+      "content": "7.Methodology of exhibition creations and composition of horticultural exposures. (allowance 2/2)"
     },
     {
       "label": "[section] 7.",
-      "content": "8.The libretto. (allowance 2/2)"
+      "content": "8.Theme (motive). (allowance 2/4)"
     },
     {
-      "label": "[section] The theme (motif).",
-      "content": "8.The libretto. (allowance 2/2)"
+      "label": "[section] Methodology of exhibition creations and composition of horticultural exposures.",
+      "content": "8.Theme (motive). (allowance 2/4)"
     },
     {
       "label": "[section] 8.",
-      "content": "9.The scenario. (allowance 2/4)"
+      "content": "9.Libretto. (allowance 2/2)"
     },
     {
-      "label": "[section] The libretto.",
-      "content": "9.The scenario. (allowance 2/4)"
+      "label": "[section] Theme (motive).",
+      "content": "9.Libretto. (allowance 2/2)"
     },
     {
       "label": "[section] 9.",
-      "content": "10.The project. (allowance 2/8)"
+      "content": "10.Scenario. (allowance 2/4)"
     },
     {
-      "label": "[section] The scenario.",
-      "content": "10.The project. (allowance 2/8)"
+      "label": "[section] Libretto.",
+      "content": "10.Scenario. (allowance 2/4)"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Exposure implementation and removal. (allowance 2/4)"
+      "content": "11.Project. (allowance 2/12)"
     },
     {
-      "label": "[section] The project.",
-      "content": "11.Exposure implementation and removal. (allowance 2/4)"
+      "label": "[section] Scenario.",
+      "content": "11.Project. (allowance 2/12)"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Promotion, PR and other accompanying activities. (allowance 2/0)"
+      "content": "12.Implmentation and removal of exposures. (allowance 2/2)"
     },
     {
-      "label": "[section] Exposure implementation and removal.",
-      "content": "12.Promotion, PR and other accompanying activities. (allowance 2/0)"
+      "label": "[section] Project.",
+      "content": "12.Implmentation and removal of exposures. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Promotions, Public Relations and accompanying activities. (allowance 2/0)"
+    },
+    {
+      "label": "[section] Implmentation and removal of exposures.",
+      "content": "13.Promotions, Public Relations and accompanying activities. (allowance 2/0)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Participation in a horticultural exhibition. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Promotions, Public Relations and accompanying activities.",
+      "content": "14.Participation in a horticultural exhibition. (allowance 2/2)"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice24 hfield work17 hconsultation10 hcolloquium8 hexhibition10 hpreparation for exam30 hpreparation of presentation20 helaboration and execution of projects25 hTotal168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice4 hfield work4 hconsultation6 hproject work12 hcolloquium2 hpreparation for exam15 hpreparation for regular assessment5 hpreparation of presentation20 helaboration and execution of projects24 hwriting of seminar paper20 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Credits will be awarded on the basis of at least 80% attendance in lectures and practicals and the completion of a presentation on the semester project. This presentation must be given to all students on the due date and then entered into the UIS system (submission space). The examination is held in the form of a colloquium (always in the group of the lecturer and a maximum of 5 students) and is divided into two parts - the demonstration of practical creative skills (preparation of a presentation with a libretto of the assigned model object and its presentation to the members of the colloquium) and the student's theoretical knowledge (answering individual questions based on the topics of the Horticultural exhibition course). Each part of the colloquium will be credited with a maximum of 50 points. The assessment of knowledge and skills will be based on the grading scale A to F: A = 100-90 points, B = 89.9-80 points, C = 79.9-70 points, D = 69.9-60 points, E = 59.9-51 points and F = 50.9 points or less. A minimum of 51 points is required to pass the course. The colloquium examination is held over one full working day and must be completed on the dates announced by the course guarantor according to the schedule for the relevant academic year. In addition to the regular examination date, a maximum of two additional additional examination dates will be allowed."
+      "content": "Credits will be given for the case study processing and passing the exam in the form of an interview. Innovation of the course Horticultural exhibitions was funded by the OPVK Project Innovation of study programs of horicultural branches, reg CZ.1.07/2.2.00/28.0220"
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation20 %Term paper40 %Presentation or defence20 %Final oral exam20 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation50 %Term paper20 %Final oral exam30 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:KREJČIŘÍK, Přemysl; KUŤKOVÁ, Tatiana; KŘESADLOVÁ, Lenka; LETÁ, Michaela; RABUŠIC, Bohuslav; TLUSTÝ, Jaromír; VAIDA, Pavel. 2022. Zaujatí rostlinami, aneb, Příběh rostlin: kritický katalog k výstavě, státní zámek Lednice 1.7.-30.9.2022. 1st ed. Brno: Mendelova univerzita v Brně, 109 p. ISBN 978-80-7509-865-8.MARTINEK, Jiří; RABUŠIC, Bohuslav. 2021. Použití květinových aranžmá v historických interiérech. 1st ed. Brno: Mendelova univerzita v Brně, 59 p. ISBN 978-80-7509-806-1.MARTINEK, Jiří; KREJČIŘÍK, Přemysl. 2021. Použití rostlin v historických interiérech. 1st ed. V Brně: Mendelova univerzita, 64 p. ISBN 978-80-7509-829-0.NOVÁK, Zdeněk; ZÁMEČNÍK, Roman. 2017. Zahrada Evropy. Kritický katalog výstavy. 1st ed. Praha: Národní zemědělské muzeum, s.p.o., 119 p. ISBN 978-80-86874-93-7. https://www.nzm.cz/veda-a-vyzkum/odborne-publikace/zahrada-evropy-kriticky-katalog-vystavy Jardins do conhecimento: 12. festival internacional de jardins = Gardens of knowledge : 12th international garden festival. 2016. Ponte de Lima: Município de Ponte de Lima, 135 p. ISBN 978-972-8846-56-5.HOLLENGREEN, Laura Holden; PEARCE, Celia. 2014. Meet me at the fair: a worlďs fair reader. Pittsburgh: ETC Press, 532 p. ISBN 978-1-312-11587-3.SOLBERG SØILEN, Klaus. 2013. Exhibit marketing and trade show intelligence: successful boothmanship and booth design. 1st ed. Heidelberg: Springer, 150 p. Management for professionals. ISBN 978-3-642-43465-5.Recommended:MARTINEK, Jiří; KŘÍČKOVÁ, Kristýna; KREJČIŘÍK, Přemysl; KŘESADLOVÁ, Lenka; KUŤKOVÁ, Tatiana; LETÁ, Michaela; RABUŠIC, Bohuslav; SPĚVÁKOVÁ, Eva; TLUSTÝ, Jaromír and VAIDA, Pavel. Zaujatí rostlinami aneb příběh rostlin. Lednice, Státní zámek Lednice: Mendelova univerzita v Brně, 1. 7. – 30. 9. 2022. Závěrečná výstava projektu. Lednice, 07/01/2022 - 09/30/2022. https://pribehrostlin.cz/OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 58 p. ISBN 80-7157-363-9.MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.MARTÍNEK, Jiří and NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 05/24/2014 - 09/30/2014. MARTINEK, Jiří and RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 05/19/2020 - 07/03/2020. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří and KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 06/04/2017 - 10/08/2017. TAUBER, Jiří; SVOBODA, Jaroslav and MARTINEK, Jiří. Výstava designu nábytku a květinových vazeb v Lednici. Lednice, 06/27/2019 - 09/01/2019. Great exhibitions. 2010. Oxford: Shire Publications, 64 p. Shire library. ISBN 978-074780-723-0.PAVLŮ, Dušan. 2009. Veletrhy a výstavy: kultura, komunikace, multimedialita, marketing. 1st ed. Praha: Professional Publishing, 380 p. ISBN 978-80-86946-38-2."
+      "content": "Basic:MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.BITTNEROVÁ, Marie; ŠEBESTOVÁ KINDELMANNOVÁ, Hana; KUNTE, Libor; KUŤKOVÁ, Tatiana; MARTINEK, Jiří; NEUGEBAUEROVÁ, Jarmila et al. 2011. Floristika: [učebnice floristiky v podání předních českých floristů]. Praha: Profi Press, 406 p. ISBN 978-80-86726-43-4.OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 58 p. ISBN 80-7157-363-9.BROOKER, Graeme; STONE, Sally. 2010. Co je interiérový design?. Praha: Slovart, 265 p. ISBN 978-80-7391-435-6.TANGAZ, Tomris. 2006. Škola interiérového designu. V Praze: Slovart, 144 p. ISBN 978-80-7209-856-9. Interior design visual presentation: a guide to graphics, models, and presentation techniques. 2nd ed. Hoboken: John Wiley & Sons, 238 p. ISBN 0-471-22552-5.MARTÍNEK, Jiří and NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 05/24/2014 - 09/30/2014. MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.KAŠŠÁK, Pavol; MARTINEK, Jiří. 2012. Floral Art in Public Spaces. Floral design. 2012(5), 2–13. ISSN 1176-9726.MARTINEK, Jiří and RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 05/19/2020 - 07/03/2020. MARTÍNEK, Jiří; SOJA, Miroslav; KAŠŠÁK, Pavol; NEUGEBAUEROVÁ, Jarmila and WILHELMOVÁ, Dana et al. In Spring. Soutěž mladých zahradních architektů v Galerii Vaňkovka. Galerie Vaňkovka, Brno, 02/18/2010 - 03/07/2010. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří and KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 06/04/2017 - 10/08/2017."
     },
     {
       "label": "[section] Basic:",
-      "content": "KREJČIŘÍK, Přemysl; KUŤKOVÁ, Tatiana; KŘESADLOVÁ, Lenka; LETÁ, Michaela; RABUŠIC, Bohuslav; TLUSTÝ, Jaromír; VAIDA, Pavel. 2022. Zaujatí rostlinami, aneb, Příběh rostlin: kritický katalog k výstavě, státní zámek Lednice 1.7.-30.9.2022. 1st ed. Brno: Mendelova univerzita v Brně, 109 p. ISBN 978-80-7509-865-8.MARTINEK, Jiří; RABUŠIC, Bohuslav. 2021. Použití květinových aranžmá v historických interiérech. 1st ed. Brno: Mendelova univerzita v Brně, 59 p. ISBN 978-80-7509-806-1.MARTINEK, Jiří; KREJČIŘÍK, Přemysl. 2021. Použití rostlin v historických interiérech. 1st ed. V Brně: Mendelova univerzita, 64 p. ISBN 978-80-7509-829-0.NOVÁK, Zdeněk; ZÁMEČNÍK, Roman. 2017. Zahrada Evropy. Kritický katalog výstavy. 1st ed. Praha: Národní zemědělské muzeum, s.p.o., 119 p. ISBN 978-80-86874-93-7. https://www.nzm.cz/veda-a-vyzkum/odborne-publikace/zahrada-evropy-kriticky-katalog-vystavy Jardins do conhecimento: 12. festival internacional de jardins = Gardens of knowledge : 12th international garden festival. 2016. Ponte de Lima: Município de Ponte de Lima, 135 p. ISBN 978-972-8846-56-5.HOLLENGREEN, Laura Holden; PEARCE, Celia. 2014. Meet me at the fair: a worlďs fair reader. Pittsburgh: ETC Press, 532 p. ISBN 978-1-312-11587-3.SOLBERG SØILEN, Klaus. 2013. Exhibit marketing and trade show intelligence: successful boothmanship and booth design. 1st ed. Heidelberg: Springer, 150 p. Management for professionals. ISBN 978-3-642-43465-5."
-    },
-    {
-      "label": "[section] Recommended:",
-      "content": "MARTINEK, Jiří; KŘÍČKOVÁ, Kristýna; KREJČIŘÍK, Přemysl; KŘESADLOVÁ, Lenka; KUŤKOVÁ, Tatiana; LETÁ, Michaela; RABUŠIC, Bohuslav; SPĚVÁKOVÁ, Eva; TLUSTÝ, Jaromír and VAIDA, Pavel. Zaujatí rostlinami aneb příběh rostlin. Lednice, Státní zámek Lednice: Mendelova univerzita v Brně, 1. 7. – 30. 9. 2022. Závěrečná výstava projektu. Lednice, 07/01/2022 - 09/30/2022. https://pribehrostlin.cz/OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 58 p. ISBN 80-7157-363-9.MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.MARTÍNEK, Jiří and NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 05/24/2014 - 09/30/2014. MARTINEK, Jiří and RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 05/19/2020 - 07/03/2020. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří and KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 06/04/2017 - 10/08/2017. TAUBER, Jiří; SVOBODA, Jaroslav and MARTINEK, Jiří. Výstava designu nábytku a květinových vazeb v Lednici. Lednice, 06/27/2019 - 09/01/2019. Great exhibitions. 2010. Oxford: Shire Publications, 64 p. Shire library. ISBN 978-074780-723-0.PAVLŮ, Dušan. 2009. Veletrhy a výstavy: kultura, komunikace, multimedialita, marketing. 1st ed. Praha: Professional Publishing, 380 p. ISBN 978-80-86946-38-2."
+      "content": "MARTINEK, Jiří; HAVRÁNKOVÁ, Tereza; KLASOVÁ, Kristýna. 2014. Zahradnické výstavnictví. Elektronická opora - Podpořeno projektem OPVK CZ.1.07/2.2.00/28.0220. https://mendelu.sharepoint.com/zf/e-opory/ZAKA/ZV/_layouts/15/start.aspx#/SitePages/DomovskaStranka.aspx.BITTNEROVÁ, Marie; ŠEBESTOVÁ KINDELMANNOVÁ, Hana; KUNTE, Libor; KUŤKOVÁ, Tatiana; MARTINEK, Jiří; NEUGEBAUEROVÁ, Jarmila et al. 2011. Floristika: [učebnice floristiky v podání předních českých floristů]. Praha: Profi Press, 406 p. ISBN 978-80-86726-43-4.OTRUBA, Ivar. 1999. Zahradně architektonická tvorba: část Zahradnické výstavnictví. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 58 p. ISBN 80-7157-363-9.BROOKER, Graeme; STONE, Sally. 2010. Co je interiérový design?. Praha: Slovart, 265 p. ISBN 978-80-7391-435-6.TANGAZ, Tomris. 2006. Škola interiérového designu. V Praze: Slovart, 144 p. ISBN 978-80-7209-856-9. Interior design visual presentation: a guide to graphics, models, and presentation techniques. 2nd ed. Hoboken: John Wiley & Sons, 238 p. ISBN 0-471-22552-5.MARTÍNEK, Jiří and NOVÁKOVÁ, Alena. Cervia Citta Giardino - Maggio in Fiore. Cervia, Milano di Maritima, 05/24/2014 - 09/30/2014. MARTINEK, Jiří; GÁLOVÁ, Helena. 2015. Dočasné instalace v památkách zahradní a krajinářské architektury (ZaKA). http://web2.mendelu.cz/zf_563_krarch/1.5.1_PAM-POSTUP_Docasne-instalace-v-pamatkach-ZaKA/Pam-postup_Docasne-instalace-v-pamatkach-ZaKA_komplet.pdf.KAŠŠÁK, Pavol; MARTINEK, Jiří. 2012. Floral Art in Public Spaces. Floral design. 2012(5), 2–13. ISSN 1176-9726.MARTINEK, Jiří and RABUŠIC, Bohuslav. Floristika v historickém interiéru. Lednice, Bučovice, 05/19/2020 - 07/03/2020. MARTÍNEK, Jiří; SOJA, Miroslav; KAŠŠÁK, Pavol; NEUGEBAUEROVÁ, Jarmila and WILHELMOVÁ, Dana et al. In Spring. Soutěž mladých zahradních architektů v Galerii Vaňkovka. Galerie Vaňkovka, Brno, 02/18/2010 - 03/07/2010. STEINOVÁ, Šárka; FENCL, Petr; ŽITNÁ, Helena; OTTOMANSKÁ, Stanislava; ZÁMEČNÍK, Roman; MARTINEK, Jiří and KUŤKOVÁ, Tatiana. Po stopách českých prvorepublikových zahradních architektů. Bechyně, 06/04/2017 - 10/08/2017."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-FLD Floral design, full-time form, initial period WS 2023/2024"
+      "content": "Programme B-FLD Floral design, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 09:40:40",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 10:09:21",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

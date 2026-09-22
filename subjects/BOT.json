@@ -3,7 +3,7 @@
   "name": "Botanika",
   "nameCs": "Botanika",
   "nameEn": "Botany",
-  "predmetId": "158918",
+  "predmetId": "161693",
   "facultyId": 38,
   "aliases": [
     "BOTM"
@@ -13,6 +13,45 @@
     "Mgr. Magda Zdražílková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161693;lang=cz",
+      "totalPass": 34,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 10,
+            "C": 7,
+            "D": 7,
+            "E": 6,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 10,
+            "C": 7,
+            "D": 7,
+            "E": 6,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -112,7 +151,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156688;lang=cz",
       "totalPass": 28,
-      "totalFail": 5,
+      "totalFail": 6,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -122,11 +161,11 @@
             "C": 10,
             "D": 9,
             "E": 6,
-            "F": 5,
+            "F": 6,
             "FN": 0
           },
           "pass": 28,
-          "fail": 5
+          "fail": 6
         },
         {
           "term": "Řádný termín",
@@ -647,6 +686,31 @@
       ]
     },
     {
+      "semesterName": "ZS 2020/2021 - LDF",
+      "semesterId": "588",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124994;lang=cz",
+      "totalPass": 3,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
@@ -684,32 +748,7 @@
           "fail": 0
         }
       ]
-    },
-    {
-      "semesterName": "ZS 2020/2021 - LDF",
-      "semesterId": "588",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=588;predmet=124994;lang=cz",
-      "totalPass": 3,
-      "totalFail": 0,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 1,
-            "E": 2,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 3,
-          "fail": 0
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

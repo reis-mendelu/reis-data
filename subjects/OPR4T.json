@@ -2,15 +2,63 @@
   "courseCode": "OPR4T",
   "name": "Odborná praxe III 4 týdny",
   "nameCs": "Odborná praxe III 4 týdny",
-  "nameEn": "Professional practical training (four weeks)",
-  "predmetId": "157509",
+  "nameEn": "Professional Practice III - 4 weeks / 160 hours",
+  "predmetId": "162280",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
-    "Mgr. Radoslav Vlk, Ph.D.",
-    "Zdeňka Kovářová"
+    "Mgr. Radoslav Vlk, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162280;lang=cz",
+      "totalPass": 33,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 33,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 33,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -159,5 +207,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

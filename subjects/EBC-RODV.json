@@ -3,7 +3,7 @@
   "name": "Řízení odběratelsko-dodavatelských vztahů",
   "nameCs": "Řízení odběratelsko-dodavatelských vztahů",
   "nameEn": "Customer and Supplier Relationship Management",
-  "predmetId": "156634",
+  "predmetId": "162633",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -12,13 +12,80 @@
   ],
   "stats": [
     {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162633;lang=cz",
+      "totalPass": 64,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 6,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 29,
+            "B": 20,
+            "C": 12,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 64,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 29,
+            "B": 14,
+            "C": 10,
+            "D": 1,
+            "E": 0,
+            "F": 10,
+            "FN": 1
+          },
+          "pass": 54,
+          "fail": 11
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156634;lang=cz",
       "totalPass": 76,
-      "totalFail": 3,
+      "totalFail": 4,
       "terms": [
         {
           "term": "1. opravný",
@@ -57,10 +124,10 @@
             "D": 11,
             "E": 4,
             "F": 0,
-            "FN": 3
+            "FN": 4
           },
           "pass": 76,
-          "fail": 3
+          "fail": 4
         },
         {
           "term": "Řádný termín",
@@ -280,5 +347,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

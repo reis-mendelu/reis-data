@@ -3,7 +3,7 @@
   "name": "Principy zpracování dat v AJ",
   "nameCs": "Principy zpracování dat v AJ",
   "nameEn": "Data Processing Principles",
-  "predmetId": "152290",
+  "predmetId": "160798",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,59 @@
     "Ing. Pavel Turčínek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160798;lang=cz",
+      "totalPass": 20,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 0,
+            "E": 9,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 6,
+            "C": 2,
+            "D": 2,
+            "E": 10,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 6,
+            "C": 0,
+            "D": 2,
+            "E": 1,
+            "F": 14,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 14
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -319,5 +372,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

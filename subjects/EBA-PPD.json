@@ -3,13 +3,66 @@
   "name": "Pokročilá práce s daty v AJ",
   "nameCs": "Pokročilá práce s daty v AJ",
   "nameEn": "Advanced Work with Data",
-  "predmetId": "160663",
+  "predmetId": "160797",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Mgr. Jana Dannhoferová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160797;lang=cz",
+      "totalPass": 18,
+      "totalFail": 12,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 2,
+            "C": 4,
+            "D": 6,
+            "E": 1,
+            "F": 11,
+            "FN": 1
+          },
+          "pass": 18,
+          "fail": 12
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 2,
+            "C": 4,
+            "D": 5,
+            "E": 1,
+            "F": 12,
+            "FN": 1
+          },
+          "pass": 17,
+          "fail": 13
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -284,5 +337,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

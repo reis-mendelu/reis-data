@@ -3,13 +3,80 @@
   "name": "Management populací zvěře",
   "nameCs": "Management populací zvěře",
   "nameEn": "Game Population Management",
-  "predmetId": "160660",
+  "predmetId": "161835",
   "facultyId": 38,
   "aliases": [
     "MPZ"
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161835;lang=cz",
+      "totalPass": 39,
+      "totalFail": 13,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 5,
+            "D": 3,
+            "E": 6,
+            "F": 13,
+            "FN": 0
+          },
+          "pass": 17,
+          "fail": 13
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 3
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 5,
+            "C": 10,
+            "D": 5,
+            "E": 10,
+            "F": 12,
+            "FN": 1
+          },
+          "pass": 39,
+          "fail": 13
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 4,
+            "C": 4,
+            "D": 1,
+            "E": 3,
+            "F": 32,
+            "FN": 1
+          },
+          "pass": 19,
+          "fail": 33
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -70,7 +137,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156803;lang=cz",
       "totalPass": 34,
-      "totalFail": 8,
+      "totalFail": 10,
       "terms": [
         {
           "term": "1. opravný",
@@ -108,11 +175,11 @@
             "C": 14,
             "D": 5,
             "E": 8,
-            "F": 8,
+            "F": 10,
             "FN": 0
           },
           "pass": 34,
-          "fail": 8
+          "fail": 10
         },
         {
           "term": "Řádný termín",
@@ -265,5 +332,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

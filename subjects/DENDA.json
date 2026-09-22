@@ -1,15 +1,57 @@
 {
   "courseCode": "DENDA",
-  "name": "Dendrologie pro agroekologii",
-  "nameCs": "Dendrologie pro agroekologii",
-  "nameEn": "Dendrology for Agroecology",
-  "predmetId": "159336",
-  "facultyId": 14,
-  "aliases": [],
+  "name": "Dendrologie I",
+  "nameCs": "Dendrologie I",
+  "nameEn": "Dendrology I",
+  "predmetId": "163831",
+  "facultyId": 38,
+  "aliases": [
+    "DE1",
+    "DEND1"
+  ],
   "teachers": [
     "Ing. Boleslav Jelínek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=163831;lang=cz",
+      "totalPass": 4,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -454,5 +496,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

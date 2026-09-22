@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Milan Večeřa, Ph.D."
+      "content": "prof. Ing. Gustav Chládek, CSc."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Leona Konečná, Ph.D. (cvičící)Ing. Tomáš Kopec, Ph.D. (přednášející)prof. Dr. Ing. Jan Kuchtík (cvičící, přednášející)Ing. Milan Večeřa, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "doc. Ing. Daniel Falta, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Gustav Chládek, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Leona Konečná, Ph.D. (cvičící)prof. Dr. Ing. Jan Kuchtík (cvičící, přednášející, zkoušející)Ing. Milan Večeřa, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,7 +67,7 @@
     },
     {
       "label": "1.",
-      "content": "Chov skotu zaměřený na produkci mléka (dotace 10/10)"
+      "content": "Chov skotu zaměřený na produkci mléka (dotace 8/8)"
     },
     {
       "label": "a.",
@@ -82,12 +82,8 @@
       "content": "Zásady chovu krav kombinovaných plemen skotu"
     },
     {
-      "label": "d.",
-      "content": "Technologie využívané v chovu dojeného skotu"
-    },
-    {
       "label": "2.",
-      "content": "Chov skotu bez tržní produkce mléka (dotace 6/6)"
+      "content": "Chov skotu bez tržní produkce mléka (dotace 4/4)"
     },
     {
       "label": "a.",
@@ -102,12 +98,8 @@
       "content": "Optimalizace chovatelského prostředí masného skotu"
     },
     {
-      "label": "d.",
-      "content": "Technologie využívaná v chovu nedojeného skotu"
-    },
-    {
       "label": "3.",
-      "content": "Chov ovcí a koz (dotace 8/8)"
+      "content": "Chov ovcí a koz (dotace 6/6)"
     },
     {
       "label": "a.",
@@ -119,19 +111,31 @@
     },
     {
       "label": "4.",
-      "content": "Etika a welfare v chovu hospodářských zvířat (dotace 4/4)"
+      "content": "Chov bůvolů (dotace 4/4)"
     },
     {
       "label": "a.",
-      "content": "Etika v chovu hospodářských zvířat"
+      "content": "Chov bůvolů zaměřený na produkci mléka"
     },
     {
       "label": "b.",
-      "content": "Welfare v chovu hospodářských zvířat"
+      "content": "Chov bůvolů zaměřený na produkci jatečných a chovných zvířat"
     },
     {
       "label": "c.",
-      "content": "Kravské signály"
+      "content": "Požadavky bůvolů na chovné prostředí"
+    },
+    {
+      "label": "5.",
+      "content": "Farmové chovy zvěře (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Historie farmového chovu zvěře"
+    },
+    {
+      "label": "b.",
+      "content": "Možnosti chovu farmové zvěře v defavorizovaných oblastech ČR"
     },
     {
       "label": "Celkem",
@@ -139,7 +143,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, 2000/2001 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, 2000/2001 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -155,7 +159,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -191,7 +195,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Milan Večeřa, Ph.D."
+      "content": "Garant předmětu: prof. Ing. Gustav Chládek, CSc."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -203,7 +207,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Leona Konečná, Ph.D. (cvičící)Ing. Tomáš Kopec, Ph.D. (přednášející)prof. Dr. Ing. Jan Kuchtík (cvičící, přednášející)Ing. Milan Večeřa, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: doc. Ing. Daniel Falta, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Gustav Chládek, CSc. (cvičící, garant, přednášející, zkoušející)Ing. Leona Konečná, Ph.D. (cvičící)prof. Dr. Ing. Jan Kuchtík (cvičící, přednášející, zkoušející)Ing. Milan Večeřa, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -211,31 +215,31 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50A44M. Večeřa, T. Kopec, J. KuchtíkPřednáškaKaždý týden20Pondělí17.00-18.50A46M. Večeřa, L. Konečná, J. KuchtíkCvičeníKaždý týden20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50A44M. Večeřa, G. Chládek, J. KuchtíkPřednáškaKaždý týden26Pondělí13.00-14.50A44M. Večeřa, L. Konečná, J. KuchtíkCvičeníKaždý týden22"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Studenti získají základní znalosti o chovu hlavních druhů hospodářských zvířat (především skotu, ovcí a koz). Studenti získají dovednosti zacházet se zvířaty, hodnotit jejich exteriér a posoudit vhodnost jejich ustájení. Studenti získají schopnost analyzovat a syntetizovat faktory ovlivňující produkci chovných zvířat, mléka, masa, případně dalších produktů (vlna)."
+      "content": "Studenti získají základní znalosti o chovu hlavních druhů hospodářských zvířat (především skotu, prasatat, ovcí a koz). Studenti získají dovednosti zacházet se zvířaty, hodnotit jejich exteriér a posoudit vhodnost jejich ustájení. Studenti získají schopnost analyzovat a syntetizovat faktory ovlivňující produkci chovných zvířat, mléka, masa a vajec."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Chov skotu zaměřený na produkci mléka (dotace 10/10) a.Současná situace v chovu hospodářských zvířat v ČRb.Zásady chovu krav mléčných plemen skotuc.Zásady chovu krav kombinovaných plemen skotud.Technologie využívané v chovu dojeného skotu2.Chov skotu bez tržní produkce mléka (dotace 6/6) a.Zásady chovu krav bez tržní produkce mlékab.Zásady chovu skotu zaměřeného na produkci chovných a zástavových zvířatc.Optimalizace chovatelského prostředí masného skotud.Technologie využívaná v chovu nedojeného skotu3.Chov ovcí a koz (dotace 8/8) a.Zásady chovu ovcí se zaměřením na masnou užitkovostb.Zásady chovu ovcí a koz se zaměřením na produkci mléka4.Etika a welfare v chovu hospodářských zvířat (dotace 4/4) a.Etika v chovu hospodářských zvířatb.Welfare v chovu hospodářských zvířatc.Kravské signály"
+      "content": "1.Chov skotu zaměřený na produkci mléka (dotace 8/8) a.Současná situace v chovu hospodářských zvířat v ČRb.Zásady chovu krav mléčných plemen skotuc.Zásady chovu krav kombinovaných plemen skotu2.Chov skotu bez tržní produkce mléka (dotace 4/4) a.Zásady chovu krav bez tržní produkce mlékab.Zásady chovu skotu zaměřeného na produkci chovných a zástavových zvířatc.Optimalizace chovatelského prostředí masného skotu3.Chov ovcí a koz (dotace 6/6) a.Zásady chovu ovcí se zaměřením na masnou užitkovostb.Zásady chovu ovcí a koz se zaměřením na produkci mléka4.Chov bůvolů (dotace 4/4) a.Chov bůvolů zaměřený na produkci mlékab.Chov bůvolů zaměřený na produkci jatečných a chovných zvířatc.Požadavky bůvolů na chovné prostředí5.Farmové chovy zvěře (dotace 6/6) a.Historie farmového chovu zvěřeb.Možnosti chovu farmové zvěře v defavorizovaných oblastech ČR"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Současná situace v chovu hospodářských zvířat v ČRb.Zásady chovu krav mléčných plemen skotuc.Zásady chovu krav kombinovaných plemen skotud.Technologie využívané v chovu dojeného skotu"
+      "content": "a.Současná situace v chovu hospodářských zvířat v ČRb.Zásady chovu krav mléčných plemen skotuc.Zásady chovu krav kombinovaných plemen skotu"
     },
     {
       "label": "[section] Chov skotu zaměřený na produkci mléka",
-      "content": "a.Současná situace v chovu hospodářských zvířat v ČRb.Zásady chovu krav mléčných plemen skotuc.Zásady chovu krav kombinovaných plemen skotud.Technologie využívané v chovu dojeného skotu"
+      "content": "a.Současná situace v chovu hospodářských zvířat v ČRb.Zásady chovu krav mléčných plemen skotuc.Zásady chovu krav kombinovaných plemen skotu"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Zásady chovu krav bez tržní produkce mlékab.Zásady chovu skotu zaměřeného na produkci chovných a zástavových zvířatc.Optimalizace chovatelského prostředí masného skotud.Technologie využívaná v chovu nedojeného skotu"
+      "content": "a.Zásady chovu krav bez tržní produkce mlékab.Zásady chovu skotu zaměřeného na produkci chovných a zástavových zvířatc.Optimalizace chovatelského prostředí masného skotu"
     },
     {
       "label": "[section] Chov skotu bez tržní produkce mléka",
-      "content": "a.Zásady chovu krav bez tržní produkce mlékab.Zásady chovu skotu zaměřeného na produkci chovných a zástavových zvířatc.Optimalizace chovatelského prostředí masného skotud.Technologie využívaná v chovu nedojeného skotu"
+      "content": "a.Zásady chovu krav bez tržní produkce mlékab.Zásady chovu skotu zaměřeného na produkci chovných a zástavových zvířatc.Optimalizace chovatelského prostředí masného skotu"
     },
     {
       "label": "[section] 3.",
@@ -247,15 +251,23 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.Etika v chovu hospodářských zvířatb.Welfare v chovu hospodářských zvířatc.Kravské signály"
+      "content": "a.Chov bůvolů zaměřený na produkci mlékab.Chov bůvolů zaměřený na produkci jatečných a chovných zvířatc.Požadavky bůvolů na chovné prostředí"
     },
     {
-      "label": "[section] Etika a welfare v chovu hospodářských zvířat",
-      "content": "a.Etika v chovu hospodářských zvířatb.Welfare v chovu hospodářských zvířatc.Kravské signály"
+      "label": "[section] Chov bůvolů",
+      "content": "a.Chov bůvolů zaměřený na produkci mlékab.Chov bůvolů zaměřený na produkci jatečných a chovných zvířatc.Požadavky bůvolů na chovné prostředí"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Historie farmového chovu zvěřeb.Možnosti chovu farmové zvěře v defavorizovaných oblastech ČR"
+    },
+    {
+      "label": "[section] Farmové chovy zvěře",
+      "content": "a.Historie farmového chovu zvěřeb.Možnosti chovu farmové zvěře v defavorizovaných oblastech ČR"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení20 hpráce v terénu8 hkonzultace14 hpříprava na zkoušku28 hpříprava na průběžné hodnocení28 hzpracování protokolů14 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení20 hpráce v terénu8 hkonzultace14 hpříprava na zkoušku28 hpříprava na průběžné hodnocení28 hzpracování protokolů14 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -267,15 +279,15 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1. vyd. Praha: Profi Press, 243 s. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 s. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1. vyd. Bratislava: Príroda, 104 s. ISBN 80-07-11219-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 s. ISBN 0-8247-5496-4.STRAPÁK, Peter a kol. 2013. Chov hovädzieho dobytka. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 s. ISBN 978-80-552-0994-4.HULSEN, Jan. 2011. Cow signals: jak rozumět řeči krav : praktický průvodce pro chovatele dojnic. Praha: Profi Press, 98 s. ISBN 978-80-86726-44-1."
+      "content": "Základní:DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1. vyd. Praha: Profi Press, 243 s. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 s. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1. vyd. Bratislava: Príroda, 104 s. ISBN 80-07-11219-7.TULÁČEK, František. 2002. Chov hrabavé drůbeže. 1. vyd. Praha: Brázda, 160 s. ISBN 80-209-0309-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 s. ISBN 0-8247-5496-4.STRAPÁK, Peter a kol. 2013. Chov hovädzieho dobytka. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 s. ISBN 978-80-552-0994-4."
     },
     {
       "label": "[section] Základní:",
-      "content": "DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1. vyd. Praha: Profi Press, 243 s. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 s. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1. vyd. Bratislava: Príroda, 104 s. ISBN 80-07-11219-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 s. ISBN 0-8247-5496-4.STRAPÁK, Peter a kol. 2013. Chov hovädzieho dobytka. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 s. ISBN 978-80-552-0994-4.HULSEN, Jan. 2011. Cow signals: jak rozumět řeči krav : praktický průvodce pro chovatele dojnic. Praha: Profi Press, 98 s. ISBN 978-80-86726-44-1."
+      "content": "DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1. vyd. Praha: Profi Press, 243 s. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 s. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1. vyd. Bratislava: Príroda, 104 s. ISBN 80-07-11219-7.TULÁČEK, František. 2002. Chov hrabavé drůbeže. 1. vyd. Praha: Brázda, 160 s. ISBN 80-209-0309-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 s. ISBN 0-8247-5496-4.STRAPÁK, Peter a kol. 2013. Chov hovädzieho dobytka. 1. vyd. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 s. ISBN 978-80-552-0994-4."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace SBZI Zemědělské inženýrství, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Specializace SBZI Zemědělské inženýrství, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -297,7 +309,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -329,7 +341,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Milan Večeřa, Ph.D."
+      "content": "prof. Ing. Gustav Chládek, CSc."
     },
     {
       "label": "Course supervising department:",
@@ -341,7 +353,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Leona Konečná, Ph.D. (instructor)Ing. Tomáš Kopec, Ph.D. (lecturer)prof. Dr. Ing. Jan Kuchtík (instructor, lecturer)Ing. Milan Večeřa, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "doc. Ing. Daniel Falta, Ph.D. (examiner, instructor, lecturer)prof. Ing. Gustav Chládek, CSc. (examiner, instructor, lecturer, supervisor)Ing. Leona Konečná, Ph.D. (instructor)prof. Dr. Ing. Jan Kuchtík (examiner, instructor, lecturer)Ing. Milan Večeřa, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -417,7 +429,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, 2000/2001 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, 2000/2001 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -433,7 +445,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -469,7 +481,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Milan Večeřa, Ph.D."
+      "content": "Course supervisor: prof. Ing. Gustav Chládek, CSc."
     },
     {
       "label": "[section] Course supervisor:",
@@ -481,7 +493,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Leona Konečná, Ph.D. (instructor)Ing. Tomáš Kopec, Ph.D. (lecturer)prof. Dr. Ing. Jan Kuchtík (instructor, lecturer)Ing. Milan Večeřa, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: doc. Ing. Daniel Falta, Ph.D. (examiner, instructor, lecturer)prof. Ing. Gustav Chládek, CSc. (examiner, instructor, lecturer, supervisor)Ing. Leona Konečná, Ph.D. (instructor)prof. Dr. Ing. Jan Kuchtík (examiner, instructor, lecturer)Ing. Milan Večeřa, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -489,11 +501,11 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50A44M. Večeřa, T. Kopec, J. KuchtíkLectureEvery week20Monday17.00-18.50A46M. Večeřa, L. Konečná, J. KuchtíkSeminarEvery week20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50A44M. Večeřa, G. Chládek, J. KuchtíkLectureEvery week26Monday13.00-14.50A44M. Večeřa, L. Konečná, J. KuchtíkSeminarEvery week22"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "Students will gain basic knowledge about the main types of breeding livestock. Students gain skills to treat animals, to evaluate the exterior and to asses the suitability of their housing. Students will be able to analyze factors affecting production of milk and meat."
+      "content": "Students will gain basic knowledge about the main types of breeding livestock. Students gain skills to treat animals, to evaluate the exterior and to asses the suitability of their housing. Students will be able to analyze factors affecting production of milk, meat and eggs."
     },
     {
       "label": "[section] Course content:",
@@ -541,7 +553,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice20 hfield work8 hconsultation14 hpreparation for exam28 hpreparation for regular assessment28 helaboration of reports14 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice20 hfield work8 hconsultation14 hpreparation for exam28 hpreparation for regular assessment28 helaboration of reports14 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -553,21 +565,21 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1st ed. Praha: Profi Press, 243 p. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 p. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1st ed. Bratislava: Príroda, 104 p. ISBN 80-07-11219-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 p. ISBN 0-8247-5496-4.STRAPÁK, Peter et al. 2013. Chov hovädzieho dobytka. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 p. ISBN 978-80-552-0994-4.HULSEN, Jan. 2011. Cow signals: jak rozumět řeči krav : praktický průvodce pro chovatele dojnic. Praha: Profi Press, 98 p. ISBN 978-80-86726-44-1."
+      "content": "Basic:DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1st ed. Praha: Profi Press, 243 p. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 p. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1st ed. Bratislava: Príroda, 104 p. ISBN 80-07-11219-7.TULÁČEK, František. 2002. Chov hrabavé drůbeže. 1st ed. Praha: Brázda, 160 p. ISBN 80-209-0309-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 p. ISBN 0-8247-5496-4.STRAPÁK, Peter et al. 2013. Chov hovädzieho dobytka. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 p. ISBN 978-80-552-0994-4."
     },
     {
       "label": "[section] Basic:",
-      "content": "DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1st ed. Praha: Profi Press, 243 p. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 p. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1st ed. Bratislava: Príroda, 104 p. ISBN 80-07-11219-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 p. ISBN 0-8247-5496-4.STRAPÁK, Peter et al. 2013. Chov hovädzieho dobytka. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 p. ISBN 978-80-552-0994-4.HULSEN, Jan. 2011. Cow signals: jak rozumět řeči krav : praktický průvodce pro chovatele dojnic. Praha: Profi Press, 98 p. ISBN 978-80-86726-44-1."
+      "content": "DOLEŽAL, Oldřich; STANĚK, Stanislav. 2015. Chov dojeného skotu: technologie, technika, management. 1st ed. Praha: Profi Press, 243 p. ISBN 978-80-86726-70-0.MÁCHAL, Ladislav; FILIPČÍK, Radek; HOŠEK, Martin; CHLÁDEK, Gustav; KUČERA, Josef; FALTA, Daniel; ČECHOVÁ, Marie; HADAŠ, Zdeněk; SLÁDEK, Libor; KUCHTÍK, Jan; JISKROVÁ, Iva; LICHOVNÍKOVÁ, Martina. 2011. Chov zvířat I - chov hospodářských zvířat. Brno: MENDELU v Brně, 237 p. ISBN 978-80-7375-553-9.OCHODNICKÝ, Dušan. 2003. Ovce, kozy a prasata. 1st ed. Bratislava: Príroda, 104 p. ISBN 80-07-11219-7.TULÁČEK, František. 2002. Chov hrabavé drůbeže. 1st ed. Praha: Brázda, 160 p. ISBN 80-209-0309-7.POND, Wilson G. Encyclopedia of animal science. New York, NY: Marcel Dekker, 926 p. ISBN 0-8247-5496-4.STRAPÁK, Peter et al. 2013. Chov hovädzieho dobytka. 1st ed. Nitra: Slovenská pol'nohospodárska univerzita v Nitre, 607 p. ISBN 978-80-552-0994-4."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track SBZI General Agriculture, full-time form, initial period WS 2023/2024"
+      "content": "Track SBZI General Agriculture, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:25:56",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:36:11",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

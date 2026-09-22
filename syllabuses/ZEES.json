@@ -1,0 +1,493 @@
+{
+  "courseCode": "ZEES",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ZEES"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Zemědělský a experimentální software"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Computers in Agriculture and Scientific Experiments"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2021/2022"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Daniel Falta, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Daniel Falta, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. David Jeník (cvičící, přednášející, tutor)Ing. Tomáš Kopec, Ph.D. (cvičící, přednášející)Ing. Richard Langer (cvičící, tutor)Ing. Ondřej Polák, Ph.D. (cvičící)Ing. Milan Večeřa, Ph.D. (tutor)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Předmět \"Zemědělský a experimentální software\" je určen pro studenty k prohloubení znalostí v oblasti informačních technologií, elektronických zdrojů a software v zemědělství. (dotace 24/24)"
+    },
+    {
+      "label": "a.",
+      "content": "Na teoretické základy fungování informačních systémů v zemědělských podnicích a objasnění jejich specifik budou navazovat informace o běžně používaných softwarových produktech."
+    },
+    {
+      "label": "b.",
+      "content": "Další oblast bude zaměřena na problematiku sběru a zpracování vstupních úprav datových informací z oblasti zemědělství se zaměřením na zvláštnosti při zpracování biologických dat. Na tuto část naváže statistické vyhodnocení dat."
+    },
+    {
+      "label": "c.",
+      "content": "Nezbytnou součástí předmětu bude příprava studenta na efektivní práci se zemědělskými informačními fondy."
+    },
+    {
+      "label": "d.",
+      "content": "Zvláštní část bude věnována Portálu farmáře, který zpřístupňuje aplikace registrů MZe a podřízených organizačních složek státu přihlášeným i nepřihlášeným uživatelům."
+    },
+    {
+      "label": "e.",
+      "content": "Poslední část předmětu se zaměří na nejvhodnější formy prezentace výsledků s důrazem na prezentaci informací na internetu. V rámci vědecké etiky musí být veškeré použité zdroje správně citovány, proto je tomuto tématu věnována zvláštní část s využitím citačního software Mendeley."
+    },
+    {
+      "label": "f.",
+      "content": "Teoretické informace budou doplněny praktickou výukou v počítačových cvičebnách."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2020/2021, LS 2019/2020, LS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Zemědělský a experimentální software"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Computers in Agriculture and Scientific Experiments"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2021/2022"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský; magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Daniel Falta, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav chovu a šlechtění zvířat (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Daniel Falta, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. David Jeník (cvičící, přednášející, tutor)Ing. Tomáš Kopec, Ph.D. (cvičící, přednášející)Ing. Richard Langer (cvičící, tutor)Ing. Ondřej Polák, Ph.D. (cvičící)Ing. Milan Večeřa, Ph.D. (tutor)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostSkupinaVyučujícíAkceČetnostKapacitaPoznámkaStředa9.00-10.50A416D. Falta, D. Jeník, T. Kopec, O. PolákCvičeníKaždý týden20 Středa11.00-12.50A416D. Falta, D. Jeník, T. Kopec, O. PolákCvičeníKaždý týden20 Středa13.00-14.50A416D. Falta, D. Jeník, T. Kopec, O. PolákCvičeníKaždý týden20 Čtvrtek9.00-10.50A416D. Falta, D. Jeník, T. Kopec, O. PolákCvičeníKaždý týden21 Čtvrtek11.00-12.50A416D. Falta, D. Jeník, T. Kopec, O. PolákCvičeníKaždý týden20 Čtvrtek13.00-14.50A41699D. Falta, D. Jeník, T. Kopec, O. PolákCvičeníKaždý týden20Rezerva - neotvirat dokud se nenaplni ostatni skupinyČtvrtek15.00-16.50C01D. Falta, T. KopecPřednáškaKaždý týden132"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Seznámit studenty s informačními systémy zemědělských podniků, softwarem pro statistické analýzy dat, nástroji pro publikování a se zemědělskými informačními fondy."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Předmět \"Zemědělský a experimentální software\" je určen pro studenty k prohloubení znalostí v oblasti informačních technologií, elektronických zdrojů a software v zemědělství. (dotace 24/24) a.Na teoretické základy fungování informačních systémů v zemědělských podnicích a objasnění jejich specifik budou navazovat informace o běžně používaných softwarových produktech.b.Další oblast bude zaměřena na problematiku sběru a zpracování vstupních úprav datových informací z oblasti zemědělství se zaměřením na zvláštnosti při zpracování biologických dat. Na tuto část naváže statistické vyhodnocení dat.c.Nezbytnou součástí předmětu bude příprava studenta na efektivní práci se zemědělskými informačními fondy.d.Zvláštní část bude věnována Portálu farmáře, který zpřístupňuje aplikace registrů MZe a podřízených organizačních složek státu přihlášeným i nepřihlášeným uživatelům.e.Poslední část předmětu se zaměří na nejvhodnější formy prezentace výsledků s důrazem na prezentaci informací na internetu. V rámci vědecké etiky musí být veškeré použité zdroje správně citovány, proto je tomuto tématu věnována zvláštní část s využitím citačního software Mendeley.f.Teoretické informace budou doplněny praktickou výukou v počítačových cvičebnách."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Na teoretické základy fungování informačních systémů v zemědělských podnicích a objasnění jejich specifik budou navazovat informace o běžně používaných softwarových produktech.b.Další oblast bude zaměřena na problematiku sběru a zpracování vstupních úprav datových informací z oblasti zemědělství se zaměřením na zvláštnosti při zpracování biologických dat. Na tuto část naváže statistické vyhodnocení dat.c.Nezbytnou součástí předmětu bude příprava studenta na efektivní práci se zemědělskými informačními fondy.d.Zvláštní část bude věnována Portálu farmáře, který zpřístupňuje aplikace registrů MZe a podřízených organizačních složek státu přihlášeným i nepřihlášeným uživatelům.e.Poslední část předmětu se zaměří na nejvhodnější formy prezentace výsledků s důrazem na prezentaci informací na internetu. V rámci vědecké etiky musí být veškeré použité zdroje správně citovány, proto je tomuto tématu věnována zvláštní část s využitím citačního software Mendeley.f.Teoretické informace budou doplněny praktickou výukou v počítačových cvičebnách."
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška24 hcvičení24 hpříprava na zkoušku70 hpříprava prezentace4 hzpracování projektů18 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Účast na cvičeních minimálně 70 %. Povinná účast na odborných přednáškách externistů (100%). Předmět je ukončen písemným testem a ústní zkouškou. Písemný test je vypracován na PC a trvá 60 minut. Je požadována úspěšnost minimálně 60 %. Na celkovém výsledku se podílí 70 %. Ústní zkouška trvá 30 minut a zahrnuje i obhajobou výsledků z písemného testu. Na celkovém výsledku zkoušky se podílí 30 %."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PÍRKOVÁ, Kateřina. 2010. Microsoft Word 2010: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 365 s. Podrobná uživatelská příručka. ISBN 978-80-251-3033-9.RYBIČKA, Jiří a kol. 1996. Jak publikovat na počítači. 1. vyd. Veletiny: Science, 214 s. ISBN 80-901475-7-7.BARILLA, Jiří a kol. 2010. Microsoft Office 2010: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 491 s. Podrobná uživatelská příručka. ISBN 978-80-251-3222-7.Kol. 2002. Vytváříme WWW stránky a spravujeme moderní web site. 6. vyd. Praha: Computer Press, 355 s. ISBN 80-7226-748-5.KAPŠ, Miroslav. 2009. Biostatistics for animal science. 2. vyd. Wallingford, Oxfordshire: CABI, 504 s. ISBN 978-1-84593-540-5.HUTCHISON, David; VERKHIVKER, Gennady M; KANADE, Takeo. 2009. Computational Intelligence Methods for Bioinformatics and Biostatistics : 5th International Meeting, CIBB 2008 Vietri sul Mare, Italy, October 3-4, 2008 Revised Selected Papers. Berlin, Heidelberg. ISBN 9783642025044. http://dx.doi.org/10.1007/978-3-642-02504-4.ALPHEY, Luke. 1997. DNA Sequencing : From Experimental Methods to Bioinformatics. 1. vyd. Oxford: BIOS Scientific Publishers, 13 s. ISBN 1-85996-061-8. Statistical methods in agriculture and experimental biology. 3. vyd. Boca Raton: Chapman & Hall/CRC, 472 s. ISBN 1-5848-8187-9."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PÍRKOVÁ, Kateřina. 2010. Microsoft Word 2010: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 365 s. Podrobná uživatelská příručka. ISBN 978-80-251-3033-9.RYBIČKA, Jiří a kol. 1996. Jak publikovat na počítači. 1. vyd. Veletiny: Science, 214 s. ISBN 80-901475-7-7.BARILLA, Jiří a kol. 2010. Microsoft Office 2010: podrobná uživatelská příručka. 1. vyd. Brno: Computer Press, 491 s. Podrobná uživatelská příručka. ISBN 978-80-251-3222-7.Kol. 2002. Vytváříme WWW stránky a spravujeme moderní web site. 6. vyd. Praha: Computer Press, 355 s. ISBN 80-7226-748-5.KAPŠ, Miroslav. 2009. Biostatistics for animal science. 2. vyd. Wallingford, Oxfordshire: CABI, 504 s. ISBN 978-1-84593-540-5.HUTCHISON, David; VERKHIVKER, Gennady M; KANADE, Takeo. 2009. Computational Intelligence Methods for Bioinformatics and Biostatistics : 5th International Meeting, CIBB 2008 Vietri sul Mare, Italy, October 3-4, 2008 Revised Selected Papers. Berlin, Heidelberg. ISBN 9783642025044. http://dx.doi.org/10.1007/978-3-642-02504-4.ALPHEY, Luke. 1997. DNA Sequencing : From Experimental Methods to Bioinformatics. 1. vyd. Oxford: BIOS Scientific Publishers, 13 s. ISBN 1-85996-061-8. Statistical methods in agriculture and experimental biology. 3. vyd. Boca Raton: Chapman & Hall/CRC, 472 s. ISBN 1-5848-8187-9."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZOT Zootechnika, prezenční forma, počáteční období ZS 2021/2022"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ZEES"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Zemědělský a experimentální software"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Computers in Agriculture and Scientific Experiments"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2021/2022"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor; master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Daniel Falta, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Daniel Falta, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. David Jeník (instructor, lecturer, tutor)Ing. Tomáš Kopec, Ph.D. (instructor, lecturer)Ing. Richard Langer (instructor, tutor)Ing. Ondřej Polák, Ph.D. (instructor)Ing. Milan Večeřa, Ph.D. (tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Electronic information sources (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Searching of references"
+    },
+    {
+      "label": "b.",
+      "content": "Citations"
+    },
+    {
+      "label": "c.",
+      "content": "Data mining"
+    },
+    {
+      "label": "2.",
+      "content": "Data processing (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Data sorting. Establishing of databases."
+    },
+    {
+      "label": "b.",
+      "content": "Text and table processors."
+    },
+    {
+      "label": "c.",
+      "content": "Statistical software. Statistical analyses."
+    },
+    {
+      "label": "3.",
+      "content": "Presentation and publishing (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Oral presentation."
+    },
+    {
+      "label": "b.",
+      "content": "On-line presentation - HTML."
+    },
+    {
+      "label": "4.",
+      "content": "Agricultural software (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Farmer's software."
+    },
+    {
+      "label": "b.",
+      "content": "On-line databases of animals. On-line Milk reccording scheme."
+    },
+    {
+      "label": "c.",
+      "content": "Plem-dat -czech estimation of breeding values. ICAR."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2020/2021, SS 2019/2020, SS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Zemědělský a experimentální software"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Computers in Agriculture and Scientific Experiments"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2021/2022"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor; master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Daniel Falta, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Animal Breeding (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Daniel Falta, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. David Jeník (instructor, lecturer, tutor)Ing. Tomáš Kopec, Ph.D. (instructor, lecturer)Ing. Richard Langer (instructor, tutor)Ing. Ondřej Polák, Ph.D. (instructor)Ing. Milan Večeřa, Ph.D. (tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomGroupTeacherEntryFrequencyCapacityNoteWednesday9.00-10.50A416D. Falta, D. Jeník, T. Kopec, O. PolákSeminarEvery week20 Wednesday11.00-12.50A416D. Falta, D. Jeník, T. Kopec, O. PolákSeminarEvery week20 Wednesday13.00-14.50A416D. Falta, D. Jeník, T. Kopec, O. PolákSeminarEvery week20 Thursday9.00-10.50A416D. Falta, D. Jeník, T. Kopec, O. PolákSeminarEvery week21 Thursday11.00-12.50A416D. Falta, D. Jeník, T. Kopec, O. PolákSeminarEvery week20 Thursday13.00-14.50A41699D. Falta, D. Jeník, T. Kopec, O. PolákSeminarEvery week20Rezerva - neotvirat dokud se nenaplni ostatni skupinyThursday15.00-16.50C01D. Falta, T. KopecLectureEvery week132"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "In this course the students will learn about principles of farmer's information systems, software for statistical analyses of data, publication, and agricultural information resources."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Electronic information sources (allowance 6/6) a.Searching of referencesb.Citationsc.Data mining2.Data processing (allowance 6/6) a.Data sorting. Establishing of databases.b.Text and table processors.c.Statistical software. Statistical analyses.3.Presentation and publishing (allowance 6/6) a.Oral presentation.b.On-line presentation - HTML.4.Agricultural software (allowance 6/6) a.Farmer's software.b.On-line databases of animals. On-line Milk reccording scheme.c.Plem-dat -czech estimation of breeding values. ICAR."
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Searching of referencesb.Citationsc.Data mining"
+    },
+    {
+      "label": "[section] Electronic information sources",
+      "content": "a.Searching of referencesb.Citationsc.Data mining"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Data sorting. Establishing of databases.b.Text and table processors.c.Statistical software. Statistical analyses."
+    },
+    {
+      "label": "[section] Data processing",
+      "content": "a.Data sorting. Establishing of databases.b.Text and table processors.c.Statistical software. Statistical analyses."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Oral presentation.b.On-line presentation - HTML."
+    },
+    {
+      "label": "[section] Presentation and publishing",
+      "content": "a.Oral presentation.b.On-line presentation - HTML."
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Farmer's software.b.On-line databases of animals. On-line Milk reccording scheme.c.Plem-dat -czech estimation of breeding values. ICAR."
+    },
+    {
+      "label": "[section] Agricultural software",
+      "content": "a.Farmer's software.b.On-line databases of animals. On-line Milk reccording scheme.c.Plem-dat -czech estimation of breeding values. ICAR."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture24 hpractice24 hpreparation for exam70 hpreparation of presentation4 helaboration and execution of projects18 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Attendance at seminars at least 70%. Compulsory lectures at professional freelancers (100%). The course is finished by a written test and oral exam. The written test is developed on the PC and takes 60 minutes. Is required at least 60% success rate and contrubutes to the overall result of 70%. The oral exam takes 30 minutes and includes the defense of results in written test. It contributes to the overall result of 30%."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PÍRKOVÁ, Kateřina. 2010. Microsoft Word 2010: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 365 p. Podrobná uživatelská příručka. ISBN 978-80-251-3033-9.RYBIČKA, Jiří et al. 1996. Jak publikovat na počítači. 1st ed. Veletiny: Science, 214 p. ISBN 80-901475-7-7.BARILLA, Jiří et al. 2010. Microsoft Office 2010: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 491 p. Podrobná uživatelská příručka. ISBN 978-80-251-3222-7.Col. 2002. Vytváříme WWW stránky a spravujeme moderní web site. 6th ed. Praha: Computer Press, 355 p. ISBN 80-7226-748-5.KAPŠ, Miroslav. 2009. Biostatistics for animal science. 2nd ed. Wallingford, Oxfordshire: CABI, 504 p. ISBN 978-1-84593-540-5.HUTCHISON, David; VERKHIVKER, Gennady M; KANADE, Takeo. 2009. Computational Intelligence Methods for Bioinformatics and Biostatistics : 5th International Meeting, CIBB 2008 Vietri sul Mare, Italy, October 3-4, 2008 Revised Selected Papers. Berlin, Heidelberg. ISBN 9783642025044. http://dx.doi.org/10.1007/978-3-642-02504-4.ALPHEY, Luke. 1997. DNA Sequencing : From Experimental Methods to Bioinformatics. 1st ed. Oxford: BIOS Scientific Publishers, 13 p. ISBN 1-85996-061-8. Statistical methods in agriculture and experimental biology. 3rd ed. Boca Raton: Chapman & Hall/CRC, 472 p. ISBN 1-5848-8187-9."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PÍRKOVÁ, Kateřina. 2010. Microsoft Word 2010: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 365 p. Podrobná uživatelská příručka. ISBN 978-80-251-3033-9.RYBIČKA, Jiří et al. 1996. Jak publikovat na počítači. 1st ed. Veletiny: Science, 214 p. ISBN 80-901475-7-7.BARILLA, Jiří et al. 2010. Microsoft Office 2010: podrobná uživatelská příručka. 1st ed. Brno: Computer Press, 491 p. Podrobná uživatelská příručka. ISBN 978-80-251-3222-7.Col. 2002. Vytváříme WWW stránky a spravujeme moderní web site. 6th ed. Praha: Computer Press, 355 p. ISBN 80-7226-748-5.KAPŠ, Miroslav. 2009. Biostatistics for animal science. 2nd ed. Wallingford, Oxfordshire: CABI, 504 p. ISBN 978-1-84593-540-5.HUTCHISON, David; VERKHIVKER, Gennady M; KANADE, Takeo. 2009. Computational Intelligence Methods for Bioinformatics and Biostatistics : 5th International Meeting, CIBB 2008 Vietri sul Mare, Italy, October 3-4, 2008 Revised Selected Papers. Berlin, Heidelberg. ISBN 9783642025044. http://dx.doi.org/10.1007/978-3-642-02504-4.ALPHEY, Luke. 1997. DNA Sequencing : From Experimental Methods to Bioinformatics. 1st ed. Oxford: BIOS Scientific Publishers, 13 p. ISBN 1-85996-061-8. Statistical methods in agriculture and experimental biology. 3rd ed. Boca Raton: Chapman & Hall/CRC, 472 p. ISBN 1-5848-8187-9."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-ABG Animal Breeding, full-time form, initial period WS 2021/2022"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 10:11:40",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

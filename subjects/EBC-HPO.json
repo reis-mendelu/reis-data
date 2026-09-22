@@ -3,13 +3,66 @@
   "name": "Hospodářská politika",
   "nameCs": "Hospodářská politika",
   "nameEn": "Economic Policy",
-  "predmetId": "156552",
+  "predmetId": "162550",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Aleš Franc, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162550;lang=cz",
+      "totalPass": 67,
+      "totalFail": 14,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 3,
+            "E": 5,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 7,
+            "C": 12,
+            "D": 13,
+            "E": 22,
+            "F": 13,
+            "FN": 1
+          },
+          "pass": 67,
+          "fail": 14
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 7,
+            "C": 12,
+            "D": 10,
+            "E": 17,
+            "F": 21,
+            "FN": 1
+          },
+          "pass": 59,
+          "fail": 22
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -304,5 +357,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

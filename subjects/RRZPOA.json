@@ -3,11 +3,68 @@
   "name": "Zemědělská politika a obchod v AJ",
   "nameCs": "Zemědělská politika a obchod v AJ",
   "nameEn": "Agricultural Policy and Trade in English",
-  "predmetId": "157814",
+  "predmetId": "163013",
   "facultyId": 23,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Ing. Nahanga Verter, Ph.D.",
+    "prof. Ing. Věra Bečvářová, CSc.",
+    "prof. Jose Luis Lopez Garcia"
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163013;lang=cz",
+      "totalPass": 17,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 0,
+            "C": 2,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 17,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 0,
+            "C": 2,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 16,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -207,5 +264,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

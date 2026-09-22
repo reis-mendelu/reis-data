@@ -3,11 +3,64 @@
   "name": "Speciální produkce zeleniny a květin",
   "nameCs": "Speciální produkce zeleniny a květin",
   "nameEn": "Special Productin of Vegetables and Flowers",
-  "predmetId": "157476",
+  "predmetId": "162356",
   "facultyId": 60,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162356;lang=cz",
+      "totalPass": 29,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 4,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 3,
+            "C": 8,
+            "D": 3,
+            "E": 8,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 29,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 2,
+            "C": 8,
+            "D": 2,
+            "E": 4,
+            "F": 5,
+            "FN": 4
+          },
+          "pass": 23,
+          "fail": 9
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -288,5 +341,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

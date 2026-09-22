@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2020/2021"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět nelze studovat během zahraniční mobility."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Jonáš Fiala (cvičící)Ing. Ivo Ondrášek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Ing. Pavel Gála (cvičící, přednášející)Ing. Tomáš Kiss, Ph.D. (cvičící, přednášející)Ing. Martina Mrázová (cvičící)Ing. Tomáš Nečas, Ph.D. (cvičící, přednášející, zkoušející)Ing. Ivo Ondrášek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -107,7 +107,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2019/2020 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -123,7 +123,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2020/2021"
     },
     {
       "label": "[section] Semestr:",
@@ -151,7 +151,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět nelze studovat během zahraniční mobility."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -171,7 +171,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Jonáš Fiala (cvičící)Ing. Ivo Ondrášek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Pavel Gála (cvičící, přednášející)Ing. Tomáš Kiss, Ph.D. (cvičící, přednášející)Ing. Martina Mrázová (cvičící)Ing. Tomáš Nečas, Ph.D. (cvičící, přednášející, zkoušející)Ing. Ivo Ondrášek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -179,7 +179,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa8.00-9.50ZFAB1 (Led)I. OndrášekPřednáškaKaždý týden19Středa11.00-13.50ZFAB1 (Led)J. Fiala, I. OndrášekCvičeníKaždý týden19Pátek13.00-16.50ZFAA1 (Led)I. OndrášekPřednáškaNepravidelně42"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50ZFAB2 (Led)I. OndrášekPřednáškaKaždý týden30Čtvrtek12.00-14.50ZFAB2 (Led)M. Mrázová, P. Gála, T. Kiss, I. OndrášekCvičeníKaždý týden10Pátek15.00-18.50ZFAB2 (Led)I. Ondrášek, P. Gála, T. KissPřednáškaNepravidelně30"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -259,11 +259,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h24 hcvičení36 h0 hseminář2 h2 hpráce v terénu0 h16 hkonzultace12 h25 hpříprava na zkoušku43 h50 hpříprava na průběžné hodnocení7 h7 hpříprava na průběžný test10 h10 hpříprava prezentace6 h6 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška24 h28 hcvičení36 h0 hseminář2 h12 hpráce v terénu30 h30 hodborná exkurze20 h40 hkonzultace8 h12 hpříprava na zkoušku55 h55 hpříprava na průběžné hodnocení7 h7 hpříprava na průběžný test15 h15 hpříprava prezentace6 h6 hzpracování seminární práce5 h5 hCelkem208 h210 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "účast na cvičení min 80%, ústní zkouška"
+      "content": "Zápočtový test a zkouška"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -283,7 +283,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace NZ Zahradnictví, prezenční forma, počáteční období ZS 2024/2025Specializace NZ Zahradnictví, kombinovaná forma, počáteční období ZS 2024/2025"
+      "content": "Specializace NZ Zahradnictví, prezenční forma, počáteční období ZS 2020/2021Specializace NZ Zahradnictví, kombinovaná forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -305,7 +305,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2020/2021"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -329,7 +329,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The course cannot be studied during foreign mobility."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -349,7 +349,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Jonáš Fiala (instructor)Ing. Ivo Ondrášek, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Ing. Pavel Gála (instructor, lecturer)Ing. Tomáš Kiss, Ph.D. (instructor, lecturer)Ing. Martina Mrázová (instructor)Ing. Tomáš Nečas, Ph.D. (examiner, instructor, lecturer)Ing. Ivo Ondrášek, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -357,7 +357,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2019/2020 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -373,7 +373,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2020/2021"
     },
     {
       "label": "[section] Semester:",
@@ -401,7 +401,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during foreign mobility."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -421,7 +421,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Jonáš Fiala (instructor)Ing. Ivo Ondrášek, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: Ing. Pavel Gála (instructor, lecturer)Ing. Tomáš Kiss, Ph.D. (instructor, lecturer)Ing. Martina Mrázová (instructor)Ing. Tomáš Nečas, Ph.D. (examiner, instructor, lecturer)Ing. Ivo Ondrášek, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -429,7 +429,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday8.00-9.50ZFAB1 (Led)I. OndrášekLectureEvery week19Wednesday11.00-13.50ZFAB1 (Led)J. Fiala, I. OndrášekSeminarEvery week19Friday13.00-16.50ZFAA1 (Led)I. OndrášekLectureOccasionally42"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50ZFAB2 (Led)I. OndrášekLectureEvery week30Thursday12.00-14.50ZFAB2 (Led)M. Mrázová, P. Gála, T. Kiss, I. OndrášekSeminarEvery week10Friday15.00-18.50ZFAB2 (Led)I. Ondrášek, P. Gála, T. KissLectureOccasionally30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -441,11 +441,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h24 hpractice36 h0 hseminar2 h2 hfield work0 h16 hconsultation12 h25 hpreparation for exam43 h50 hpreparation for regular assessment7 h7 hpreparation for regular testing10 h10 hpreparation of presentation6 h6 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture24 h28 hpractice36 h0 hseminar2 h12 hfield work30 h30 hprofessional educational excursion20 h40 hconsultation8 h12 hpreparation for exam55 h55 hpreparation for regular assessment7 h7 hpreparation for regular testing15 h15 hpreparation of presentation6 h6 hwriting of seminar paper5 h5 hTotal208 h210 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "participation on practice at least 80%, oral exam"
+      "content": "credit test and exam"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -465,13 +465,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track NH Horticulture, full-time form, initial period WS 2024/2025Track NH Horticulture, part-time form, initial period WS 2024/2025"
+      "content": "Track NH Horticulture, full-time form, initial period WS 2020/2021Track NH Horticulture, part-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 08:42:06",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:49:11",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

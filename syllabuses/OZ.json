@@ -1,0 +1,633 @@
+{
+  "courseCode": "OZ",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "OZ"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Obnovitelné zdroje"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Renewable Resources"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2021/2022"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Martin Fajman, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Martin Fajman, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do energetiky - pojmy a terminologie. Vzájemná souvislost energetiky, ekologie a ekonomiky. (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Základní rozdělení energetických zdrojů na Zemi. Efektivita využívání energetických zdrojů, účinnost. (dotace 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Podpora využívání obnovitelných a alternativních zdrojů energie – strategie EU, legislativní rámec podpor v ČR. (dotace 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Energetické toky v zemědělství – historický vývoj, Green Revolution, postavení zemědělství v národním hospodářství. (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Biomasa – úvod do problematiky, možnosti energetického využití biomasy. (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Zdroje biomasy, formy biopaliv, potenciál produkce biomasy, specifika produkce energetických plodin. (dotace 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Technika pro zpracování biomasy za účelem energetického využití (zpracování zemědělských produktů, zpracování dřevin, úprava biomasy – peletizace). (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Termochemická konverze biomasy – spalování. (dotace 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Termochemická konverze biomasy – zplyňování, pyrolýza, torifikace. (dotace 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Biochemické transformace biomasy – anaerobní proces, vznik bioplynu a perspektivní technologie. (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Kapalná biopaliva a přeměny. (dotace 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Možnosti aplikace AZE v zemědělství – přímé technické využití energie Slunce, tepelná čerpadla. (dotace 2/2)"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Obnovitelné zdroje"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Renewable Resources"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2021/2022"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Martin Fajman, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav techniky a automobilové dopravy (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Martin Fajman, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPoznámkaStředa11.00-12.50R204M. FajmanPřednáškaKaždý týden30spojené s AZEStředa13.00-14.50R204M. FajmanCvičeníKaždý týden22spojené s AZE"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit studenty s oblastí energetiky a možností využívání obnovitelných zdrojů energie v podmínkách zejména ČR, zejména se zaměřením na oblast biomasy."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do energetiky - pojmy a terminologie. Vzájemná souvislost energetiky, ekologie a ekonomiky. (dotace 2/2)2.Základní rozdělení energetických zdrojů na Zemi. Efektivita využívání energetických zdrojů, účinnost. (dotace 2/2)3.Podpora využívání obnovitelných a alternativních zdrojů energie – strategie EU, legislativní rámec podpor v ČR. (dotace 2/2)4.Energetické toky v zemědělství – historický vývoj, Green Revolution, postavení zemědělství v národním hospodářství. (dotace 2/2)5.Biomasa – úvod do problematiky, možnosti energetického využití biomasy. (dotace 2/2)6.Zdroje biomasy, formy biopaliv, potenciál produkce biomasy, specifika produkce energetických plodin. (dotace 2/2)7.Technika pro zpracování biomasy za účelem energetického využití (zpracování zemědělských produktů, zpracování dřevin, úprava biomasy – peletizace). (dotace 2/2)8.Termochemická konverze biomasy – spalování. (dotace 2/2)9.Termochemická konverze biomasy – zplyňování, pyrolýza, torifikace. (dotace 2/2)10.Biochemické transformace biomasy – anaerobní proces, vznik bioplynu a perspektivní technologie. (dotace 2/2)11.Kapalná biopaliva a přeměny. (dotace 2/2)12.Možnosti aplikace AZE v zemědělství – přímé technické využití energie Slunce, tepelná čerpadla. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Základní rozdělení energetických zdrojů na Zemi. Efektivita využívání energetických zdrojů, účinnost. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Úvod do energetiky - pojmy a terminologie. Vzájemná souvislost energetiky, ekologie a ekonomiky.",
+      "content": "2.Základní rozdělení energetických zdrojů na Zemi. Efektivita využívání energetických zdrojů, účinnost. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Podpora využívání obnovitelných a alternativních zdrojů energie – strategie EU, legislativní rámec podpor v ČR. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Energetické toky v zemědělství – historický vývoj, Green Revolution, postavení zemědělství v národním hospodářství. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Biomasa – úvod do problematiky, možnosti energetického využití biomasy. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Zdroje biomasy, formy biopaliv, potenciál produkce biomasy, specifika produkce energetických plodin. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Biomasa – úvod do problematiky, možnosti energetického využití biomasy.",
+      "content": "6.Zdroje biomasy, formy biopaliv, potenciál produkce biomasy, specifika produkce energetických plodin. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Technika pro zpracování biomasy za účelem energetického využití (zpracování zemědělských produktů, zpracování dřevin, úprava biomasy – peletizace). (dotace 2/2)"
+    },
+    {
+      "label": "[section] Zdroje biomasy, formy biopaliv, potenciál produkce biomasy, specifika produkce energetických plodin.",
+      "content": "7.Technika pro zpracování biomasy za účelem energetického využití (zpracování zemědělských produktů, zpracování dřevin, úprava biomasy – peletizace). (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Termochemická konverze biomasy – spalování. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Termochemická konverze biomasy – zplyňování, pyrolýza, torifikace. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Termochemická konverze biomasy – spalování.",
+      "content": "9.Termochemická konverze biomasy – zplyňování, pyrolýza, torifikace. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Biochemické transformace biomasy – anaerobní proces, vznik bioplynu a perspektivní technologie. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Termochemická konverze biomasy – zplyňování, pyrolýza, torifikace.",
+      "content": "10.Biochemické transformace biomasy – anaerobní proces, vznik bioplynu a perspektivní technologie. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Kapalná biopaliva a přeměny. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Biochemické transformace biomasy – anaerobní proces, vznik bioplynu  a perspektivní technologie.",
+      "content": "11.Kapalná biopaliva a přeměny. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Možnosti aplikace AZE v zemědělství – přímé technické využití energie Slunce, tepelná čerpadla. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Kapalná biopaliva a přeměny.",
+      "content": "12.Možnosti aplikace AZE v zemědělství – přímé technické využití energie Slunce, tepelná čerpadla. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku30 hpříprava na průběžný test30 hpříprava prezentace15 hzpracování seminární práce15 hCelkem146 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Ústní zkouška následující po elektronickém testu (tvoří 40 % celkového hodnocení) a zpracování seminární práce z hodnocení provozu vybrané technologie energetického využití biomasy (tvoří 20 % celkového hodnocení)."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumVypracování semestrální práce20 %Absolvování závěrečného testu40 %Absolvování závěrečné ústní zkoušky40 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MALAŤÁK, Jan; VACULÍK, Petr. 2008. Biomasa pro výrobu energie. 1. vyd. Praha: Česká zemědělská univerzita v Praze, 206 s. ISBN 978-80-213-1810-6. Biorenewable resources: engineering new products from agriculture. 2014. 2. vyd. Iowa: John Wiley & sons, 375 s. ISBN 978-1-1185-2495-4.Doporučená:MURTINGER, Karel; BERANOVSKÝ, Jiří. 2006. Energie z biomasy. 1. vyd. Brno: ERA, 94 s. ISBN 80-7366-071-7. Research approaches to sustainable biomass systems. 2014. 1. vyd. Oxford: Academic press, 399 s. ISBN 978-0-12-404609-2."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MALAŤÁK, Jan; VACULÍK, Petr. 2008. Biomasa pro výrobu energie. 1. vyd. Praha: Česká zemědělská univerzita v Praze, 206 s. ISBN 978-80-213-1810-6. Biorenewable resources: engineering new products from agriculture. 2014. 2. vyd. Iowa: John Wiley & sons, 375 s. ISBN 978-1-1185-2495-4."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "MURTINGER, Karel; BERANOVSKÝ, Jiří. 2006. Energie z biomasy. 1. vyd. Brno: ERA, 94 s. ISBN 80-7366-071-7. Research approaches to sustainable biomass systems. 2014. 1. vyd. Oxford: Academic press, 399 s. ISBN 978-0-12-404609-2."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "OZ"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Obnovitelné zdroje"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Renewable Resources"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2021/2022"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Martin Fajman, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Martin Fajman, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to energy - terms and terminology. The interrelationship of energy, ecology and economics. (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Principal distribution of energy resources on Earth. Transformation of energy resources, efficiency. (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Support for the use of renewable and alternative energy sources - EU strategy, legislative framework for support in the Czech Republic. (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Energy flows in agriculture - historical development, Green Revolution, the position of agriculture in the national economy. (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Biomass - introduction to the issue, the possibilities of energy use of biomass. (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Biomass sources, forms of biofuels, potential of biomass production, specifics of energy crop production. (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Biomass processing technology for energy use (processing of agricultural products, wood processing, biomass treatment - pelletization). (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Thermochemical conversion of biomass - combustion. (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Thermochemical conversion of biomass - gasification, pyrolysis, torefraction. (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Biochemical transformations of biomass - anaerobic process, biogas production and future technologies. (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Liquid biofuels and conversions. (allowance 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Possibilities of AES application in agriculture - direct technical use of solar energy, heat pumps. (allowance 2/2)"
+    },
+    {
+      "label": "Term paper",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "40 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Obnovitelné zdroje"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Renewable Resources"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2021/2022"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Martin Fajman, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Technology and Automobile Transport (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Martin Fajman, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityNoteWednesday11.00-12.50R204M. FajmanLectureEvery week30spojené s AZEWednesday13.00-14.50R204M. FajmanSeminarEvery week22spojené s AZE"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to acquaint students with the field of energy and the possibility of using renewable energy sources in the conditions of the Czech Republic in particular, especially with a focus on biomass."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to energy - terms and terminology. The interrelationship of energy, ecology and economics. (allowance 2/2)2.Principal distribution of energy resources on Earth. Transformation of energy resources, efficiency. (allowance 2/2)3.Support for the use of renewable and alternative energy sources - EU strategy, legislative framework for support in the Czech Republic. (allowance 2/2)4.Energy flows in agriculture - historical development, Green Revolution, the position of agriculture in the national economy. (allowance 2/2)5.Biomass - introduction to the issue, the possibilities of energy use of biomass. (allowance 2/2)6.Biomass sources, forms of biofuels, potential of biomass production, specifics of energy crop production. (allowance 2/2)7.Biomass processing technology for energy use (processing of agricultural products, wood processing, biomass treatment - pelletization). (allowance 2/2)8.Thermochemical conversion of biomass - combustion. (allowance 2/2)9.Thermochemical conversion of biomass - gasification, pyrolysis, torefraction. (allowance 2/2)10.Biochemical transformations of biomass - anaerobic process, biogas production and future technologies. (allowance 2/2)11.Liquid biofuels and conversions. (allowance 2/2)12.Possibilities of AES application in agriculture - direct technical use of solar energy, heat pumps. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Principal distribution of energy resources on Earth. Transformation of energy resources, efficiency. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Support for the use of renewable and alternative energy sources - EU strategy, legislative framework for support in the Czech Republic. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Principal distribution of energy resources on Earth. Transformation of energy resources, efficiency.",
+      "content": "3.Support for the use of renewable and alternative energy sources - EU strategy, legislative framework for support in the Czech Republic. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Energy flows in agriculture - historical development, Green Revolution, the position of agriculture in the national economy. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Biomass - introduction to the issue, the possibilities of energy use of biomass. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Biomass sources, forms of biofuels, potential of biomass production, specifics of energy crop production. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Biomass - introduction to the issue, the possibilities of energy use of biomass.",
+      "content": "6.Biomass sources, forms of biofuels, potential of biomass production, specifics of energy crop production. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Biomass processing technology for energy use (processing of agricultural products, wood processing, biomass treatment - pelletization). (allowance 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Thermochemical conversion of biomass - combustion. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Thermochemical conversion of biomass - gasification, pyrolysis, torefraction. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Thermochemical conversion of biomass - combustion.",
+      "content": "9.Thermochemical conversion of biomass - gasification, pyrolysis, torefraction. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Biochemical transformations of biomass - anaerobic process, biogas production and future technologies. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Thermochemical conversion of biomass - gasification, pyrolysis, torefraction.",
+      "content": "10.Biochemical transformations of biomass - anaerobic process, biogas production and future technologies. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Liquid biofuels and conversions. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Possibilities of AES application in agriculture - direct technical use of solar energy, heat pumps. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Liquid biofuels and conversions.",
+      "content": "12.Possibilities of AES application in agriculture - direct technical use of solar energy, heat pumps. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam30 hpreparation for regular testing30 hpreparation of presentation15 hwriting of seminar paper15 hTotal146 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Oral exam following the electronic test (constitutes 40% of the total evaluation) and elaboration of a seminar paper from the evaluation of the operation of the selected biomass energy utilization technology (constitutes 20% of the total evaluation)."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTerm paper20 %Final test40 %Final oral exam40 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MALAŤÁK, Jan; VACULÍK, Petr. 2008. Biomasa pro výrobu energie. 1st ed. Praha: Česká zemědělská univerzita v Praze, 206 p. ISBN 978-80-213-1810-6. Biorenewable resources: engineering new products from agriculture. 2014. 2nd ed. Iowa: John Wiley & sons, 375 p. ISBN 978-1-1185-2495-4.Recommended:MURTINGER, Karel; BERANOVSKÝ, Jiří. 2006. Energie z biomasy. 1st ed. Brno: ERA, 94 p. ISBN 80-7366-071-7. Research approaches to sustainable biomass systems. 2014. 1st ed. Oxford: Academic press, 399 p. ISBN 978-0-12-404609-2."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MALAŤÁK, Jan; VACULÍK, Petr. 2008. Biomasa pro výrobu energie. 1st ed. Praha: Česká zemědělská univerzita v Praze, 206 p. ISBN 978-80-213-1810-6. Biorenewable resources: engineering new products from agriculture. 2014. 2nd ed. Iowa: John Wiley & sons, 375 p. ISBN 978-1-1185-2495-4."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "MURTINGER, Karel; BERANOVSKÝ, Jiří. 2006. Energie z biomasy. 1st ed. Brno: ERA, 94 p. ISBN 80-7366-071-7. Research approaches to sustainable biomass systems. 2014. 1st ed. Oxford: Academic press, 399 p. ISBN 978-0-12-404609-2."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:49:24",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

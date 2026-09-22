@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -63,7 +63,7 @@
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Správa a údržba IS"
+      "content": "Správa a údržba IS a ne Státní bakalářská zkouška"
     },
     {
       "label": "1.",
@@ -135,7 +135,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, ZS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -151,7 +151,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -203,11 +203,11 @@
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Správa a údržba IS"
+      "content": "Prerekvizity: Správa a údržba IS a ne Státní bakalářská zkouška"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPátek7.00-8.50Q06B-AIIZ. ŠpendelPřednáškaKaždý týden21Pátek9.00-10.50Q06B-AIIZ. ŠpendelCvičeníKaždý týden21Sobota9.00-12.50Q06B-AIIZ. ŠpendelPřednáškaNepravidelně20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaČtvrtek17.00-17.50Q08B-AIIZ. ŠpendelPřednáškaNepravidelně20Pátek7.00-8.50Q06B-AIIZ. ŠpendelPřednáškaKaždý týden20Pátek9.00-10.50Q06B-AIIZ. ŠpendelCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -267,11 +267,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h40 hveřejná prezentace (ústní)2 h2 hpříprava na zkoušku32 h32 hpříprava prezentace4 h4 hzpracování projektů12 h12 hzpracování seminární práce34 h34 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h40 hveřejná prezentace (ústní)2 h2 hpříprava na zkoušku32 h32 hpříprava prezentace4 h4 hzpracování projektů12 h12 hzpracování seminární práce34 h34 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Předmět je ukončen zápočtem a zkouškou. Zápočet je zapsán po odevzdání semestrální práce. Zkouška bude písemná (test, maximálně 90 bodů) a ústní (semestrální práce navázaná na řešení problému z praxe, prezentace řešení problému v rámci ústní části zkoušky, maximálně 10 bodů). Pro splnění ústní části je nutno získat minimálně 5 bodů a pro splnění znalostního testu je třeba získat alespoň 55 bodů. V semestrální práci studenti vytvoří dokumentaci podpory IT projektu, která je v souladu s rámcem ITIL. Součástí dokumentace je: návrh Service Desk (SPOC) a Event Managementu, návrh UC (Underpinning Contract), OLA a SLA, katalog služeb, protokol měření dostupnosti služeb, návrh řízení životního cyklu všech změn, Demingův cyklus. Ke každé části je nutno odevzdat také popis v rozsahu 50 – 100 slov. Výsledná známka se počítá ze součtu bodů za obhajobu semestrální práce a zkouškové písemky následujícím způsobem A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 bodů."
+      "content": "Předmět je ukončen zápočtem a zkouškou. Zápočet je zapsán po odevzdání semestrální práce. Zkouška bude písemná (test, maximálně 90 bodů) a ústní (semestrální práce navázaná na řešení problému z praxe, prezentace řešení problému v rámci ústní části zkoušky, maximálně 10 bodů). Pro splnění ústní části je nutno získat minimálně 5 bodů a pro splnění znalostního testu je třeba získat alespoň 55 bodů. V semestrální práci studenti vytvoří dokumentaci podpory IT projektu, která je v souladu s rámcem ITIL. Součástí dokumentace je: návrh architektury, návrh Service Desk (SPOC) a Event Managementu, návrh strategie podle Balanced Scorecard diagramu, návrh KPI, analýza 5F, analýza MOST, návrh UC (Underpinning Contract), OLA a SLA, servisní mapa v BPMN, katalog služeb, identifikace rizik a návrh opatření pomocí metody RIPRAN, návrh kapacity služeb, návrh plánování správy dostupnosti, protokol měření dostupnosti služeb, návrh zajištění důvěrnosti, integrity a dostupnosti informací, dat a služeb, návrh řízení životního cyklu všech změn, návrh znalostí báze, Demingův cyklus. Ke každé části je nutno odevzdat také popis v rozsahu 300 – 500 slov. Výsledná známka se počítá ze součtu bodů za obhajobu semestrální práce a zkouškové písemky následujícím způsobem A 90-100, B 83-89, C 75-82, D 68-74, E 60-67 bodů."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -313,7 +313,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -361,7 +361,7 @@
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Administration and Maintenance of IS"
+      "content": "Administration and Maintenance of IS and not Final Bachelor Exam"
     },
     {
       "label": "1.",
@@ -433,7 +433,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, WS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -449,7 +449,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -501,11 +501,11 @@
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Administration and Maintenance of IS"
+      "content": "Prerequisites: Administration and Maintenance of IS and not Final Bachelor Exam"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityFriday7.00-8.50Q06B-AIIZ. ŠpendelLectureEvery week21Friday9.00-10.50Q06B-AIIZ. ŠpendelSeminarEvery week21Saturday9.00-12.50Q06B-AIIZ. ŠpendelLectureOccasionally20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityThursday17.00-17.50Q08B-AIIZ. ŠpendelLectureOccasionally20Friday7.00-8.50Q06B-AIIZ. ŠpendelLectureEvery week20Friday9.00-10.50Q06B-AIIZ. ŠpendelSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -565,7 +565,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h40 hpublic presentation (oral)2 h2 hpreparation for exam32 h32 hpreparation of presentation4 h4 helaboration and execution of projects12 h12 hwriting of seminar paper34 h34 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h40 hpublic presentation (oral)2 h2 hpreparation for exam32 h32 hpreparation of presentation4 h4 helaboration and execution of projects12 h12 hwriting of seminar paper34 h34 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -596,6 +596,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:40:48",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:54:16",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

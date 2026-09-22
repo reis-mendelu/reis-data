@@ -3,17 +3,102 @@
   "name": "Rostliny v krajinářské architektuře I",
   "nameCs": null,
   "nameEn": null,
-  "predmetId": "4",
+  "predmetId": "162308",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
     "Bc. Ing. et Ing. Lenka Miksová, Ph.D.",
-    "Ing. Adam Baroš, Ph.D.",
-    "Ing. Ilona Vybíralová",
-    "Ing. Martin Kovář",
-    "Ing. Terézia Škuláňová",
+    "doc. Ing. Přemysl Krejčiřík, Ph.D.",
     "prof. Ing. Miloš Pejchal, CSc."
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162308;lang=cz",
+      "totalPass": 14,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 2,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 14,
+            "nezap": 2,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 12,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 12,
+            "nezap": 4,
+            "zapNedost": 0
+          }
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 24/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "je možné při vypracování alternativní semestrální práce"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -111,7 +111,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -127,7 +127,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -135,11 +135,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 24/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zápočet (4 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 24/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -155,7 +155,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: je možné při vypracování alternativní semestrální práce"
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -183,7 +183,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek13.00-14.50ZFAA1 (Led)P. Salaš, I. Ondrášek, R. Pokluda, J. UherPřednáškaKaždý týden42Čtvrtek15.00-16.50ZFAB2 (Led)I. Ondrášek, R. Pokluda, P. Salaš, J. UherCvičeníKaždý týden22Sobota8.00-12.50ZFAB2 (Led)P. Salaš, I. Ondrášek, R. Pokluda, J. UherPřednáškaNepravidelně30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek12.00-13.50Smazat-ZFC21 (Led)R. Pokluda, I. Ondrášek, P. Salaš, J. UherPřednáškaKaždý týden36Čtvrtek14.00-15.50Smazat-ZFC21 (Led)R. Pokluda, I. Ondrášek, P. Salaš, J. UherCvičeníKaždý týden22Sobota8.00-12.50ZFAB2 (Led)R. Pokluda, I. Ondrášek, P. Salaš, J. UherPřednáškaNepravidelně30"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -243,27 +243,27 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h24 hcvičení28 h0 hkonzultace0 h4 hprojektová práce24 h24 hpříprava na zkoušku32 h48 hpříprava prezentace0 h12 hCelkem112 h112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h24 hcvičení28 h0 hprojektová práce24 h24 hpříprava na zkoušku32 h48 hCelkem112 h96 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "zápočet - písemná práce a prezentace projektové práce přednášky a konzultace - povinná účast"
+      "content": "zápočet - písemná prezentace projektové práce přednášky a konzultace - povinná účast zkouška - ústní prezentace a obhajoba projektu"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce60 %60 %Prezentace nebo obhajoba40 %40 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1. vyd. Praha: Profi Press s.r.o., 253 s. ISBN 978-80-86726-46-5.HLUŠEK, Jaroslav; BALÍK, Josef; BURG, Patrik; NECAS, Tomas; LOŠÁK, Tomáš; ONDRÁŠEK, Ivo; ŠAFRÁNKOVÁ, Ivana; WOLF, Jan; ZEMÁNEK, Pavel. 2018. Ovocné kultury. 1. vyd. Praha: Profi Press s. r. o., 239 s. ISBN 978-80-86726-86-1.VALÍČEK, Pavel a kol. 2002. Užitkové rostliny tropů a subtropů. 2. vyd. Praha: Academia, 486 s. ISBN 80-200-0939-6.KUŤKOVÁ, Tatiana; UHER, Jiří; DLABOVÁ, Alžbeta. 2022. Květiny a květinový záhon. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-864-1.KUŤKOVÁ, Tatiana; UHER, Jiří. 2017. Výběr a použití rostlinného sortimentu pro díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1. vyd. Brno: Mendelova univerzita v Brně, 119 s. ISBN 978-80-7509-508-4.VANĚK, Václav a kol. 2012. Výživa zahradních rostlin. 1. vyd. Praha: Academia, 568 s. ISBN 978-80-200-2147-2. List of names of perennials: international standard 2016 - 2020 = Naamlijst van vaste planten = Namenliste Stauden = Liste de noms des plantes vivaces. 2016. 7. vyd. Reolofarendsveen: Naktuinbouw, 632 s. ISBN 978-90-815169-2-1. List of names of woody plants: international standard ENA 2016 - 2020 = Naamlijst van houtige gewassen = Namenliste Gehölze = Liste de noms des plantes ligneuses. 2016. 9. vyd. Reolofarendsveen: Naktuinbouw, 1080 s. ISBN 978-90-815169-3-8.POKLUDA, Robert; JURICA, Miloš; JEZDINSKÝ, Aleš; PETŘÍKOVÁ, Kristína; KOPTA, Tomáš; KOUDELA, Martin; ŠKARPA, Petr; LOŠÁK, Tomáš; DOLEŽELOVÁ, Eva; ANTOŠOVSKÝ, Jiří; KLOFÁČ, Daniel; MIKUŠOVÁ, Dominika; KRIŠKA, Tomáš. 2022. Zelenina: pěstování, výživa a ochrana. 2. vyd. Praha: Profi Press s.r.o., 256 s. ISBN 978-80-88306-20-7."
+      "content": "Základní:PETŘÍKOVÁ, Kristina; HLUŠEK, Jaroslav; KOUDELA, Martin; MALÝ, Ivan; POKLUDA, Robert; LOŠÁK, Tomáš; RYANT, Pavel; ŠKARPA, Petr; ROD, Jaroslav; JÁNSKÝ, Jaroslav; POLÁČKOVÁ, Jana. 2012. Zelenina - pěstování, výživa, ekonomika. 1. vyd. Praha: ProfiPress, 191 s. ISBN 978-80-86726-50-2.POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1. vyd. Praha: Profi Press s.r.o., 253 s. ISBN 978-80-86726-46-5."
     },
     {
       "label": "[section] Základní:",
-      "content": "POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1. vyd. Praha: Profi Press s.r.o., 253 s. ISBN 978-80-86726-46-5.HLUŠEK, Jaroslav; BALÍK, Josef; BURG, Patrik; NECAS, Tomas; LOŠÁK, Tomáš; ONDRÁŠEK, Ivo; ŠAFRÁNKOVÁ, Ivana; WOLF, Jan; ZEMÁNEK, Pavel. 2018. Ovocné kultury. 1. vyd. Praha: Profi Press s. r. o., 239 s. ISBN 978-80-86726-86-1.VALÍČEK, Pavel a kol. 2002. Užitkové rostliny tropů a subtropů. 2. vyd. Praha: Academia, 486 s. ISBN 80-200-0939-6.KUŤKOVÁ, Tatiana; UHER, Jiří; DLABOVÁ, Alžbeta. 2022. Květiny a květinový záhon. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-864-1.KUŤKOVÁ, Tatiana; UHER, Jiří. 2017. Výběr a použití rostlinného sortimentu pro díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1. vyd. Brno: Mendelova univerzita v Brně, 119 s. ISBN 978-80-7509-508-4.VANĚK, Václav a kol. 2012. Výživa zahradních rostlin. 1. vyd. Praha: Academia, 568 s. ISBN 978-80-200-2147-2. List of names of perennials: international standard 2016 - 2020 = Naamlijst van vaste planten = Namenliste Stauden = Liste de noms des plantes vivaces. 2016. 7. vyd. Reolofarendsveen: Naktuinbouw, 632 s. ISBN 978-90-815169-2-1. List of names of woody plants: international standard ENA 2016 - 2020 = Naamlijst van houtige gewassen = Namenliste Gehölze = Liste de noms des plantes ligneuses. 2016. 9. vyd. Reolofarendsveen: Naktuinbouw, 1080 s. ISBN 978-90-815169-3-8.POKLUDA, Robert; JURICA, Miloš; JEZDINSKÝ, Aleš; PETŘÍKOVÁ, Kristína; KOPTA, Tomáš; KOUDELA, Martin; ŠKARPA, Petr; LOŠÁK, Tomáš; DOLEŽELOVÁ, Eva; ANTOŠOVSKÝ, Jiří; KLOFÁČ, Daniel; MIKUŠOVÁ, Dominika; KRIŠKA, Tomáš. 2022. Zelenina: pěstování, výživa a ochrana. 2. vyd. Praha: Profi Press s.r.o., 256 s. ISBN 978-80-88306-20-7."
+      "content": "PETŘÍKOVÁ, Kristina; HLUŠEK, Jaroslav; KOUDELA, Martin; MALÝ, Ivan; POKLUDA, Robert; LOŠÁK, Tomáš; RYANT, Pavel; ŠKARPA, Petr; ROD, Jaroslav; JÁNSKÝ, Jaroslav; POLÁČKOVÁ, Jana. 2012. Zelenina - pěstování, výživa, ekonomika. 1. vyd. Praha: ProfiPress, 191 s. ISBN 978-80-86726-50-2.POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1. vyd. Praha: Profi Press s.r.o., 253 s. ISBN 978-80-86726-46-5."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace NZ Zahradnictví, prezenční forma, počáteční období ZS 2024/2025Specializace NZ Zahradnictví, kombinovaná forma, počáteční období ZS 2024/2025"
+      "content": "Specializace NZ Zahradnictví, prezenční forma, počáteční období ZS 2020/2021Specializace NZ Zahradnictví, kombinovaná forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -285,7 +285,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -293,7 +293,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 24/0 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -309,7 +309,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "is possible by alternative semestral work"
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -337,7 +337,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -353,7 +353,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -361,11 +361,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 24/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Pass credit (4 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 24/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -381,7 +381,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: is possible by alternative semestral work"
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -409,7 +409,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday13.00-14.50ZFAA1 (Led)P. Salaš, I. Ondrášek, R. Pokluda, J. UherLectureEvery week42Thursday15.00-16.50ZFAB2 (Led)I. Ondrášek, R. Pokluda, P. Salaš, J. UherSeminarEvery week22Saturday8.00-12.50ZFAB2 (Led)P. Salaš, I. Ondrášek, R. Pokluda, J. UherLectureOccasionally30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday12.00-13.50Smazat-ZFC21 (Led)R. Pokluda, I. Ondrášek, P. Salaš, J. UherLectureEvery week36Thursday14.00-15.50Smazat-ZFC21 (Led)R. Pokluda, I. Ondrášek, P. Salaš, J. UherSeminarEvery week22Saturday8.00-12.50ZFAB2 (Led)R. Pokluda, I. Ondrášek, P. Salaš, J. UherLectureOccasionally30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -421,7 +421,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h24 hpractice28 h0 hconsultation0 h4 hproject work24 h24 hpreparation for exam32 h48 hpreparation of presentation0 h12 hTotal112 h112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h24 hpractice28 h0 hproject work24 h24 hpreparation for exam32 h48 hTotal112 h96 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -429,25 +429,25 @@
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formTerm paper60 %60 %Presentation or defence40 %40 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1st ed. Praha: Profi Press s.r.o., 253 p. ISBN 978-80-86726-46-5.HLUŠEK, Jaroslav; BALÍK, Josef; BURG, Patrik; NECAS, Tomas; LOŠÁK, Tomáš; ONDRÁŠEK, Ivo; ŠAFRÁNKOVÁ, Ivana; WOLF, Jan; ZEMÁNEK, Pavel. 2018. Ovocné kultury. 1st ed. Praha: Profi Press s. r. o., 239 p. ISBN 978-80-86726-86-1.VALÍČEK, Pavel et al. 2002. Užitkové rostliny tropů a subtropů. 2nd ed. Praha: Academia, 486 p. ISBN 80-200-0939-6.KUŤKOVÁ, Tatiana; UHER, Jiří; DLABOVÁ, Alžbeta. 2022. Květiny a květinový záhon. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-864-1.KUŤKOVÁ, Tatiana; UHER, Jiří. 2017. Výběr a použití rostlinného sortimentu pro díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1st ed. Brno: Mendelova univerzita v Brně, 119 p. ISBN 978-80-7509-508-4.VANĚK, Václav et al. 2012. Výživa zahradních rostlin. 1st ed. Praha: Academia, 568 p. ISBN 978-80-200-2147-2. List of names of perennials: international standard 2016 - 2020 = Naamlijst van vaste planten = Namenliste Stauden = Liste de noms des plantes vivaces. 2016. 7th ed. Reolofarendsveen: Naktuinbouw, 632 p. ISBN 978-90-815169-2-1. List of names of woody plants: international standard ENA 2016 - 2020 = Naamlijst van houtige gewassen = Namenliste Gehölze = Liste de noms des plantes ligneuses. 2016. 9th ed. Reolofarendsveen: Naktuinbouw, 1080 p. ISBN 978-90-815169-3-8.POKLUDA, Robert; JURICA, Miloš; JEZDINSKÝ, Aleš; PETŘÍKOVÁ, Kristína; KOPTA, Tomáš; KOUDELA, Martin; ŠKARPA, Petr; LOŠÁK, Tomáš; DOLEŽELOVÁ, Eva; ANTOŠOVSKÝ, Jiří; KLOFÁČ, Daniel; MIKUŠOVÁ, Dominika; KRIŠKA, Tomáš. 2022. Zelenina: pěstování, výživa a ochrana. 2nd ed. Praha: Profi Press s.r.o., 256 p. ISBN 978-80-88306-20-7."
+      "content": "Basic:PETŘÍKOVÁ, Kristina; HLUŠEK, Jaroslav; KOUDELA, Martin; MALÝ, Ivan; POKLUDA, Robert; LOŠÁK, Tomáš; RYANT, Pavel; ŠKARPA, Petr; ROD, Jaroslav; JÁNSKÝ, Jaroslav; POLÁČKOVÁ, Jana. 2012. Zelenina - pěstování, výživa, ekonomika. 1st ed. Praha: ProfiPress, 191 p. ISBN 978-80-86726-50-2.POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1st ed. Praha: Profi Press s.r.o., 253 p. ISBN 978-80-86726-46-5."
     },
     {
       "label": "[section] Basic:",
-      "content": "POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1st ed. Praha: Profi Press s.r.o., 253 p. ISBN 978-80-86726-46-5.HLUŠEK, Jaroslav; BALÍK, Josef; BURG, Patrik; NECAS, Tomas; LOŠÁK, Tomáš; ONDRÁŠEK, Ivo; ŠAFRÁNKOVÁ, Ivana; WOLF, Jan; ZEMÁNEK, Pavel. 2018. Ovocné kultury. 1st ed. Praha: Profi Press s. r. o., 239 p. ISBN 978-80-86726-86-1.VALÍČEK, Pavel et al. 2002. Užitkové rostliny tropů a subtropů. 2nd ed. Praha: Academia, 486 p. ISBN 80-200-0939-6.KUŤKOVÁ, Tatiana; UHER, Jiří; DLABOVÁ, Alžbeta. 2022. Květiny a květinový záhon. Brno: Mendelova univerzita v Brně, ISBN 978-80-7509-864-1.KUŤKOVÁ, Tatiana; UHER, Jiří. 2017. Výběr a použití rostlinného sortimentu pro díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1st ed. Brno: Mendelova univerzita v Brně, 119 p. ISBN 978-80-7509-508-4.VANĚK, Václav et al. 2012. Výživa zahradních rostlin. 1st ed. Praha: Academia, 568 p. ISBN 978-80-200-2147-2. List of names of perennials: international standard 2016 - 2020 = Naamlijst van vaste planten = Namenliste Stauden = Liste de noms des plantes vivaces. 2016. 7th ed. Reolofarendsveen: Naktuinbouw, 632 p. ISBN 978-90-815169-2-1. List of names of woody plants: international standard ENA 2016 - 2020 = Naamlijst van houtige gewassen = Namenliste Gehölze = Liste de noms des plantes ligneuses. 2016. 9th ed. Reolofarendsveen: Naktuinbouw, 1080 p. ISBN 978-90-815169-3-8.POKLUDA, Robert; JURICA, Miloš; JEZDINSKÝ, Aleš; PETŘÍKOVÁ, Kristína; KOPTA, Tomáš; KOUDELA, Martin; ŠKARPA, Petr; LOŠÁK, Tomáš; DOLEŽELOVÁ, Eva; ANTOŠOVSKÝ, Jiří; KLOFÁČ, Daniel; MIKUŠOVÁ, Dominika; KRIŠKA, Tomáš. 2022. Zelenina: pěstování, výživa a ochrana. 2nd ed. Praha: Profi Press s.r.o., 256 p. ISBN 978-80-88306-20-7."
+      "content": "PETŘÍKOVÁ, Kristina; HLUŠEK, Jaroslav; KOUDELA, Martin; MALÝ, Ivan; POKLUDA, Robert; LOŠÁK, Tomáš; RYANT, Pavel; ŠKARPA, Petr; ROD, Jaroslav; JÁNSKÝ, Jaroslav; POLÁČKOVÁ, Jana. 2012. Zelenina - pěstování, výživa, ekonomika. 1st ed. Praha: ProfiPress, 191 p. ISBN 978-80-86726-50-2.POKLUDA, Robert; KOBZA, František. 2011. Skleníky, fóliovníky, využití a pěstební technologie. 1st ed. Praha: Profi Press s.r.o., 253 p. ISBN 978-80-86726-46-5."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track NH Horticulture, full-time form, initial period WS 2024/2025Track NH Horticulture, part-time form, initial period WS 2024/2025"
+      "content": "Track NH Horticulture, full-time form, initial period WS 2020/2021Track NH Horticulture, part-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 09:40:34",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 10:09:17",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

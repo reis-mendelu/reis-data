@@ -3,7 +3,7 @@
   "name": "Workshop",
   "nameCs": "Workshop",
   "nameEn": "Workshop",
-  "predmetId": "157402",
+  "predmetId": "162254",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
@@ -12,11 +12,49 @@
     "Ing. Jozef Sedláček, Ph.D.",
     "Ing. Kristýna Kříčková",
     "Ing. Radim Klepárník, Ph.D.",
-    "Ing. Zuzana Fialová, Ph.D.",
     "Ing. arch. Johana Kratochvilová",
     "doc. Dr. Ing. Alena Salašová"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162254;lang=cz",
+      "totalPass": 40,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 25,
+            "B": 10,
+            "C": 5,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 40,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 25,
+            "B": 10,
+            "C": 5,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 40,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -96,5 +134,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,7 +3,7 @@
   "name": "Statistika",
   "nameCs": "Statistika",
   "nameEn": "Statistics",
-  "predmetId": "160716",
+  "predmetId": "161676",
   "facultyId": 38,
   "aliases": [
     "EBC-ST",
@@ -11,12 +11,77 @@
     "STSK"
   ],
   "teachers": [
-    "Ing. Barbora Uherková, Ph.D.",
     "Ing. Kristýna Šleglová, Ph.D.",
-    "Ing. Michal Kneifl, Ph.D.",
     "doc. Ing. Zdeněk Adamec, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161676;lang=cz",
+      "totalPass": 33,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 12,
+            "C": 6,
+            "D": 7,
+            "E": 6,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 12,
+            "C": 4,
+            "D": 6,
+            "E": 6,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -559,5 +624,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

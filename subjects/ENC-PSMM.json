@@ -3,15 +3,56 @@
   "name": "Pokročilé statistické metody a modely",
   "nameCs": "Pokročilé statistické metody a modely",
   "nameEn": "Advanced Statistical Methods and Models",
-  "predmetId": "156516",
+  "predmetId": "162591",
   "facultyId": 2,
-  "aliases": [],
+  "aliases": [
+    "PSM"
+  ],
   "teachers": [
     "Ing. Terézia Vančová, Ph.D.",
     "RNDr. Lenka Viskotová, Ph.D.",
     "prof. Mgr. David Hampel, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162591;lang=cz",
+      "totalPass": 19,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 7,
+            "C": 2,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 19,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 7,
+            "C": 2,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 19,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -208,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

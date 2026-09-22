@@ -3,17 +3,71 @@
   "name": "Konzervace potravin",
   "nameCs": "Konzervace potravin",
   "nameEn": "Food Conservation",
-  "predmetId": "157155",
+  "predmetId": "162402",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "Ing. Hong Phuong Luongová",
     "Ing. Jan Slováček, Ph.D.",
+    "Ing. Renáta Dufková, Ph.D.",
     "Ing. Veronika Švehlová, Ph.D.",
     "doc. Ing. Libor Kalhotka, Ph.D.",
     "doc. Ing. Miroslav Jůzl, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162402;lang=cz",
+      "totalPass": 31,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 16,
+            "B": 12,
+            "C": 2,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 16,
+            "B": 11,
+            "C": 2,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -294,5 +348,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

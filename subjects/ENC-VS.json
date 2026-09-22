@@ -3,13 +3,52 @@
   "name": "Výběrová šetření",
   "nameCs": "Výběrová šetření",
   "nameEn": "Sample Surveys",
-  "predmetId": "153288",
+  "predmetId": "162677",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "doc. Mgr. Veronika Blašková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162677;lang=cz",
+      "totalPass": 20,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 3,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 20,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 3,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 20,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2024/2025 - PEF",
       "semesterId": "754",
@@ -167,5 +206,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

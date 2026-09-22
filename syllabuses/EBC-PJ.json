@@ -11,11 +11,11 @@
     },
     {
       "label": "Název předmětu anglicky:",
-      "content": "Java Programming Language"
+      "content": "Programming Language Java"
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -59,15 +59,15 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Petr Jedlička, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Ing. Petr Jedlička, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Jan Kolomazník, Ph.D. (cvičící, tutor, zkoušející)Ing. František Ostřížek (cvičící, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "ne Státní bakalářská zkouška a ne Programovací jazyk Java"
     },
     {
       "label": "1.",
-      "content": "Vlastnosti a použití jazyka Java (dotace 1/2)"
+      "content": "Vlastnosti a použití jazyka Java (dotace 2/2)"
     },
     {
       "label": "a.",
@@ -83,7 +83,7 @@
     },
     {
       "label": "2.",
-      "content": "Objektově orientované programování v jazyce Java (dotace 4/8)"
+      "content": "Objektově orientované programování v jazyce Java (dotace 8/8)"
     },
     {
       "label": "a.",
@@ -103,7 +103,7 @@
     },
     {
       "label": "3.",
-      "content": "Vstupně-výstupní operace v jazyce Java (dotace 2/4)"
+      "content": "Vstupně-výstupní operace v jazyce Java (dotace 4/4)"
     },
     {
       "label": "a.",
@@ -119,7 +119,7 @@
     },
     {
       "label": "4.",
-      "content": "Programátorské konvence v jazyce Java, zásady vývoje aplikací (dotace 1/3)"
+      "content": "Programátorské konvence v jazyce Java, zásady vývoje aplikací (dotace 3/3)"
     },
     {
       "label": "a.",
@@ -135,7 +135,7 @@
     },
     {
       "label": "5.",
-      "content": "Vlákna (dotace 2/3)"
+      "content": "Vlákna (dotace 3/3)"
     },
     {
       "label": "a.",
@@ -151,7 +151,7 @@
     },
     {
       "label": "6.",
-      "content": "Síťová komunikace v Javě (dotace 1/2)"
+      "content": "Síťová komunikace v Javě (dotace 2/2)"
     },
     {
       "label": "a.",
@@ -167,7 +167,7 @@
     },
     {
       "label": "7.",
-      "content": "Funkční rozhraní, lambda výrazy, predikáty, datové proudy (dotace 3/6)"
+      "content": "Funkční rozhraní, lambda výrazy, predikáty, datové proudy (dotace 6/6)"
     },
     {
       "label": "a.",
@@ -186,12 +186,20 @@
       "content": "Datové proudy."
     },
     {
-      "label": "Hodnocené průběžné úkoly",
-      "content": "30 %"
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "45 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "5 %"
     },
     {
       "label": "Absolvování závěrečného testu",
-      "content": "70 %"
+      "content": "40 %"
     },
     {
       "label": "Celkem",
@@ -199,7 +207,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, LS 2022/2023, ZS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, LS 2022/2023, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -211,11 +219,11 @@
     },
     {
       "label": "[section] Název předmětu česky:",
-      "content": "Název předmětu anglicky: Java Programming Language"
+      "content": "Název předmětu anglicky: Programming Language Java"
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -223,11 +231,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (6 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -263,15 +271,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Petr Jedlička, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Petr Jedlička, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Jan Kolomazník, Ph.D. (cvičící, tutor, zkoušející)Ing. František Ostřížek (cvičící, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Programovací jazyk Java"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q06B-AIIB-OIP. JedličkaCvičeníKaždý týden20Pondělí17.00-18.50Q06B-AIIB-OIP. JedličkaCvičeníKaždý týden20Středa11.00-12.50Q07B-AIIB-OIP. JedličkaCvičeníKaždý týden20Středa13.00-14.50Q07B-AIIB-OIP. JedličkaCvičeníKaždý týden20Středa15.00-16.50Q16B-AIIB-OIP. JedličkaPřednáškaLichý týden80"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý15.00-16.50Q06J. KolomazníkCvičeníKaždý týden20Středa7.00-8.50Q06J. KolomazníkCvičeníKaždý týden20Čtvrtek9.00-10.50Q06F. OstřížekCvičeníKaždý týden20Čtvrtek13.00-14.50Q16P. JedličkaPřednáškaKaždý týden80"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -279,7 +287,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Vlastnosti a použití jazyka Java (dotace 1/2) a.Vlastnosti a použití jazyka Java.b.Postup vytváření a distribuce aplikací.c.Java platformy.2.Objektově orientované programování v jazyce Java (dotace 4/8) a.Třídy, rozhraní, balíky, omezení přístupu.b.Tvorba a rušení objektů, metody, polymorfismus.c.Datové typy (primitivní a objektové), pole, kontejnery, generické typy v třídách a metodách.d.Iterátory, operátory a jejich priorita, příkazy, řídicí struktury, výjimky.3.Vstupně-výstupní operace v jazyce Java (dotace 2/4) a.Datové streamy.b.Práce se soubory.c.Serializace a deserializace dat.4.Programátorské konvence v jazyce Java, zásady vývoje aplikací (dotace 1/3) a.Tvorba programátorské dokumentace pomocí nástroje JavaDoc.b.Balíky a JAR archívy.c.Testy řízený vývoj softwaru (TDD), testovací rámec JUnit.5.Vlákna (dotace 2/3) a.Tvorba vícevláknových aplikací.b.Synchronizace vláken.c.Priorita.6.Síťová komunikace v Javě (dotace 1/2) a.Reprezentace IP adres.b.Datagramová komunikace prostřednictvím protokolu UDP.c.Spojovaná komunikace prostřednictvím protokolu TCP. Implementace TCP klienta, TCP serveru, HTTP klienta.7.Funkční rozhraní, lambda výrazy, predikáty, datové proudy (dotace 3/6) a.Funkční rozhraní.b.Lambda výrazy.c.Predikáty.d.Datové proudy."
+      "content": "1.Vlastnosti a použití jazyka Java (dotace 2/2) a.Vlastnosti a použití jazyka Java.b.Postup vytváření a distribuce aplikací.c.Java platformy.2.Objektově orientované programování v jazyce Java (dotace 8/8) a.Třídy, rozhraní, balíky, omezení přístupu.b.Tvorba a rušení objektů, metody, polymorfismus.c.Datové typy (primitivní a objektové), pole, kontejnery, generické typy v třídách a metodách.d.Iterátory, operátory a jejich priorita, příkazy, řídicí struktury, výjimky.3.Vstupně-výstupní operace v jazyce Java (dotace 4/4) a.Datové streamy.b.Práce se soubory.c.Serializace a deserializace dat.4.Programátorské konvence v jazyce Java, zásady vývoje aplikací (dotace 3/3) a.Tvorba programátorské dokumentace pomocí nástroje JavaDoc.b.Balíky a JAR archívy.c.Testy řízený vývoj softwaru (TDD), testovací rámec JUnit.5.Vlákna (dotace 3/3) a.Tvorba vícevláknových aplikací.b.Synchronizace vláken.c.Priorita.6.Síťová komunikace v Javě (dotace 2/2) a.Reprezentace IP adres.b.Datagramová komunikace prostřednictvím protokolu UDP.c.Spojovaná komunikace prostřednictvím protokolu TCP. Implementace TCP klienta, TCP serveru, HTTP klienta.7.Funkční rozhraní, lambda výrazy, predikáty, datové proudy (dotace 6/6) a.Funkční rozhraní.b.Lambda výrazy.c.Predikáty.d.Datové proudy."
     },
     {
       "label": "[section] 1.",
@@ -339,31 +347,31 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku86 hpříprava na průběžné hodnocení20 hpříprava na průběžný test20 hCelkem168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku62 hzpracování projektů50 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "K ukončení předmětu je vyžadováno získání min. 15 bodů z možných 30 z průběžných úkolů a min. 35 bodů ze 70 ze zkoušky, která má znalostní a praktickou část."
+      "content": "K ukončení předmětu je vyžadováno zpracování softwarového projektu a splnění písemného zkouškového testu. Ze cvičení lze získat max. 60 bodů (softwarový projekt – 45 bodů, aktivita – 10 bodů, průběžný test – 5 bodů). Softwarový projekt je zpracováván postupně a hodnocen po etapách. Zpracování každé etapy má jeden opravný pokus. Průběžný test nemá opravný pokus. Ze závěrečného zkouškového testu lze získat max. 40 bodů. Pro úspěšné ukončení předmětu je třeba získat celkově min. 60 bodů ze 100, současně však min. 30 bodů ze cvičení a 20 bodů ze zkouškového testu."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumHodnocené průběžné úkoly30 %Absolvování závěrečného testu70 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Vypracování semestrální práce45 %Absolvování průběžného testu (testů)5 %Absolvování závěrečného testu40 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2. vyd. Praha: Grada, 570 s. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 s. ISBN 978-80-251-1582-4.Doporučená:ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+      "content": "Základní: Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2009. 2. vyd. Praha: Grada, 570 s. Myslíme v--. ISBN 978-80-247-2653-3. . 2018. itnetwork.cz Java - Největší česká online učebnice. https://www.itnetwork.cz/java.Doporučená:PECINOVSKÝ, Rudolf. 2007. Návrhové vzory: [33 vzorových postupů pro objektové programování]. 1. vyd. Brno: Computer Press, 527 s. ISBN 978-80-251-1582-4.Oficiální dokumentace jazyka Java dostupná na https://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html"
     },
     {
       "label": "[section] Základní:",
-      "content": "PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2. vyd. Praha: Grada, 570 s. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 s. ISBN 978-80-251-1582-4."
+      "content": "Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2009. 2. vyd. Praha: Grada, 570 s. Myslíme v--. ISBN 978-80-247-2653-3. . 2018. itnetwork.cz Java - Největší česká online učebnice. https://www.itnetwork.cz/java."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+      "content": "PECINOVSKÝ, Rudolf. 2007. Návrhové vzory: [33 vzorových postupů pro objektové programování]. 1. vyd. Brno: Computer Press, 527 s. ISBN 978-80-251-1582-4.Oficiální dokumentace jazyka Java dostupná na https://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html"
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Obor B-II-ARI Automatizace řízení a informatika, prezenční forma, počáteční období ZS 2020/2021Obor B-SI-EI Ekonomická informatika, prezenční forma, počáteční období ZS 2020/2021Obor B-SI-EI Ekonomická informatika, prezenční forma, počáteční období LS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -381,11 +389,11 @@
     },
     {
       "label": "Course title in English:",
-      "content": "Java Programming Language"
+      "content": "Programming Language Java"
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -393,7 +401,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -429,11 +437,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Jan Kolomazník, Ph.D. (examiner, instructor, tutor)Ing. František Ostřížek (examiner, instructor, tutor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "not Final Bachelor Exam and not Java Programming Language"
     },
     {
       "label": "1.",
@@ -556,12 +564,20 @@
       "content": "Data streams"
     },
     {
-      "label": "Marked assignments",
-      "content": "30 %"
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "45 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "5 %"
     },
     {
       "label": "Final test",
-      "content": "70 %"
+      "content": "40 %"
     },
     {
       "label": "Total",
@@ -569,7 +585,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, SS 2022/2023, WS 2022/2023, SS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, SS 2022/2023, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -581,11 +597,11 @@
     },
     {
       "label": "[section] Course title in Czech:",
-      "content": "Course title in English: Java Programming Language"
+      "content": "Course title in English: Programming Language Java"
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -593,11 +609,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (6 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -633,15 +649,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Teachers: Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Jan Kolomazník, Ph.D. (examiner, instructor, tutor)Ing. František Ostřížek (examiner, instructor, tutor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "Prerequisites: not Final Bachelor Exam and not Java Programming Language"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday15.00-16.50Q06B-AIIB-OIP. JedličkaSeminarEvery week20Monday17.00-18.50Q06B-AIIB-OIP. JedličkaSeminarEvery week20Wednesday11.00-12.50Q07B-AIIB-OIP. JedličkaSeminarEvery week20Wednesday13.00-14.50Q07B-AIIB-OIP. JedličkaSeminarEvery week20Wednesday15.00-16.50Q16B-AIIB-OIP. JedličkaLectureOdd week80"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday15.00-16.50Q06J. KolomazníkSeminarEvery week20Wednesday7.00-8.50Q06J. KolomazníkSeminarEvery week20Thursday9.00-10.50Q06F. OstřížekSeminarEvery week20Thursday13.00-14.50Q16P. JedličkaLectureEvery week80"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -709,37 +725,37 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam86 hpreparation for regular assessment20 hpreparation for regular testing20 hTotal168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam62 helaboration and execution of projects50 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "To complete the course, student must obtain at least 15 points out of a possible 30 from the continuous tasks and at least 35 points out of 70 from the exam, which has a knowledge and practical part."
+      "content": "To complete the course, the elaboration of a software project and the passing of a written exam is required. A maximum of 60 points can be obtained from the seminars (software project – 45 points, activity – 10 points, continuous test – 5 points). The software project is processed gradually and evaluated in stages. The processing of each stage has one corrective option. The continuous test has no corrective option. A maximum of 40 points can be obtained from the final exam test. To successfully complete the course, it is necessary to obtain a total of min. 60 points out of 100, but at the same time min. 30 points from the exercises and 20 points from the exam test."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceMarked assignments30 %Final test70 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Term paper45 %Mid-term test(s)5 %Final test40 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2nd ed. Praha: Grada, 570 p. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 p. ISBN 978-80-251-1582-4.Recommended:ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+      "content": "Basic: Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2009. 2nd ed. Praha: Grada, 570 p. Myslíme v--. ISBN 978-80-247-2653-3. . 2018. itnetwork.cz Java - Největší česká online učebnice. https://www.itnetwork.cz/java.Recommended:PECINOVSKÝ, Rudolf. 2007. Návrhové vzory: [33 vzorových postupů pro objektové programování]. 1st ed. Brno: Computer Press, 527 p. ISBN 978-80-251-1582-4.Oficiální dokumentace jazyka Java dostupná na https://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html"
     },
     {
       "label": "[section] Basic:",
-      "content": "PECINOVSKÝ, Rudolf. 2009. Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2nd ed. Praha: Grada, 570 p. Myslíme v. ISBN 978-80-247-2653-3.PECINOVSKÝ, Rudolf. 2013. Návrhové vzory – 33 vzorových postupů pro objektové programování. Brno: Computer Press, 528 p. ISBN 978-80-251-1582-4."
+      "content": "Myslíme objektově v jazyku Java: kompletní učebnice pro začátečníky. 2009. 2nd ed. Praha: Grada, 570 p. Myslíme v--. ISBN 978-80-247-2653-3. . 2018. itnetwork.cz Java - Největší česká online učebnice. https://www.itnetwork.cz/java."
     },
     {
       "label": "[section] Recommended:",
-      "content": "ITnetwork.cz. Online kurzy programování v Javě. 2024. https://www.itnetwork.cz/javaOficiální dokumentace jazyka Java dostupná na https://docs.oracle.com/en/java/javase/index.html"
+      "content": "PECINOVSKÝ, Rudolf. 2007. Návrhové vzory: [33 vzorových postupů pro objektové programování]. 1st ed. Brno: Computer Press, 527 p. ISBN 978-80-251-1582-4.Oficiální dokumentace jazyka Java dostupná na https://www.oracle.com/technetwork/java/javase/documentation/api-jsp-136079.html"
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2024/2025"
+      "content": "Field of study B-II-CAI Automation Control and Informatics, full-time form, initial period WS 2020/2021Field of study B-SE-EI Economic informatics, full-time form, initial period WS 2020/2021Field of study B-SE-EI Economic informatics, full-time form, initial period SS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:43:29",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:57:29",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

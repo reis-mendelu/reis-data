@@ -3,13 +3,86 @@
   "name": "Myslivost",
   "nameCs": "Myslivost",
   "nameEn": "Game Management",
-  "predmetId": "159508",
+  "predmetId": "162615",
   "facultyId": 38,
   "aliases": [
     "MYSL"
   ],
-  "teachers": [],
+  "teachers": [
+    "Ing. Jakub Drimaj, Ph.D.",
+    "Ing. Jan Dvořák, Ph.D.",
+    "Ing. Radim Plhal, Ph.D.",
+    "RNDr. Ondřej Mikulka, Ph.D.",
+    "prof. Ing. Jiří Kamler, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=162615;lang=cz",
+      "totalPass": 15,
+      "totalFail": 9,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 2,
+            "D": 1,
+            "E": 1,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 7
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 3
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 5,
+            "D": 3,
+            "E": 2,
+            "F": 9,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 9
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 15,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 15
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -84,7 +157,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=157833;lang=cz",
       "totalPass": 14,
-      "totalFail": 5,
+      "totalFail": 6,
       "terms": [
         {
           "term": "1. opravný",
@@ -122,11 +195,11 @@
             "C": 8,
             "D": 0,
             "E": 6,
-            "F": 5,
+            "F": 6,
             "FN": 0
           },
           "pass": 14,
-          "fail": 5
+          "fail": 6
         },
         {
           "term": "Řádný termín",
@@ -151,7 +224,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153334;lang=cz",
       "totalPass": 77,
-      "totalFail": 17,
+      "totalFail": 18,
       "terms": [
         {
           "term": "1. opravný",
@@ -189,11 +262,11 @@
             "C": 21,
             "D": 14,
             "E": 15,
-            "F": 17,
+            "F": 18,
             "FN": 0
           },
           "pass": 77,
-          "fail": 17
+          "fail": 18
         },
         {
           "term": "Řádný termín",
@@ -285,7 +358,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=146978;lang=cz",
       "totalPass": 64,
-      "totalFail": 33,
+      "totalFail": 34,
       "terms": [
         {
           "term": "1. opravný",
@@ -323,11 +396,11 @@
             "C": 20,
             "D": 10,
             "E": 7,
-            "F": 33,
+            "F": 34,
             "FN": 0
           },
           "pass": 64,
-          "fail": 33
+          "fail": 34
         },
         {
           "term": "Řádný termín",
@@ -706,5 +779,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

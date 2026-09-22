@@ -3,13 +3,69 @@
   "name": "Diplomový seminář 2",
   "nameCs": "Diplomový seminář 2",
   "nameEn": "Master's Thesis Seminar 2",
-  "predmetId": "159921",
+  "predmetId": "162581",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
-    "Ing. Petr Jedlička, Ph.D."
+    "Ing. Aleš Franc, Ph.D.",
+    "Ing. Jiří Duda, Ph.D.",
+    "Ing. Klára Plecitá",
+    "Ing. Marcel Ševela, Ph.D.",
+    "Ing. Petr Jedlička, Ph.D.",
+    "JUDr. Hana Kelblová, Ph.D.",
+    "doc. Ing. Luboš Střelec, Ph.D.",
+    "prof. Ing. Jana Stávková, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162581;lang=cz",
+      "totalPass": 35,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 35,
+            "nezap": 0,
+            "zapNedost": 5
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 35,
+            "nezap": 0,
+            "zapNedost": 5
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -471,5 +527,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

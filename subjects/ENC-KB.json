@@ -3,7 +3,7 @@
   "name": "Kybernetická bezpečnost",
   "nameCs": "Kybernetická bezpečnost",
   "nameEn": "Cyber Security",
-  "predmetId": "156595",
+  "predmetId": "162600",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -13,6 +13,59 @@
     "prof. RNDr. Tomáš Pitner, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162600;lang=cz",
+      "totalPass": 52,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 12,
+            "C": 21,
+            "D": 7,
+            "E": 6,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 11,
+            "C": 21,
+            "D": 7,
+            "E": 5,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 50,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -173,5 +226,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

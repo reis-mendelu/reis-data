@@ -2,19 +2,19 @@
   "courseCode": "ERSMS",
   "name": "Erasmus",
   "nameCs": "Erasmus",
-  "nameEn": "Course syllabus ERSMS - Erasmus (FFWT - WS 2025/2026)",
-  "predmetId": "159793",
+  "nameEn": "Erasmus",
+  "predmetId": "162153",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
     {
-      "semesterName": "ZS 2025/2026 - LDF",
-      "semesterId": "796",
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
       "year": 2025,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159793;lang=cz",
-      "totalPass": 11,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=162153;lang=cz",
+      "totalPass": 2,
       "totalFail": 0,
       "terms": [
         {
@@ -28,10 +28,59 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 11,
+          "pass": 2,
           "fail": 0,
           "creditGrades": {
-            "zap": 11,
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "ZS 2025/2026 - LDF",
+      "semesterId": "796",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159793;lang=cz",
+      "totalPass": 6,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 6,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -63,7 +112,7 @@
       "year": 2024,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=157014;lang=cz",
-      "totalPass": 6,
+      "totalPass": 4,
       "totalFail": 0,
       "terms": [
         {
@@ -77,10 +126,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 6,
+          "pass": 4,
           "fail": 0,
           "creditGrades": {
-            "zap": 6,
+            "zap": 4,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -480,5 +529,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

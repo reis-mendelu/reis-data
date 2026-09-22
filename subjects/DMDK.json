@@ -7,6 +7,7 @@
   "facultyId": 38,
   "aliases": [],
   "teachers": [
+    "Ing. Jitka Čechová",
     "Ing. Michal Bošanský, Ph.D."
   ],
   "stats": [
@@ -137,7 +138,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153448;lang=cz",
       "totalPass": 39,
-      "totalFail": 16,
+      "totalFail": 17,
       "terms": [
         {
           "term": "1. opravný",
@@ -162,10 +163,10 @@
             "D": 13,
             "E": 4,
             "F": 0,
-            "FN": 16
+            "FN": 17
           },
           "pass": 39,
-          "fail": 16
+          "fail": 17
         },
         {
           "term": "Řádný termín",
@@ -343,5 +344,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,13 +3,80 @@
   "name": "Rozvojové problémy Blízkého východu",
   "nameCs": "Rozvojové problémy Blízkého východu",
   "nameEn": "Development Problems of the Middle East",
-  "predmetId": "157602",
+  "predmetId": "162696",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
     "Ing. Amar Khairi, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162696;lang=cz",
+      "totalPass": 135,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 5,
+            "D": 1,
+            "E": 0,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 34,
+            "B": 42,
+            "C": 38,
+            "D": 21,
+            "E": 0,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 135,
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 34,
+            "B": 40,
+            "C": 33,
+            "D": 20,
+            "E": 0,
+            "F": 12,
+            "FN": 0
+          },
+          "pass": 127,
+          "fail": 12
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -346,5 +413,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

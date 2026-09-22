@@ -3,7 +3,7 @@
   "name": "Statistika",
   "nameCs": "Statistika",
   "nameEn": "Statistics",
-  "predmetId": "160301",
+  "predmetId": "162552",
   "facultyId": 2,
   "aliases": [
     "STAT",
@@ -13,11 +13,79 @@
   "teachers": [
     "Ing. Martin Baťka",
     "Ing. Terézia Vančová, Ph.D.",
+    "Mgr. Kateřina Žáková, Ph.D.",
     "doc. Ing. Luboš Střelec, Ph.D.",
     "doc. Ing. Václav Adamec, Ph.D.",
     "doc. Mgr. Veronika Blašková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162552;lang=cz",
+      "totalPass": 167,
+      "totalFail": 89,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 3,
+            "C": 7,
+            "D": 24,
+            "E": 33,
+            "F": 38,
+            "FN": 3
+          },
+          "pass": 68,
+          "fail": 41
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 4,
+            "D": 7,
+            "E": 20,
+            "F": 3,
+            "FN": 2
+          },
+          "pass": 31,
+          "fail": 5
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 9,
+            "C": 21,
+            "D": 57,
+            "E": 79,
+            "F": 7,
+            "FN": 82
+          },
+          "pass": 167,
+          "fail": 89
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 6,
+            "C": 10,
+            "D": 26,
+            "E": 26,
+            "F": 107,
+            "FN": 81
+          },
+          "pass": 68,
+          "fail": 188
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -25,7 +93,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=160301;lang=cz",
       "totalPass": 158,
-      "totalFail": 96,
+      "totalFail": 98,
       "terms": [
         {
           "term": "1. opravný",
@@ -63,11 +131,11 @@
             "C": 19,
             "D": 47,
             "E": 86,
-            "F": 20,
+            "F": 22,
             "FN": 76
           },
           "pass": 158,
-          "fail": 96
+          "fail": 98
         },
         {
           "term": "Řádný termín",
@@ -91,8 +159,8 @@
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156535;lang=cz",
-      "totalPass": 189,
-      "totalFail": 168,
+      "totalPass": 190,
+      "totalFail": 173,
       "terms": [
         {
           "term": "1. opravný",
@@ -129,12 +197,12 @@
             "B": 8,
             "C": 26,
             "D": 67,
-            "E": 86,
-            "F": 43,
-            "FN": 125
+            "E": 87,
+            "F": 44,
+            "FN": 129
           },
-          "pass": 189,
-          "fail": 168
+          "pass": 190,
+          "fail": 173
         },
         {
           "term": "Řádný termín",
@@ -689,5 +757,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

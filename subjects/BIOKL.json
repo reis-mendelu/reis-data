@@ -3,18 +3,85 @@
   "name": "Bioklimatologie",
   "nameCs": "Bioklimatologie",
   "nameEn": "Bioclimatology",
-  "predmetId": "158583",
-  "facultyId": 14,
+  "predmetId": "162291",
+  "facultyId": 60,
   "aliases": [
     "BKL"
   ],
   "teachers": [
+    "Ing. Lenka Bartošová, Ph.D.",
     "Ing. Marcela Hlaváčová, Ph.D.",
     "Ing. Matěj Orság, Ph.D.",
-    "doc. Ing. Lenka Bartošová, Ph.D.",
     "prof. Ing. Zdeněk Žalud, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162291;lang=cz",
+      "totalPass": 75,
+      "totalFail": 16,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 2,
+            "D": 7,
+            "E": 5,
+            "F": 17,
+            "FN": 4
+          },
+          "pass": 19,
+          "fail": 21
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 5,
+            "E": 8,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 15,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 11,
+            "C": 13,
+            "D": 22,
+            "E": 23,
+            "F": 8,
+            "FN": 8
+          },
+          "pass": 75,
+          "fail": 16
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 6,
+            "C": 9,
+            "D": 10,
+            "E": 9,
+            "F": 39,
+            "FN": 12
+          },
+          "pass": 40,
+          "fail": 51
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -967,5 +1034,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

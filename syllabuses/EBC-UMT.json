@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -59,15 +59,15 @@
     },
     {
       "label": "Vyučující:",
-      "content": "prof. Mgr. David Hampel, Ph.D. (přednášející)Ing. Michal Polanský, Ph.D. (cvičící, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "RNDr. Petr Rádl (cvičící, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a ne Matematika a ne Matematika 1"
+      "content": "ne Státní bakalářská zkouška"
     },
     {
       "label": "1.",
-      "content": "Základy diferenciálního a integrálního počtu funkcí jedné proměnné (dotace 10/10)"
+      "content": "Základy diferenciálního počtu funkcí jedné proměnné (dotace 8/8)"
     },
     {
       "label": "a.",
@@ -82,24 +82,44 @@
       "content": "Derivace funkcí"
     },
     {
-      "label": "d.",
-      "content": "Integrální počet"
-    },
-    {
       "label": "2.",
-      "content": "Lineární algebra (dotace 8/8)"
+      "content": "Základy integrálního počtu funkcí jedné proměnné (dotace 6/6)"
     },
     {
       "label": "a.",
-      "content": "Matice"
+      "content": "Neurčitý integrál"
     },
     {
       "label": "b.",
-      "content": "Soustavy lineárních rovnic"
+      "content": "Určitý integrál"
+    },
+    {
+      "label": "c.",
+      "content": "Nevlastní integrál"
     },
     {
       "label": "3.",
-      "content": "Základy počtu pravděpodobnosti (dotace 10/10)"
+      "content": "Lineární algebra (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Vektory a matice"
+    },
+    {
+      "label": "b.",
+      "content": "Determinanty"
+    },
+    {
+      "label": "c.",
+      "content": "Soustavy lineárních rovnic"
+    },
+    {
+      "label": "d.",
+      "content": "Maticová algebra"
+    },
+    {
+      "label": "4.",
+      "content": "Základy počtu pravděpodobnosti (dotace 8/8)"
     },
     {
       "label": "a.",
@@ -123,7 +143,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2024/2025, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -139,7 +159,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -187,15 +207,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: prof. Mgr. David Hampel, Ph.D. (přednášející)Ing. Michal Polanský, Ph.D. (cvičící, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: RNDr. Petr Rádl (cvičící, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Matematika a ne Matematika 1"
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q01B-MOSB-FS 1123 L. Viskotová, D. HampelPřednáškaKaždý týden361Čtvrtek9.00-10.50Q23B-MOS 1234 M. PolanskýCvičeníKaždý týden44Čtvrtek11.00-12.50Q41B-MOS 1232 M. PolanskýCvičeníKaždý týden37Pátek9.00-10.50Q31B-FS 1232 L. ViskotováCvičeníKaždý týden37Pátek9.00-10.50Q41B-FS 1231 M. PolanskýCvičeníKaždý týden36Pátek11.00-12.50Q32B-MOS 1231 M. PolanskýCvičeníKaždý týden44Pátek11.00-12.50Q25B-MOS 1233 L. ViskotováCvičeníKaždý týden37"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaÚterý7.00-8.50Q41B-MOS 121 L. ViskotováCvičeníKaždý týden30Úterý11.00-12.50Q41B-MOS 123 L. ViskotováCvičeníKaždý týden33Úterý11.00-12.50Q45B-MOS 122 P. RádlCvičeníKaždý týden31Úterý13.00-14.50Q41B-MOS 123 L. ViskotováCvičeníKaždý týden31Úterý13.00-14.50Q22B-MOS 122 P. RádlCvičeníKaždý týden31Středa11.00-12.50Q46B-MOS 121 P. RádlCvičeníKaždý týden31Středa15.00-16.50Q22B-FS 122 P. RádlCvičeníKaždý týden31Středa15.00-16.50Q46B-FS 121 L. ViskotováCvičeníKaždý týden31Čtvrtek9.00-10.50Q48B-MOS 124 P. RádlCvičeníKaždý týden31Čtvrtek13.00-14.50Q01B-MOSB-MOSB-FS 1112 L. ViskotováPřednáškaKaždý týden340Pátek11.00-12.50Q48B-MOS 125 L. ViskotováCvičeníKaždý týden31"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -203,26 +223,34 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Základy diferenciálního a integrálního počtu funkcí jedné proměnné (dotace 10/10) a.Funkce a jejich vlastnostib.Limita a spojitost funkcíc.Derivace funkcíd.Integrální počet2.Lineární algebra (dotace 8/8) a.Maticeb.Soustavy lineárních rovnic3.Základy počtu pravděpodobnosti (dotace 10/10) a.Náhodné jevy a jejich pravděpodobnostb.Náhodné veličiny a jejich charakteristiky"
+      "content": "1.Základy diferenciálního počtu funkcí jedné proměnné (dotace 8/8) a.Funkce a jejich vlastnostib.Limita a spojitost funkcíc.Derivace funkcí2.Základy integrálního počtu funkcí jedné proměnné (dotace 6/6) a.Neurčitý integrálb.Určitý integrálc.Nevlastní integrál3.Lineární algebra (dotace 6/6) a.Vektory a maticeb.Determinantyc.Soustavy lineárních rovnicd.Maticová algebra4.Základy počtu pravděpodobnosti (dotace 8/8) a.Náhodné jevy a jejich pravděpodobnostb.Náhodné veličiny a jejich charakteristiky"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Funkce a jejich vlastnostib.Limita a spojitost funkcíc.Derivace funkcíd.Integrální počet"
+      "content": "a.Funkce a jejich vlastnostib.Limita a spojitost funkcíc.Derivace funkcí"
     },
     {
-      "label": "[section] Základy diferenciálního a integrálního počtu funkcí jedné proměnné",
-      "content": "a.Funkce a jejich vlastnostib.Limita a spojitost funkcíc.Derivace funkcíd.Integrální počet"
+      "label": "[section] Základy diferenciálního počtu funkcí jedné proměnné",
+      "content": "a.Funkce a jejich vlastnostib.Limita a spojitost funkcíc.Derivace funkcí"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Maticeb.Soustavy lineárních rovnic"
+      "content": "a.Neurčitý integrálb.Určitý integrálc.Nevlastní integrál"
     },
     {
-      "label": "[section] Lineární algebra",
-      "content": "a.Maticeb.Soustavy lineárních rovnic"
+      "label": "[section] Základy integrálního počtu funkcí jedné proměnné",
+      "content": "a.Neurčitý integrálb.Určitý integrálc.Nevlastní integrál"
     },
     {
       "label": "[section] 3.",
+      "content": "a.Vektory a maticeb.Determinantyc.Soustavy lineárních rovnicd.Maticová algebra"
+    },
+    {
+      "label": "[section] Lineární algebra",
+      "content": "a.Vektory a maticeb.Determinantyc.Soustavy lineárních rovnicd.Maticová algebra"
+    },
+    {
+      "label": "[section] 4.",
       "content": "a.Náhodné jevy a jejich pravděpodobnostb.Náhodné veličiny a jejich charakteristiky"
     },
     {
@@ -231,11 +259,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku46 hpříprava na průběžný test10 hCelkem112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku46 hpříprava na průběžný test10 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "a) Průběžný zápočtový test (max. 22 bodů, požadovaný minimální bodový zisk je 13 bodů): koná se v průběhu výukové části semestru. Student má možnost dvou oprav, pokud nedosáhl požadovaného minima. Na test je nutné přinést si kartu studenta, psací pomůcky a prázdné papíry formátu A4. Během testu lze používat pouze kalkulačku zabudovanou v operačním systému počítače. Veškeré popsané papíry se odevzdávají. Za úspěšné absolvování průběžného testu student obdrží tzv. \"malý zápočet\", který ho opravňuje k přihlášení na zkoušku. Pokud student získá na řádném nebo prvním opravném termínu z testu 17 bodů a více, obdrží u zkoušky bonus ve výši 5 bodů. b) Zkoušková písemná práce (max. 100 bodů, požadovaný minimální bodový zisk je 50 bodů): písemná práce se píše ve zkouškovém období. K písemné práci si studenti přinesou pouze psací pomůcky a kartu studenta. Během písemné práce nelze používat vlastní papíry ani kalkulačku. c) Bonusové body ze cvičení (max. 10 bodů): ve 3 - 12. cvičení je za každou účast udělen bonus 0,5 bodu. Pokud student na začátku cvičení v prezenční listině vyznačí aktivní přístup (student má přehled o přednášeném učivu, zvládne spočítat základní příklady demonstrované na přednáškách, je připraven počítat na tabuli), potom za dodržení tohoto aktivního přístupu po celou dobu cvičení získává další bonus 0,5 bodu. Tyto bonusové body lze udělit pouze ve cvičení, které je studentovi přiřazeno oficiálním rozvrhem v UIS. d) Výsledná známka je odvozena od celkového součtu bodů ze zkouškové písemné práce a případných bonusových bodů (z průběžného testu nebo cvičení), a to na základě klasifikační stupnice: 90 bodů a více - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E méně než 60 bodů - F Studenti jsou povinni disponovat základní literaturou, webkamerou, mikrofonem a dalším hardwarem a internetovým připojením dostatečným pro videokonference. Tato výbava nebude kontrolována, nicméně její nedostatečnost nebude omluvou při případném přechodu na online výuku a zkoušení. Jakékoli opisování, zaznamenávání, vynášení nebo šíření zadání testů a písemných prací, používání nedovolených pomůcek jakož i komunikačních prostředků nebo jiné narušování objektivity při ověřování znalostí bude považováno za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením F; F; F a zahájí disciplinární řízení, jehož výsledkem může být až ukončení studia."
+      "content": "Celkové hodnocení studenta se odvíjí od součtu bodů získaných během celého semestru, a to následujícím způsobem: 1) Průběžný test (max. 20 bodů, požadovaný minimální bodový zisk je 10 bodů): probíhá v průběhu výukové části semestru. Student má možnost dvou oprav, pokud nedosáhl požadovaného minima. Na test je nutné přinést si kartu studenta, psací pomůcky a prázdné papíry formátu A4. Během písemné práce lze používat pouze kalkulačku zabudovanou v operačním systému počítače. Veškeré popsané papíry se odevzdávají. Splnění průběžného testu bude v UIS vyznačeno symbolem \"z\" (tzv. \"malý zápočet\"). Pokud student nedosáhne minimálního bodového zisku z průběžného testu, není oprávněn se přihlásit ke zkoušce a jeho výsledné hodnocení je \"nedostavil se\". 2) Zkoušková písemná práce (max. 80 bodů, požadovaný minimální bodový zisk je 40 bodů): Písemná práce se píše ve zkouškovém období. K písemné práci si studenti přinesou pouze psací pomůcky a kartu studenta. Během písemné práce nelze používat vlastní papíry ani kalkulačku. 3) Bonusové body (max. 10 bodů): Ve 3. – 12. cvičení bude studentovi za každou aktivní účast udělen 1 bonusový bod. Bonusové body lze udělit pouze za účast ve cvičení, které je studentovi stanoveno oficiálním rozvrhem v UIS. Hodnocení předmětu je dáno následovně: 90 bodů a více - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E [0; 60) bodů - F Studenti jsou povinni disponovat základní literaturou, webkamerou, mikrofonem a dalším hardwarem a internetovým připojením dostatečným pro videokonference. Tato výbava nebude kontrolována, nicméně její nedostatečnost nebude omluvou při případném přechodu na online výuku a zkoušení. Jakékoli opisování, zaznamenávání, vynášení nebo šíření zadání testů a písemných prací, používání nedovolených pomůcek jakož i komunikačních prostředků nebo jiné narušování objektivity při ověřování znalostí bude považováno za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením F; F; F a zahájí disciplinární řízení, jehož výsledkem může být až ukončení studia."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -255,7 +283,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2025/2026Program B-MOS Management obchodu a služeb, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2021/2022Program B-MOS Management obchodu a služeb, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -277,7 +305,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -321,15 +349,15 @@
     },
     {
       "label": "Teachers:",
-      "content": "prof. Mgr. David Hampel, Ph.D. (lecturer)Ing. Michal Polanský, Ph.D. (examiner, instructor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "RNDr. Petr Rádl (examiner, instructor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and not Mathematics and not Mathematics 1"
+      "content": "not Final Bachelor Exam"
     },
     {
       "label": "1.",
-      "content": "Introduction to Differential and Integral Calculus of One Variable (allowance 10/10)"
+      "content": "Introduction to Differential Calculus of One Variable (allowance 0/0)"
     },
     {
       "label": "a.",
@@ -344,24 +372,44 @@
       "content": "Derivatives"
     },
     {
-      "label": "d.",
-      "content": "Integral Calculus"
-    },
-    {
       "label": "2.",
-      "content": "Linear Algebra (allowance 8/8)"
+      "content": "Introduction to Integral Calculus of One Variable (allowance 0/0)"
     },
     {
       "label": "a.",
-      "content": "Matrices"
+      "content": "Indefinite integrals"
     },
     {
       "label": "b.",
-      "content": "Systems of the linear equations"
+      "content": "Definite integrals"
+    },
+    {
+      "label": "c.",
+      "content": "Improper integrals"
     },
     {
       "label": "3.",
-      "content": "Introduction to Probability Theory (allowance 10/10)"
+      "content": "Linear Algebra (allowance 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vectors and matrices"
+    },
+    {
+      "label": "b.",
+      "content": "Determinants"
+    },
+    {
+      "label": "c.",
+      "content": "Systems of the linear equations"
+    },
+    {
+      "label": "d.",
+      "content": "Matrix algebra"
+    },
+    {
+      "label": "4.",
+      "content": "Introduction to Probability Theory (allowance 0/0)"
     },
     {
       "label": "a.",
@@ -385,7 +433,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2024/2025, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, SS 2024/2025, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -401,7 +449,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -449,42 +497,50 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: prof. Mgr. David Hampel, Ph.D. (lecturer)Ing. Michal Polanský, Ph.D. (examiner, instructor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: RNDr. Petr Rádl (examiner, instructor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and not Mathematics and not Mathematics 1"
+      "content": "Prerequisites: not Final Bachelor Exam"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday13.00-14.50Q01B-MOSB-FS 1123 L. Viskotová, D. HampelLectureEvery week361Thursday9.00-10.50Q23B-MOS 1234 M. PolanskýSeminarEvery week44Thursday11.00-12.50Q41B-MOS 1232 M. PolanskýSeminarEvery week37Friday9.00-10.50Q41B-FS 1231 M. PolanskýSeminarEvery week36Friday9.00-10.50Q31B-FS 1232 L. ViskotováSeminarEvery week37Friday11.00-12.50Q25B-MOS 1233 L. ViskotováSeminarEvery week37Friday11.00-12.50Q32B-MOS 1231 M. PolanskýSeminarEvery week44"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityTuesday7.00-8.50Q41B-MOS 121 L. ViskotováSeminarEvery week30Tuesday11.00-12.50Q45B-MOS 122 P. RádlSeminarEvery week31Tuesday11.00-12.50Q41B-MOS 123 L. ViskotováSeminarEvery week33Tuesday13.00-14.50Q22B-MOS 122 P. RádlSeminarEvery week31Tuesday13.00-14.50Q41B-MOS 123 L. ViskotováSeminarEvery week31Wednesday11.00-12.50Q46B-MOS 121 P. RádlSeminarEvery week31Wednesday15.00-16.50Q46B-FS 121 L. ViskotováSeminarEvery week31Wednesday15.00-16.50Q22B-FS 122 P. RádlSeminarEvery week31Thursday9.00-10.50Q48B-MOS 124 P. RádlSeminarEvery week31Thursday13.00-14.50Q01B-MOSB-MOSB-FS 1112 L. ViskotováLectureEvery week340Friday11.00-12.50Q48B-MOS 125 L. ViskotováSeminarEvery week31"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The student will have the ability to master the basic concepts of mathematics that are needed to solve everyday economic problems and statistical problems at the most basic level. The student will manage to apply the newly acquired mathematical skills in follow-up courses."
+      "content": "The student will have the ability to master the basic concepts of mathematics that is needed to solve everyday economic problems and statistical problems at the most basic level. The student will be able to apply the newly acquired mathematical skills in follow-up courses."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Introduction to Differential and Integral Calculus of One Variable (allowance 10/10) a.Functions and their propertiesb.Limits and Continuityc.Derivativesd.Integral Calculus2.Linear Algebra (allowance 8/8) a.Matricesb.Systems of the linear equations3.Introduction to Probability Theory (allowance 10/10) a.Random events and their probabilityb.Random variables and their characteristics"
+      "content": "1.Introduction to Differential Calculus of One Variable (allowance 0/0) a.Functions and their propertiesb.Limits and Continuityc.Derivatives2.Introduction to Integral Calculus of One Variable (allowance 0/0) a.Indefinite integralsb.Definite integralsc.Improper integrals3.Linear Algebra (allowance 0/0) a.Vectors and matricesb.Determinantsc.Systems of the linear equationsd.Matrix algebra4.Introduction to Probability Theory (allowance 0/0) a.Random events and their probabilityb.Random variables and their characteristics"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Functions and their propertiesb.Limits and Continuityc.Derivativesd.Integral Calculus"
+      "content": "a.Functions and their propertiesb.Limits and Continuityc.Derivatives"
     },
     {
-      "label": "[section] Introduction to Differential and Integral Calculus of One Variable",
-      "content": "a.Functions and their propertiesb.Limits and Continuityc.Derivativesd.Integral Calculus"
+      "label": "[section] Introduction to Differential Calculus of One Variable",
+      "content": "a.Functions and their propertiesb.Limits and Continuityc.Derivatives"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Matricesb.Systems of the linear equations"
+      "content": "a.Indefinite integralsb.Definite integralsc.Improper integrals"
     },
     {
-      "label": "[section] Linear Algebra",
-      "content": "a.Matricesb.Systems of the linear equations"
+      "label": "[section] Introduction to Integral Calculus of One Variable",
+      "content": "a.Indefinite integralsb.Definite integralsc.Improper integrals"
     },
     {
       "label": "[section] 3.",
+      "content": "a.Vectors and matricesb.Determinantsc.Systems of the linear equationsd.Matrix algebra"
+    },
+    {
+      "label": "[section] Linear Algebra",
+      "content": "a.Vectors and matricesb.Determinantsc.Systems of the linear equationsd.Matrix algebra"
+    },
+    {
+      "label": "[section] 4.",
       "content": "a.Random events and their probabilityb.Random variables and their characteristics"
     },
     {
@@ -493,11 +549,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam46 hpreparation for regular testing10 hTotal112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam46 hpreparation for regular testing10 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "a) Midterm test (max. 22 points, a passing score requires a minimum of 13): takes place during the teaching part of the semester. The student can register for two resits if he/she has not reached the required points. It is necessary to have a student card, writing accessories, and blank A4 paper for the test. Only a calculator built into the computer’s operating system can be used. All nonempty papers are handed in. Upon successful completion of the midterm test, students will receive a \"minor preliminary,\" which entitles them to register for the exam. If a student scores 17 points or more on the test during the regular or first resit period, they will receive a bonus of 5 points on the exam. b) Written exam (max. 100 points, a passing score requires a minimum of 50): it is written during the exam period. The student only has writing accessories and the student card. The student is not allowed to use their papers or calculators. d) Seminar bonus points (max. 10 points): in seminars 3 - 12, the student is awarded a bonus of 0.5 points for each participation. If the student indicates an active approach at the beginning of the class in the attendance sheet, then for keeping such an active approach (the student has an overview of the lecture material, can calculate basic examples demonstrated in lectures, and is ready to calculate on the board) throughout the entire class, he/she receives an additional bonus of 0.5 points. Bonus points can only be awarded in a class assigned to a student by the official UIS schedule. e) The final grade for the course is given by the total sum of the points from the written exam and the bonus points, if any, based on a grading scale: 90 points or more - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E less than 60 points - F Students are expected to have access to the compulsory literature, a webcam, a microphone, hardware, and a web connection suitable for video conferencing. The absence or inadequacy of these facilities will not be an excuse during a possible transition to online teaching and testing. Any copying, recording, excerpt, or dissemination of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge are considered a gross violation of the study regulations. As a result, the course is closed in the UIS by F; F; F. Further, the teacher can initiate disciplinary proceedings, which may result in the termination of studies."
+      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Midterm test (max. 20 points, a passing score requires a minimum of 10): takes place during the teaching part of the semester. The student can register for two resits if he/she has not reached the required points. It is necessary to have a student card, writing accessories and blank A4 paper for the test. Only a calculator built into the computer’s operating system can be used. All nonempty papers are handed in. Passing the midterm test is marked in the UIS with the symbol “z” (so-called “minor preliminary”). If the student does not pass the midterm test, he/she is not eligible to register for the exam and he/she is classified \"did not attend\". 2) Written exam (max. 80 points, a passing score requires a minimum of 40): it is written during the exam period. The student only has writing accessories and the student card. The student is not allowed to use their own papers or calculator. 3) Bonus points (max. 10 points): At the 3rd - 12th seminar, 1 bonus point is awarded to the student for each active participation. Bonus point is awarded only for participation at such seminar, which is assigned to the student by the official schedule in UIS. The assessment of the course is given as follows: 90 points or more - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E [0; 60) points - F Students are required to obtain the compulsory literature, a webcam, microphone, hardware and web connection suitable for video conferencing. Absence or inadequacy of these will not be an excuse during a possible transition to online teaching and testing. Any copying, recording, excerpt or dissemination of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge are considered a gross violation of the study regulations. As a result, the course is closed in the UIS by F; F; F. Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -517,13 +573,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-FS Financial Services, full-time form, initial period WS 2025/2026Programme B-MOS Trade and Services Management, full-time form, initial period WS 2025/2026"
+      "content": "Programme B-FS Financial Services, full-time form, initial period WS 2021/2022Programme B-MOS Trade and Services Management, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:46:06",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:01:10",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

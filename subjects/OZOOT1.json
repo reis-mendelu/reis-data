@@ -3,11 +3,82 @@
   "name": "Obecná zootechnika 1",
   "nameCs": "Obecná zootechnika 1",
   "nameEn": "General Animal Breeding 1",
-  "predmetId": "157079",
+  "predmetId": "161988",
   "facultyId": 14,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Ing. Libor Sládek, Ph.D.",
+    "Ing. Vojtěch Pešan, Ph.D.",
+    "doc. Ing. Radek Filipčík, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161988;lang=cz",
+      "totalPass": 42,
+      "totalFail": 16,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 1,
+            "D": 3,
+            "E": 3,
+            "F": 3,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 6,
+            "C": 6,
+            "D": 7,
+            "E": 11,
+            "F": 12,
+            "FN": 4
+          },
+          "pass": 42,
+          "fail": 16
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 5,
+            "C": 5,
+            "D": 4,
+            "E": 7,
+            "F": 23,
+            "FN": 5
+          },
+          "pass": 30,
+          "fail": 28
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -405,5 +476,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

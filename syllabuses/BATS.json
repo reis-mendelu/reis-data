@@ -1,0 +1,761 @@
+{
+  "courseCode": "BATS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "BATS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Biomechanika a hodnocení stromů (v AJ)"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Biomechanics and Tree Stability"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2021/2022"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/1/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský; magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Luděk Praus, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Luděk Praus, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty LDF nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty FRRMS"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do biomechaniky (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy"
+    },
+    {
+      "label": "b.",
+      "content": "Růst stromů, strategie"
+    },
+    {
+      "label": "c.",
+      "content": "Základní principy reakce stromu na mechanické namáhání"
+    },
+    {
+      "label": "d.",
+      "content": "Způsoby namáhání"
+    },
+    {
+      "label": "e.",
+      "content": "Reakce stromu na namáhání"
+    },
+    {
+      "label": "2.",
+      "content": "Zatížení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "vertikální a horizontální síly"
+    },
+    {
+      "label": "b.",
+      "content": "vnitřní a vnější síly"
+    },
+    {
+      "label": "c.",
+      "content": "Rychlost namáhání"
+    },
+    {
+      "label": "d.",
+      "content": "Zatížení větrem"
+    },
+    {
+      "label": "e.",
+      "content": "Zatížení vlastní hmotností"
+    },
+    {
+      "label": "f.",
+      "content": "Zatížení přidanou zátěží"
+    },
+    {
+      "label": "g.",
+      "content": "Růstová napětí"
+    },
+    {
+      "label": "3.",
+      "content": "Geometrie (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Orgány stromu"
+    },
+    {
+      "label": "b.",
+      "content": "Velká růstová perioda,xylogeneze"
+    },
+    {
+      "label": "c.",
+      "content": "Kvantitativní a kvalitativní stránka geometrie"
+    },
+    {
+      "label": "d.",
+      "content": "Defekty a změny v toku napětí"
+    },
+    {
+      "label": "e.",
+      "content": "Disipace energie"
+    },
+    {
+      "label": "f.",
+      "content": "Nosníky a skořepiny - interpretace dutin"
+    },
+    {
+      "label": "4.",
+      "content": "Materiál (dotace 4/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Struktura dřeva"
+    },
+    {
+      "label": "b.",
+      "content": "Funkční anatomie"
+    },
+    {
+      "label": "c.",
+      "content": "Tvorba dřeva s ohledem na mechanické namáhání"
+    },
+    {
+      "label": "d.",
+      "content": "Mechanické vlastnosti dřeva, vliv faktorů"
+    },
+    {
+      "label": "e.",
+      "content": "Modifikace dřeva, reakční dřevo"
+    },
+    {
+      "label": "5.",
+      "content": "Hodnocení stromů (dotace 14/7)"
+    },
+    {
+      "label": "a.",
+      "content": "Riziko v arboristice - provozní bezpečnost"
+    },
+    {
+      "label": "b.",
+      "content": "Vitalita stromu"
+    },
+    {
+      "label": "c.",
+      "content": "Stabilita a zdravotní stav"
+    },
+    {
+      "label": "d.",
+      "content": "Vizuální hodnocení stromů"
+    },
+    {
+      "label": "e.",
+      "content": "QTRA, WLA a SIA"
+    },
+    {
+      "label": "f.",
+      "content": "Přístrojové metody hodnocení stavu stromů"
+    },
+    {
+      "label": "6.",
+      "content": "Případové studie (dotace 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Reakce stromu na zatížení"
+    },
+    {
+      "label": "b.",
+      "content": "Kořenové systémy stromů"
+    },
+    {
+      "label": "c.",
+      "content": "Vodní režim stromů"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2020/2021, LS 2019/2020, LS 2018/2019 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Biomechanika a hodnocení stromů (v AJ)"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Biomechanics and Tree Stability"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2021/2022"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1/1 (h týdně/h týdně/dny v semestru) (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský; magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Luděk Praus, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Luděk Praus, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Barbora Vojáčková, Ph.D., DiS. (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty LDF nebo studentem studijního programu Z-EXC Zahraniční studenti - krátkodobé studijní pobyty FRRMS"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Získat znalost reakce stromu na mechanické zatížení a vlivu mechanického zatížení na anatomii dřeva a morfologii stromu jako základ pro vyhodnocování zejména provozní bezpečnosti stromů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do biomechaniky (dotace 2/0) a.Základní pojmyb.Růst stromů, strategiec.Základní principy reakce stromu na mechanické namáháníd.Způsoby namáháníe.Reakce stromu na namáhání2.Zatížení (dotace 2/2) a.vertikální a horizontální sílyb.vnitřní a vnější sílyc.Rychlost namáháníd.Zatížení větreme.Zatížení vlastní hmotnostíf.Zatížení přidanou zátěžíg.Růstová napětí3.Geometrie (dotace 2/2) a.Orgány stromub.Velká růstová perioda,xylogenezec.Kvantitativní a kvalitativní stránka geometried.Defekty a změny v toku napětíe.Disipace energief.Nosníky a skořepiny - interpretace dutin4.Materiál (dotace 4/3) a.Struktura dřevab.Funkční anatomiec.Tvorba dřeva s ohledem na mechanické namáháníd.Mechanické vlastnosti dřeva, vliv faktorůe.Modifikace dřeva, reakční dřevo5.Hodnocení stromů (dotace 14/7) a.Riziko v arboristice - provozní bezpečnostb.Vitalita stromuc.Stabilita a zdravotní stavd.Vizuální hodnocení stromůe.QTRA, WLA a SIAf.Přístrojové metody hodnocení stavu stromů6.Případové studie (dotace 4/0) a.Reakce stromu na zatíženíb.Kořenové systémy stromůc.Vodní režim stromů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmyb.Růst stromů, strategiec.Základní principy reakce stromu na mechanické namáháníd.Způsoby namáháníe.Reakce stromu na namáhání"
+    },
+    {
+      "label": "[section] Úvod do biomechaniky",
+      "content": "a.Základní pojmyb.Růst stromů, strategiec.Základní principy reakce stromu na mechanické namáháníd.Způsoby namáháníe.Reakce stromu na namáhání"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.vertikální a horizontální sílyb.vnitřní a vnější sílyc.Rychlost namáháníd.Zatížení větreme.Zatížení vlastní hmotnostíf.Zatížení přidanou zátěžíg.Růstová napětí"
+    },
+    {
+      "label": "[section] Zatížení",
+      "content": "a.vertikální a horizontální sílyb.vnitřní a vnější sílyc.Rychlost namáháníd.Zatížení větreme.Zatížení vlastní hmotnostíf.Zatížení přidanou zátěžíg.Růstová napětí"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Orgány stromub.Velká růstová perioda,xylogenezec.Kvantitativní a kvalitativní stránka geometried.Defekty a změny v toku napětíe.Disipace energief.Nosníky a skořepiny - interpretace dutin"
+    },
+    {
+      "label": "[section] Geometrie",
+      "content": "a.Orgány stromub.Velká růstová perioda,xylogenezec.Kvantitativní a kvalitativní stránka geometried.Defekty a změny v toku napětíe.Disipace energief.Nosníky a skořepiny - interpretace dutin"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Struktura dřevab.Funkční anatomiec.Tvorba dřeva s ohledem na mechanické namáháníd.Mechanické vlastnosti dřeva, vliv faktorůe.Modifikace dřeva, reakční dřevo"
+    },
+    {
+      "label": "[section] Materiál",
+      "content": "a.Struktura dřevab.Funkční anatomiec.Tvorba dřeva s ohledem na mechanické namáháníd.Mechanické vlastnosti dřeva, vliv faktorůe.Modifikace dřeva, reakční dřevo"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Riziko v arboristice - provozní bezpečnostb.Vitalita stromuc.Stabilita a zdravotní stavd.Vizuální hodnocení stromůe.QTRA, WLA a SIAf.Přístrojové metody hodnocení stavu stromů"
+    },
+    {
+      "label": "[section] Hodnocení stromů",
+      "content": "a.Riziko v arboristice - provozní bezpečnostb.Vitalita stromuc.Stabilita a zdravotní stavd.Vizuální hodnocení stromůe.QTRA, WLA a SIAf.Přístrojové metody hodnocení stavu stromů"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Reakce stromu na zatíženíb.Kořenové systémy stromůc.Vodní režim stromů"
+    },
+    {
+      "label": "[section] Případové studie",
+      "content": "a.Reakce stromu na zatíženíb.Kořenové systémy stromůc.Vodní režim stromů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení14 hodborná exkurze8 hprojektová práce10 hveřejná prezentace (ústní)1 hpříprava na zkoušku15 hpříprava na průběžné hodnocení5 hpříprava na průběžný test10 hpříprava prezentace6 hzpracování projektů20 hzpracování seminární práce5 hCelkem122 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět je ukončen ústní zkouškou. K ní musí student získat zápočet. Zápočet je udělen za zápočtový test a jeden 20 minutový průběžný test. Ke zkoušce student připravuje projekt na vybrané téma, např. Pasivní mechanizmy stabilizace stromu, Thigmomorfogenetická reakce stromu, Projevy adaptačního růstu nadzemních orgánů apod. Zkouška probíhá formou diskuze, přičemž základem je téma projektu. Projekt tvoří 50 % a diskuze 50 % výsledné známky."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 s. ISBN 0-11-753067-0.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 s. ISBN 978-0-226-58632-8. Plant Biomechanics: An Engineering Approach to Plant Form and Function. 1992. Chicago: Chicago Press, 607 s. ISBN 0-226-58630-8.MATTHECK, Claus. 1991. Trees: The Mechanical Design. Berlin: Springer-Verlag, 121 s. ISBN 3-540-54276-0.BODIG, Jozsef; JAYNE, Benjamin A. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 21 s. ISBN 0-89464-777-6.GERE, James M.; TIMOSHENKO, Stephen P. 1984. Mechanics of Materials. 2. vyd. Monterey: Brooks/Cole Engineering Div., 16 s. ISBN 0-534-03099-8. Theory of Elasticity. 1970. 3. vyd. New York: Mc Graw-Hill Book Comp., 567 s. The Tree Habit in Land Plants: A Functional Comparison of Trunk Constructions with a Brief . 1990. Berlin: Springer-Verlag, 161 s. ISBN 3-540-52374-X.PALLARDY, Stephen G. 2008. Physiology of woody plants. 3. vyd. Amsterdam: Elsevier, 454 s. ISBN 978-0-12-388554-8. A new tree biology and dictionary: facts, photos, and philosophies on trees and their problems and proper care. 1989. 2. vyd. Durham, N.H.: Shigo and Trees, 618 s. ISBN 0-943563-04-6. Tree basics. 1997. Durham: Shigo and Trees, 40 s. ISBN 0-943563-16-X."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 s. ISBN 0-11-753067-0.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 s. ISBN 978-0-226-58632-8. Plant Biomechanics: An Engineering Approach to Plant Form and Function. 1992. Chicago: Chicago Press, 607 s. ISBN 0-226-58630-8.MATTHECK, Claus. 1991. Trees: The Mechanical Design. Berlin: Springer-Verlag, 121 s. ISBN 3-540-54276-0.BODIG, Jozsef; JAYNE, Benjamin A. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 21 s. ISBN 0-89464-777-6.GERE, James M.; TIMOSHENKO, Stephen P. 1984. Mechanics of Materials. 2. vyd. Monterey: Brooks/Cole Engineering Div., 16 s. ISBN 0-534-03099-8. Theory of Elasticity. 1970. 3. vyd. New York: Mc Graw-Hill Book Comp., 567 s. The Tree Habit in Land Plants: A Functional Comparison of Trunk Constructions with a Brief . 1990. Berlin: Springer-Verlag, 161 s. ISBN 3-540-52374-X.PALLARDY, Stephen G. 2008. Physiology of woody plants. 3. vyd. Amsterdam: Elsevier, 454 s. ISBN 978-0-12-388554-8. A new tree biology and dictionary: facts, photos, and philosophies on trees and their problems and proper care. 1989. 2. vyd. Durham, N.H.: Shigo and Trees, 618 s. ISBN 0-943563-04-6. Tree basics. 1997. Durham: Shigo and Trees, 40 s. ISBN 0-943563-16-X."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "BATS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Biomechanika a hodnocení stromů (v AJ)"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Biomechanics and Tree Stability"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2021/2022"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/1/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master; master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Luděk Praus, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Luděk Praus, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Barbora Vojáčková, Ph.D., DiS. (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination or student of study programme Z-EXC Foreign students - exchange programs or student of study programme Z-EXC Foreign students - exchange programs FRDIS"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction into Biomechanic (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic terms"
+    },
+    {
+      "label": "b.",
+      "content": "Tree growth, tree habit in land plants"
+    },
+    {
+      "label": "c.",
+      "content": "Basic principles of tree reaction to loads"
+    },
+    {
+      "label": "d.",
+      "content": "Type of loads"
+    },
+    {
+      "label": "e.",
+      "content": "Reaction of a tree"
+    },
+    {
+      "label": "2.",
+      "content": "Loads on trees (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Vertical and horizontal loads"
+    },
+    {
+      "label": "b.",
+      "content": "Internal and external loads"
+    },
+    {
+      "label": "c.",
+      "content": "Dynamic vs. static loads"
+    },
+    {
+      "label": "d.",
+      "content": "Wind loads"
+    },
+    {
+      "label": "e.",
+      "content": "Tree weight"
+    },
+    {
+      "label": "f.",
+      "content": "Added mass"
+    },
+    {
+      "label": "g.",
+      "content": "Growth stresses"
+    },
+    {
+      "label": "3.",
+      "content": "Geometry of a tree (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Organs - roots, stem branches"
+    },
+    {
+      "label": "b.",
+      "content": "Big growth period - growth dynamics"
+    },
+    {
+      "label": "c.",
+      "content": "Quantity vs. quality of material distribution"
+    },
+    {
+      "label": "d.",
+      "content": "Defects and changes of stress flow"
+    },
+    {
+      "label": "e.",
+      "content": "Energy dissipation"
+    },
+    {
+      "label": "f.",
+      "content": "Beams and shells - basic concepts"
+    },
+    {
+      "label": "4.",
+      "content": "The Material (allowance 4/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Wood structure"
+    },
+    {
+      "label": "b.",
+      "content": "Functional anatomy of wood"
+    },
+    {
+      "label": "c.",
+      "content": "Xylogenesis, wood modification, reaction wood"
+    },
+    {
+      "label": "5.",
+      "content": "Tree Evaluation (allowance 14/7)"
+    },
+    {
+      "label": "a.",
+      "content": "Risk and Hazard in arborculture"
+    },
+    {
+      "label": "b.",
+      "content": "Tree vitality - physiological view"
+    },
+    {
+      "label": "c.",
+      "content": "Tree stability - mechanical view"
+    },
+    {
+      "label": "d.",
+      "content": "Basic approaches to tree assessment and evaluation - visual methods"
+    },
+    {
+      "label": "e.",
+      "content": "QTRA, WLA and SIA methods for tree evaluation"
+    },
+    {
+      "label": "f.",
+      "content": "Device supported methods"
+    },
+    {
+      "label": "6.",
+      "content": "Case studies (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanical loads on trees"
+    },
+    {
+      "label": "b.",
+      "content": "Root systems of trees"
+    },
+    {
+      "label": "c.",
+      "content": "Plant water regime"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2020/2021, SS 2019/2020, SS 2018/2019 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Biomechanika a hodnocení stromů (v AJ)"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Biomechanics and Tree Stability"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2021/2022"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1/1 (hours weekly/ hours weekly/ days in semester) (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master; master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Luděk Praus, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Luděk Praus, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Barbora Vojáčková, Ph.D., DiS. (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination or student of study programme Z-EXC Foreign students - exchange programs or student of study programme Z-EXC Foreign students - exchange programs FRDIS"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course is aimed on the reaction of the woody plants on the mechanical loading and on the influence of the mechanical loads on wood structure and plant body morphology. Then the students will be able to assess mechanical sufficiency of a tree."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction into Biomechanic (allowance 2/0) a.Basic termsb.Tree growth, tree habit in land plantsc.Basic principles of tree reaction to loadsd.Type of loadse.Reaction of a tree2.Loads on trees (allowance 2/2) a.Vertical and horizontal loadsb.Internal and external loadsc.Dynamic vs. static loadsd.Wind loadse.Tree weightf.Added massg.Growth stresses3.Geometry of a tree (allowance 2/2) a.Organs - roots, stem branchesb.Big growth period - growth dynamicsc.Quantity vs. quality of material distributiond.Defects and changes of stress flowe.Energy dissipationf.Beams and shells - basic concepts4.The Material (allowance 4/3) a.Wood structureb.Functional anatomy of woodc.Xylogenesis, wood modification, reaction wood5.Tree Evaluation (allowance 14/7) a.Risk and Hazard in arborcultureb.Tree vitality - physiological viewc.Tree stability - mechanical viewd.Basic approaches to tree assessment and evaluation - visual methodse.QTRA, WLA and SIA methods for tree evaluationf.Device supported methods6.Case studies (allowance 4/0) a.Mechanical loads on treesb.Root systems of treesc.Plant water regime"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic termsb.Tree growth, tree habit in land plantsc.Basic principles of tree reaction to loadsd.Type of loadse.Reaction of a tree"
+    },
+    {
+      "label": "[section] Introduction into Biomechanic",
+      "content": "a.Basic termsb.Tree growth, tree habit in land plantsc.Basic principles of tree reaction to loadsd.Type of loadse.Reaction of a tree"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Vertical and horizontal loadsb.Internal and external loadsc.Dynamic vs. static loadsd.Wind loadse.Tree weightf.Added massg.Growth stresses"
+    },
+    {
+      "label": "[section] Loads on trees",
+      "content": "a.Vertical and horizontal loadsb.Internal and external loadsc.Dynamic vs. static loadsd.Wind loadse.Tree weightf.Added massg.Growth stresses"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Organs - roots, stem branchesb.Big growth period - growth dynamicsc.Quantity vs. quality of material distributiond.Defects and changes of stress flowe.Energy dissipationf.Beams and shells - basic concepts"
+    },
+    {
+      "label": "[section] Geometry of a tree",
+      "content": "a.Organs - roots, stem branchesb.Big growth period - growth dynamicsc.Quantity vs. quality of material distributiond.Defects and changes of stress flowe.Energy dissipationf.Beams and shells - basic concepts"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Wood structureb.Functional anatomy of woodc.Xylogenesis, wood modification, reaction wood"
+    },
+    {
+      "label": "[section] The Material",
+      "content": "a.Wood structureb.Functional anatomy of woodc.Xylogenesis, wood modification, reaction wood"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Risk and Hazard in arborcultureb.Tree vitality - physiological viewc.Tree stability - mechanical viewd.Basic approaches to tree assessment and evaluation - visual methodse.QTRA, WLA and SIA methods for tree evaluationf.Device supported methods"
+    },
+    {
+      "label": "[section] Tree Evaluation",
+      "content": "a.Risk and Hazard in arborcultureb.Tree vitality - physiological viewc.Tree stability - mechanical viewd.Basic approaches to tree assessment and evaluation - visual methodse.QTRA, WLA and SIA methods for tree evaluationf.Device supported methods"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Mechanical loads on treesb.Root systems of treesc.Plant water regime"
+    },
+    {
+      "label": "[section] Case studies",
+      "content": "a.Mechanical loads on treesb.Root systems of treesc.Plant water regime"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice14 hprofessional educational excursion8 hproject work10 hpublic presentation (oral)1 hpreparation for exam15 hpreparation for regular assessment5 hpreparation for regular testing10 hpreparation of presentation6 helaboration and execution of projects20 hwriting of seminar paper5 hTotal122 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Exam is oral. For entering the credit and the project (an essay or literature review) are demanded. The project topics are like: Thigmomorphogenesis, Adaptive growth of the above ground part of the wooden plants, Pasive mechanisms of tree stability. The project defines 50 % of the mark, the discussion 50 %."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 p. ISBN 0-11-753067-0.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 p. ISBN 978-0-226-58632-8. Plant Biomechanics: An Engineering Approach to Plant Form and Function. 1992. Chicago: Chicago Press, 607 p. ISBN 0-226-58630-8.MATTHECK, Claus. 1991. Trees: The Mechanical Design. Berlin: Springer-Verlag, 121 p. ISBN 3-540-54276-0.BODIG, Jozsef; JAYNE, Benjamin A. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 21 p. ISBN 0-89464-777-6.GERE, James M.; TIMOSHENKO, Stephen P. 1984. Mechanics of Materials. 2nd ed. Monterey: Brooks/Cole Engineering Div., 16 p. ISBN 0-534-03099-8. Theory of Elasticity. 1970. 3rd ed. New York: Mc Graw-Hill Book Comp., 567 p. The Tree Habit in Land Plants: A Functional Comparison of Trunk Constructions with a Brief . 1990. Berlin: Springer-Verlag, 161 p. ISBN 3-540-52374-X.PALLARDY, Stephen G. 2008. Physiology of woody plants. 3rd ed. Amsterdam: Elsevier, 454 p. ISBN 978-0-12-388554-8. A new tree biology and dictionary: facts, photos, and philosophies on trees and their problems and proper care. 1989. 2nd ed. Durham, N.H.: Shigo and Trees, 618 p. ISBN 0-943563-04-6. Tree basics. 1997. Durham: Shigo and Trees, 40 p. ISBN 0-943563-16-X."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "MATTHECK, Claus. 2006. The body language of trees: a handbook for failure analysis. London: The Stationary Office, 240 p. ISBN 0-11-753067-0.NIKLAS, Karl J. 2012. Plant physics. Chicago: The University of Chicago Press, 426 p. ISBN 978-0-226-58632-8. Plant Biomechanics: An Engineering Approach to Plant Form and Function. 1992. Chicago: Chicago Press, 607 p. ISBN 0-226-58630-8.MATTHECK, Claus. 1991. Trees: The Mechanical Design. Berlin: Springer-Verlag, 121 p. ISBN 3-540-54276-0.BODIG, Jozsef; JAYNE, Benjamin A. 1993. Mechanics of Wood and Wood Composites. Malabar: Krieger Publish.Comp., 21 p. ISBN 0-89464-777-6.GERE, James M.; TIMOSHENKO, Stephen P. 1984. Mechanics of Materials. 2nd ed. Monterey: Brooks/Cole Engineering Div., 16 p. ISBN 0-534-03099-8. Theory of Elasticity. 1970. 3rd ed. New York: Mc Graw-Hill Book Comp., 567 p. The Tree Habit in Land Plants: A Functional Comparison of Trunk Constructions with a Brief . 1990. Berlin: Springer-Verlag, 161 p. ISBN 3-540-52374-X.PALLARDY, Stephen G. 2008. Physiology of woody plants. 3rd ed. Amsterdam: Elsevier, 454 p. ISBN 978-0-12-388554-8. A new tree biology and dictionary: facts, photos, and philosophies on trees and their problems and proper care. 1989. 2nd ed. Durham, N.H.: Shigo and Trees, 618 p. ISBN 0-943563-04-6. Tree basics. 1997. Durham: Shigo and Trees, 40 p. ISBN 0-943563-16-X."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 07:26:04",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

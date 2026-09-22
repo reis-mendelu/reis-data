@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -31,11 +31,11 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "volitelný"
+      "content": "povinný"
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -51,7 +51,7 @@
     },
     {
       "label": "Garantující ústav:",
-      "content": "Ústav financí a účetnictví (PEF)"
+      "content": "Ústav financí (PEF)"
     },
     {
       "label": "Fakulta:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Soňa Kukučková, Ph.D. (garant)"
+      "content": "doc. Ing. Svatopluk Kapounek, Ph.D. (přednášející)Ing. Soňa Kukučková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Klára Plecitá (přednášející, zkoušející)Ing. Pavel Žiaran, Ph.D. (cvičící)"
     },
     {
       "label": "Prerekvizity:",
@@ -150,8 +150,28 @@
       "content": "Český důchodový systém"
     },
     {
+      "label": "Vypracování semestrální práce",
+      "content": "0 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "40 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -167,7 +187,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -175,11 +195,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (4 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -187,11 +207,11 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "content": "Typ předmětu: povinný"
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -207,7 +227,7 @@
     },
     {
       "label": "[section] Garant předmětu:",
-      "content": "Garantující ústav: Ústav financí a účetnictví (PEF)"
+      "content": "Garantující ústav: Ústav financí (PEF)"
     },
     {
       "label": "[section] Garantující ústav:",
@@ -215,7 +235,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Soňa Kukučková, Ph.D. (garant)"
+      "content": "Vyučující: doc. Ing. Svatopluk Kapounek, Ph.D. (přednášející)Ing. Soňa Kukučková, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Klára Plecitá (přednášející, zkoušející)Ing. Pavel Žiaran, Ph.D. (cvičící)"
     },
     {
       "label": "[section] Vyučující:",
@@ -223,11 +243,11 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q31S. Kukučková, P. ŽiaranCvičeníLichý týden30Pondělí9.00-10.50Q31S. Kukučková, P. ŽiaranCvičeníSudý týden30Pondělí11.00-12.50Q31S. Kukučková, P. ŽiaranCvičeníLichý týden30Středa13.00-14.50Q03S. Kukučková, S. Kapounek, K. PlecitáPřednáškaKaždý týden170"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Student získá schopnost porozumět roli financování vybraných odvětví veřejného sektoru. Důraz je kladen na situaci v prostředí České republiky. Po úspěšném absolvování předmětu bude student schopen: a) pochopit důvody existence státních zásahů do ekonomiky a jejich možné dopady b) porozumět systému financování vybraných odvětví veřejného sektoru v ČR c) na základě předchozího správně odvodit důsledky vládních rozhodnutí v praxi."
+      "content": "Student získá schopnost porozumět roli financování vybraných odvětví veřejného sektoru. Důraz je kladen na situaci v prostředí České republiky. Po úspěšném absolvování předmětu bude student schopen: a)pochopit důvody existence státních zásahů do ekonomiky a jejich možné dopady b)porozumět systému financování vybraných odvětví veřejného sektoru v ČR c)na základě předchozího správně odvodit důsledky vládních rozhodnutí v praxi."
     },
     {
       "label": "[section] Obsah předmětu:",
@@ -275,15 +295,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení14 h0 hkonzultace15 h16 hpříprava na zkoušku28 h87 hpříprava na průběžný test17 h0 hpříprava prezentace10 h15 hzpracování seminární práce0 h22 hCelkem112 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení14 hkonzultace15 hpříprava na zkoušku28 hpříprava na průběžný test17 hpříprava prezentace10 hzpracování seminární práce0 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Student předmět úspěšně ukončí, získá-li alespoň 60 bodů z uvedených aktivit: prezentace na aktuální téma z veřejných financí (max 10), průběžný e-test (max 50), závěrečná ústní zkouška (max 40). Student získá zápočet při dosažení 50procentní úspěšnosti průběžného testu, tedy min. 25 bodů a splnění podmínky odevzdání prezentace aktuálního tématu z VF. Do hodnocení se započítávají případné bonusové body za aktivitu. Získání zápočtu je podmínkou účasti na ústní zkoušce. Hodnocení je následující: méně než 60 bodů F, 60 - 67,99 bodů E, 68 - 74,99 bodů D, 75 - 82,99 bodů C, 83 - 89,99 bodů a 90 bodů a více A. Student má možnost opravného termínu pro průběžný test. V případě podvodného jednání může být student hodnocen F a bude s ním zahájeno disciplinární řízení."
+      "content": "Student předmět úspěšně ukončí, získá-li alespoň 60 bodů z uvedených aktivit: prezentace/esej (kombinované studium) na aktuální téma z veřejných financí (max 10), průběžný e-test (max 50), závěrečná ústní zkouška (max 40). Vypracování a odevzdání prezentace aktuálního tématu z veřejných financí (u kombinovaného studia esej na aktuální téma) je podmínkou udělení zápočtu. Žádná z aktivit nemá stanoveno povinné minimum. Hodnocení je následující: méně než 60 bodů F, 60 - 67,99 bodů E, 68 - 74,99 bodů D, 75 - 82,99 bodů C, 83 - 89,99 bodů a 90 bodů a více A. Student má možnost opravného termínu pro průběžný test. V případě podvodného jednání může být student hodnocen F a bude s ním zahájeno disciplinární řízení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce0 %10 %Prezentace nebo obhajoba10 %0 %Absolvování průběžného testu (testů)50 %50 %Absolvování závěrečné ústní zkoušky40 %40 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumVypracování semestrální práce0 %Prezentace nebo obhajoba10 %Absolvování průběžného testu (testů)50 %Absolvování závěrečné ústní zkoušky40 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -299,7 +319,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "Program N-UAD Účetnictví a daně, prezenční forma, počáteční období ZS 2021/2022Obor N-HPS-FIM Finance a investiční management, prezenční forma, počáteční období ZS 2021/2022Obor N-HPS-FIM Finance a investiční management, prezenční forma, počáteční období LS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -321,7 +341,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -329,7 +349,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -337,15 +357,15 @@
     },
     {
       "label": "Course type:",
-      "content": "optional"
+      "content": "required"
     },
     {
       "label": "Type of delivery:",
-      "content": "consulting"
+      "content": "usual"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "A student can register for the course during his international mobility. In this case, he is obliged to submit the expository essay about a stated actual topic in public finance and pass the e-test after arrival from the mobility upon agreement with the teacher."
+      "content": "A student can register the subject during his international mobility. In this case, he is obliged to submit the expository essay about a stated actual topic in public finance and pass the e-test after the arrival from the mobility upon agreement with the teacher."
     },
     {
       "label": "Language of instruction:",
@@ -357,7 +377,7 @@
     },
     {
       "label": "Course supervising department:",
-      "content": "Department of Finance and Accounting (FBE)"
+      "content": "Department of Finance (FBE)"
     },
     {
       "label": "Faculty:",
@@ -365,7 +385,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Soňa Kukučková, Ph.D. (supervisor)"
+      "content": "doc. Ing. Svatopluk Kapounek, Ph.D. (lecturer)Ing. Soňa Kukučková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Klára Plecitá (examiner, lecturer)Ing. Pavel Žiaran, Ph.D. (instructor)"
     },
     {
       "label": "Prerequisites:",
@@ -460,8 +480,28 @@
       "content": "Pension system in the Czech Republic"
     },
     {
+      "label": "Term paper",
+      "content": "0 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "50 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "40 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -477,7 +517,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -485,11 +525,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (4 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -497,15 +537,15 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: optional"
+      "content": "Course type: required"
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: consulting"
+      "content": "Type of delivery: usual"
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: A student can register for the course during his international mobility. In this case, he is obliged to submit the expository essay about a stated actual topic in public finance and pass the e-test after arrival from the mobility upon agreement with the teacher."
+      "content": "Mode of delivery for our mobility students abroad: A student can register the subject during his international mobility. In this case, he is obliged to submit the expository essay about a stated actual topic in public finance and pass the e-test after the arrival from the mobility upon agreement with the teacher."
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -517,7 +557,7 @@
     },
     {
       "label": "[section] Course supervisor:",
-      "content": "Course supervising department: Department of Finance and Accounting (FBE)"
+      "content": "Course supervising department: Department of Finance (FBE)"
     },
     {
       "label": "[section] Course supervising department:",
@@ -525,7 +565,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Soňa Kukučková, Ph.D. (supervisor)"
+      "content": "Teachers: doc. Ing. Svatopluk Kapounek, Ph.D. (lecturer)Ing. Soňa Kukučková, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Klára Plecitá (examiner, lecturer)Ing. Pavel Žiaran, Ph.D. (instructor)"
     },
     {
       "label": "[section] Teachers:",
@@ -533,11 +573,11 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "-- item not defined --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50Q31S. Kukučková, P. ŽiaranSeminarEven week30Monday9.00-10.50Q31S. Kukučková, P. ŽiaranSeminarOdd week30Monday11.00-12.50Q31S. Kukučková, P. ŽiaranSeminarOdd week30Wednesday13.00-14.50Q03S. Kukučková, S. Kapounek, K. PlecitáLectureEvery week170"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "A student gains the ability to understand the role of funding of the concrete segments in the public sector. The emphasis is placed on public finance in the Czech Republic. After successfully passing the course, the student should be able to: a) understand the reasons for the existence of state intervention in the economy and their potential impacts b) understand the funding of the concrete segments in the public sector in the Czech Republic c) evaluate the consequences of government decisions in practice"
+      "content": "A student gains the ability to understand the role of funding of the concrete segments in public sector. Emphasis is placed on public finance in the Czech Republic. After successful passing the course, the student should be able to: a) understand the reasons for the existence of state intervention in the economy and their potential impacts b) understand the funding of the concrete segments in the public sector in the Czech Republic c) evaluate the consequences of government decisions in practice"
     },
     {
       "label": "[section] Course content:",
@@ -585,15 +625,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice14 h0 hconsultation15 h16 hpreparation for exam28 h87 hpreparation for regular testing17 h0 hpreparation of presentation10 h15 hwriting of seminar paper0 h22 hTotal112 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice14 hconsultation15 hpreparation for exam28 hpreparation for regular testing17 hpreparation of presentation10 hwriting of seminar paper0 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "A student will fulfill the requirements to pass the exam when he obtains 60 points from the following activities: presentation on an actual topic in public finance (max 10), midterm test (max 50), and oral exam (max 40). The student obtains a credit if he/she achieves a 50% success rate, i.e. a minimum of 25 points in total from the midterm test, and fulfills the condition of submitting a presentation on the current topic in public finance. Obtaining a credit is a condition for participation in the oral examination. The final score aligns with these conditions: less than 60 points F, 60 - 67.99 points E, 68 - 74.99 points D, 75 - 82.99 points C, 83 - 89.99 points B, 90 points and more A. The student has the opportunity to repeat the midterm test when he fails."
+      "content": "A student will fulfil requirements to pass the exam when he obtains 60 points from following activities: presentation on actual topic in public finance (max 10), midterm test (max 30), final exam test (max 40) and oral exam (max 20). The submitted powerpoint presentation is a condition to obtain credit. None from the activities has obligatory minimum. TThe final score is in line with these conditions: less than 60 points F, 60 - 67.99 points E, 68 - 74.99 points D, 75 - 82.99 points C, 83 - 89.99 points B and 90 points and more A. Student has opportunity to repeat the midterm test when he failed."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formTerm paper0 %10 %Presentation or defence10 %0 %Mid-term test(s)50 %50 %Final oral exam40 %40 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceTerm paper0 %Presentation or defence10 %Mid-term test(s)50 %Final oral exam40 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -609,13 +649,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "-- item not defined --"
+      "content": "Programme C-UAD Accounting and Taxes, full-time form, initial period WS 2021/2022Field of study C-EPA-FIM Finance and Investment Management, full-time form, initial period WS 2021/2022Field of study C-EPA-FIM Finance and Investment Management, full-time form, initial period SS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:01:54",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:18:44",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

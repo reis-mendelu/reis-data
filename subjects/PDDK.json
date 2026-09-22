@@ -3,7 +3,7 @@
   "name": "Průzkum a dokumentování dřevěných konstrukcí",
   "nameCs": "Průzkum a dokumentování dřevěných konstrukcí",
   "nameEn": "Timber Structure Survey and Documentation",
-  "predmetId": "156900",
+  "predmetId": "161920",
   "facultyId": 38,
   "aliases": [
     "PDKS"
@@ -12,6 +12,74 @@
     "Ing. Michal Kloiber, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161920;lang=cz",
+      "totalPass": 51,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 25,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 25,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 51,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 51,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 25,
+          "creditGrades": {
+            "zap": 26,
+            "nezap": 0,
+            "zapNedost": 25
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -160,5 +228,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

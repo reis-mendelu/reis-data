@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/8 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Ne"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,71 +59,139 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Mgr. Pavel Reich, Ph.D. (cvičící, garant, zkoušející)"
+      "content": "Mgr. Hamza Messari, PhD. (cvičící, zkoušející)Mgr. Pavel Reich, Ph.D. (garant)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Světový jazyk - francouzština pokročilí 1 nebo ne Světový jazyk - francouzština pokročilí 2 nebo ne nyní Světový jazyk - francouzština pokročilí 1 nebo ne nyní Světový jazyk - francouzština pokročilí 2"
+      "content": "ne Světový jazyk - Francouzština 1 a ne Světový jazyk - Francouzština 2 a ne Světový jazyk - Francouzština K 1 a ne Světový jazyk - Francouzština K 2"
     },
     {
       "label": "1.",
-      "content": "En ville (dotace 0/8)"
+      "content": "Mluvení - ústní prezentace na daná témata (dotace 0/0)"
     },
     {
       "label": "a.",
-      "content": "Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le temps"
+      "content": "studentova osobnost"
     },
     {
       "label": "b.",
-      "content": "Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\""
+      "content": "rodina"
     },
     {
       "label": "c.",
-      "content": "Communication: Demander et indiquer le chemin; Demander des renseignements touristiques"
+      "content": "místo bydliště"
+    },
+    {
+      "label": "d.",
+      "content": "stravování, restaurace"
+    },
+    {
+      "label": "e.",
+      "content": "bydlení - dům, byt"
+    },
+    {
+      "label": "f.",
+      "content": "hotel - rezervace, ubytování"
     },
     {
       "label": "2.",
-      "content": "En voyage (dotace 0/8)"
+      "content": "Poslech (dotace 0/0)"
     },
     {
       "label": "a.",
-      "content": "Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La table"
+      "content": "poslech pro celkové porozumění"
     },
     {
       "label": "b.",
-      "content": "Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\""
+      "content": "poslech pro pochopení hlavní myšlenky/ hlavních myšlenek"
     },
     {
       "label": "c.",
-      "content": "Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter"
+      "content": "poslech pro specifickou informaci"
     },
     {
       "label": "3.",
-      "content": "La mode (dotace 0/8)"
+      "content": "Čtení (dotace 0/0)"
     },
     {
       "label": "a.",
-      "content": "Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objets"
+      "content": "čtení pro celkové porozumění"
     },
     {
       "label": "b.",
-      "content": "Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\""
+      "content": "čtení pro pochopení hlavní myšlenky/ hlavních myšlenek"
+    },
+    {
+      "label": "4.",
+      "content": "psaní (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "vyplňování formuláře, dotazníku"
+    },
+    {
+      "label": "b.",
+      "content": "esej"
     },
     {
       "label": "c.",
-      "content": "Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "content": "soukromý dopis"
     },
     {
-      "label": "Absolvování závěrečného testu",
-      "content": "100 %"
+      "label": "5.",
+      "content": "Gramatika (dotace 0/0)"
     },
     {
-      "label": "Celkem",
-      "content": "100 %"
+      "label": "a.",
+      "content": "Zájmena osobní 3. a 4. pád"
+    },
+    {
+      "label": "b.",
+      "content": "Vztažná zájmena"
+    },
+    {
+      "label": "c.",
+      "content": "Přídavná jména slovesná"
+    },
+    {
+      "label": "d.",
+      "content": "Budoucí čas (futur simple)"
+    },
+    {
+      "label": "e.",
+      "content": "Podmiňovací způsob přítomný"
+    },
+    {
+      "label": "f.",
+      "content": "Podmínková souvětí"
+    },
+    {
+      "label": "g.",
+      "content": "Vztažná zájmena \"qui\", \"que\""
+    },
+    {
+      "label": "h.",
+      "content": "Otázky Kdo?, Co?"
+    },
+    {
+      "label": "i.",
+      "content": "Stupňování přídavných jmen a příslovcí"
+    },
+    {
+      "label": "j.",
+      "content": "Nepravidelný plurál adjektiv a substantiv"
+    },
+    {
+      "label": "k.",
+      "content": "Zájmenné příslovce \"y\""
+    },
+    {
+      "label": "l.",
+      "content": "nepravidelná slovesa (zopakování a procvičení nejčastějších nepravidelných sloves)"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021, ZS 2019/2020, LS 2018/2019 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021, ZS 2019/2020 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -139,7 +207,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -147,11 +215,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/8 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zápočet (2 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/8 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -167,7 +235,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Ne"
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -187,67 +255,83 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Mgr. Pavel Reich, Ph.D. (cvičící, garant, zkoušející)"
+      "content": "Vyučující: Mgr. Hamza Messari, PhD. (cvičící, zkoušející)Mgr. Pavel Reich, Ph.D. (garant)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Světový jazyk - francouzština pokročilí 1 nebo ne Světový jazyk - francouzština pokročilí 2 nebo ne nyní Světový jazyk - francouzština pokročilí 1 nebo ne nyní Světový jazyk - francouzština pokročilí 2"
+      "content": "Prerekvizity: ne Světový jazyk - Francouzština 1 a ne Světový jazyk - Francouzština 2 a ne Světový jazyk - Francouzština K 1 a ne Světový jazyk - Francouzština K 2"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek13.00-14.50Z25 (ČP II.)P. ReichCvičeníKaždý týden20"
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa13.00-14.50Z25 (ČP II.)H. MessariCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Cílem předmětu je upevnění a rozšíření znalostí francouzského jazyka na mírně až středně pokročilé úrovni. Důraz je kladen na praktické jazykové dovednosti potřebné pro případné budoucí působení studentů v zahraničí. Výstupní úroveň znalostí po absolvování dvousemestrálního kurzu odpovídá úrovni A2/B1 podle společného evropského referenčního rámce pro jazyky."
+      "content": "Zopakovat a prohloubit znalosti gramatiky a slovní zásoby, naučit studenty komunikovat v běžných situacích, rozšířit slovní zásobu o vybrané konverzační okruhy"
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.En ville (dotace 0/8) a.Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le tempsb.Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\"c.Communication: Demander et indiquer le chemin; Demander des renseignements touristiques2.En voyage (dotace 0/8) a.Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La tableb.Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\"c.Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter3.La mode (dotace 0/8) a.Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objetsb.Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\"c.Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "content": "1.Mluvení - ústní prezentace na daná témata (dotace 0/0) a.studentova osobnostb.rodinac.místo bydlištěd.stravování, restauracee.bydlení - dům, bytf.hotel - rezervace, ubytování2.Poslech (dotace 0/0) a.poslech pro celkové porozuměníb.poslech pro pochopení hlavní myšlenky/ hlavních myšlenekc.poslech pro specifickou informaci3.Čtení (dotace 0/0) a.čtení pro celkové porozuměníb.čtení pro pochopení hlavní myšlenky/ hlavních myšlenekc.poslech pro specifickou informaci4.psaní (dotace 0/0) a.vyplňování formuláře, dotazníkub.esejc.soukromý dopis5.Gramatika (dotace 0/0) a.Zájmena osobní 3. a 4. pádb.Vztažná zájmenac.Přídavná jména slovesnád.Budoucí čas (futur simple)e.Podmiňovací způsob přítomnýf.Podmínková souvětíg.Vztažná zájmena \"qui\", \"que\"h.Otázky Kdo?, Co?i.Stupňování přídavných jmen a příslovcíj.Nepravidelný plurál adjektiv a substantivk.Zájmenné příslovce \"y\"l.nepravidelná slovesa (zopakování a procvičení nejčastějších nepravidelných sloves)"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le tempsb.Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\"c.Communication: Demander et indiquer le chemin; Demander des renseignements touristiques"
+      "content": "a.studentova osobnostb.rodinac.místo bydlištěd.stravování, restauracee.bydlení - dům, bytf.hotel - rezervace, ubytování"
     },
     {
-      "label": "[section] En ville",
-      "content": "a.Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le tempsb.Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\"c.Communication: Demander et indiquer le chemin; Demander des renseignements touristiques"
+      "label": "[section] Mluvení - ústní prezentace na daná témata",
+      "content": "a.studentova osobnostb.rodinac.místo bydlištěd.stravování, restauracee.bydlení - dům, bytf.hotel - rezervace, ubytování"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La tableb.Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\"c.Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter"
+      "content": "a.poslech pro celkové porozuměníb.poslech pro pochopení hlavní myšlenky/ hlavních myšlenekc.poslech pro specifickou informaci"
     },
     {
-      "label": "[section] En voyage",
-      "content": "a.Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La tableb.Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\"c.Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter"
+      "label": "[section] Poslech",
+      "content": "a.poslech pro celkové porozuměníb.poslech pro pochopení hlavní myšlenky/ hlavních myšlenekc.poslech pro specifickou informaci"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objetsb.Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\"c.Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "content": "a.čtení pro celkové porozuměníb.čtení pro pochopení hlavní myšlenky/ hlavních myšlenekc.poslech pro specifickou informaci"
     },
     {
-      "label": "[section] La mode",
-      "content": "a.Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objetsb.Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\"c.Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "label": "[section] Čtení",
+      "content": "a.čtení pro celkové porozuměníb.čtení pro pochopení hlavní myšlenky/ hlavních myšlenekc.poslech pro specifickou informaci"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.vyplňování formuláře, dotazníkub.esejc.soukromý dopis"
+    },
+    {
+      "label": "[section] psaní",
+      "content": "a.vyplňování formuláře, dotazníkub.esejc.soukromý dopis"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Zájmena osobní 3. a 4. pádb.Vztažná zájmenac.Přídavná jména slovesnád.Budoucí čas (futur simple)e.Podmiňovací způsob přítomnýf.Podmínková souvětíg.Vztažná zájmena \"qui\", \"que\"h.Otázky Kdo?, Co?i.Stupňování přídavných jmen a příslovcíj.Nepravidelný plurál adjektiv a substantivk.Zájmenné příslovce \"y\"l.nepravidelná slovesa (zopakování a procvičení nejčastějších nepravidelných sloves)"
+    },
+    {
+      "label": "[section] Gramatika",
+      "content": "a.Zájmena osobní 3. a 4. pádb.Vztažná zájmenac.Přídavná jména slovesnád.Budoucí čas (futur simple)e.Podmiňovací způsob přítomnýf.Podmínková souvětíg.Vztažná zájmena \"qui\", \"que\"h.Otázky Kdo?, Co?i.Stupňování přídavných jmen a příslovcíj.Nepravidelný plurál adjektiv a substantivk.Zájmenné příslovce \"y\"l.nepravidelná slovesa (zopakování a procvičení nejčastějších nepravidelných sloves)"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení24 hpříprava na zkoušku4 hCelkem28 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumKombinované studiumcvičení24 h0 hpříprava na průběžné hodnocení4 h0 hCelkem28 h0 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Závěrečný test vycházející z probraného učiva. K úspěšnému ukončení předmětu je třeba získat z testu 60 %."
+      "content": "zápočtový test (hranice úspěchu je 70%)"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAbsolvování závěrečného testu100 %Celkem100 %"
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:BARACCO, Carla; GIACHINO, Luca. 2022. Nouvelle Génération A2. Paris: Didier.MIQUEL, Claire; GOLIOT-LÉTÉ, Anne. 2017. Vocabulaire progressif du français - Niveau intermédiaire (A2/B1). Paris: CLE International/Sejer, 208 s.THIÉVENAZ, Odile; GRÉGOIRE, Maia. 2017. Grammaire progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international/Sejer, 280 s.MIQUEL, Claire. 2018. Communication progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international, 207 s.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 2007. Francouzština nejen pro samouky. 1. vyd. Voznice: Leda, 568 s. ISBN 978-80-7335-083-3."
+      "content": "Základní:PRAVDOVÁ, Marie. 1994. Francouzština pro začátečníky - žákovský sešit. Leda, 108 s. ISBN 80-901664-4-X.PRAVDOVÁ, Marie. 2002. Francouzština pro začátečníky = Le français pour vous. 2. vyd. Voznice: Leda, 375 s. ISBN 80-85927-10-1.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 1992. Francouzská konverzace. SPN, 352 s. ISBN 80-04-23639-1."
     },
     {
       "label": "[section] Základní:",
-      "content": "BARACCO, Carla; GIACHINO, Luca. 2022. Nouvelle Génération A2. Paris: Didier.MIQUEL, Claire; GOLIOT-LÉTÉ, Anne. 2017. Vocabulaire progressif du français - Niveau intermédiaire (A2/B1). Paris: CLE International/Sejer, 208 s.THIÉVENAZ, Odile; GRÉGOIRE, Maia. 2017. Grammaire progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international/Sejer, 280 s.MIQUEL, Claire. 2018. Communication progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international, 207 s.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 2007. Francouzština nejen pro samouky. 1. vyd. Voznice: Leda, 568 s. ISBN 978-80-7335-083-3."
+      "content": "PRAVDOVÁ, Marie. 1994. Francouzština pro začátečníky - žákovský sešit. Leda, 108 s. ISBN 80-901664-4-X.PRAVDOVÁ, Marie. 2002. Francouzština pro začátečníky = Le français pour vous. 2. vyd. Voznice: Leda, 375 s. ISBN 80-85927-10-1.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 1992. Francouzská konverzace. SPN, 352 s. ISBN 80-04-23639-1."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
@@ -273,7 +357,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -281,7 +365,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 0/8 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -297,7 +381,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "No"
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -317,71 +401,147 @@
     },
     {
       "label": "Teachers:",
-      "content": "Mgr. Pavel Reich, Ph.D. (examiner, instructor, supervisor)"
+      "content": "Mgr. Hamza Messari, PhD. (examiner, instructor)Mgr. Pavel Reich, Ph.D. (supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not World Language - French Advanced Course 1 or not World Language - French Advanced Course 2 or not now World Language - French Advanced Course 1 or not now World Language - French Advanced Course 2"
+      "content": "not French 1 and not French 2 and not French K 1 and not French K 2"
     },
     {
       "label": "1.",
-      "content": "En ville (allowance 0/8)"
+      "content": "Speaking (allowance 0/5)"
     },
     {
       "label": "a.",
-      "content": "Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le temps"
+      "content": "introducing oneself"
     },
     {
       "label": "b.",
-      "content": "Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\""
+      "content": "visiting people"
     },
     {
       "label": "c.",
-      "content": "Communication: Demander et indiquer le chemin; Demander des renseignements touristiques"
+      "content": "family"
+    },
+    {
+      "label": "d.",
+      "content": "travelling"
+    },
+    {
+      "label": "e.",
+      "content": "town"
+    },
+    {
+      "label": "f.",
+      "content": "living in a flat/ a house"
+    },
+    {
+      "label": "g.",
+      "content": "accomodation - hotel"
+    },
+    {
+      "label": "h.",
+      "content": "apology"
     },
     {
       "label": "2.",
-      "content": "En voyage (allowance 0/8)"
+      "content": "Listening (allowance 0/5)"
     },
     {
       "label": "a.",
-      "content": "Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La table"
+      "content": "listening for gist"
     },
     {
       "label": "b.",
-      "content": "Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\""
+      "content": "listening for main ideas"
     },
     {
       "label": "c.",
-      "content": "Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter"
+      "content": "listening for specific information"
     },
     {
       "label": "3.",
-      "content": "La mode (allowance 0/8)"
+      "content": "Reading (allowance 0/4)"
     },
     {
       "label": "a.",
-      "content": "Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objets"
+      "content": "reading for gist"
     },
     {
       "label": "b.",
-      "content": "Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\""
+      "content": "reading for main idea"
     },
     {
       "label": "c.",
-      "content": "Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "content": "reading for specific information"
     },
     {
-      "label": "Final test",
-      "content": "100 %"
+      "label": "4.",
+      "content": "Writing (allowance 0/4)"
     },
     {
-      "label": "Total",
-      "content": "100 %"
+      "label": "a.",
+      "content": "filling in a form"
+    },
+    {
+      "label": "b.",
+      "content": "informal letter"
+    },
+    {
+      "label": "5.",
+      "content": "Grammar (allowance 0/6)"
+    },
+    {
+      "label": "a.",
+      "content": "direct/ indirect object"
+    },
+    {
+      "label": "b.",
+      "content": "relative pronouns"
+    },
+    {
+      "label": "c.",
+      "content": "adjectives derived from verbs"
+    },
+    {
+      "label": "d.",
+      "content": "future"
+    },
+    {
+      "label": "e.",
+      "content": "conditional"
+    },
+    {
+      "label": "f.",
+      "content": "conditional clauses"
+    },
+    {
+      "label": "g.",
+      "content": "relative pronouns \"qui\", \"que\""
+    },
+    {
+      "label": "h.",
+      "content": "interrogative pronouns \"qui\", \"que\""
+    },
+    {
+      "label": "i.",
+      "content": "adverbs - derivation, comparative and superlative"
+    },
+    {
+      "label": "j.",
+      "content": "irregular plural (nouns, adjectives)"
+    },
+    {
+      "label": "k.",
+      "content": "adverb \"y\""
+    },
+    {
+      "label": "l.",
+      "content": "irregulare verbs (dire, ouvrir, voir, écrire, partir, mettre, conduire, recevoir, lire)"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021, WS 2019/2020, SS 2018/2019 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2023/2024, WS 2022/2023, WS 2020/2021, WS 2019/2020 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -397,7 +557,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -405,11 +565,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 0/8 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Pass credit (2 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)part-time, 0/8 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -425,7 +585,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: No"
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -445,67 +605,83 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Mgr. Pavel Reich, Ph.D. (examiner, instructor, supervisor)"
+      "content": "Teachers: Mgr. Hamza Messari, PhD. (examiner, instructor)Mgr. Pavel Reich, Ph.D. (supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not World Language - French Advanced Course 1 or not World Language - French Advanced Course 2 or not now World Language - French Advanced Course 1 or not now World Language - French Advanced Course 2"
+      "content": "Prerequisites: not French 1 and not French 2 and not French K 1 and not French K 2"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday13.00-14.50Z25 (ČP II.)P. ReichSeminarEvery week20"
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday13.00-14.50Z25 (ČP II.)H. MessariSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The aim of the course is to consolidate and expand knowledge of the French language at a pre-intermediate / intermediate level. Emphasis is placed on practical language skills needed for possible future work of students abroad. The level achieved in the two-semester course corresponds to A2/B1 according to the Common European Framework of Reference for Languages."
+      "content": "- fixation of grammar knowledge - developping of oral and written communication abilities - extension of general vocabulary"
     },
     {
       "label": "[section] Course content:",
-      "content": "1.En ville (allowance 0/8) a.Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le tempsb.Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\"c.Communication: Demander et indiquer le chemin; Demander des renseignements touristiques2.En voyage (allowance 0/8) a.Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La tableb.Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\"c.Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter3.La mode (allowance 0/8) a.Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objetsb.Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\"c.Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "content": "1.Speaking (allowance 0/5) a.introducing oneselfb.visiting peoplec.familyd.travellinge.townf.living in a flat/ a houseg.accomodation - hotelh.apology2.Listening (allowance 0/5) a.listening for gistb.listening for main ideasc.listening for specific information3.Reading (allowance 0/4) a.reading for gistb.reading for main ideac.reading for specific information4.Writing (allowance 0/4) a.filling in a formb.informal letter5.Grammar (allowance 0/6) a.direct/ indirect objectb.relative pronounsc.adjectives derived from verbsd.futuree.conditionalf.conditional clausesg.relative pronouns \"qui\", \"que\"h.interrogative pronouns \"qui\", \"que\"i.adverbs - derivation, comparative and superlativej.irregular plural (nouns, adjectives)k.adverb \"y\"l.irregulare verbs (dire, ouvrir, voir, écrire, partir, mettre, conduire, recevoir, lire)"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le tempsb.Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\"c.Communication: Demander et indiquer le chemin; Demander des renseignements touristiques"
+      "content": "a.introducing oneselfb.visiting peoplec.familyd.travellinge.townf.living in a flat/ a houseg.accomodation - hotelh.apology"
     },
     {
-      "label": "[section] En ville",
-      "content": "a.Mots et expressions: Les lieux de la ville; Les services; Les moyens de transport; Les prépositions de de lieu et les points cardinaux; Situer dans le tempsb.Grammaire: La comparaison; Le passé composé; Les verbes en -cer, en -ger et -yer; Les verbes \"ouvrir\" et \"accueillir\"c.Communication: Demander et indiquer le chemin; Demander des renseignements touristiques"
+      "label": "[section] Speaking",
+      "content": "a.introducing oneselfb.visiting peoplec.familyd.travellinge.townf.living in a flat/ a houseg.accomodation - hotelh.apology"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La tableb.Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\"c.Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter"
+      "content": "a.listening for gistb.listening for main ideasc.listening for specific information"
     },
     {
-      "label": "[section] En voyage",
-      "content": "a.Mots et expressions: Les voyages; La gare et le train – L'aéroport et l'avion; L'hébergement – Le restaurant; La tableb.Grammaire: L'imparfait; Les pronoms relatifs \"qui\" et \"que\"; La question inversée; Les adverbes; Les verbes \"boire\" et \"recevoir\"c.Communication: Réserver une chambre d'hôtel; Acheter un billet; Au restaurant: réserver, commander et commenter"
+      "label": "[section] Listening",
+      "content": "a.listening for gistb.listening for main ideasc.listening for specific information"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objetsb.Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\"c.Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "content": "a.reading for gistb.reading for main ideac.reading for specific information"
     },
     {
-      "label": "[section] La mode",
-      "content": "a.Mots et expressions: Le vêtement; Les accessoires; Les matières et les motifs; Les matériaux; Les formes; L'état des objetsb.Grammaire: Les articles (particularités); Les adjectifs de couleur; Les adjectifs \"beau\", \"nouveau\" et \"vieux\"; Les pronoms interrogatifs variables; Les pronoms démonstratifs; Les verbes \"vendre\", \"mettre\" et \"produire\"c.Communication: Demander et dire les mesures; Décrire un objet; Acheter, décrire et apprécier un vêtement"
+      "label": "[section] Reading",
+      "content": "a.reading for gistb.reading for main ideac.reading for specific information"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.filling in a formb.informal letter"
+    },
+    {
+      "label": "[section] Writing",
+      "content": "a.filling in a formb.informal letter"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.direct/ indirect objectb.relative pronounsc.adjectives derived from verbsd.futuree.conditionalf.conditional clausesg.relative pronouns \"qui\", \"que\"h.interrogative pronouns \"qui\", \"que\"i.adverbs - derivation, comparative and superlativej.irregular plural (nouns, adjectives)k.adverb \"y\"l.irregulare verbs (dire, ouvrir, voir, écrire, partir, mettre, conduire, recevoir, lire)"
+    },
+    {
+      "label": "[section] Grammar",
+      "content": "a.direct/ indirect objectb.relative pronounsc.adjectives derived from verbsd.futuree.conditionalf.conditional clausesg.relative pronouns \"qui\", \"que\"h.interrogative pronouns \"qui\", \"que\"i.adverbs - derivation, comparative and superlativej.irregular plural (nouns, adjectives)k.adverb \"y\"l.irregulare verbs (dire, ouvrir, voir, écrire, partir, mettre, conduire, recevoir, lire)"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice24 hpreparation for exam4 hTotal28 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formpractice24 h0 hpreparation for regular assessment4 h0 hTotal28 h0 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Final test based on the content of the course. In order to pass, the student must obtain at least 60 % from the test."
+      "content": "written test (minimum passing score: 70%)"
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceFinal test100 %Total100 %"
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:BARACCO, Carla; GIACHINO, Luca. 2022. Nouvelle Génération A2. Paris: Didier.MIQUEL, Claire; GOLIOT-LÉTÉ, Anne. 2017. Vocabulaire progressif du français - Niveau intermédiaire (A2/B1). Paris: CLE International/Sejer, 208 p.THIÉVENAZ, Odile; GRÉGOIRE, Maia. 2017. Grammaire progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international/Sejer, 280 p.MIQUEL, Claire. 2018. Communication progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international, 207 p.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 2007. Francouzština nejen pro samouky. 1st ed. Voznice: Leda, 568 p. ISBN 978-80-7335-083-3."
+      "content": "Basic:PRAVDOVÁ, Marie. 1994. Francouzština pro začátečníky - žákovský sešit. Leda, 108 p. ISBN 80-901664-4-X.PRAVDOVÁ, Marie. 2002. Francouzština pro začátečníky = Le français pour vous. 2nd ed. Voznice: Leda, 375 p. ISBN 80-85927-10-1.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 1992. Francouzská konverzace. SPN, 352 p. ISBN 80-04-23639-1."
     },
     {
       "label": "[section] Basic:",
-      "content": "BARACCO, Carla; GIACHINO, Luca. 2022. Nouvelle Génération A2. Paris: Didier.MIQUEL, Claire; GOLIOT-LÉTÉ, Anne. 2017. Vocabulaire progressif du français - Niveau intermédiaire (A2/B1). Paris: CLE International/Sejer, 208 p.THIÉVENAZ, Odile; GRÉGOIRE, Maia. 2017. Grammaire progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international/Sejer, 280 p.MIQUEL, Claire. 2018. Communication progressive du français - Niveau intermédiaire (A2/B1). Paris: CLE international, 207 p.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 2007. Francouzština nejen pro samouky. 1st ed. Voznice: Leda, 568 p. ISBN 978-80-7335-083-3."
+      "content": "PRAVDOVÁ, Marie. 1994. Francouzština pro začátečníky - žákovský sešit. Leda, 108 p. ISBN 80-901664-4-X.PRAVDOVÁ, Marie. 2002. Francouzština pro začátečníky = Le français pour vous. 2nd ed. Voznice: Leda, 375 p. ISBN 80-85927-10-1.PRAVDOVÁ, Marie; PRAVDA, Miroslav. 1992. Francouzská konverzace. SPN, 352 p. ISBN 80-04-23639-1."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
@@ -516,6 +692,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:08:03",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:23:14",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

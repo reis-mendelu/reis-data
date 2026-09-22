@@ -3,7 +3,7 @@
   "name": "Vybraná témata teritoriálního rozvoje v AJ",
   "nameCs": null,
   "nameEn": null,
-  "predmetId": "5",
+  "predmetId": "160258",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -14,6 +14,60 @@
     "Mgr. Petr Klusáček, Ph.D.",
     "prof. Ing. Jan Sucháček, Ph.D."
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=160258;lang=cz",
+      "totalPass": 14,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 6,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 6,
+            "D": 2,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 1
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

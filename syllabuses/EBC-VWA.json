@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět není možné studovat během zahraničního výjezdu."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Pavel Turčínek, Ph.D."
+      "content": "Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,27 +59,39 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Ivo Pisařovic, Ph.D. (cvičící, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, zkoušející)Ing. Pavel Turčínek, Ph.D. (garant)"
+      "content": "Ing. Jan Kolomazník, Ph.D. (cvičící)Ing. Ivo Pisařovic, Ph.D. (cvičící, přednášející)Ing. Jan Turčínek, Ph.D. (garant, přednášející)Ing. Roman Valovič (cvičící, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Databázové systémy a návrh databází"
+      "content": "(Databázové systémy a návrh databází nebo studentem studijního programu B-SI Systémové inženýrství a informatika) a ne Státní bakalářská zkouška a ne Aplikační programové vybavení"
     },
     {
       "label": "1.",
-      "content": "Webové aplikace (dotace 16/16)"
+      "content": "Úvod do problematiky webových aplikací (dotace 6/6)"
     },
     {
       "label": "a.",
-      "content": "Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)"
+      "content": "Internetové technologie a protokoly"
     },
     {
       "label": "b.",
-      "content": "Vytváření šablon"
+      "content": "Terminologie"
+    },
+    {
+      "label": "2.",
+      "content": "Webové aplikace (dotace 14/16)"
+    },
+    {
+      "label": "a.",
+      "content": "Úvod do jazyka HTML, webové standardy"
+    },
+    {
+      "label": "b.",
+      "content": "Formuláře, předávání parametrů"
     },
     {
       "label": "c.",
-      "content": "Zpracování uživatelských dat"
+      "content": "Serverové skriptovací jazyky (PHP), vývojové rámce a knihovny"
     },
     {
       "label": "d.",
@@ -91,63 +103,47 @@
     },
     {
       "label": "f.",
-      "content": "Webová aplikační rozhraní a webové služby"
+      "content": "Jazyk JavaScript, vývojové rámce a knihovny"
     },
     {
       "label": "g.",
-      "content": "Autentizace a autorizace uživatelů"
-    },
-    {
-      "label": "h.",
-      "content": "Zabezpečení"
-    },
-    {
-      "label": "2.",
-      "content": "Návrh webové aplikace (dotace 4/4)"
-    },
-    {
-      "label": "a.",
-      "content": "Analýza požadavků"
-    },
-    {
-      "label": "b.",
-      "content": "Návrh funkcionality (UML)"
-    },
-    {
-      "label": "c.",
-      "content": "Návrh vzhledu aplikace (drátěné modely, informační architektura)"
+      "content": "Webová aplikační rozhraní a webové služby"
     },
     {
       "label": "3.",
-      "content": "HTML a Kaskádové styly (dotace 8/8)"
+      "content": "Kaskádové styly (dotace 4/4)"
     },
     {
       "label": "a.",
-      "content": "Základní seznámení s technologiemi (jazyky)"
+      "content": "Základní seznámení, vlastnosti objektů, formátování dokumentu"
     },
     {
       "label": "b.",
-      "content": "Strukturování dokumentu pomoci HTML"
-    },
-    {
-      "label": "c.",
       "content": "Design pomocí CSS, rozložení stránky"
     },
     {
-      "label": "d.",
+      "label": "c.",
       "content": "Pokročilé vlastnosti objektů, pozicování a plovoucí objekty"
     },
     {
-      "label": "e.",
+      "label": "d.",
       "content": "Responsivní webdesign"
     },
     {
-      "label": "f.",
-      "content": "Knihovny (Bootstrap,...)"
+      "label": "4.",
+      "content": "Bezpečnost webových aplikací (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Autentizace a autorizace uživatelů"
+    },
+    {
+      "label": "b.",
+      "content": "Bezpečnostní slabiny webových aplikací"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, ZS 2022/2023 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -163,7 +159,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -191,7 +187,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -199,7 +195,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Pavel Turčínek, Ph.D."
+      "content": "Garant předmětu: Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -211,59 +207,67 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Ivo Pisařovic, Ph.D. (cvičící, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, zkoušející)Ing. Pavel Turčínek, Ph.D. (garant)"
+      "content": "Vyučující: Ing. Jan Kolomazník, Ph.D. (cvičící)Ing. Ivo Pisařovic, Ph.D. (cvičící, přednášející)Ing. Jan Turčínek, Ph.D. (garant, přednášející)Ing. Roman Valovič (cvičící, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Databázové systémy a návrh databází"
+      "content": "Prerekvizity: (Databázové systémy a návrh databází nebo studentem studijního programu B-SI Systémové inženýrství a informatika) a ne Státní bakalářská zkouška a ne Aplikační programové vybavení"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q05B-AIIB-OII. PisařovicCvičeníKaždý týden23Úterý15.00-16.50Q05B-AIIB-OII. PisařovicCvičeníKaždý týden23Úterý17.00-18.50Q05B-AIIB-OII. PisařovicCvičeníKaždý týden23Pátek7.00-8.50Q03B-AIIB-OIJ. TurčínekPřednáškaKaždý týden117Pátek9.00-10.50Q07B-AIIB-OIJ. TurčínekCvičeníKaždý týden24Pátek11.00-12.50Q07B-AIIB-OIJ. TurčínekCvičeníKaždý týden24Sobota14.00-17.50Q09B-AIIJ. TurčínekPřednáškaNepravidelně20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q06B-AII I. PisařovicCvičeníKaždý týden20Úterý17.00-18.50Q03J. TurčínekPřednáškaKaždý týden170Středa17.00-18.50Q07B-SI R. ValovičCvičeníKaždý týden20Čtvrtek10.00-10.50Q09B-AII2I. PisařovicPřednáškaNepravidelně20Čtvrtek13.00-14.50Q07B-SI R. ValovičCvičeníKaždý týden20Čtvrtek15.00-16.50Q07B-SI R. ValovičCvičeníKaždý týden21"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Předmět shrnuje základní poznatky v oblasti tvorby webových aplikací z pohledu teoretického i praktického. Posluchači jsou seznámeni s jednotlivými aspekty tvorby webových aplikací. Důraz je kladen na vývoj webových aplikací s využitím relačních databázových systémů. Součástí kurzu je také seznámení se souvisejícími technologiemi - síťové služby, aplikační protokoly, aplikační frameworky apod."
+      "content": "Předmět shrnuje základní poznatky v oblasti tvorby webových aplikací z pohledu teoretického i praktického. Posluchači jsou seznámeni s jednotlivými aspekty tvorby webových aplikací. Důraz je kladen na vývoj webových aplikací s využitím relačních databázových systémů. Součástí kurzu je také seznámení se souvisejícími technologiemi - síťové služby, aplikační protokoly, aplikační frameworky, UI frameworky apod."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Webové aplikace (dotace 16/16) a.Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)b.Vytváření šablonc.Zpracování uživatelských datd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Webová aplikační rozhraní a webové službyg.Autentizace a autorizace uživatelůh.Zabezpečení2.Návrh webové aplikace (dotace 4/4) a.Analýza požadavkůb.Návrh funkcionality (UML)c.Návrh vzhledu aplikace (drátěné modely, informační architektura)3.HTML a Kaskádové styly (dotace 8/8) a.Základní seznámení s technologiemi (jazyky)b.Strukturování dokumentu pomoci HTMLc.Design pomocí CSS, rozložení stránkyd.Pokročilé vlastnosti objektů, pozicování a plovoucí objektye.Responsivní webdesignf.Knihovny (Bootstrap,...)"
+      "content": "1.Úvod do problematiky webových aplikací (dotace 6/6) a.Internetové technologie a protokolyb.Terminologie2.Webové aplikace (dotace 14/16) a.Úvod do jazyka HTML, webové standardyb.Formuláře, předávání parametrůc.Serverové skriptovací jazyky (PHP), vývojové rámce a knihovnyd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Jazyk JavaScript, vývojové rámce a knihovnyg.Webová aplikační rozhraní a webové služby3.Kaskádové styly (dotace 4/4) a.Základní seznámení, vlastnosti objektů, formátování dokumentub.Design pomocí CSS, rozložení stránkyc.Pokročilé vlastnosti objektů, pozicování a plovoucí objektyd.Responsivní webdesign4.Bezpečnost webových aplikací (dotace 4/2) a.Autentizace a autorizace uživatelůb.Bezpečnostní slabiny webových aplikací"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)b.Vytváření šablonc.Zpracování uživatelských datd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Webová aplikační rozhraní a webové službyg.Autentizace a autorizace uživatelůh.Zabezpečení"
+      "content": "a.Internetové technologie a protokolyb.Terminologie"
     },
     {
-      "label": "[section] Webové aplikace",
-      "content": "a.Serverové skriptovací jazyky (Python), vývojové rámce a knihovny (Flask)b.Vytváření šablonc.Zpracování uživatelských datd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Webová aplikační rozhraní a webové službyg.Autentizace a autorizace uživatelůh.Zabezpečení"
+      "label": "[section] Úvod do problematiky webových aplikací",
+      "content": "a.Internetové technologie a protokolyb.Terminologie"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Analýza požadavkůb.Návrh funkcionality (UML)c.Návrh vzhledu aplikace (drátěné modely, informační architektura)"
+      "content": "a.Úvod do jazyka HTML, webové standardyb.Formuláře, předávání parametrůc.Serverové skriptovací jazyky (PHP), vývojové rámce a knihovnyd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Jazyk JavaScript, vývojové rámce a knihovnyg.Webová aplikační rozhraní a webové služby"
     },
     {
-      "label": "[section] Návrh webové aplikace",
-      "content": "a.Analýza požadavkůb.Návrh funkcionality (UML)c.Návrh vzhledu aplikace (drátěné modely, informační architektura)"
+      "label": "[section] Webové aplikace",
+      "content": "a.Úvod do jazyka HTML, webové standardyb.Formuláře, předávání parametrůc.Serverové skriptovací jazyky (PHP), vývojové rámce a knihovnyd.Jazyk SQL – manipulace s datye.Udržování stavu, propojení s DB systémemf.Jazyk JavaScript, vývojové rámce a knihovnyg.Webová aplikační rozhraní a webové služby"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Základní seznámení s technologiemi (jazyky)b.Strukturování dokumentu pomoci HTMLc.Design pomocí CSS, rozložení stránkyd.Pokročilé vlastnosti objektů, pozicování a plovoucí objektye.Responsivní webdesignf.Knihovny (Bootstrap,...)"
+      "content": "a.Základní seznámení, vlastnosti objektů, formátování dokumentub.Design pomocí CSS, rozložení stránkyc.Pokročilé vlastnosti objektů, pozicování a plovoucí objektyd.Responsivní webdesign"
     },
     {
-      "label": "[section] HTML a Kaskádové styly",
-      "content": "a.Základní seznámení s technologiemi (jazyky)b.Strukturování dokumentu pomoci HTMLc.Design pomocí CSS, rozložení stránkyd.Pokročilé vlastnosti objektů, pozicování a plovoucí objektye.Responsivní webdesignf.Knihovny (Bootstrap,...)"
+      "label": "[section] Kaskádové styly",
+      "content": "a.Základní seznámení, vlastnosti objektů, formátování dokumentub.Design pomocí CSS, rozložení stránkyc.Pokročilé vlastnosti objektů, pozicování a plovoucí objektyd.Responsivní webdesign"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Autentizace a autorizace uživatelůb.Bezpečnostní slabiny webových aplikací"
+    },
+    {
+      "label": "[section] Bezpečnost webových aplikací",
+      "content": "a.Autentizace a autorizace uživatelůb.Bezpečnostní slabiny webových aplikací"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hseminář0 h20 hkonzultace0 h20 hpříprava na zkoušku44 h44 hzpracování projektů40 h40 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hseminář0 h20 hkonzultace0 h20 hpříprava na zkoušku44 h44 hzpracování projektů40 h40 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Předmět je ukončen zkouškou, která se skládá z teoretického elektronického testu, doplněného ústním přezkoušením. Aby se studen mohl účastnit zkoušky, je nutné odevzdat projekt v řádném termínu a obhájit jej. Za obhájený projekt student obdrží malý zápočet, který jej oprávní jít ke zkoušce. Zkouška je bodována 60 body. Obhajoba projektu je také hodnocena maximálně 40 body. Zkouška může být doplněna ústním přezkoušením znalostí. Výsledná známka je součtem hodnocení z testu a hodnocení projektu (od 90 bodů hodnocení A, od 83 bodů hodnocení B, od 75 bodů hodnocení C, od 68 bodů hodnocení D od 60 bodů hodnocení E)."
+      "content": "Předmět je ukončen zkouškou, která se skládá z teoretického elektronického testu a praktické části. Dále je nutné obhajit projekt. Praktická část zkoušky představuje řešení konkrétních vývojářských úkolů. Zkouška je bodována 50 body. Obhajoba projektu je také hodnocena 50 body. Obhajoba projektu proběhne ve dvou etapách, a to obhajoba rozpracovaného projektu a finální obhajoba. Pro ukončení předmětu je nutné dosáhnout alespoň 60 bodů celkem a nejméně poloviny bodů u zkoušky i obhajoby. Výsledná známka je součtem hodnocení z testu a hodnocení projektu (od 90 bodů hodnocení A, od 83 bodů hodnocení B, od 75 bodů hodnocení C, od 68 bodů hodnocení D od 60 bodů hodnocení E). Předmět není možné studovat během zahraničního výjezdu."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce40 %40 %Absolvování závěrečného testu60 %60 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -275,7 +279,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2020/2021Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2020/2021Obor B-SI-EI Ekonomická informatika, prezenční forma, počáteční období ZS 2020/2021Obor B-SI-EI Ekonomická informatika, prezenční forma, počáteční období LS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -297,7 +301,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -321,7 +325,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The class cannot be studied during foreign study stay."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -329,7 +333,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Pavel Turčínek, Ph.D."
+      "content": "Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -341,31 +345,27 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Ivo Pisařovic, Ph.D. (examiner, instructor)Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+      "content": "Ing. Jan Kolomazník, Ph.D. (instructor)Ing. Ivo Pisařovic, Ph.D. (instructor, lecturer)Ing. Jan Turčínek, Ph.D. (lecturer, supervisor)Ing. Roman Valovič (examiner, instructor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Database Systems and Database Design"
+      "content": "(Database Systems and Database Design or student of study programme B-SI System engineering and informatics) and not Final Bachelor Exam and not Application Software Programmes"
     },
     {
       "label": "1.",
-      "content": "Web application design (allowance 4/4)"
+      "content": "Introduction to web applications (allowance 6/6)"
     },
     {
       "label": "a.",
-      "content": "Analyze application requirements"
+      "content": "Internet technologies and protocols"
     },
     {
       "label": "b.",
-      "content": "Functional Design (UML)"
-    },
-    {
-      "label": "c.",
-      "content": "Application design (wireframes, information architecture)"
+      "content": "Terminology"
     },
     {
       "label": "2.",
-      "content": "HTML and Cascading Styles (allowance 8/8)"
+      "content": "Web applications (allowance 14/16)"
     },
     {
       "label": "a.",
@@ -373,63 +373,63 @@
     },
     {
       "label": "b.",
-      "content": "HTML document structuring"
+      "content": "Forms, passing parameters"
     },
     {
       "label": "c.",
-      "content": "Css design, page layout"
+      "content": "Server side scripting (PHP), frameworks and libraries"
     },
     {
       "label": "d.",
-      "content": "Advanced object properties, positioning, and floating objects"
+      "content": "SQL language - data manipulation"
     },
     {
       "label": "e.",
-      "content": "Responsivní webdesign"
+      "content": "State management, DB system connection"
     },
     {
       "label": "f.",
-      "content": "Libraries and Extensions (Bootstrap,...)"
-    },
-    {
-      "label": "3.",
-      "content": "Web applications (allowance 16/16)"
-    },
-    {
-      "label": "a.",
-      "content": "Server scripting languages (Python), development frameworks and libraries (Flask)"
-    },
-    {
-      "label": "b.",
-      "content": "Templates creating"
-    },
-    {
-      "label": "c.",
-      "content": "Processing of user data"
-    },
-    {
-      "label": "d.",
-      "content": "SQL Language Data Manipulation"
-    },
-    {
-      "label": "e.",
-      "content": "Maintaining the state, connecting to the DB system"
-    },
-    {
-      "label": "f.",
-      "content": "Web application interfaces and web services"
+      "content": "JavaScript language, frameworks and libraries"
     },
     {
       "label": "g.",
-      "content": "User authentication and authorization"
+      "content": "Application programming interfaces on web and services"
     },
     {
-      "label": "h.",
-      "content": "Security"
+      "label": "3.",
+      "content": "Cascading style sheets (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction, object properties, document formatting"
+    },
+    {
+      "label": "b.",
+      "content": "Design using CSS, page layout"
+    },
+    {
+      "label": "c.",
+      "content": "Advanced properties of objects, positioning and floating objects"
+    },
+    {
+      "label": "d.",
+      "content": "Responsive web design"
+    },
+    {
+      "label": "4.",
+      "content": "Security of web applications (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Authentication and authorisation of users"
+    },
+    {
+      "label": "b.",
+      "content": "Web application security issues"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, SS 2023/2024, WS 2023/2024, WS 2022/2023 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -445,7 +445,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -473,7 +473,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The class cannot be studied during foreign study stay."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -481,7 +481,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Pavel Turčínek, Ph.D."
+      "content": "Course supervisor: Ing. Jan Turčínek, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -493,59 +493,67 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Ivo Pisařovic, Ph.D. (examiner, instructor)Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+      "content": "Teachers: Ing. Jan Kolomazník, Ph.D. (instructor)Ing. Ivo Pisařovic, Ph.D. (instructor, lecturer)Ing. Jan Turčínek, Ph.D. (lecturer, supervisor)Ing. Roman Valovič (examiner, instructor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Database Systems and Database Design"
+      "content": "Prerequisites: (Database Systems and Database Design or student of study programme B-SI System engineering and informatics) and not Final Bachelor Exam and not Application Software Programmes"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50Q05B-AIIB-OII. PisařovicSeminarEvery week23Tuesday15.00-16.50Q05B-AIIB-OII. PisařovicSeminarEvery week23Tuesday17.00-18.50Q05B-AIIB-OII. PisařovicSeminarEvery week23Friday7.00-8.50Q03B-AIIB-OIJ. TurčínekLectureEvery week117Friday9.00-10.50Q07B-AIIB-OIJ. TurčínekSeminarEvery week24Friday11.00-12.50Q07B-AIIB-OIJ. TurčínekSeminarEvery week24Saturday14.00-17.50Q09B-AIIJ. TurčínekLectureOccasionally20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityMonday9.00-10.50Q06B-AII I. PisařovicSeminarEvery week20Tuesday17.00-18.50Q03J. TurčínekLectureEvery week170Wednesday17.00-18.50Q07B-SI R. ValovičSeminarEvery week20Thursday10.00-10.50Q09B-AII2I. PisařovicLectureOccasionally20Thursday13.00-14.50Q07B-SI R. ValovičSeminarEvery week20Thursday15.00-16.50Q07B-SI R. ValovičSeminarEvery week21"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The course aims to problems of web applications development from theoretical and especially practical point of view. Students explore various aspects of web, web technologies and possible approaches to development. Emphasis is given on development of web applications with use of relational database systems. Furthermore related technologies such as basics of network services, application protocols, application frameworks are included."
+      "content": "The course aims to problems of web applications development from theoretical and especially practical point of view. Students explore various aspects of web, web technologies and possible approaches to development. Emphasis is given on development of web applications with use of relational database systems. Furthermore related technologies such as basics of network services, application protocols, application frameworks, UI frameworks are included."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Web application design (allowance 4/4) a.Analyze application requirementsb.Functional Design (UML)c.Application design (wireframes, information architecture)2.HTML and Cascading Styles (allowance 8/8) a.Introduction to HTML language, web standardsb.HTML document structuringc.Css design, page layoutd.Advanced object properties, positioning, and floating objectse.Responsivní webdesignf.Libraries and Extensions (Bootstrap,...)3.Web applications (allowance 16/16) a.Server scripting languages (Python), development frameworks and libraries (Flask)b.Templates creatingc.Processing of user datad.SQL Language Data Manipulatione.Maintaining the state, connecting to the DB systemf.Web application interfaces and web servicesg.User authentication and authorizationh.Security"
+      "content": "1.Introduction to web applications (allowance 6/6) a.Internet technologies and protocolsb.Terminology2.Web applications (allowance 14/16) a.Introduction to HTML language, web standardsb.Forms, passing parametersc.Server side scripting (PHP), frameworks and librariesd.SQL language - data manipulatione.State management, DB system connectionf.JavaScript language, frameworks and librariesg.Application programming interfaces on web and services3.Cascading style sheets (allowance 4/4) a.Introduction, object properties, document formattingb.Design using CSS, page layoutc.Advanced properties of objects, positioning and floating objectsd.Responsive web design4.Security of web applications (allowance 4/2) a.Authentication and authorisation of usersb.Web application security issues"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Analyze application requirementsb.Functional Design (UML)c.Application design (wireframes, information architecture)"
+      "content": "a.Internet technologies and protocolsb.Terminology"
     },
     {
-      "label": "[section] Web application design",
-      "content": "a.Analyze application requirementsb.Functional Design (UML)c.Application design (wireframes, information architecture)"
+      "label": "[section] Introduction to web applications",
+      "content": "a.Internet technologies and protocolsb.Terminology"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Introduction to HTML language, web standardsb.HTML document structuringc.Css design, page layoutd.Advanced object properties, positioning, and floating objectse.Responsivní webdesignf.Libraries and Extensions (Bootstrap,...)"
-    },
-    {
-      "label": "[section] HTML and Cascading Styles",
-      "content": "a.Introduction to HTML language, web standardsb.HTML document structuringc.Css design, page layoutd.Advanced object properties, positioning, and floating objectse.Responsivní webdesignf.Libraries and Extensions (Bootstrap,...)"
-    },
-    {
-      "label": "[section] 3.",
-      "content": "a.Server scripting languages (Python), development frameworks and libraries (Flask)b.Templates creatingc.Processing of user datad.SQL Language Data Manipulatione.Maintaining the state, connecting to the DB systemf.Web application interfaces and web servicesg.User authentication and authorizationh.Security"
+      "content": "a.Introduction to HTML language, web standardsb.Forms, passing parametersc.Server side scripting (PHP), frameworks and librariesd.SQL language - data manipulatione.State management, DB system connectionf.JavaScript language, frameworks and librariesg.Application programming interfaces on web and services"
     },
     {
       "label": "[section] Web applications",
-      "content": "a.Server scripting languages (Python), development frameworks and libraries (Flask)b.Templates creatingc.Processing of user datad.SQL Language Data Manipulatione.Maintaining the state, connecting to the DB systemf.Web application interfaces and web servicesg.User authentication and authorizationh.Security"
+      "content": "a.Introduction to HTML language, web standardsb.Forms, passing parametersc.Server side scripting (PHP), frameworks and librariesd.SQL language - data manipulatione.State management, DB system connectionf.JavaScript language, frameworks and librariesg.Application programming interfaces on web and services"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Introduction, object properties, document formattingb.Design using CSS, page layoutc.Advanced properties of objects, positioning and floating objectsd.Responsive web design"
+    },
+    {
+      "label": "[section] Cascading style sheets",
+      "content": "a.Introduction, object properties, document formattingb.Design using CSS, page layoutc.Advanced properties of objects, positioning and floating objectsd.Responsive web design"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Authentication and authorisation of usersb.Web application security issues"
+    },
+    {
+      "label": "[section] Security of web applications",
+      "content": "a.Authentication and authorisation of usersb.Web application security issues"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hseminar0 h20 hconsultation0 h20 hpreparation for exam44 h44 helaboration and execution of projects40 h40 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hseminar0 h20 hconsultation0 h20 hpreparation for exam44 h44 helaboration and execution of projects40 h40 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The course is completed with an exam consisting of a theoretical electronic test, supplemented by an oral examination. In order to take the exam, the student must submit the project on time and successfully defend it. A successfully defended project grants the student a small credit, which entitles them to take the exam. The exam may be supplemented by an oral knowledge test. The exam is graded with a maximum of 60 points. The project defense is also graded, with a maximum of 40 points. The final grade is the sum of the test score and the project score (90 points or more = grade A, 83 or more = grade B, 75 or more = grade C, 68 or more = grade D, 60 or more = grade E)."
+      "content": "The exam consists of electorinc test and practical part. Project defense is also required. The practical part is represented by a set of various development tasks. Student can get 50 points from the exam. Project defense is also valued up to 50 points. Student can pass the course by reaching 50 points together from the exam and the project but the necessary condition is to obtain at least half of points from both parts separately. The final grade is the sum of points from the exam and the project (from 90 points grade A, from 83 points grade B, from 75 points grade C, from 68 points grade D, from 60 points grade E). The class cannot be studied during foreign study stay."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formTerm paper40 %40 %Final test60 %60 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -557,13 +565,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025Programme B-OI Open Informatics, full-time form, initial period WS 2024/2025"
+      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2020/2021Programme B-AII Administration IS/ICT, part-time form, initial period WS 2020/2021Field of study B-SE-EI Economic informatics, full-time form, initial period WS 2020/2021Field of study B-SE-EI Economic informatics, full-time form, initial period SS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:46:49",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:02:01",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

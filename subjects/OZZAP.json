@@ -3,7 +3,7 @@
   "name": "Odpady ze zemědělství a potravinářství",
   "nameCs": "Odpady ze zemědělství a potravinářství",
   "nameEn": "Agricultural and Food Industry Wastes",
-  "predmetId": "157080",
+  "predmetId": "161989",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "prof. Ing. Pavel Ryant, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161989;lang=cz",
+      "totalPass": 69,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 5,
+            "D": 5,
+            "E": 1,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 11,
+            "C": 19,
+            "D": 22,
+            "E": 8,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 69,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 9,
+            "C": 13,
+            "D": 15,
+            "E": 7,
+            "F": 16,
+            "FN": 0
+          },
+          "pass": 53,
+          "fail": 16
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -278,5 +345,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

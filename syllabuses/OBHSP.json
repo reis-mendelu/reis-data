@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Cvičení není možné odstudovat během mobility."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Markéta Škrabalová, Ph.D. (cvičící, přednášející)"
+      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Markéta Škrabalová, Ph.D. (cvičící, přednášející)prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (přednášející, zkoušející)Ing. Jan Zloch, Ph.D. (cvičící)"
     },
     {
       "label": "Prerekvizity:",
@@ -255,11 +255,11 @@
     },
     {
       "label": "Vypracování semestrální práce",
-      "content": "20 %"
+      "content": "50 %"
     },
     {
       "label": "Absolvování závěrečného testu",
-      "content": "80 %"
+      "content": "50 %"
     },
     {
       "label": "Celkem",
@@ -267,7 +267,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -283,7 +283,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -311,7 +311,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Cvičení není možné odstudovat během mobility."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -331,7 +331,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Bc. Ing. Dana Adamcová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Markéta Škrabalová, Ph.D. (cvičící, přednášející)"
+      "content": "Vyučující: doc. Bc. Ing. Dana Adamcová, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Markéta Škrabalová, Ph.D. (cvičící, přednášející)prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (přednášející, zkoušející)Ing. Jan Zloch, Ph.D. (cvičící)"
     },
     {
       "label": "[section] Vyučující:",
@@ -339,7 +339,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q111M. Škrabalová, D. AdamcováCvičeníKaždý týden22Čtvrtek9.00-10.50Q111D. Adamcová, M. ŠkrabalováPřednáškaKaždý týden22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q17D. Adamcová, M. Škrabalová, M. D. VaverkováPřednáškaKaždý týden42Čtvrtek9.00-10.50Q111M. Škrabalová, D. AdamcováCvičeníKaždý týden22Čtvrtek11.00-12.50Q19J. Zloch, D. Adamcová, M. ŠkrabalováCvičeníKaždý týden36"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -447,15 +447,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku40 hpříprava prezentace10 hzpracování projektů35 hCelkem141 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace8 hpříprava na zkoušku35 hzpracování projektů30 hzpracování seminární práce10 hCelkem139 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Prezentace a odevzdání seminární práce (projektu). Povinná účast na cvičeních (75 %). Písemná zkouška (60 %). Požadavky na průběh a ukončení předmětu jsou vždy sděleny ve výuce na začátku semestru."
+      "content": "Prezentace a odevzdání seminární práce (1/2 známky). Povinná účast na cvičeních (75 %). Písemná zkouška (75 %). Požadavky na průběh a ukončení předmětu jsou vždy uvedeny na začátku semestru."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumVypracování semestrální práce20 %Absolvování závěrečného testu80 %Celkem100 %"
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Absolvování závěrečného testu50 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -489,7 +489,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -513,7 +513,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The exercise cannot be completed remotely during the mobility period."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -533,7 +533,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Markéta Škrabalová, Ph.D. (instructor, lecturer)"
+      "content": "doc. Bc. Ing. Dana Adamcová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Markéta Škrabalová, Ph.D. (instructor, lecturer)prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (examiner, lecturer)Ing. Jan Zloch, Ph.D. (instructor)"
     },
     {
       "label": "Prerequisites:",
@@ -729,11 +729,11 @@
     },
     {
       "label": "Term paper",
-      "content": "20 %"
+      "content": "50 %"
     },
     {
       "label": "Final test",
-      "content": "80 %"
+      "content": "50 %"
     },
     {
       "label": "Total",
@@ -741,7 +741,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -757,7 +757,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -785,7 +785,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The exercise cannot be completed remotely during the mobility period."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -805,7 +805,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Bc. Ing. Dana Adamcová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Markéta Škrabalová, Ph.D. (instructor, lecturer)"
+      "content": "Teachers: doc. Bc. Ing. Dana Adamcová, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Markéta Škrabalová, Ph.D. (instructor, lecturer)prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D. (examiner, lecturer)Ing. Jan Zloch, Ph.D. (instructor)"
     },
     {
       "label": "[section] Teachers:",
@@ -813,7 +813,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday11.00-12.50Q111M. Škrabalová, D. AdamcováSeminarEvery week22Thursday9.00-10.50Q111D. Adamcová, M. ŠkrabalováLectureEvery week22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50Q17D. Adamcová, M. Škrabalová, M. D. VaverkováLectureEvery week42Thursday9.00-10.50Q111M. Škrabalová, D. AdamcováSeminarEvery week22Thursday11.00-12.50Q19J. Zloch, D. Adamcová, M. ŠkrabalováSeminarEvery week36"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -921,15 +921,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam40 hpreparation of presentation10 helaboration and execution of projects35 hTotal141 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation8 hpreparation for exam35 helaboration and execution of projects30 hwriting of seminar paper10 hTotal139 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The presentation and hand over the seminary work. The compulsory participation at the exercise (75 %). The written examination (60 %). Requirements for the course and completion of the course are always specified at the beginning of the semester."
+      "content": "The presentation and hand over the seminary work. The compulsory participation at the exercise (75 %). The written examination (75 %). Requirements for the course and completion of the course are always specified at the beginning of the semester."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceTerm paper20 %Final test80 %Total100 %"
+      "content": "Requirement typeDaily attendanceTerm paper50 %Final test50 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -948,6 +948,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:36:51",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:45:17",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

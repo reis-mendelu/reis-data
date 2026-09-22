@@ -3,7 +3,7 @@
   "name": "Aplikovaná genetika mikroorganismů",
   "nameCs": "Aplikovaná genetika mikroorganismů",
   "nameEn": "Applied genetics of microorganisms",
-  "predmetId": "157138",
+  "predmetId": "162385",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -16,6 +16,45 @@
     "Mgr. Petra Vídeňská, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162385;lang=cz",
+      "totalPass": 34,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 7,
+            "C": 15,
+            "D": 0,
+            "E": 2,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 34,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 7,
+            "C": 15,
+            "D": 0,
+            "E": 2,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 34,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -254,5 +293,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

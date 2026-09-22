@@ -3,11 +3,64 @@
   "name": "Anglický jazyk - odborná terminologie II",
   "nameCs": "Anglický jazyk - odborná terminologie II",
   "nameEn": "World Language - Professional Terminology II",
-  "predmetId": "157473",
+  "predmetId": "162348",
   "facultyId": 60,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162348;lang=cz",
+      "totalPass": 79,
+      "totalFail": 19,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 38,
+            "B": 16,
+            "C": 9,
+            "D": 9,
+            "E": 7,
+            "F": 0,
+            "FN": 19
+          },
+          "pass": 79,
+          "fail": 19
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 37,
+            "B": 16,
+            "C": 8,
+            "D": 9,
+            "E": 7,
+            "F": 0,
+            "FN": 21
+          },
+          "pass": 77,
+          "fail": 21
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -204,5 +257,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

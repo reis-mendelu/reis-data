@@ -3,11 +3,66 @@
   "name": "Cestovní ruch v regionálním rozvoji",
   "nameCs": "Cestovní ruch v regionálním rozvoji",
   "nameEn": "Tourism in Regional Development",
-  "predmetId": "157775",
+  "predmetId": "163033",
   "facultyId": 23,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Mgr. Ondřej Konečný, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163033;lang=cz",
+      "totalPass": 61,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 15,
+            "C": 15,
+            "D": 13,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 61,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 15,
+            "C": 15,
+            "D": 13,
+            "E": 4,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 60,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -260,5 +315,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

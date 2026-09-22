@@ -1,9 +1,9 @@
 {
   "courseCode": "ZEES",
   "name": "Zemědělský a experimentální software",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "150587",
+  "nameCs": "Zemědělský a experimentální software",
+  "nameEn": "Computers in Agriculture and Scientific Experiments",
+  "predmetId": "163270",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,45 @@
     "doc. Ing. Daniel Falta, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=163270;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
@@ -169,5 +208,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

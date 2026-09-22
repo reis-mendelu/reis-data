@@ -2,16 +2,54 @@
   "courseCode": "STBAZK",
   "name": "Státní bakalářská zkouška",
   "nameCs": "Státní bakalářská zkouška",
-  "nameEn": "Course syllabus STBAZK - Bachelor's State Exam (ILE - SS 2024/2025)",
-  "predmetId": "157906",
+  "nameEn": "Bachelor's State Exam",
+  "predmetId": "162949",
   "facultyId": 220,
   "aliases": [
-    "EBC-SBZ",
     "RRBSZ",
     "SBZ"
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ICV",
+      "semesterId": "819",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=819;predmet=162949;lang=cz",
+      "totalPass": 51,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 29,
+            "B": 15,
+            "C": 5,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 51,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 29,
+            "B": 15,
+            "C": 5,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 51,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ICV",
       "semesterId": "781",
@@ -247,5 +285,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

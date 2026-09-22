@@ -3,7 +3,7 @@
   "name": "Mikroekonomie",
   "nameCs": "Mikroekonomie",
   "nameEn": "Microeconomics",
-  "predmetId": "157610",
+  "predmetId": "162691",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "prof. Dr. Ing. Libor Grega"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162691;lang=cz",
+      "totalPass": 195,
+      "totalFail": 22,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 6,
+            "B": 9,
+            "C": 21,
+            "D": 26,
+            "E": 27,
+            "F": 56,
+            "FN": 3
+          },
+          "pass": 89,
+          "fail": 59
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 9,
+            "C": 10,
+            "D": 10,
+            "E": 10,
+            "F": 15,
+            "FN": 0
+          },
+          "pass": 40,
+          "fail": 15
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 23,
+            "C": 45,
+            "D": 60,
+            "E": 57,
+            "F": 21,
+            "FN": 1
+          },
+          "pass": 195,
+          "fail": 22
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 5,
+            "C": 14,
+            "D": 24,
+            "E": 20,
+            "F": 146,
+            "FN": 5
+          },
+          "pass": 66,
+          "fail": 151
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -627,5 +694,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

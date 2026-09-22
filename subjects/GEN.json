@@ -1,17 +1,72 @@
 {
   "courseCode": "GEN",
-  "name": "Genetika obecná",
-  "nameCs": "Genetika obecná",
+  "name": "Genetika",
+  "nameCs": "Genetika",
   "nameEn": "Genetics",
-  "predmetId": "157178",
-  "facultyId": 14,
-  "aliases": [],
+  "predmetId": "162439",
+  "facultyId": 60,
+  "aliases": [
+    "GENET"
+  ],
   "teachers": [
     "doc. Ing. Tomáš Vyhnánek, Ph.D.",
     "prof. Ing. Tomáš Urban, Ph.D.",
     "prof. RNDr. Aleš Knoll, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162439;lang=cz",
+      "totalPass": 50,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 2,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 9,
+            "C": 14,
+            "D": 9,
+            "E": 8,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 50,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 9,
+            "C": 12,
+            "D": 7,
+            "E": 7,
+            "F": 6,
+            "FN": 2
+          },
+          "pass": 45,
+          "fail": 8
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -426,5 +481,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,15 +3,83 @@
   "name": "Makroekonomie 2",
   "nameCs": "Makroekonomie 2",
   "nameEn": "Macroeconomics 2",
-  "predmetId": "161322",
+  "predmetId": "162587",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Bc. Ing. Marek Litzman, Ph.D.",
     "Ing. Ladislava Issever Grochová, Ph.D.",
+    "Mgr. Ing. Pavlína Komosná, Ph.D.",
     "doc. Ing. Petr Rozmahel, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162587;lang=cz",
+      "totalPass": 171,
+      "totalFail": 50,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 6,
+            "C": 21,
+            "D": 19,
+            "E": 8,
+            "F": 36,
+            "FN": 0
+          },
+          "pass": 56,
+          "fail": 36
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 7,
+            "D": 8,
+            "E": 3,
+            "F": 11,
+            "FN": 1
+          },
+          "pass": 21,
+          "fail": 12
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 31,
+            "C": 57,
+            "D": 48,
+            "E": 22,
+            "F": 26,
+            "FN": 24
+          },
+          "pass": 171,
+          "fail": 50
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 23,
+            "C": 29,
+            "D": 21,
+            "E": 11,
+            "F": 104,
+            "FN": 23
+          },
+          "pass": 94,
+          "fail": 127
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -627,5 +695,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -175,7 +175,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPátek12.00-14.50B45B. JelínekPřednáškaNepravidelně42Pátek12.00-14.50B45B. JelínekCvičeníNepravidelně22"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -219,7 +219,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h8 hcvičení24 h12 hpříprava na zkoušku32 h40 hpříprava na průběžné hodnocení36 h50 hzpracování seminární práce24 h30 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška24 h8 hcvičení24 h12 hpříprava na zkoušku32 h40 hpříprava na průběžné hodnocení36 h50 hzpracování seminární práce24 h30 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -389,7 +389,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityFriday12.00-14.50B45B. JelínekLectureOccasionally42Friday12.00-14.50B45B. JelínekSeminarOccasionally22"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -401,7 +401,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h8 hpractice24 h12 hpreparation for exam32 h40 hpreparation for regular assessment36 h50 hwriting of seminar paper24 h30 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture24 h8 hpractice24 h12 hpreparation for exam32 h40 hpreparation for regular assessment36 h50 hwriting of seminar paper24 h30 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -428,6 +428,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 04:51:23",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:43:24",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

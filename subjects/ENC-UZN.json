@@ -3,7 +3,7 @@
   "name": "Účetnictví a zdanění neziskových organizací",
   "nameCs": "Účetnictví a zdanění neziskových organizací",
   "nameEn": "Accounting and Taxation of Non-profit Organizations",
-  "predmetId": "156316",
+  "predmetId": "162611",
   "facultyId": 2,
   "aliases": [
     "UZN"
@@ -13,6 +13,59 @@
     "Ing. Miloš Grásgruber, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162611;lang=cz",
+      "totalPass": 51,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 4,
+            "D": 4,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 10,
+            "C": 16,
+            "D": 9,
+            "E": 11,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 51,
+          "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 7,
+            "C": 12,
+            "D": 5,
+            "E": 9,
+            "F": 15,
+            "FN": 5
+          },
+          "pass": 36,
+          "fail": 20
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -268,5 +321,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

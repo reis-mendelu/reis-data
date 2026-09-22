@@ -3,13 +3,80 @@
   "name": "Rozvojové problémy Afriky v AJ",
   "nameCs": "Rozvojové problémy Afriky v AJ",
   "nameEn": "Development Problems in Africa in English",
-  "predmetId": "157599",
+  "predmetId": "162698",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
     "Ing. Samuel Antwi Darkwah, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162698;lang=cz",
+      "totalPass": 143,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 5,
+            "E": 3,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 35,
+            "C": 42,
+            "D": 34,
+            "E": 19,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 143,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 34,
+            "C": 40,
+            "D": 29,
+            "E": 15,
+            "F": 9,
+            "FN": 3
+          },
+          "pass": 131,
+          "fail": 12
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -318,5 +385,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

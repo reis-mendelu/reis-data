@@ -3,17 +3,84 @@
   "name": "Mezinárodní marketing v AJ",
   "nameCs": "Mezinárodní marketing v AJ",
   "nameEn": "International Marketing",
-  "predmetId": "152297",
+  "predmetId": "160805",
   "facultyId": 2,
   "aliases": [
     "MMA"
   ],
   "teachers": [
+    "Ing. Lucie Veselá, Ph.D.",
     "Ing. Marek Záboj, Ph.D.",
-    "Ing. Mikhail Monashev, Ph.D.",
-    "doc. Ing. Lucie Veselá, Ph.D."
+    "Ing. Mikhail Monashev, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160805;lang=cz",
+      "totalPass": 91,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 23,
+            "B": 27,
+            "C": 35,
+            "D": 6,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 91,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 23,
+            "B": 26,
+            "C": 31,
+            "D": 5,
+            "E": 0,
+            "F": 5,
+            "FN": 1
+          },
+          "pass": 85,
+          "fail": 6
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -188,5 +255,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

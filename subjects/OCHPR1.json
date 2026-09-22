@@ -1,17 +1,83 @@
 {
   "courseCode": "OCHPR1",
-  "name": "Ochrana přírody a krajiny",
-  "nameCs": "Ochrana přírody a krajiny",
+  "name": "Ochrana přírody a krajiny 1",
+  "nameCs": "Ochrana přírody a krajiny 1",
   "nameEn": "Nature Conservation and Landscape Protection",
-  "predmetId": "157209",
+  "predmetId": "162898",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "Ing. Mgr. Marcel Bartoš",
-    "Ing. Petra Fukalová, Ph.D.",
-    "doc. Ing. Hana Středová, Ph.D."
+    "Ing. Petra Fukalová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162898;lang=cz",
+      "totalPass": 22,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 10,
+            "C": 3,
+            "D": 2,
+            "E": 5,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 9,
+            "C": 3,
+            "D": 1,
+            "E": 2,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 17,
+          "fail": 6
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -264,5 +330,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

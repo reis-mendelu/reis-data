@@ -3,7 +3,7 @@
   "name": "Vývoj aplikací pro iOS 1",
   "nameCs": "Vývoj aplikací pro iOS 1",
   "nameEn": "Application Development for iOS",
-  "predmetId": "156614",
+  "predmetId": "162654",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,13 +11,80 @@
   ],
   "stats": [
     {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162654;lang=cz",
+      "totalPass": 30,
+      "totalFail": 14,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 2,
+            "D": 0,
+            "E": 4,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 5,
+            "C": 5,
+            "D": 8,
+            "E": 8,
+            "F": 5,
+            "FN": 9
+          },
+          "pass": 30,
+          "fail": 14
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 4,
+            "C": 3,
+            "D": 7,
+            "E": 3,
+            "F": 15,
+            "FN": 9
+          },
+          "pass": 20,
+          "fail": 24
+        }
+      ]
+    },
+    {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156614;lang=cz",
       "totalPass": 47,
-      "totalFail": 7,
+      "totalFail": 8,
       "terms": [
         {
           "term": "1. opravný",
@@ -42,10 +109,10 @@
             "D": 9,
             "E": 10,
             "F": 5,
-            "FN": 2
+            "FN": 3
           },
           "pass": 47,
-          "fail": 7
+          "fail": 8
         },
         {
           "term": "Řádný termín",
@@ -70,7 +137,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=753;predmet=151293;lang=cz",
       "totalPass": 39,
-      "totalFail": 15,
+      "totalFail": 16,
       "terms": [
         {
           "term": "1. opravný",
@@ -94,11 +161,11 @@
             "C": 10,
             "D": 8,
             "E": 2,
-            "F": 4,
+            "F": 5,
             "FN": 11
           },
           "pass": 39,
-          "fail": 15
+          "fail": 16
         },
         {
           "term": "Řádný termín",
@@ -237,5 +304,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

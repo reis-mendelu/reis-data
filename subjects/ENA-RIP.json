@@ -3,16 +3,70 @@
   "name": "Řízení ICT v podniku v AJ",
   "nameCs": "Řízení ICT v podniku v AJ",
   "nameEn": "Business ICT Management",
-  "predmetId": "152283",
+  "predmetId": "160791",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Jaromír Landa, Ph.D.",
     "Ing. Jaroslava Klegová, Ph.D.",
+    "Ing. Jiří Balej, Ph.D.",
     "Ing. Stratos Zerdaloglu",
     "prof. Ing. Radim Farana, CSc., FEng."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160791;lang=cz",
+      "totalPass": 35,
+      "totalFail": 12,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 4,
+            "C": 8,
+            "D": 9,
+            "E": 4,
+            "F": 12,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 12
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 4,
+            "C": 7,
+            "D": 5,
+            "E": 4,
+            "F": 17,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 17
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -265,5 +319,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

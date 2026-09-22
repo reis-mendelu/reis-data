@@ -3,15 +3,80 @@
   "name": "Chemie organická TP",
   "nameCs": "Chemie organická TP",
   "nameEn": "Organic chemistry TP",
-  "predmetId": "161348",
+  "predmetId": "162458",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
-    "Ing. Helena Absolínová",
-    "RNDr. Marie Střelcová",
     "prof. Mgr. Pavlína Pelcová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162458;lang=cz",
+      "totalPass": 25,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 1,
+            "E": 7,
+            "F": 5,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 6
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 6,
+            "D": 6,
+            "E": 10,
+            "F": 6,
+            "FN": 1
+          },
+          "pass": 25,
+          "fail": 7
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 4,
+            "D": 5,
+            "E": 3,
+            "F": 14,
+            "FN": 3
+          },
+          "pass": 15,
+          "fail": 17
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -521,5 +586,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

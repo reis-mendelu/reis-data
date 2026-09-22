@@ -3,7 +3,7 @@
   "name": "Makroekonomie 2 v AJ",
   "nameCs": "Makroekonomie 2 v AJ",
   "nameEn": "Macroeconomics 2",
-  "predmetId": "152288",
+  "predmetId": "160796",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "doc. Ing. Petr Rozmahel, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160796;lang=cz",
+      "totalPass": 39,
+      "totalFail": 36,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 3,
+            "B": 4,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 7
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 1,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 13,
+            "C": 9,
+            "D": 5,
+            "E": 2,
+            "F": 28,
+            "FN": 8
+          },
+          "pass": 39,
+          "fail": 36
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 8,
+            "C": 5,
+            "D": 3,
+            "E": 1,
+            "F": 43,
+            "FN": 8
+          },
+          "pass": 24,
+          "fail": 51
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -453,5 +520,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

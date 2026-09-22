@@ -8,8 +8,6 @@
   "aliases": [],
   "teachers": [
     "Ing. Jakub Novotný, Ph.D.",
-    "Ing. Lucie Hronová",
-    "Ing. Terezie Mrázová",
     "prof. MVDr. Ing. Petr Doležal, CSc."
   ],
   "stats": [
@@ -293,6 +291,31 @@
       ]
     },
     {
+      "semesterName": "ZS 2020/2021 - AF",
+      "semesterId": "585",
+      "year": 2020,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=122839;lang=cz",
+      "totalPass": 37,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 15,
+            "B": 11,
+            "C": 7,
+            "D": 1,
+            "E": 3,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 37,
+          "fail": 1
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2020/2021 - ZF",
       "semesterId": "590",
       "year": 2020,
@@ -332,31 +355,6 @@
       ]
     },
     {
-      "semesterName": "ZS 2020/2021 - AF",
-      "semesterId": "585",
-      "year": 2020,
-      "type": "exam",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=585;predmet=122839;lang=cz",
-      "totalPass": 37,
-      "totalFail": 1,
-      "terms": [
-        {
-          "term": "Všechny termíny",
-          "grades": {
-            "A": 15,
-            "B": 11,
-            "C": 7,
-            "D": 1,
-            "E": 3,
-            "F": 0,
-            "FN": 1
-          },
-          "pass": 37,
-          "fail": 1
-        }
-      ]
-    },
-    {
       "semesterName": "ZS 2019/2020 - ZF",
       "semesterId": "557",
       "year": 2019,
@@ -382,5 +380,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. Mgr. Veronika Blašková, Ph.D."
+      "content": "Ing. Michaela Staňková, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Martin Baťka (cvičící, zkoušející)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Luboš Střelec, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "doc. Mgr. Veronika Blašková, Ph.D. (cvičící, přednášející, zkoušející)Ing. Michaela Staňková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "Ekonometrie 1 a ne Státní bakalářská zkouška a ne Aplikovaná statistika"
+      "content": "Statistika a ne Státní bakalářská zkouška a ne Aplikovaná statistika"
     },
     {
       "label": "1.",
@@ -187,7 +187,7 @@
     },
     {
       "label": "6.",
-      "content": "Specifické problémy spojené s regresí (dotace 1/2)"
+      "content": "Specifické problémy spojené s regresí (dotace 2/4)"
     },
     {
       "label": "a.",
@@ -211,18 +211,22 @@
     },
     {
       "label": "7.",
-      "content": "Nadstavbové metody analýzy dat (dotace 3/6)"
+      "content": "Nadstavbové metody analýzy dat (dotace 2/4)"
     },
     {
       "label": "a.",
-      "content": "Robustní regrese, kvantilová regrese"
+      "content": "Robustní regrese"
     },
     {
       "label": "b.",
-      "content": "Spektrální analýza časových řad"
+      "content": "Kvantilová regrese pro modelování nákladů a příjmů"
     },
     {
       "label": "c.",
+      "content": "Spektrální analýza časových řad s aplikacemi"
+    },
+    {
+      "label": "d.",
       "content": "Metoda difference-in-differences s aplikacemi"
     },
     {
@@ -231,15 +235,19 @@
     },
     {
       "label": "a.",
-      "content": "Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+      "content": "Praktické příklady ekonometrického modelování"
     },
     {
-      "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "40 %"
+      "label": "Vypracování semestrální práce",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "60 %"
     },
     {
       "label": "Absolvování závěrečné ústní zkoušky",
-      "content": "60 %"
+      "content": "20 %"
     },
     {
       "label": "Celkem",
@@ -247,7 +255,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -263,7 +271,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -299,7 +307,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. Mgr. Veronika Blašková, Ph.D."
+      "content": "Garant předmětu: Ing. Michaela Staňková, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -311,15 +319,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Martin Baťka (cvičící, zkoušející)doc. Mgr. Veronika Blašková, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Luboš Střelec, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "Vyučující: doc. Mgr. Veronika Blašková, Ph.D. (cvičící, přednášející, zkoušející)Ing. Michaela Staňková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: Ekonometrie 1 a ne Státní bakalářská zkouška a ne Aplikovaná statistika"
+      "content": "Prerekvizity: Statistika a ne Státní bakalářská zkouška a ne Aplikovaná statistika"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek8.00-8.50Q37V. Blašková, L. StřelecPřednáškaKaždý týden24Čtvrtek9.00-10.50Q37V. Blašková, M. Baťka, L. StřelecCvičeníKaždý týden22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý11.00-11.50Q36V. Blašková, M. StaňkováPřednáškaKaždý týden24Úterý12.00-13.50Q36V. Blašková, M. StaňkováCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -327,7 +335,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Číselné a grafické charakteristiky znaků (dotace 1/2) a.Absolutní a relativní četnostb.Bodové a intervalové rozdělení četnostíc.Typy znakůd.Číselné charakteristiky znakůe.Grafická prezentace charakteristik znaků (krabicový diagram, histogram apod.)2.Vybrané parametrické testy (dotace 2/4) a.Úlohy o jednom a dvou výběrech z normálního rozděleníb.Úlohy o jednom a dvou výběrech z alternativního rozděleníc.Korelační analýza, Pearsonův korelační koeficient, Spearmanův koeficient pořadové korelaced.Jednofaktorová a dvoufaktorová analýza rozptylue.Metody mnohonásobného porovnáváníf.Aplikace na ekonomických datech3.Vybrané neparametrické testy (dotace 2/4) a.Jednovýběrový a párový znaménkový testb.Jednovýběrový a párový Wilcoxonův testc.Dvouvýběrový Wilcoxonův testd.Dvouvýběrový Kolmogorovův-Smirnovův teste.Kruskalův-Wallisův test a mediánový testf.Metody mnohonásobného porovnávání pro neparametrickou analýzu rozptylu4.Základy analýzy nominálních a ordinálních dat (dotace 2/4) a.Kontingenční tabulkab.Testy nezávislosti v kontingenční tabulcec.Další testy a charakteristiky spojené s kontingenčními tabulkamid.Aplikace při vyhodnocování dotazníku5.Statistické srovnávání (dotace 2/4) a.Absolutní a relativní srovnáváníb.Jednoduché individuální, složené a souhrnné indexyc.Rozklady indexůd.Problematika cenových indexů6.Specifické problémy spojené s regresí (dotace 1/2) a.Otázka stability parametrůb.Problém chybějících datc.Vlivné (odlehlé) hodnotyd.Sezónnost a periodicitae.Zdánlivá (falešná) závislost7.Nadstavbové metody analýzy dat (dotace 3/6) a.Robustní regrese, kvantilová regreseb.Spektrální analýza časových řadc.Metoda difference-in-differences s aplikacemi8.Modelování vybraných ekonomických zákonitostí (dotace 1/2) a.Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+      "content": "1.Číselné a grafické charakteristiky znaků (dotace 1/2) a.Absolutní a relativní četnostb.Bodové a intervalové rozdělení četnostíc.Typy znakůd.Číselné charakteristiky znakůe.Grafická prezentace charakteristik znaků (krabicový diagram, histogram apod.)2.Vybrané parametrické testy (dotace 2/4) a.Úlohy o jednom a dvou výběrech z normálního rozděleníb.Úlohy o jednom a dvou výběrech z alternativního rozděleníc.Korelační analýza, Pearsonův korelační koeficient, Spearmanův koeficient pořadové korelaced.Jednofaktorová a dvoufaktorová analýza rozptylue.Metody mnohonásobného porovnáváníf.Aplikace na ekonomických datech3.Vybrané neparametrické testy (dotace 2/4) a.Jednovýběrový a párový znaménkový testb.Jednovýběrový a párový Wilcoxonův testc.Dvouvýběrový Wilcoxonův testd.Dvouvýběrový Kolmogorovův-Smirnovův teste.Kruskalův-Wallisův test a mediánový testf.Metody mnohonásobného porovnávání pro neparametrickou analýzu rozptylu4.Základy analýzy nominálních a ordinálních dat (dotace 2/4) a.Kontingenční tabulkab.Testy nezávislosti v kontingenční tabulcec.Další testy a charakteristiky spojené s kontingenčními tabulkamid.Aplikace při vyhodnocování dotazníku5.Statistické srovnávání (dotace 2/4) a.Absolutní a relativní srovnáváníb.Jednoduché individuální, složené a souhrnné indexyc.Rozklady indexůd.Problematika cenových indexů6.Specifické problémy spojené s regresí (dotace 2/4) a.Otázka stability parametrůb.Problém chybějících datc.Vlivné (odlehlé) hodnotyd.Sezónnost a periodicitae.Zdánlivá (falešná) závislost7.Nadstavbové metody analýzy dat (dotace 2/4) a.Robustní regreseb.Kvantilová regrese pro modelování nákladů a příjmůc.Spektrální analýza časových řad s aplikacemid.Metoda difference-in-differences s aplikacemi8.Modelování vybraných ekonomických zákonitostí (dotace 1/2) a.Praktické příklady ekonometrického modelování"
     },
     {
       "label": "[section] 1.",
@@ -379,31 +387,31 @@
     },
     {
       "label": "[section] 7.",
-      "content": "a.Robustní regrese, kvantilová regreseb.Spektrální analýza časových řadc.Metoda difference-in-differences s aplikacemi"
+      "content": "a.Robustní regreseb.Kvantilová regrese pro modelování nákladů a příjmůc.Spektrální analýza časových řad s aplikacemid.Metoda difference-in-differences s aplikacemi"
     },
     {
       "label": "[section] Nadstavbové metody analýzy dat",
-      "content": "a.Robustní regrese, kvantilová regreseb.Spektrální analýza časových řadc.Metoda difference-in-differences s aplikacemi"
+      "content": "a.Robustní regreseb.Kvantilová regrese pro modelování nákladů a příjmůc.Spektrální analýza časových řad s aplikacemid.Metoda difference-in-differences s aplikacemi"
     },
     {
       "label": "[section] 8.",
-      "content": "a.Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+      "content": "a.Praktické příklady ekonometrického modelování"
     },
     {
       "label": "[section] Modelování vybraných ekonomických zákonitostí",
-      "content": "a.Praktické příklady zpracování ekonomických dat pomocí parametrických i neparametrických metod"
+      "content": "a.Praktické příklady ekonometrického modelování"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku28 hpříprava na průběžné hodnocení28 hprůběžná příprava na cvičení (bloky konzultací u kombinované formy)14 hCelkem112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška14 hcvičení28 hkonzultace4 hpříprava na zkoušku36 hzpracování projektů16 hprůběžná příprava na cvičení (bloky konzultací u kombinované formy)14 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "V rámci předmětu je možné získat body za: 1. Průběžný test - maximálně 40 bodů, minimum je stanoveno na 24 bodů 2. Závěrečná zkouška – maximálně 60 bodů, minimum je stanoveno na 36 bodů Student, který nesplnil některou z výše uvedených dílčích podmínek předmětu, je z předmětu hodnocen známkou \"nevyhověl (F)\". První dílčí podmínka představuje průběžnou kontrolu studijních povinností. Výsledné hodnocení předmětu je dáno součtem získaných bodů zprůběžného testu a závěrečné zkoušky, a to následovně: [90 – 100] bodů = A [83 – 90) bodů = B [75 – 83) bodů = C [68 – 75) bodů = D [60 – 68) bodů = E [0 – 60) bodů = F Jakékoli zaznamenávání závěrečné zkoušky, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky bude považováno za nesplnění podmínek ukončení předmětu a za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením \"nevyhověl (F)\", případně se studentem zahájí disciplinární řízení."
+      "content": "Pro úspěšné absolvování předmětu je nutné splnění všech následujících dílčích podmínek: 1. Semestrální projekt – za projekt lze získat maximálně 20 bodů. Pro úspěšné absolvování je nutné získat min. 60 % možných bodů; neuznaný projekt lze jednou opravit. 2. Úspěšně absolvovaná závěrečná písemná zkouška zahrnující teoretickou (30 bodů) a praktickou část (50 bodů) – pro úspěšné absolvování závěrečné písemné zkoušky je nutné získat min. 60 % možných bodů z každé části. Praktická část zahrnuje praktické zpracování zadaných dat a ústní rozpravu nad získanými výsledky jejich zpracování. Student, který nesplnil některou z výše uvedených dílčích podmínek předmětu, je z předmětu hodnocen známkou \"nevyhověl (F)\". Dílčí podmínka uznání semestrálního projektu představuje průběžnou kontrolu studijních povinností. Výsledek průběžné kontroly studijních povinností je po úspěšně absolvované závěrečné písemné zkoušce zohledněn při ukončení předmětu. Výsledné hodnocení předmětu je tak dáno součtem získaných bodů ze semestrálního projektu a závěrečné písemné zkoušky, a to následovně: [90 – 100] bodů = A [83 – 90) bodů = B [75 – 83) bodů = C [68 – 75) bodů = D [60 – 68) bodů = E [0 – 60) bodů = F Během závěrečné písemné zkoušky je povoleno využít psací pomůcky, softwary Statistica a Gretl a kalkulačku. Pro identifikaci je nutné předložit doklad s fotkou. Jakékoli opisování, zaznamenávání nebo vynášení průběžných testů či zkouškových písemek, používání nedovolených pomůcek, mobilních telefonů či jiných komunikačních zařízení nebo jiné narušování objektivity zkoušky či průběžných testů bude považováno za nesplnění podmínek ukončení předmětu a za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením \"nevyhověl (F)\", případně se studentem zahájí disciplinární řízení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích40 %Absolvování závěrečné ústní zkoušky60 %Celkem100 %"
+      "content": "DruhPrezenční studiumVypracování semestrální práce20 %Absolvování závěrečného testu60 %Absolvování závěrečné ústní zkoušky20 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -419,7 +427,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období ZS 2020/2021Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období LS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -441,7 +449,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -473,7 +481,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. Mgr. Veronika Blašková, Ph.D."
+      "content": "Ing. Michaela Staňková, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -485,11 +493,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Martin Baťka (examiner, instructor)doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer)"
+      "content": "doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer)Ing. Michaela Staňková, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "Econometrics 1 and not Final Bachelor Exam and not Applied Statistics"
+      "content": "Statistics and not Final Bachelor Exam and not Applied Statistics"
     },
     {
       "label": "1.",
@@ -613,7 +621,7 @@
     },
     {
       "label": "6.",
-      "content": "Specific regression problems (allowance 1/2)"
+      "content": "Specific regression problems (allowance 2/4)"
     },
     {
       "label": "a.",
@@ -637,18 +645,22 @@
     },
     {
       "label": "7.",
-      "content": "Advanced data analysis methods (allowance 3/6)"
+      "content": "Advanced data analysis methods (allowance 2/4)"
     },
     {
       "label": "a.",
-      "content": "Robust regression, Quantile regression"
+      "content": "Robust regression"
     },
     {
       "label": "b.",
-      "content": "Spectral analysis"
+      "content": "Quantile regression"
     },
     {
       "label": "c.",
+      "content": "Spectral analysis"
+    },
+    {
+      "label": "d.",
       "content": "Difference in differences method"
     },
     {
@@ -660,12 +672,16 @@
       "content": "Practical examples of econometric modeling"
     },
     {
-      "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "40 %"
+      "label": "Term paper",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "60 %"
     },
     {
       "label": "Final oral exam",
-      "content": "60 %"
+      "content": "20 %"
     },
     {
       "label": "Total",
@@ -673,7 +689,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -689,7 +705,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -725,7 +741,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. Mgr. Veronika Blašková, Ph.D."
+      "content": "Course supervisor: Ing. Michaela Staňková, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -737,15 +753,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Martin Baťka (examiner, instructor)doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Luboš Střelec, Ph.D. (examiner, instructor, lecturer)"
+      "content": "Teachers: doc. Mgr. Veronika Blašková, Ph.D. (examiner, instructor, lecturer)Ing. Michaela Staňková, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: Econometrics 1 and not Final Bachelor Exam and not Applied Statistics"
+      "content": "Prerequisites: Statistics and not Final Bachelor Exam and not Applied Statistics"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday8.00-8.50Q37V. Blašková, L. StřelecLectureEvery week24Thursday9.00-10.50Q37V. Blašková, M. Baťka, L. StřelecSeminarEvery week22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday11.00-11.50Q36V. Blašková, M. StaňkováLectureEvery week24Tuesday12.00-13.50Q36V. Blašková, M. StaňkováSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -753,7 +769,7 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Numeric and graphical characteristics (allowance 1/2) a.Absolute and relative frequencyb.Frequency distributionc.Statistical characteristicsd.Numeric characteristicse.Graphical presentation2.Parametric tests (allowance 2/4) a.One-sample and two-samples tests about parameters of Normal distributionb.One-sample and two-samples tests about parameters of Bernoulli distributionc.Correlation analysis, Pearson's correlation coefficient, Spearman's rank correlation coefficientd.One-way and two-way analysis of variancee.Post-hoc methods of multiple comparisonf.Application of parametric methods in economic data3.Nonparametric tests (allowance 2/4) a.Sign testb.Wilcoxon signed-rank testc.Mann-Whitney-Wilcoxon testd.Two-sample Kolmogorov-Smirnov teste.Kruskal-Wallis testf.Post-hoc methods of multiple comparison for nonparametric ANOVA4.Fundamentals of nominal and ordinal data analysis (allowance 2/4) a.Contingency tableb.Testing hypothesis about independency in qualitative datac.Measures of dependency for nominal or ordinal variablesd.Evaluation of questionnaire5.Statistical comparison (allowance 2/4) a.Absolute and relative changesb.Individual, composite and aggregate indicesc.Indices decompositiond.Price indices6.Specific regression problems (allowance 1/2) a.Parameter stabilityb.Missing datac.Outliersd.Seasonality and periodicitye.Spurious regression7.Advanced data analysis methods (allowance 3/6) a.Robust regression, Quantile regressionb.Spectral analysisc.Difference in differences method8.Modeling of selected economic patterns (allowance 1/2) a.Practical examples of econometric modeling"
+      "content": "1.Numeric and graphical characteristics (allowance 1/2) a.Absolute and relative frequencyb.Frequency distributionc.Statistical characteristicsd.Numeric characteristicse.Graphical presentation2.Parametric tests (allowance 2/4) a.One-sample and two-samples tests about parameters of Normal distributionb.One-sample and two-samples tests about parameters of Bernoulli distributionc.Correlation analysis, Pearson's correlation coefficient, Spearman's rank correlation coefficientd.One-way and two-way analysis of variancee.Post-hoc methods of multiple comparisonf.Application of parametric methods in economic data3.Nonparametric tests (allowance 2/4) a.Sign testb.Wilcoxon signed-rank testc.Mann-Whitney-Wilcoxon testd.Two-sample Kolmogorov-Smirnov teste.Kruskal-Wallis testf.Post-hoc methods of multiple comparison for nonparametric ANOVA4.Fundamentals of nominal and ordinal data analysis (allowance 2/4) a.Contingency tableb.Testing hypothesis about independency in qualitative datac.Measures of dependency for nominal or ordinal variablesd.Evaluation of questionnaire5.Statistical comparison (allowance 2/4) a.Absolute and relative changesb.Individual, composite and aggregate indicesc.Indices decompositiond.Price indices6.Specific regression problems (allowance 2/4) a.Parameter stabilityb.Missing datac.Outliersd.Seasonality and periodicitye.Spurious regression7.Advanced data analysis methods (allowance 2/4) a.Robust regressionb.Quantile regressionc.Spectral analysisd.Difference in differences method8.Modeling of selected economic patterns (allowance 1/2) a.Practical examples of econometric modeling"
     },
     {
       "label": "[section] 1.",
@@ -805,11 +821,11 @@
     },
     {
       "label": "[section] 7.",
-      "content": "a.Robust regression, Quantile regressionb.Spectral analysisc.Difference in differences method"
+      "content": "a.Robust regressionb.Quantile regressionc.Spectral analysisd.Difference in differences method"
     },
     {
       "label": "[section] Advanced data analysis methods",
-      "content": "a.Robust regression, Quantile regressionb.Spectral analysisc.Difference in differences method"
+      "content": "a.Robust regressionb.Quantile regressionc.Spectral analysisd.Difference in differences method"
     },
     {
       "label": "[section] 8.",
@@ -821,15 +837,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam28 hpreparation for regular assessment28 hcontinuous preparation for seminars (sessions of combined form of study)14 hTotal112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture14 hpractice28 hconsultation4 hpreparation for exam36 helaboration and execution of projects16 hcontinuous preparation for seminars (sessions of combined form of study)14 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "To successfully complete the course, the following conditions must be satisfied: 1. Passing the mid-term test 2. Passing the final examination: at least 36 points out of 60 are needed, to pass the final. A student who has not met any of the above partial conditions of the course is evaluated with the mark \"failed (F)\". The first partial condition represents the continuous monitoring of study obligations. The final evaluation of the course is given by the sum of points obtained from mid-term test and final exam, as follows: [90 – 100] points = A [83 – 90) points = B [75 – 83) points = C [68 – 75) points = D [60 – 68) points = E [0 – 60) points = F Any recording of the final oral examination, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by the mark \"failed (F)\". Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
+      "content": "To successfully complete the course, it is necessary to meet all of the following partial conditions: 1. Semester project – total 20 points can be obtained for timely submitted and approved semester project; minimum 60% score is required; an unfulfilled project can be corrected once. 2. The course is completed by a written examination covering the theoretical (total 30 points) and practical part (total 50 points); minimum 60% score of each part is required. The practical part includes data processing and an oral discussion of the obtained results. A student who has not met any of the above partial conditions of the course is evaluated with the mark \"failed (F)\". Partial condition of the semestral project represents the continuous monitoring of study obligations. The result of continuous monitoring of study obligations is after successful completion of the final written exam taken into account in completing the course. The final evaluation of the course is given by the sum of points obtained from semester project and final written exam, as follows: [90 – 100] points = A [83 – 90) points = B [75 – 83) points = C [68 – 75) points = D [60 – 68) points = E [0 – 60) points = F For the final written exam, it is allowed to use writing aids, Statistica and Gretl softwares and a calculator. For identification, it is necessary to submit a student card or the other document with a photo. Any copying, recording or excerpt of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by the mark \"failed (F)\". Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation40 %Final oral exam60 %Total100 %"
+      "content": "Requirement typeDaily attendanceTerm paper20 %Final test60 %Final oral exam20 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -845,13 +861,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track EBEFA Economic and Financial Analysis, full-time form, initial period WS 2023/2024"
+      "content": "Track EBEFA Economic and Financial Analysis, full-time form, initial period WS 2020/2021Track EBEFA Economic and Financial Analysis, full-time form, initial period SS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:38:24",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:51:07",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -2,12 +2,51 @@
   "courseCode": "EPRT",
   "name": "Production and Utilization of Perennials",
   "nameCs": "Production and Utilization of Perennials",
-  "nameEn": "-- item not defined --",
-  "predmetId": "156250",
+  "nameEn": "Production and Utilization of Perennials",
+  "predmetId": "163965",
   "facultyId": 60,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=163965;lang=cz",
+      "totalPass": 0,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2024/2025 - ZF",
       "semesterId": "763",
@@ -137,5 +176,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

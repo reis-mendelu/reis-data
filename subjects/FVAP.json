@@ -2,12 +2,65 @@
   "courseCode": "FVAP",
   "name": "Firemní vzdělávání",
   "nameCs": "Firemní vzdělávání",
-  "nameEn": "Corporate Training",
-  "predmetId": "157908",
+  "nameEn": "Corporate training",
+  "predmetId": "162951",
   "facultyId": 220,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ICV",
+      "semesterId": "819",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=819;predmet=162951;lang=cz",
+      "totalPass": 49,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 27,
+            "B": 11,
+            "C": 7,
+            "D": 1,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 49,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 27,
+            "B": 11,
+            "C": 7,
+            "D": 0,
+            "E": 3,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 48,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ICV",
       "semesterId": "781",
@@ -154,5 +207,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

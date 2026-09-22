@@ -1,13 +1,100 @@
 {
   "courseCode": "CEA",
-  "name": "Chemie aplikovaná",
+  "name": "Chemie aplikovaná (B-LESN)",
   "nameCs": "Chemie aplikovaná (B-LESN)",
   "nameEn": "Applied Chemistry",
-  "predmetId": "156694",
+  "predmetId": "161699",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161699;lang=cz",
+      "totalPass": 107,
+      "totalFail": 13,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 14,
+          "creditGrades": {
+            "zap": 21,
+            "nezap": 12,
+            "zapNedost": 2
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 7,
+          "creditGrades": {
+            "zap": 6,
+            "nezap": 6,
+            "zapNedost": 1
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 107,
+          "fail": 13,
+          "creditGrades": {
+            "zap": 107,
+            "nezap": 8,
+            "zapNedost": 5
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 80,
+          "fail": 40,
+          "creditGrades": {
+            "zap": 80,
+            "nezap": 34,
+            "zapNedost": 6
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -398,5 +485,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

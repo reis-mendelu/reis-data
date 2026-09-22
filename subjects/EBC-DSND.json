@@ -3,17 +3,85 @@
   "name": "Databázové systémy a návrh databází",
   "nameCs": "Databázové systémy a návrh databází",
   "nameEn": "Database Systems and Database Design",
-  "predmetId": "156527",
+  "predmetId": "162528",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Bc. Jan Vavřina",
+    "Ing. Katarína Kovalčíková",
     "Ing. Nikolas Paseka",
     "Ing. Oldřich Faldík, Ph.D.",
     "Ing. Pavel Turčínek, Ph.D.",
     "prof. Ing. Radim Farana, CSc., FEng."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162528;lang=cz",
+      "totalPass": 133,
+      "totalFail": 34,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 6,
+            "C": 14,
+            "D": 12,
+            "E": 7,
+            "F": 19,
+            "FN": 6
+          },
+          "pass": 39,
+          "fail": 25
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 5,
+            "D": 6,
+            "E": 9,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 20,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 23,
+            "C": 41,
+            "D": 41,
+            "E": 20,
+            "F": 28,
+            "FN": 6
+          },
+          "pass": 133,
+          "fail": 34
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 17,
+            "C": 22,
+            "D": 23,
+            "E": 4,
+            "F": 79,
+            "FN": 14
+          },
+          "pass": 74,
+          "fail": 93
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -403,5 +471,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

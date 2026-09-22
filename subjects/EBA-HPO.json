@@ -3,7 +3,7 @@
   "name": "Hospodářská politika v AJ",
   "nameCs": "Hospodářská politika v AJ",
   "nameEn": "Economic Policy",
-  "predmetId": "152305",
+  "predmetId": "160813",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "doc. Ing. Luděk Kouba, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160813;lang=cz",
+      "totalPass": 64,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 2,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 3,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 14,
+            "B": 14,
+            "C": 15,
+            "D": 10,
+            "E": 11,
+            "F": 1,
+            "FN": 3
+          },
+          "pass": 64,
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 14,
+            "B": 14,
+            "C": 15,
+            "D": 9,
+            "E": 7,
+            "F": 7,
+            "FN": 2
+          },
+          "pass": 59,
+          "fail": 9
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -211,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

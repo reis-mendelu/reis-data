@@ -3,18 +3,66 @@
   "name": "Biochemie ZOO",
   "nameCs": "Biochemie ZOO",
   "nameEn": "Biochemistry",
-  "predmetId": "157202",
+  "predmetId": "162415",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
-    "Ing. Jiří Kudr, Ph.D.",
-    "Ing. Karel Snášel",
-    "Ing. Michaela Heinzka",
-    "Ing. Tomáš Do, Ph.D.",
-    "Ing. Žaneta Buchtová, Ph.D.",
     "Mgr. Roman Guráň, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162415;lang=cz",
+      "totalPass": 124,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 32,
+            "B": 46,
+            "C": 19,
+            "D": 19,
+            "E": 8,
+            "F": 1,
+            "FN": 7
+          },
+          "pass": 124,
+          "fail": 8
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 32,
+            "B": 45,
+            "C": 19,
+            "D": 18,
+            "E": 7,
+            "F": 4,
+            "FN": 7
+          },
+          "pass": 121,
+          "fail": 11
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -239,5 +287,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

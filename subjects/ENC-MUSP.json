@@ -3,16 +3,54 @@
   "name": "Marketing udržitelné spotřeby",
   "nameCs": "Marketing udržitelné spotřeby",
   "nameEn": "Sustainable Consumption Marketing",
-  "predmetId": "156591",
+  "predmetId": "162596",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Irena Baláková, Ph.D.",
-    "Ing. Jana Brenkusová Pavelková",
-    "Mgr. Ing. Naďa Hazuchová, Ph.D.",
-    "doc. Ing. Lucie Veselá, Ph.D."
+    "Ing. Lucie Veselá, Ph.D.",
+    "Mgr. Ing. Naďa Hazuchová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162596;lang=cz",
+      "totalPass": 79,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 24,
+            "B": 27,
+            "C": 25,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 79,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 24,
+            "B": 27,
+            "C": 25,
+            "D": 3,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 79,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -67,5 +105,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

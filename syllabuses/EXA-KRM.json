@@ -1,0 +1,737 @@
+{
+  "courseCode": "EXA-KRM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EXA-KRM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Úvod do kryptoměn v AJ"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Introduction to Cryptocurrencies"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, etapa A 0/0, etapa B 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "volitelný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "angličtina"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Bc. Danila Kiselev (cvičící, přednášející)Ing. Pavel Turčínek, Ph.D. (garant)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne (Blockchain a kryptoměny v AJ nebo Blockchain a kryptoměny v AJ)"
+    },
+    {
+      "label": "1.",
+      "content": "Základy a historický kontext (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Evoluce peněz a centrálního bankovnictví"
+    },
+    {
+      "label": "b.",
+      "content": "Kryptoanarchie a digitální suverenita"
+    },
+    {
+      "label": "c.",
+      "content": "Finanční krize 2008 a reakce na selhání důvěry"
+    },
+    {
+      "label": "d.",
+      "content": "Vznik Bitcoinu, první kryptoměny a motivace"
+    },
+    {
+      "label": "2.",
+      "content": "Technologie blockchainu a Bitcoin (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Hashování, digitální podpisy, UTXO model"
+    },
+    {
+      "label": "b.",
+      "content": "Struktura bloku, konsensus PoW a těžba"
+    },
+    {
+      "label": "c.",
+      "content": "Bitcoinové peněženky, transakce a poplatky"
+    },
+    {
+      "label": "d.",
+      "content": "Směnárny, KYC/AML, fiat on/off ramps"
+    },
+    {
+      "label": "3.",
+      "content": "Ethereum, smart contracts a tokeny (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "EVM, účetní model a struktura chytrého kontraktu"
+    },
+    {
+      "label": "b.",
+      "content": "Programování ve Solidity, nasazení na testnet"
+    },
+    {
+      "label": "c.",
+      "content": "Tokenové standardy ERC-20 a ERC-721"
+    },
+    {
+      "label": "d.",
+      "content": "Úvod do DApps a decentralizovaného webu"
+    },
+    {
+      "label": "4.",
+      "content": "DeFi, NFT a pokročilé aplikace (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "DeFi komponenty: swapy, pooly, půjčky, yield"
+    },
+    {
+      "label": "b.",
+      "content": "NFT – jedinečnost, použití a kontroverze"
+    },
+    {
+      "label": "c.",
+      "content": "Web3 a DAO – decentralizovaná správa"
+    },
+    {
+      "label": "d.",
+      "content": "Významné projekty: Polygon, Aave, OpenSea"
+    },
+    {
+      "label": "5.",
+      "content": "Lightning Network a škálování (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Trilema decentralizace–škálování–bezpečnost"
+    },
+    {
+      "label": "b.",
+      "content": "Lightning Network – HTLC, routování, uzly"
+    },
+    {
+      "label": "c.",
+      "content": "Layer 2 řešení, rollupy, sidechainy"
+    },
+    {
+      "label": "d.",
+      "content": "Use-cases: mikroplatby, machine-to-machine IoT"
+    },
+    {
+      "label": "6.",
+      "content": "Regulace, bezpečnost a budoucnost (dotace 0/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Právo a regulace: MiCA, SEC, ČNB, daně"
+    },
+    {
+      "label": "b.",
+      "content": "Bezpečnost: útoky, ztráty, best practices"
+    },
+    {
+      "label": "c.",
+      "content": "Tokenizace aktiv, CBDC, memecoiny"
+    },
+    {
+      "label": "d.",
+      "content": "Shrnutí, trendy, prezentace projektů"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "20 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "30 %"
+    },
+    {
+      "label": "Hodnocené průběžné úkoly",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2026/2027 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Úvod do kryptoměn v AJ"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Introduction to Cryptocurrencies"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, etapa A 0/0, etapa B 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, etapa A 0/0, etapa B 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: volitelný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: angličtina"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Bc. Danila Kiselev (cvičící, přednášející)Ing. Pavel Turčínek, Ph.D. (garant)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne (Blockchain a kryptoměny v AJ nebo Blockchain a kryptoměny v AJ)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí17.00-18.50Q26D. KiselevPřednáškaKaždý týden20Úterý17.00-18.50Q26D. KiselevCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "V semestrálním kurzu se studenti seznámí nejen s historickými a technologickými kořeny kryptoměn, ale také si prakticky osvojí základy práce s blockchainem, chytrými kontrakty a decentralizovanými aplikacemi. Kromě přednášek a úkolů budou studenti pracovat na týmovém projektu podle vlastního zaměření. Výstupem je pochopení fungování kryptoměnových ekosystémů z pohledu technického, ekonomického i regulatorního. Kurz klade důraz na praktické využití blockchainových technologií a podporuje schopnost týmové spolupráce a aplikaci poznatků v reálném prostředí."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základy a historický kontext (dotace 0/0) a.Evoluce peněz a centrálního bankovnictvíb.Kryptoanarchie a digitální suverenitac.Finanční krize 2008 a reakce na selhání důvěryd.Vznik Bitcoinu, první kryptoměny a motivace2.Technologie blockchainu a Bitcoin (dotace 0/0) a.Hashování, digitální podpisy, UTXO modelb.Struktura bloku, konsensus PoW a těžbac.Bitcoinové peněženky, transakce a poplatkyd.Směnárny, KYC/AML, fiat on/off ramps3.Ethereum, smart contracts a tokeny (dotace 0/0) a.EVM, účetní model a struktura chytrého kontraktub.Programování ve Solidity, nasazení na testnetc.Tokenové standardy ERC-20 a ERC-721d.Úvod do DApps a decentralizovaného webu4.DeFi, NFT a pokročilé aplikace (dotace 0/0) a.DeFi komponenty: swapy, pooly, půjčky, yieldb.NFT – jedinečnost, použití a kontroverzec.Web3 a DAO – decentralizovaná správad.Významné projekty: Polygon, Aave, OpenSea5.Lightning Network a škálování (dotace 0/0) a.Trilema decentralizace–škálování–bezpečnostb.Lightning Network – HTLC, routování, uzlyc.Layer 2 řešení, rollupy, sidechainyd.Use-cases: mikroplatby, machine-to-machine IoT6.Regulace, bezpečnost a budoucnost (dotace 0/0) a.Právo a regulace: MiCA, SEC, ČNB, daněb.Bezpečnost: útoky, ztráty, best practicesc.Tokenizace aktiv, CBDC, memecoinyd.Shrnutí, trendy, prezentace projektů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Evoluce peněz a centrálního bankovnictvíb.Kryptoanarchie a digitální suverenitac.Finanční krize 2008 a reakce na selhání důvěryd.Vznik Bitcoinu, první kryptoměny a motivace"
+    },
+    {
+      "label": "[section] Základy a historický kontext",
+      "content": "a.Evoluce peněz a centrálního bankovnictvíb.Kryptoanarchie a digitální suverenitac.Finanční krize 2008 a reakce na selhání důvěryd.Vznik Bitcoinu, první kryptoměny a motivace"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Hashování, digitální podpisy, UTXO modelb.Struktura bloku, konsensus PoW a těžbac.Bitcoinové peněženky, transakce a poplatkyd.Směnárny, KYC/AML, fiat on/off ramps"
+    },
+    {
+      "label": "[section] Technologie blockchainu a Bitcoin",
+      "content": "a.Hashování, digitální podpisy, UTXO modelb.Struktura bloku, konsensus PoW a těžbac.Bitcoinové peněženky, transakce a poplatkyd.Směnárny, KYC/AML, fiat on/off ramps"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.EVM, účetní model a struktura chytrého kontraktub.Programování ve Solidity, nasazení na testnetc.Tokenové standardy ERC-20 a ERC-721d.Úvod do DApps a decentralizovaného webu"
+    },
+    {
+      "label": "[section] Ethereum, smart contracts a tokeny",
+      "content": "a.EVM, účetní model a struktura chytrého kontraktub.Programování ve Solidity, nasazení na testnetc.Tokenové standardy ERC-20 a ERC-721d.Úvod do DApps a decentralizovaného webu"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.DeFi komponenty: swapy, pooly, půjčky, yieldb.NFT – jedinečnost, použití a kontroverzec.Web3 a DAO – decentralizovaná správad.Významné projekty: Polygon, Aave, OpenSea"
+    },
+    {
+      "label": "[section] DeFi, NFT a pokročilé aplikace",
+      "content": "a.DeFi komponenty: swapy, pooly, půjčky, yieldb.NFT – jedinečnost, použití a kontroverzec.Web3 a DAO – decentralizovaná správad.Významné projekty: Polygon, Aave, OpenSea"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Trilema decentralizace–škálování–bezpečnostb.Lightning Network – HTLC, routování, uzlyc.Layer 2 řešení, rollupy, sidechainyd.Use-cases: mikroplatby, machine-to-machine IoT"
+    },
+    {
+      "label": "[section] Lightning Network a škálování",
+      "content": "a.Trilema decentralizace–škálování–bezpečnostb.Lightning Network – HTLC, routování, uzlyc.Layer 2 řešení, rollupy, sidechainyd.Use-cases: mikroplatby, machine-to-machine IoT"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Právo a regulace: MiCA, SEC, ČNB, daněb.Bezpečnost: útoky, ztráty, best practicesc.Tokenizace aktiv, CBDC, memecoinyd.Shrnutí, trendy, prezentace projektů"
+    },
+    {
+      "label": "[section] Regulace, bezpečnost a budoucnost",
+      "content": "a.Právo a regulace: MiCA, SEC, ČNB, daněb.Bezpečnost: útoky, ztráty, best practicesc.Tokenizace aktiv, CBDC, memecoinyd.Shrnutí, trendy, prezentace projektů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška12 hcvičení12 hkonzultace6 hzpracování projektů12 hCelkem42 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Aktivní účast během výuky, zpracování domácích úkolů a semestrálního projektu, zkouška."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích20 %Vypracování semestrální práce30 %Hodnocené průběžné úkoly20 %Absolvování závěrečného testu30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 s. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 s. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: -- obsah této položky nebyl definován --"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EXA-KRM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Úvod do kryptoměn v AJ"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Introduction to Cryptocurrencies"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, period A 0/0, period B 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Course type:",
+      "content": "optional"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "English"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Bc. Danila Kiselev (instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not (Blockchain and Cryptocurrencies or Blockchain and Cryptocurrencies)"
+    },
+    {
+      "label": "1.",
+      "content": "Fundamentals and historical context (allowance 4/0)"
+    },
+    {
+      "label": "a.",
+      "content": "The evolution of money and central banking"
+    },
+    {
+      "label": "b.",
+      "content": "Cryptoanarchy and digital sovereignty"
+    },
+    {
+      "label": "c.",
+      "content": "The 2008 financial crisis and the response to the failure of trust"
+    },
+    {
+      "label": "d.",
+      "content": "The emergence of Bitcoin, the first cryptocurrency, and its motivations"
+    },
+    {
+      "label": "2.",
+      "content": "Blockchain technology and Bitcoin (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hashing, digital signatures, UTXO model"
+    },
+    {
+      "label": "b.",
+      "content": "Block structure, PoW consensus, and mining"
+    },
+    {
+      "label": "c.",
+      "content": "Bitcoin wallets, transactions, and fees"
+    },
+    {
+      "label": "d.",
+      "content": "Exchanges, KYC/AML, fiat on/off ramps"
+    },
+    {
+      "label": "3.",
+      "content": "Ethereum, smart contracts, and tokens (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "EVM, accounting model, and smart contract structure"
+    },
+    {
+      "label": "b.",
+      "content": "Programming in Solidity, deployment on testnet"
+    },
+    {
+      "label": "c.",
+      "content": "ERC-20 and ERC-721 token standards"
+    },
+    {
+      "label": "d.",
+      "content": "Introduction to DApps and the decentralized web"
+    },
+    {
+      "label": "4.",
+      "content": "DeFi, NFTs, and advanced applications (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "DeFi components: swaps, pools, loans, yield"
+    },
+    {
+      "label": "b.",
+      "content": "NFTs – uniqueness, use, and controversy"
+    },
+    {
+      "label": "c.",
+      "content": "Web3 and DAO – decentralized governance"
+    },
+    {
+      "label": "d.",
+      "content": "Significant projects: Polygon, Aave, OpenSea"
+    },
+    {
+      "label": "5.",
+      "content": "Lightning Network and scaling (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The decentralization–scaling–security trilemma"
+    },
+    {
+      "label": "b.",
+      "content": "Lightning Network – HTLC, routing, nodes"
+    },
+    {
+      "label": "c.",
+      "content": "Layer 2 solutions, rollups, sidechains"
+    },
+    {
+      "label": "d.",
+      "content": "Use cases: micropayments, machine-to-machine IoT"
+    },
+    {
+      "label": "6.",
+      "content": "Regulation, security, and the future (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Law and regulation: MiCA, SEC, CNB, taxes"
+    },
+    {
+      "label": "b.",
+      "content": "Security: attacks, losses, best practices"
+    },
+    {
+      "label": "c.",
+      "content": "Asset tokenization, CBDC, memecoins"
+    },
+    {
+      "label": "d.",
+      "content": "Summary, trends, project presentations"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "20 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "30 %"
+    },
+    {
+      "label": "Marked assignments",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2026/2027 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Úvod do kryptoměn v AJ"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Introduction to Cryptocurrencies"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, period A 0/0, period B 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, period A 0/0, period B 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: -- item not defined --"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: optional"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: English"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Pavel Turčínek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Bc. Danila Kiselev (instructor, lecturer)Ing. Pavel Turčínek, Ph.D. (supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not (Blockchain and Cryptocurrencies or Blockchain and Cryptocurrencies)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday17.00-18.50Q26D. KiselevLectureEvery week20Tuesday17.00-18.50Q26D. KiselevSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "In this semester-long course, students will not only learn about the historical and technological roots of cryptocurrencies, but also gain practical experience in working with blockchain, smart contracts, and decentralized applications. In addition to lectures and assignments, students will work on a team project according to their own focus. The outcome is an understanding of how cryptocurrency ecosystems work from a technical, economic, and regulatory perspective. The course emphasizes the practical use of blockchain technologies and promotes teamwork and the application of knowledge in a real-world environment."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Fundamentals and historical context (allowance 4/0) a.The evolution of money and central bankingb.Cryptoanarchy and digital sovereigntyc.The 2008 financial crisis and the response to the failure of trustd.The emergence of Bitcoin, the first cryptocurrency, and its motivations2.Blockchain technology and Bitcoin (allowance 2/2) a.Hashing, digital signatures, UTXO modelb.Block structure, PoW consensus, and miningc.Bitcoin wallets, transactions, and feesd.Exchanges, KYC/AML, fiat on/off ramps3.Ethereum, smart contracts, and tokens (allowance 2/2) a.EVM, accounting model, and smart contract structureb.Programming in Solidity, deployment on testnetc.ERC-20 and ERC-721 token standardsd.Introduction to DApps and the decentralized web4.DeFi, NFTs, and advanced applications (allowance 2/2) a.DeFi components: swaps, pools, loans, yieldb.NFTs – uniqueness, use, and controversyc.Web3 and DAO – decentralized governanced.Significant projects: Polygon, Aave, OpenSea5.Lightning Network and scaling (allowance 2/2) a.The decentralization–scaling–security trilemmab.Lightning Network – HTLC, routing, nodesc.Layer 2 solutions, rollups, sidechainsd.Use cases: micropayments, machine-to-machine IoT6.Regulation, security, and the future (allowance 2/2) a.Law and regulation: MiCA, SEC, CNB, taxesb.Security: attacks, losses, best practicesc.Asset tokenization, CBDC, memecoinsd.Summary, trends, project presentations"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.The evolution of money and central bankingb.Cryptoanarchy and digital sovereigntyc.The 2008 financial crisis and the response to the failure of trustd.The emergence of Bitcoin, the first cryptocurrency, and its motivations"
+    },
+    {
+      "label": "[section] Fundamentals and historical context",
+      "content": "a.The evolution of money and central bankingb.Cryptoanarchy and digital sovereigntyc.The 2008 financial crisis and the response to the failure of trustd.The emergence of Bitcoin, the first cryptocurrency, and its motivations"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Hashing, digital signatures, UTXO modelb.Block structure, PoW consensus, and miningc.Bitcoin wallets, transactions, and feesd.Exchanges, KYC/AML, fiat on/off ramps"
+    },
+    {
+      "label": "[section] Blockchain technology and Bitcoin",
+      "content": "a.Hashing, digital signatures, UTXO modelb.Block structure, PoW consensus, and miningc.Bitcoin wallets, transactions, and feesd.Exchanges, KYC/AML, fiat on/off ramps"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.EVM, accounting model, and smart contract structureb.Programming in Solidity, deployment on testnetc.ERC-20 and ERC-721 token standardsd.Introduction to DApps and the decentralized web"
+    },
+    {
+      "label": "[section] Ethereum, smart contracts, and tokens",
+      "content": "a.EVM, accounting model, and smart contract structureb.Programming in Solidity, deployment on testnetc.ERC-20 and ERC-721 token standardsd.Introduction to DApps and the decentralized web"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.DeFi components: swaps, pools, loans, yieldb.NFTs – uniqueness, use, and controversyc.Web3 and DAO – decentralized governanced.Significant projects: Polygon, Aave, OpenSea"
+    },
+    {
+      "label": "[section] DeFi, NFTs, and advanced applications",
+      "content": "a.DeFi components: swaps, pools, loans, yieldb.NFTs – uniqueness, use, and controversyc.Web3 and DAO – decentralized governanced.Significant projects: Polygon, Aave, OpenSea"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.The decentralization–scaling–security trilemmab.Lightning Network – HTLC, routing, nodesc.Layer 2 solutions, rollups, sidechainsd.Use cases: micropayments, machine-to-machine IoT"
+    },
+    {
+      "label": "[section] Lightning Network and scaling",
+      "content": "a.The decentralization–scaling–security trilemmab.Lightning Network – HTLC, routing, nodesc.Layer 2 solutions, rollups, sidechainsd.Use cases: micropayments, machine-to-machine IoT"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Law and regulation: MiCA, SEC, CNB, taxesb.Security: attacks, losses, best practicesc.Asset tokenization, CBDC, memecoinsd.Summary, trends, project presentations"
+    },
+    {
+      "label": "[section] Regulation, security, and the future",
+      "content": "a.Law and regulation: MiCA, SEC, CNB, taxesb.Security: attacks, losses, best practicesc.Asset tokenization, CBDC, memecoinsd.Summary, trends, project presentations"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture12 hpractice12 hconsultation6 helaboration and execution of projects12 hTotal42 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Active participation during classes, completion of homework assignments and semester project, exam."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation20 %Term paper30 %Marked assignments20 %Final test30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 p. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "NAKAMOTO, Satoshi. 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf.TĚTEK, Josef. 2021. Bitcoin: Odluka peněz od státu. Praha: Braiins Publishing, 116 p. ISBN 978-80-907975-8-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: -- item not defined --"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:21:36",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

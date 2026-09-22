@@ -3,7 +3,7 @@
   "name": "Matematika",
   "nameCs": "Matematika",
   "nameEn": "Mathematics",
-  "predmetId": "158707",
+  "predmetId": "161973",
   "facultyId": 14,
   "aliases": [
     "EBC-MT",
@@ -17,6 +17,73 @@
     "Mgr. Radka Smýkalová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161973;lang=cz",
+      "totalPass": 19,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 2,
+            "E": 1,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 2,
+            "D": 10,
+            "E": 4,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 19,
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 2,
+            "D": 7,
+            "E": 3,
+            "F": 9,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 9
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -671,5 +738,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,14 +3,68 @@
   "name": "Řízení obchodu",
   "nameCs": "Řízení obchodu",
   "nameEn": "Trade Operations Management",
-  "predmetId": "156592",
+  "predmetId": "162597",
   "facultyId": 2,
-  "aliases": [],
+  "aliases": [
+    "RIO"
+  ],
   "teachers": [
-    "Ing. Jana Brenkusová Pavelková",
     "doc. Ing. et Ing. Lea Kubíčková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162597;lang=cz",
+      "totalPass": 80,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 6,
+            "B": 3,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 34,
+            "B": 35,
+            "C": 11,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 3
+          },
+          "pass": 80,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 28,
+            "B": 32,
+            "C": 10,
+            "D": 0,
+            "E": 0,
+            "F": 10,
+            "FN": 3
+          },
+          "pass": 70,
+          "fail": 13
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -224,5 +278,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

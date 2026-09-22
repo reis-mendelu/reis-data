@@ -1,0 +1,793 @@
+{
+  "courseCode": "FYP",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "FYP"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Fyzikální procesy"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Physical Processes"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav chemie a biochemie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. David Hynek, Ph.D. (garant, přednášející, zkoušející)RNDr. Tomáš Ondro, Ph.D. (cvičící, přednášející)Mgr. Jiří Vlček, Ph.D. (cvičící)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Základní pojmy – základní fyzikální pojmy (hmota, energie, záření, fyzikální procesy) (dotace 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Numerické metody ve fyzice a chemii (dotace 2/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Kinematika hmotného bodu (dotace 2/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Dynamika hmotného bodu (dotace 2/0)"
+    },
+    {
+      "label": "5.",
+      "content": "Zákony zachování – energie, hybnosti, momentu hybnosti (dotace 2/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Základy termodynamiky – energie, teplo, práce (dotace 2/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Teplo – tepelná bilance, vedení tepla (dotace 2/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Procesy na rozhraní dvou fází – fázová rovnováha, adsorpce, extrakce, destilace, odpařování (dotace 2/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Chemická rovnováha – rovnovážné stavy, termodynamická podmínka (dotace 2/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Koloidní soustavy a molekulární transport (dotace 2/0)"
+    },
+    {
+      "label": "11.",
+      "content": "Kinetika přeměn a procesů I – kinetické modely (dotace 2/0)"
+    },
+    {
+      "label": "12.",
+      "content": "Kinetika přeměn a procesů I – enzymová katalýza (dotace 2/0)"
+    },
+    {
+      "label": "13.",
+      "content": "Praktická laboratorní cvičení (dotace 0/24)"
+    },
+    {
+      "label": "a.",
+      "content": "Úvod - Bezpečnost práce a laboratorní řád"
+    },
+    {
+      "label": "b.",
+      "content": "Matematický aparát ve fyzice (výpočet vektorů / derivací / integrálů)"
+    },
+    {
+      "label": "c.",
+      "content": "Určení tíhového zrychlení"
+    },
+    {
+      "label": "d.",
+      "content": "Určení pevnosti slupky dužinatých plodin"
+    },
+    {
+      "label": "e.",
+      "content": "Stanovení tepelné kapacity"
+    },
+    {
+      "label": "f.",
+      "content": "Viskozita kapalin"
+    },
+    {
+      "label": "g.",
+      "content": "Stanovení kritické micelární koncentrace"
+    },
+    {
+      "label": "h.",
+      "content": "Stanovení povrchového napětí (voda + ethanol)"
+    },
+    {
+      "label": "i.",
+      "content": "Stanovení součinu rozpustnosti"
+    },
+    {
+      "label": "j.",
+      "content": "Extrakce"
+    },
+    {
+      "label": "k.",
+      "content": "Stanovení rychlostní konstanty inverze sacharosy"
+    },
+    {
+      "label": "l.",
+      "content": "Závěrečný test a oprava protokolů"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "50 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "(a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Fyzikální procesy"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Physical Processes"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav chemie a biochemie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. David Hynek, Ph.D. (garant, přednášející, zkoušející)RNDr. Tomáš Ondro, Ph.D. (cvičící, přednášející)Mgr. Jiří Vlček, Ph.D. (cvičící)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50D03J. Vlček, T. OndroCvičeníKaždý týden18Pondělí13.00-14.50D05D. Hynek, T. OndroPřednáškaKaždý týden18"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Studentky a studenti budou seznámeni se základními zákonitostmi a procesy v oblasti fyziky a fyzikální chemie. Konkrétně v oblasti mechaniky, energetických bilancí, studia rovnováh, tepelných bilancí a kinetiky. Tyto informace jim umožní porozumět základním jevům a principům, se kterými se mohou setkat při studiu v oboru ekotoxikologie a odpadového managementu."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základní pojmy – základní fyzikální pojmy (hmota, energie, záření, fyzikální procesy) (dotace 2/0)2.Numerické metody ve fyzice a chemii (dotace 2/0)3.Kinematika hmotného bodu (dotace 2/0)4.Dynamika hmotného bodu (dotace 2/0)5.Zákony zachování – energie, hybnosti, momentu hybnosti (dotace 2/0)6.Základy termodynamiky – energie, teplo, práce (dotace 2/0)7.Teplo – tepelná bilance, vedení tepla (dotace 2/0)8.Procesy na rozhraní dvou fází – fázová rovnováha, adsorpce, extrakce, destilace, odpařování (dotace 2/0)9.Chemická rovnováha – rovnovážné stavy, termodynamická podmínka (dotace 2/0)10.Koloidní soustavy a molekulární transport (dotace 2/0)11.Kinetika přeměn a procesů I – kinetické modely (dotace 2/0)12.Kinetika přeměn a procesů I – enzymová katalýza (dotace 2/0)13.Praktická laboratorní cvičení (dotace 0/24) a.Úvod - Bezpečnost práce a laboratorní řádb.Matematický aparát ve fyzice (výpočet vektorů / derivací / integrálů)c.Určení tíhového zrychleníd.Určení pevnosti slupky dužinatých plodine.Stanovení tepelné kapacityf.Viskozita kapaling.Stanovení kritické micelární koncentraceh.Stanovení povrchového napětí (voda + ethanol)i.Stanovení součinu rozpustnostij.Extrakcek.Stanovení rychlostní konstanty inverze sacharosyl.Závěrečný test a oprava protokolů"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Numerické metody ve fyzice a chemii (dotace 2/0)"
+    },
+    {
+      "label": "[section] Základní pojmy – základní fyzikální pojmy (hmota, energie, záření, fyzikální procesy)",
+      "content": "2.Numerické metody ve fyzice a chemii (dotace 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Kinematika hmotného bodu (dotace 2/0)"
+    },
+    {
+      "label": "[section] Numerické metody ve fyzice a chemii",
+      "content": "3.Kinematika hmotného bodu (dotace 2/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Dynamika hmotného bodu (dotace 2/0)"
+    },
+    {
+      "label": "[section] Kinematika hmotného bodu",
+      "content": "4.Dynamika hmotného bodu (dotace 2/0)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Zákony zachování – energie, hybnosti, momentu hybnosti (dotace 2/0)"
+    },
+    {
+      "label": "[section] Dynamika hmotného bodu",
+      "content": "5.Zákony zachování – energie, hybnosti, momentu hybnosti (dotace 2/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Základy termodynamiky – energie, teplo, práce (dotace 2/0)"
+    },
+    {
+      "label": "[section] Zákony zachování – energie, hybnosti, momentu hybnosti",
+      "content": "6.Základy termodynamiky – energie, teplo, práce (dotace 2/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Teplo – tepelná bilance, vedení tepla (dotace 2/0)"
+    },
+    {
+      "label": "[section] Základy termodynamiky – energie, teplo, práce",
+      "content": "7.Teplo – tepelná bilance, vedení tepla (dotace 2/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Procesy na rozhraní dvou fází – fázová rovnováha, adsorpce, extrakce, destilace, odpařování (dotace 2/0)"
+    },
+    {
+      "label": "[section] Teplo – tepelná bilance, vedení tepla",
+      "content": "8.Procesy na rozhraní dvou fází – fázová rovnováha, adsorpce, extrakce, destilace, odpařování (dotace 2/0)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Chemická rovnováha – rovnovážné stavy, termodynamická podmínka (dotace 2/0)"
+    },
+    {
+      "label": "[section] Procesy na rozhraní dvou fází – fázová rovnováha, adsorpce, extrakce, destilace, odpařování",
+      "content": "9.Chemická rovnováha – rovnovážné stavy, termodynamická podmínka (dotace 2/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Koloidní soustavy a molekulární transport (dotace 2/0)"
+    },
+    {
+      "label": "[section] Chemická rovnováha – rovnovážné stavy, termodynamická podmínka",
+      "content": "10.Koloidní soustavy a molekulární transport (dotace 2/0)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Kinetika přeměn a procesů I – kinetické modely (dotace 2/0)"
+    },
+    {
+      "label": "[section] Koloidní soustavy a molekulární transport",
+      "content": "11.Kinetika přeměn a procesů I – kinetické modely (dotace 2/0)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Kinetika přeměn a procesů I – enzymová katalýza (dotace 2/0)"
+    },
+    {
+      "label": "[section] Kinetika přeměn a procesů I – kinetické modely",
+      "content": "12.Kinetika přeměn a procesů I – enzymová katalýza (dotace 2/0)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Praktická laboratorní cvičení (dotace 0/24)"
+    },
+    {
+      "label": "[section] Kinetika přeměn a procesů I – enzymová katalýza",
+      "content": "13.Praktická laboratorní cvičení (dotace 0/24)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Úvod - Bezpečnost práce a laboratorní řádb.Matematický aparát ve fyzice (výpočet vektorů / derivací / integrálů)c.Určení tíhového zrychleníd.Určení pevnosti slupky dužinatých plodine.Stanovení tepelné kapacityf.Viskozita kapaling.Stanovení kritické micelární koncentraceh.Stanovení povrchového napětí (voda + ethanol)i.Stanovení součinu rozpustnostij.Extrakcek.Stanovení rychlostní konstanty inverze sacharosyl.Závěrečný test a oprava protokolů"
+    },
+    {
+      "label": "[section] Praktická laboratorní cvičení",
+      "content": "a.Úvod - Bezpečnost práce a laboratorní řádb.Matematický aparát ve fyzice (výpočet vektorů / derivací / integrálů)c.Určení tíhového zrychleníd.Určení pevnosti slupky dužinatých plodine.Stanovení tepelné kapacityf.Viskozita kapaling.Stanovení kritické micelární koncentraceh.Stanovení povrchového napětí (voda + ethanol)i.Stanovení součinu rozpustnostij.Extrakcek.Stanovení rychlostní konstanty inverze sacharosyl.Závěrečný test a oprava protokolů"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška24 hcvičení24 hpříprava na zkoušku56 hpříprava na průběžný test14 hzpracování protokolů12 hCelkem130 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Písemná a / nebo ústní zkouška. Podmínkou účasti na zkoušce je zápočet z praktického laboratorního cvičení. Pro zápočet je požadována účast na všech cvičeních, odevzdání protokolů a úspěšné absolvování průběžných testů nebo testu zápočtového."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích50 %Absolvování závěrečného testu50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:LEIGHTON, Robert B.; SANDS, Matthew. 2002. Feynmanovy přednášky z fyziky s řešenými příklady. 1. vyd. Praha: Fragment, 435 s. ISBN 80-7200-421-2.HALLIDAY, Daniel; WALKER, John; RESNICK, Rolf. 2000. Fyzika. Praha: VUTIUM.ATKINS, P. W.; DE PAULA, Julio a kol. 2013. Fyzikální chemie. 1. vyd. Praha: Vysoká škola chemicko-technologická v Praze, 915 s. ISBN 978-80-7080-830-6.VODRÁŽKA, Z. 1982. Fyzikální chemie pro biologické vědy. Praha: academia, 568 s.BARTOŇ, Stanislav. 2011. Fyzika I v řešených příkladech. 1. vyd. Brno: Mendelova univerzita v Brně, 174 s. ISBN 978-80-7375-559-1."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "LEIGHTON, Robert B.; SANDS, Matthew. 2002. Feynmanovy přednášky z fyziky s řešenými příklady. 1. vyd. Praha: Fragment, 435 s. ISBN 80-7200-421-2.HALLIDAY, Daniel; WALKER, John; RESNICK, Rolf. 2000. Fyzika. Praha: VUTIUM.ATKINS, P. W.; DE PAULA, Julio a kol. 2013. Fyzikální chemie. 1. vyd. Praha: Vysoká škola chemicko-technologická v Praze, 915 s. ISBN 978-80-7080-830-6.VODRÁŽKA, Z. 1982. Fyzikální chemie pro biologické vědy. Praha: academia, 568 s.BARTOŇ, Stanislav. 2011. Fyzika I v řešených příkladech. 1. vyd. Brno: Mendelova univerzita v Brně, 174 s. ISBN 978-80-7375-559-1."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-EMO Ekotoxikologie a management odpadů, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "FYP"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Fyzikální procesy"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Physical Processes"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Chemistry and Biochemistry (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. David Hynek, Ph.D. (examiner, lecturer, supervisor)RNDr. Tomáš Ondro, Ph.D. (instructor, lecturer)Mgr. Jiří Vlček, Ph.D. (instructor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Basic concepts – basic physical concepts (matter, energy, radiation, physical processes) (allowance 2/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Numerical methods in physics and chemistry (allowance 2/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Kinematics of a mass point (allowance 2/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Dynamics of a mass point (allowance 2/0)"
+    },
+    {
+      "label": "5.",
+      "content": "Conservation laws – energy, momentum, angular momentum (allowance 2/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Basics of thermodynamics – energy, heat, work (allowance 2/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Heat – heat balance, heat conduction (allowance 2/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Processes at the interface of two phases – phase equilibrium (allowance 2/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Chemical equilibrium – equilibrium states, thermodynamic condition (allowance 2/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Colloidal systems and molecular transport (allowance 2/0)"
+    },
+    {
+      "label": "11.",
+      "content": "Kinetics of transformations and processes I – kinetic models (allowance 2/0)"
+    },
+    {
+      "label": "12.",
+      "content": "Kinetics of transformations and processes I – enzyme catalysis (allowance 2/0)"
+    },
+    {
+      "label": "13.",
+      "content": "Practical laboratory exercises (allowance 0/24)"
+    },
+    {
+      "label": "a.",
+      "content": "Introduction - Occupational safety and laboratory regulations"
+    },
+    {
+      "label": "b.",
+      "content": "Mathematical apparatus in physics (calculation of vectors / derivatives / integrals)"
+    },
+    {
+      "label": "c.",
+      "content": "Determining gravitational acceleration"
+    },
+    {
+      "label": "d.",
+      "content": "Determination of skin strength of pulpy crops"
+    },
+    {
+      "label": "e.",
+      "content": "Determination of heat capacity"
+    },
+    {
+      "label": "f.",
+      "content": "Viscosity of liquids"
+    },
+    {
+      "label": "g.",
+      "content": "Determination of critical micellar concentration"
+    },
+    {
+      "label": "h.",
+      "content": "Determination of surface tension (water + ethanol)"
+    },
+    {
+      "label": "i.",
+      "content": "Determination of solubility product"
+    },
+    {
+      "label": "j.",
+      "content": "Extraction"
+    },
+    {
+      "label": "k.",
+      "content": "Determination of the rate constant of sucrose inversion"
+    },
+    {
+      "label": "l.",
+      "content": "Final test and protocol correction"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "50 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "(and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Fyzikální procesy"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Physical Processes"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. David Hynek, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Chemistry and Biochemistry (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. David Hynek, Ph.D. (examiner, lecturer, supervisor)RNDr. Tomáš Ondro, Ph.D. (instructor, lecturer)Mgr. Jiří Vlček, Ph.D. (instructor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50D03J. Vlček, T. OndroSeminarEvery week18Monday13.00-14.50D05D. Hynek, T. OndroLectureEvery week18"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "Students will be introduced to the basic laws and processes in the field of physics and physical chemistry. Specifically in the field of mechanics, energy balances, equilibrium studies, heat balances and kinetics. This information will enable them to understand the basic phenomena and principles that they may encounter when studying ecotoxicology and waste management."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Basic concepts – basic physical concepts (matter, energy, radiation, physical processes) (allowance 2/0)2.Numerical methods in physics and chemistry (allowance 2/0)3.Kinematics of a mass point (allowance 2/0)4.Dynamics of a mass point (allowance 2/0)5.Conservation laws – energy, momentum, angular momentum (allowance 2/0)6.Basics of thermodynamics – energy, heat, work (allowance 2/0)7.Heat – heat balance, heat conduction (allowance 2/0)8.Processes at the interface of two phases – phase equilibrium (allowance 2/0)9.Chemical equilibrium – equilibrium states, thermodynamic condition (allowance 2/0)10.Colloidal systems and molecular transport (allowance 2/0)11.Kinetics of transformations and processes I – kinetic models (allowance 2/0)12.Kinetics of transformations and processes I – enzyme catalysis (allowance 2/0)13.Practical laboratory exercises (allowance 0/24) a.Introduction - Occupational safety and laboratory regulationsb.Mathematical apparatus in physics (calculation of vectors / derivatives / integrals)c.Determining gravitational accelerationd.Determination of skin strength of pulpy cropse.Determination of heat capacityf.Viscosity of liquidsg.Determination of critical micellar concentrationh.Determination of surface tension (water + ethanol)i.Determination of solubility productj.Extractionk.Determination of the rate constant of sucrose inversionl.Final test and protocol correction"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Numerical methods in physics and chemistry (allowance 2/0)"
+    },
+    {
+      "label": "[section] Basic concepts – basic physical concepts (matter, energy, radiation, physical processes)",
+      "content": "2.Numerical methods in physics and chemistry (allowance 2/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Kinematics of a mass point (allowance 2/0)"
+    },
+    {
+      "label": "[section] Numerical methods in physics and chemistry",
+      "content": "3.Kinematics of a mass point (allowance 2/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Dynamics of a mass point (allowance 2/0)"
+    },
+    {
+      "label": "[section] Kinematics of a mass point",
+      "content": "4.Dynamics of a mass point (allowance 2/0)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Conservation laws – energy, momentum, angular momentum (allowance 2/0)"
+    },
+    {
+      "label": "[section] Dynamics of a mass point",
+      "content": "5.Conservation laws – energy, momentum, angular momentum (allowance 2/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Basics of thermodynamics – energy, heat, work (allowance 2/0)"
+    },
+    {
+      "label": "[section] Conservation laws – energy, momentum, angular momentum",
+      "content": "6.Basics of thermodynamics – energy, heat, work (allowance 2/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Heat – heat balance, heat conduction (allowance 2/0)"
+    },
+    {
+      "label": "[section] Basics of thermodynamics – energy, heat, work",
+      "content": "7.Heat – heat balance, heat conduction (allowance 2/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Processes at the interface of two phases – phase equilibrium (allowance 2/0)"
+    },
+    {
+      "label": "[section] Heat – heat balance, heat conduction",
+      "content": "8.Processes at the interface of two phases – phase equilibrium (allowance 2/0)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Chemical equilibrium – equilibrium states, thermodynamic condition (allowance 2/0)"
+    },
+    {
+      "label": "[section] Processes at the interface of two phases – phase equilibrium",
+      "content": "9.Chemical equilibrium – equilibrium states, thermodynamic condition (allowance 2/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Colloidal systems and molecular transport (allowance 2/0)"
+    },
+    {
+      "label": "[section] Chemical equilibrium – equilibrium states, thermodynamic condition",
+      "content": "10.Colloidal systems and molecular transport (allowance 2/0)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Kinetics of transformations and processes I – kinetic models (allowance 2/0)"
+    },
+    {
+      "label": "[section] Colloidal systems and molecular transport",
+      "content": "11.Kinetics of transformations and processes I – kinetic models (allowance 2/0)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Kinetics of transformations and processes I – enzyme catalysis (allowance 2/0)"
+    },
+    {
+      "label": "[section] Kinetics of transformations and processes I – kinetic models",
+      "content": "12.Kinetics of transformations and processes I – enzyme catalysis (allowance 2/0)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.Practical laboratory exercises (allowance 0/24)"
+    },
+    {
+      "label": "[section] Kinetics of transformations and processes I – enzyme catalysis",
+      "content": "13.Practical laboratory exercises (allowance 0/24)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Introduction - Occupational safety and laboratory regulationsb.Mathematical apparatus in physics (calculation of vectors / derivatives / integrals)c.Determining gravitational accelerationd.Determination of skin strength of pulpy cropse.Determination of heat capacityf.Viscosity of liquidsg.Determination of critical micellar concentrationh.Determination of surface tension (water + ethanol)i.Determination of solubility productj.Extractionk.Determination of the rate constant of sucrose inversionl.Final test and protocol correction"
+    },
+    {
+      "label": "[section] Practical laboratory exercises",
+      "content": "a.Introduction - Occupational safety and laboratory regulationsb.Mathematical apparatus in physics (calculation of vectors / derivatives / integrals)c.Determining gravitational accelerationd.Determination of skin strength of pulpy cropse.Determination of heat capacityf.Viscosity of liquidsg.Determination of critical micellar concentrationh.Determination of surface tension (water + ethanol)i.Determination of solubility productj.Extractionk.Determination of the rate constant of sucrose inversionl.Final test and protocol correction"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture24 hpractice24 hpreparation for exam56 hpreparation for regular testing14 helaboration of reports12 hTotal130 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Written and / or oral exam. The condition for participation in the exam is credit from the practical laboratory exercise. For credit, participation in all exercises, submission of protocols and successful completion of continuous tests or a credit test are required."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation50 %Final test50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:LEIGHTON, Robert B.; SANDS, Matthew. 2002. Feynmanovy přednášky z fyziky s řešenými příklady. 1st ed. Praha: Fragment, 435 p. ISBN 80-7200-421-2.HALLIDAY, Daniel; WALKER, John; RESNICK, Rolf. 2000. Fyzika. Praha: VUTIUM.ATKINS, P. W.; DE PAULA, Julio et al. 2013. Fyzikální chemie. 1st ed. Praha: Vysoká škola chemicko-technologická v Praze, 915 p. ISBN 978-80-7080-830-6.VODRÁŽKA, Z. 1982. Fyzikální chemie pro biologické vědy. Praha: academia, 568 p.BARTOŇ, Stanislav. 2011. Fyzika I v řešených příkladech. 1st ed. Brno: Mendelova univerzita v Brně, 174 p. ISBN 978-80-7375-559-1."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "LEIGHTON, Robert B.; SANDS, Matthew. 2002. Feynmanovy přednášky z fyziky s řešenými příklady. 1st ed. Praha: Fragment, 435 p. ISBN 80-7200-421-2.HALLIDAY, Daniel; WALKER, John; RESNICK, Rolf. 2000. Fyzika. Praha: VUTIUM.ATKINS, P. W.; DE PAULA, Julio et al. 2013. Fyzikální chemie. 1st ed. Praha: Vysoká škola chemicko-technologická v Praze, 915 p. ISBN 978-80-7080-830-6.VODRÁŽKA, Z. 1982. Fyzikální chemie pro biologické vědy. Praha: academia, 568 p.BARTOŇ, Stanislav. 2011. Fyzika I v řešených příkladech. 1st ed. Brno: Mendelova univerzita v Brně, 174 p. ISBN 978-80-7375-559-1."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-EMO Ekotoxikologie a management odpadů, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:24:41",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

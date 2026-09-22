@@ -3,13 +3,86 @@
   "name": "Makroekonomie 1",
   "nameCs": "Makroekonomie 1",
   "nameEn": "Macroeconomics 1",
-  "predmetId": "161016",
+  "predmetId": "162939",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
+    "Ing. Aleš Franc, Ph.D.",
+    "Ing. Katarína Adamková",
+    "Ing. Michal Mádr, Ph.D.",
+    "Ing. Michal Škára",
+    "Ing. Radek Náplava, Ph.D.",
+    "Mgr. Ing. Pavlína Komosná, Ph.D.",
     "doc. Ing. Petr Rozmahel, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162939;lang=cz",
+      "totalPass": 50,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 7,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 5,
+            "C": 12,
+            "D": 20,
+            "E": 9,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 50,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 5,
+            "C": 9,
+            "D": 13,
+            "E": 8,
+            "F": 12,
+            "FN": 1
+          },
+          "pass": 38,
+          "fail": 13
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -17,7 +90,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=161016;lang=cz",
       "totalPass": 19,
-      "totalFail": 2,
+      "totalFail": 3,
       "terms": [
         {
           "term": "1. opravný",
@@ -55,11 +128,11 @@
             "C": 3,
             "D": 2,
             "E": 11,
-            "F": 1,
+            "F": 2,
             "FN": 1
           },
           "pass": 19,
-          "fail": 2
+          "fail": 3
         },
         {
           "term": "Řádný termín",
@@ -681,5 +754,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

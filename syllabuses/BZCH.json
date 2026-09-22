@@ -187,7 +187,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí11.00-12.50B01B-MYSLB-MYSL 1112312 L. PavlataPřednáškaKaždý týden81Úterý13.00-16.50B23B-MYSL1 není určenPřednáškaNepravidelně60"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -263,7 +263,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h8 hodborná exkurze8 h0 hprojektová práce8 h0 hpříprava na zkoušku45 h60 hCelkem85 h68 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška24 h8 hodborná exkurze8 h0 hprojektová práce8 h0 hpříprava na zkoušku45 h60 hCelkem85 h68 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -433,7 +433,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday11.00-12.50B01B-MYSLB-MYSL 1112312 L. PavlataLectureEvery week81Tuesday13.00-16.50B23B-MYSL1 not setLectureOccasionally60"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -445,7 +445,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h8 hprofessional educational excursion8 h0 hproject work8 h0 hpreparation for exam45 h60 hTotal85 h68 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture24 h8 hprofessional educational excursion8 h0 hproject work8 h0 hpreparation for exam45 h60 hTotal85 h68 h"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -472,6 +472,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 04:44:37",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:30:55",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

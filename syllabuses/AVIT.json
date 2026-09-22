@@ -1,0 +1,629 @@
+{
+  "courseCode": "AVIT",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "AVIT"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Ateliér veřejného interiéru"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Public Interior Design Studio"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Jaroslav Svoboda, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Petra Krupičková (cvičící, přednášející, tutor, zkoušející)doc. Ing. Jaroslav Svoboda, Ph.D. (cvičící, garant)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do problematiky, architektura vnitřního prostoru užívaného veřejností včetně prezentace reálných návrhů veřejných interiérů a funkčních prvků výtvarně – technického charakteru (dotace 0/5)"
+    },
+    {
+      "label": "2.",
+      "content": "Základní typologické skupiny interiéru veřejných budov (dotace 0/5)"
+    },
+    {
+      "label": "3.",
+      "content": "Veřejný interiér, jako provozní soubor, vztahy, návaznosti a kritéria, souvislosti hygienické a požární (dotace 0/5)"
+    },
+    {
+      "label": "4.",
+      "content": "Hotelové ubytování. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "5.",
+      "content": "5Výtvarné principy a funkční kombinatorika různých materiálů v různých typech interiérů (dotace 0/5)"
+    },
+    {
+      "label": "6.",
+      "content": "Obecný a architektonický styl, moderní a módní, nadčasové a krátkodobé principy (dotace 0/5)"
+    },
+    {
+      "label": "7.",
+      "content": "Morální a fyzická životnost, koncepce a cena, cena interiéru z pohledu funkčnosti a výtvarné kvality výsledku (dotace 0/5)"
+    },
+    {
+      "label": "8.",
+      "content": "Atmosféra a vnitřní pocit, jako základní východisko pro správné výtvarné a funkční řešení (dotace 0/5)"
+    },
+    {
+      "label": "9.",
+      "content": "Kanceláře a pracovní prostředí. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "10.",
+      "content": "Veřejně přístupná hala. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "11.",
+      "content": "Vedení týmu, vazby a závislosti mezi profesemi podílejícími se na vzniku interiéru, vztah interiéru a exteriéru (dotace 0/15)"
+    },
+    {
+      "label": "12.",
+      "content": "Prezentace a obhajoba zadaných klauzurních prací (dotace 0/5)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "60 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "20 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "(a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Ateliér veřejného interiéru"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Public Interior Design Studio"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Jaroslav Svoboda, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav designu a nábytku (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Petra Krupičková (cvičící, přednášející, tutor, zkoušející)doc. Ing. Jaroslav Svoboda, Ph.D. (cvičící, garant)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek15.00-18.50P-ATEP. Krupičková, J. SvobodaCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je seznámit posluchače s problematikou interiérové tvorby u řešení veřejného interiéru. Ověření problematiky na vlastní tvorbě v modelových zadáních. Student se postupně naučí vnímat veřejný prostor v jeho dílčích souvislostech potřebných, pro jeho užití uživatelem a užívání prostoru veřejností."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do problematiky, architektura vnitřního prostoru užívaného veřejností včetně prezentace reálných návrhů veřejných interiérů a funkčních prvků výtvarně – technického charakteru (dotace 0/5)2.Základní typologické skupiny interiéru veřejných budov (dotace 0/5)3.Veřejný interiér, jako provozní soubor, vztahy, návaznosti a kritéria, souvislosti hygienické a požární (dotace 0/5)4.Hotelové ubytování. Zadání klauzurní grafické práce (dotace 0/5)5.5Výtvarné principy a funkční kombinatorika různých materiálů v různých typech interiérů (dotace 0/5)6.Obecný a architektonický styl, moderní a módní, nadčasové a krátkodobé principy (dotace 0/5)7.Morální a fyzická životnost, koncepce a cena, cena interiéru z pohledu funkčnosti a výtvarné kvality výsledku (dotace 0/5)8.Atmosféra a vnitřní pocit, jako základní východisko pro správné výtvarné a funkční řešení (dotace 0/5)9.Kanceláře a pracovní prostředí. Zadání klauzurní grafické práce (dotace 0/5)10.Veřejně přístupná hala. Zadání klauzurní grafické práce (dotace 0/5)11.Vedení týmu, vazby a závislosti mezi profesemi podílejícími se na vzniku interiéru, vztah interiéru a exteriéru (dotace 0/15)12.Prezentace a obhajoba zadaných klauzurních prací (dotace 0/5)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Základní typologické skupiny interiéru veřejných budov (dotace 0/5)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Veřejný interiér, jako provozní soubor, vztahy, návaznosti a kritéria, souvislosti hygienické a požární (dotace 0/5)"
+    },
+    {
+      "label": "[section] Základní typologické skupiny interiéru veřejných budov",
+      "content": "3.Veřejný interiér, jako provozní soubor, vztahy, návaznosti a kritéria, souvislosti hygienické a požární (dotace 0/5)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Hotelové ubytování. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.5Výtvarné principy a funkční kombinatorika různých materiálů v různých typech interiérů (dotace 0/5)"
+    },
+    {
+      "label": "[section] Hotelové ubytování. Zadání klauzurní grafické práce",
+      "content": "5.5Výtvarné principy a funkční kombinatorika různých materiálů v různých typech interiérů (dotace 0/5)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Obecný a architektonický styl, moderní a módní, nadčasové a krátkodobé principy (dotace 0/5)"
+    },
+    {
+      "label": "[section] 5Výtvarné principy a funkční kombinatorika různých materiálů v různých typech interiérů",
+      "content": "6.Obecný a architektonický styl, moderní a módní, nadčasové a krátkodobé principy (dotace 0/5)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Morální a fyzická životnost, koncepce a cena, cena interiéru z pohledu funkčnosti a výtvarné kvality výsledku (dotace 0/5)"
+    },
+    {
+      "label": "[section] Obecný a architektonický styl, moderní a módní, nadčasové a krátkodobé principy",
+      "content": "7.Morální a fyzická životnost, koncepce a cena, cena interiéru z pohledu funkčnosti a výtvarné kvality výsledku (dotace 0/5)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Atmosféra a vnitřní pocit, jako základní východisko pro správné výtvarné a funkční řešení (dotace 0/5)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Kanceláře a pracovní prostředí. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "[section] Atmosféra a vnitřní pocit, jako základní východisko pro správné výtvarné a funkční řešení",
+      "content": "9.Kanceláře a pracovní prostředí. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Veřejně přístupná hala. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "[section] Kanceláře a pracovní prostředí. Zadání klauzurní grafické práce",
+      "content": "10.Veřejně přístupná hala. Zadání klauzurní grafické práce (dotace 0/5)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Vedení týmu, vazby a závislosti mezi profesemi podílejícími se na vzniku interiéru, vztah interiéru a exteriéru (dotace 0/15)"
+    },
+    {
+      "label": "[section] Veřejně přístupná hala. Zadání klauzurní grafické práce",
+      "content": "11.Vedení týmu, vazby a závislosti mezi profesemi podílejícími se na vzniku interiéru, vztah interiéru a exteriéru (dotace 0/15)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Prezentace a obhajoba zadaných klauzurních prací (dotace 0/5)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumcvičení50 hkonzultace10 hvýstava10 hateliérová kritika10 hpříprava na průběžné hodnocení20 hpříprava prezentace10 hzpracování projektů30 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet: Odevzdání komplexního návrhu veřejného interiéru včetně řešení prvků výtvarně - technického charakteru, obhajoba návrhu."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích60 %Prezentace nebo obhajoba20 %Absolvování závěrečného testu20 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:HÁLA, Boris. 2017. Čtvrtý rozměr architektury. Brno: Vysoké učení technické v Brně - nakladatelství VUTIUM, 267 s. ISBN 978-80-214-5501-6.POŠTULKOVÁ, Ľudmila. 2008. Typológia: zariaďovacích prvkov verejného a pracovného interiéru. Zvolen: Technická univerzita, 138 s. ISBN 978-80-228-1950-3.HÁLA, Boris. 2009. Interiér - tvorba obytného prostoru. Praha: Grada Publishing, a.s, 149 s. ISBN 978-80-247-3216-9.HRADECKÁ, Jana. 2021. Škola interiérového designu. Praha: Grada Publishing,a.s, 231 s. ISBN 978-80-247-3559-7."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "HÁLA, Boris. 2017. Čtvrtý rozměr architektury. Brno: Vysoké učení technické v Brně - nakladatelství VUTIUM, 267 s. ISBN 978-80-214-5501-6.POŠTULKOVÁ, Ľudmila. 2008. Typológia: zariaďovacích prvkov verejného a pracovného interiéru. Zvolen: Technická univerzita, 138 s. ISBN 978-80-228-1950-3.HÁLA, Boris. 2009. Interiér - tvorba obytného prostoru. Praha: Grada Publishing, a.s, 149 s. ISBN 978-80-247-3216-9.HRADECKÁ, Jana. 2021. Škola interiérového designu. Praha: Grada Publishing,a.s, 231 s. ISBN 978-80-247-3559-7."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program N-DESG Design nábytku, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "AVIT"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Ateliér veřejného interiéru"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Public Interior Design Studio"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Jaroslav Svoboda, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Petra Krupičková (examiner, instructor, lecturer, tutor)doc. Ing. Jaroslav Svoboda, Ph.D. (instructor, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the issue, architecture of interior spaces used by the public, including a presentation of real designs for public interiors and functional elements of an artistic and technical nature (allowance 0/5)"
+    },
+    {
+      "label": "2.",
+      "content": "Basic typological groups of public building interiors (allowance 0/5)"
+    },
+    {
+      "label": "3.",
+      "content": "Public interior, as an operational unit, relationships, connections and criteria, hygiene and fire safety considerations (allowance 0/5)"
+    },
+    {
+      "label": "4.",
+      "content": "Hotel accommodation. Assignment of final graphic work (allowance 0/5)"
+    },
+    {
+      "label": "5.",
+      "content": "Artistic principles and functional combinations of different materials in various types of interiors (allowance 0/5)"
+    },
+    {
+      "label": "6.",
+      "content": "General and architectural style, modern and fashionable, timeless and short-lived principles (allowance 0/5)"
+    },
+    {
+      "label": "7.",
+      "content": "Moral and physical durability, concept and price, interior price from the perspective of functionality and artistic quality of the result (allowance 0/5)"
+    },
+    {
+      "label": "8.",
+      "content": "Atmosphere and inner feeling as the fundamental starting point for the right artistic and functional solution (allowance 0/5)"
+    },
+    {
+      "label": "9.",
+      "content": "Offices and work environments. Assignment for a graphic design exam (allowance 0/5)"
+    },
+    {
+      "label": "10.",
+      "content": "Publicly accessible hall. Assignment of final graphic work (allowance 0/5)"
+    },
+    {
+      "label": "11.",
+      "content": "Team management, links and dependencies between professions involved in interior design, relationship between interior and exterior (allowance 0/15)"
+    },
+    {
+      "label": "12.",
+      "content": "Presentation and defense of assigned final papers (allowance 0/5)"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "60 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "20 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "(and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Ateliér veřejného interiéru"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Public Interior Design Studio"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Jaroslav Svoboda, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Design and Furniture (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Petra Krupičková (examiner, instructor, lecturer, tutor)doc. Ing. Jaroslav Svoboda, Ph.D. (instructor, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday15.00-18.50P-ATEP. Krupičková, J. SvobodaSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim of the course is to familiarize students with the issues of interior design in public spaces. Students will apply their knowledge to their own work in model assignments. Students will gradually learn to perceive public space in its various contexts necessary for its use by users and the public."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the issue, architecture of interior spaces used by the public, including a presentation of real designs for public interiors and functional elements of an artistic and technical nature (allowance 0/5)2.Basic typological groups of public building interiors (allowance 0/5)3.Public interior, as an operational unit, relationships, connections and criteria, hygiene and fire safety considerations (allowance 0/5)4.Hotel accommodation. Assignment of final graphic work (allowance 0/5)5.Artistic principles and functional combinations of different materials in various types of interiors (allowance 0/5)6.General and architectural style, modern and fashionable, timeless and short-lived principles (allowance 0/5)7.Moral and physical durability, concept and price, interior price from the perspective of functionality and artistic quality of the result (allowance 0/5)8.Atmosphere and inner feeling as the fundamental starting point for the right artistic and functional solution (allowance 0/5)9.Offices and work environments. Assignment for a graphic design exam (allowance 0/5)10.Publicly accessible hall. Assignment of final graphic work (allowance 0/5)11.Team management, links and dependencies between professions involved in interior design, relationship between interior and exterior (allowance 0/15)12.Presentation and defense of assigned final papers (allowance 0/5)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Basic typological groups of public building interiors (allowance 0/5)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Public interior, as an operational unit, relationships, connections and criteria, hygiene and fire safety considerations (allowance 0/5)"
+    },
+    {
+      "label": "[section] Basic typological groups of public building interiors",
+      "content": "3.Public interior, as an operational unit, relationships, connections and criteria, hygiene and fire safety considerations (allowance 0/5)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Hotel accommodation. Assignment of final graphic work (allowance 0/5)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Artistic principles and functional combinations of different materials in various types of interiors (allowance 0/5)"
+    },
+    {
+      "label": "[section] Hotel accommodation. Assignment of final graphic work",
+      "content": "5.Artistic principles and functional combinations of different materials in various types of interiors (allowance 0/5)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.General and architectural style, modern and fashionable, timeless and short-lived principles (allowance 0/5)"
+    },
+    {
+      "label": "[section] Artistic principles and functional combinations of different materials in various types of interiors",
+      "content": "6.General and architectural style, modern and fashionable, timeless and short-lived principles (allowance 0/5)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Moral and physical durability, concept and price, interior price from the perspective of functionality and artistic quality of the result (allowance 0/5)"
+    },
+    {
+      "label": "[section] General and architectural style, modern and fashionable, timeless and short-lived principles",
+      "content": "7.Moral and physical durability, concept and price, interior price from the perspective of functionality and artistic quality of the result (allowance 0/5)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Atmosphere and inner feeling as the fundamental starting point for the right artistic and functional solution (allowance 0/5)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Offices and work environments. Assignment for a graphic design exam (allowance 0/5)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Publicly accessible hall. Assignment of final graphic work (allowance 0/5)"
+    },
+    {
+      "label": "[section] Offices and work environments. Assignment for a graphic design exam",
+      "content": "10.Publicly accessible hall. Assignment of final graphic work (allowance 0/5)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Team management, links and dependencies between professions involved in interior design, relationship between interior and exterior (allowance 0/15)"
+    },
+    {
+      "label": "[section] Publicly accessible hall. Assignment of final graphic work",
+      "content": "11.Team management, links and dependencies between professions involved in interior design, relationship between interior and exterior (allowance 0/15)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Presentation and defense of assigned final papers (allowance 0/5)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancepractice50 hconsultation10 hexhibition10 hstudio critique10 hpreparation for regular assessment20 hpreparation of presentation10 helaboration and execution of projects30 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit: Submission of a comprehensive design for a public interior, including solutions for artistic and technical elements, and defense of the design."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation60 %Presentation or defence20 %Final test20 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:HÁLA, Boris. 2017. Čtvrtý rozměr architektury. Brno: Vysoké učení technické v Brně - nakladatelství VUTIUM, 267 p. ISBN 978-80-214-5501-6.POŠTULKOVÁ, Ľudmila. 2008. Typológia: zariaďovacích prvkov verejného a pracovného interiéru. Zvolen: Technická univerzita, 138 p. ISBN 978-80-228-1950-3.HÁLA, Boris. 2009. Interiér - tvorba obytného prostoru. Praha: Grada Publishing, a.s, 149 p. ISBN 978-80-247-3216-9.HRADECKÁ, Jana. 2021. Škola interiérového designu. Praha: Grada Publishing,a.s, 231 p. ISBN 978-80-247-3559-7."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "HÁLA, Boris. 2017. Čtvrtý rozměr architektury. Brno: Vysoké učení technické v Brně - nakladatelství VUTIUM, 267 p. ISBN 978-80-214-5501-6.POŠTULKOVÁ, Ľudmila. 2008. Typológia: zariaďovacích prvkov verejného a pracovného interiéru. Zvolen: Technická univerzita, 138 p. ISBN 978-80-228-1950-3.HÁLA, Boris. 2009. Interiér - tvorba obytného prostoru. Praha: Grada Publishing, a.s, 149 p. ISBN 978-80-247-3216-9.HRADECKÁ, Jana. 2021. Škola interiérového designu. Praha: Grada Publishing,a.s, 231 p. ISBN 978-80-247-3559-7."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme C-DESG Furniture Design, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 07:25:31",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

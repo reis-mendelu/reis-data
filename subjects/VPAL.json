@@ -3,7 +3,7 @@
   "name": "Výrobní procesy a logistika",
   "nameCs": "Výrobní procesy a logistika",
   "nameEn": "Manufacturing Processes and Logistics",
-  "predmetId": "156855",
+  "predmetId": "161879",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
@@ -13,6 +13,59 @@
     "prof. Dr. Ing. Pavel Král"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161879;lang=cz",
+      "totalPass": 29,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 3,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 7,
+            "C": 10,
+            "D": 5,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 29,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 5,
+            "C": 7,
+            "D": 3,
+            "E": 0,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 7
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -223,5 +276,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

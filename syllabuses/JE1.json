@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2024/2025"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -31,7 +31,7 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "povinný"
+      "content": "volitelný"
     },
     {
       "label": "Typ výuky předmětu:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Dana Kuřitková"
+      "content": "Ing. Eva Sobotková, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,35 +59,19 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Dana Kuřitková (cvičící, garant, přednášející, zkoušející)Ing. Eva Sobotková, Ph.D. (cvičící, přednášející, zkoušející)Bc. Ing. Lenka Zapletalová (cvičící, zkoušející)"
+      "content": "Ing. Dana Kuřitková (cvičící, přednášející, zkoušející)Ing. Eva Sobotková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "Státní bakalářská zkouška a studovat na fakultě AF a nyní Etologie koní"
+      "content": "Státní bakalářská zkouška a studovat na fakultě AF a nyní Chov koní - specializace"
     },
     {
       "label": "1.",
-      "content": "Ošetřování koně a welfare koní (dotace 0/6)"
+      "content": "Pravidla pro práci na jízdárně (dotace 3/3)"
     },
     {
       "label": "a.",
-      "content": "Ošetřování koně a welfare koní"
-    },
-    {
-      "label": "b.",
-      "content": "Čištění koně"
-    },
-    {
-      "label": "c.",
-      "content": "Bezpečnost práce"
-    },
-    {
-      "label": "2.",
-      "content": "Základy jízdárenské práce (dotace 0/12)"
-    },
-    {
-      "label": "a.",
-      "content": "Drezurní obdélník a jeho popis"
+      "content": "Drezurní obdelník (jízdárna) a jeho popis"
     },
     {
       "label": "b.",
@@ -95,15 +79,23 @@
     },
     {
       "label": "c.",
-      "content": "Výstroj koně a péče o ni"
+      "content": "Péče o koně a welfare koní"
     },
     {
       "label": "d.",
-      "content": "Sedlání a uždění"
+      "content": "Výstroj koně"
     },
     {
-      "label": "3.",
-      "content": "Pomůcky jezdce a jejich používání (dotace 0/12)"
+      "label": "e.",
+      "content": "Sedlání a uzdění koně"
+    },
+    {
+      "label": "f.",
+      "content": "Péče o výstroj"
+    },
+    {
+      "label": "2.",
+      "content": "Pomůcky jezdce a jejich používání (dotace 0/9)"
     },
     {
       "label": "a.",
@@ -111,19 +103,19 @@
     },
     {
       "label": "b.",
-      "content": "Vodění a předvádění koně"
+      "content": "Vodění koně"
     },
     {
       "label": "c.",
-      "content": "Drezurní výcvik a speciální drezurní cviky"
+      "content": "Nasedání a sesedání"
     },
     {
       "label": "d.",
-      "content": "Skokový výcvik, kavalety"
+      "content": "Nácvik školního sedu"
     },
     {
-      "label": "4.",
-      "content": "Chody koně (dotace 0/12)"
+      "label": "3.",
+      "content": "Princip vedení koně (dotace 3/12)"
     },
     {
       "label": "a.",
@@ -131,27 +123,67 @@
     },
     {
       "label": "b.",
-      "content": "Lonžování koně"
+      "content": "Pomůcky sedem"
     },
     {
       "label": "c.",
-      "content": "Aktivní odpočinek"
+      "content": "Pomůcky holení"
     },
     {
-      "label": "5.",
-      "content": "Základy výcviku koně a jezdce (dotace 0/6)"
+      "label": "d.",
+      "content": "Pomůcky rukou"
+    },
+    {
+      "label": "e.",
+      "content": "Vedení koně jezdcem"
+    },
+    {
+      "label": "4.",
+      "content": "Přilnutí (dotace 3/9)"
     },
     {
       "label": "a.",
-      "content": "Základní výcvik koně, obsedání"
+      "content": "Charakteristika přilnutí"
     },
     {
       "label": "b.",
-      "content": "Etapy výcviku jezdce"
+      "content": "Praktický nácvik souhry pomůcek"
     },
     {
       "label": "c.",
-      "content": "Jezdecké pojmy"
+      "content": "Přilnutí dole"
+    },
+    {
+      "label": "5.",
+      "content": "Získávání jezdeckého taktu (dotace 3/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Charakteristika jezdeckého taktu"
+    },
+    {
+      "label": "b.",
+      "content": "Nácvik uvolnění jezdce ve všech chodech"
+    },
+    {
+      "label": "c.",
+      "content": "Obraty na jízdárně - vedení koně"
+    },
+    {
+      "label": "6.",
+      "content": "Zdokonalování sedu a vedení koně jezdcem (dotace 2/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Sed jezdce v kroku a klusu bez třmenů"
+    },
+    {
+      "label": "b.",
+      "content": "Nácvik odlehčeného sedu"
+    },
+    {
+      "label": "c.",
+      "content": "Zdokonalení vedení koně"
     },
     {
       "label": "Celkem",
@@ -159,7 +191,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2022/2023, ZS 2020/2021, ZS 2019/2020, ZS 2018/2019 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2022/2023, ZS 2020/2021, ZS 2019/2020, ZS 2018/2019 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -175,7 +207,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2024/2025"
     },
     {
       "label": "[section] Semestr:",
@@ -195,7 +227,7 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: povinný"
+      "content": "Typ předmětu: volitelný"
     },
     {
       "label": "[section] Typ předmětu:",
@@ -211,7 +243,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Dana Kuřitková"
+      "content": "Garant předmětu: Ing. Eva Sobotková, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -223,71 +255,79 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Dana Kuřitková (cvičící, garant, přednášející, zkoušející)Ing. Eva Sobotková, Ph.D. (cvičící, přednášející, zkoušející)Bc. Ing. Lenka Zapletalová (cvičící, zkoušející)"
+      "content": "Vyučující: Ing. Dana Kuřitková (cvičící, přednášející, zkoušející)Ing. Eva Sobotková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: Státní bakalářská zkouška a studovat na fakultě AF a nyní Etologie koní"
+      "content": "Prerekvizity: Státní bakalářská zkouška a studovat na fakultě AF a nyní Chov koní - specializace"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-12.50PL001 (Sob)D. Kuřitková, E. SobotkováCvičeníKaždý týden6Pátek9.00-12.50PL001 (Sob)D. Kuřitková, E. Sobotková, L. ZapletalováCvičeníKaždý týden6"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí10.00-12.50PL001 (Sob)D. Kuřitková, E. SobotkováCvičeníKaždý týden5Pondělí13.00-13.50PL001 (Sob)E. Sobotková, D. KuřitkováPřednáškaKaždý týden5"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Získat teoretické a praktické dovednosti z oblasti hipologie"
+      "content": "Získat teoretické a praktické základy jízdy na koni"
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Ošetřování koně a welfare koní (dotace 0/6) a.Ošetřování koně a welfare koníb.Čištění koněc.Bezpečnost práce2.Základy jízdárenské práce (dotace 0/12) a.Drezurní obdélník a jeho popisb.Základní jízdárenské povelyc.Výstroj koně a péče o nid.Sedlání a uždění3.Pomůcky jezdce a jejich používání (dotace 0/12) a.Základní pomůcky jezdceb.Vodění a předvádění koněc.Drezurní výcvik a speciální drezurní cvikyd.Skokový výcvik, kavalety4.Chody koně (dotace 0/12) a.Základní chody koněb.Lonžování koněc.Aktivní odpočinek5.Základy výcviku koně a jezdce (dotace 0/6) a.Základní výcvik koně, obsedáníb.Etapy výcviku jezdcec.Jezdecké pojmy"
+      "content": "1.Pravidla pro práci na jízdárně (dotace 3/3) a.Drezurní obdelník (jízdárna) a jeho popisb.Základní jízdárenské povelyc.Péče o koně a welfare koníd.Výstroj koněe.Sedlání a uzdění koněf.Péče o výstroj2.Pomůcky jezdce a jejich používání (dotace 0/9) a.Základní pomůcky jezdceb.Vodění koněc.Nasedání a sesedáníd.Nácvik školního sedu3.Princip vedení koně (dotace 3/12) a.Základní chody koněb.Pomůcky sedemc.Pomůcky holeníd.Pomůcky rukoue.Vedení koně jezdcem4.Přilnutí (dotace 3/9) a.Charakteristika přilnutíb.Praktický nácvik souhry pomůcekc.Přilnutí dole5.Získávání jezdeckého taktu (dotace 3/6) a.Charakteristika jezdeckého taktub.Nácvik uvolnění jezdce ve všech chodechc.Obraty na jízdárně - vedení koně6.Zdokonalování sedu a vedení koně jezdcem (dotace 2/3) a.Sed jezdce v kroku a klusu bez třmenůb.Nácvik odlehčeného seduc.Zdokonalení vedení koně"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Ošetřování koně a welfare koníb.Čištění koněc.Bezpečnost práce"
+      "content": "a.Drezurní obdelník (jízdárna) a jeho popisb.Základní jízdárenské povelyc.Péče o koně a welfare koníd.Výstroj koněe.Sedlání a uzdění koněf.Péče o výstroj"
     },
     {
-      "label": "[section] Ošetřování koně a welfare koní",
-      "content": "a.Ošetřování koně a welfare koníb.Čištění koněc.Bezpečnost práce"
+      "label": "[section] Pravidla pro práci na jízdárně",
+      "content": "a.Drezurní obdelník (jízdárna) a jeho popisb.Základní jízdárenské povelyc.Péče o koně a welfare koníd.Výstroj koněe.Sedlání a uzdění koněf.Péče o výstroj"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Drezurní obdélník a jeho popisb.Základní jízdárenské povelyc.Výstroj koně a péče o nid.Sedlání a uždění"
-    },
-    {
-      "label": "[section] Základy jízdárenské práce",
-      "content": "a.Drezurní obdélník a jeho popisb.Základní jízdárenské povelyc.Výstroj koně a péče o nid.Sedlání a uždění"
-    },
-    {
-      "label": "[section] 3.",
-      "content": "a.Základní pomůcky jezdceb.Vodění a předvádění koněc.Drezurní výcvik a speciální drezurní cvikyd.Skokový výcvik, kavalety"
+      "content": "a.Základní pomůcky jezdceb.Vodění koněc.Nasedání a sesedáníd.Nácvik školního sedu"
     },
     {
       "label": "[section] Pomůcky jezdce a jejich používání",
-      "content": "a.Základní pomůcky jezdceb.Vodění a předvádění koněc.Drezurní výcvik a speciální drezurní cvikyd.Skokový výcvik, kavalety"
+      "content": "a.Základní pomůcky jezdceb.Vodění koněc.Nasedání a sesedáníd.Nácvik školního sedu"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Základní chody koněb.Pomůcky sedemc.Pomůcky holeníd.Pomůcky rukoue.Vedení koně jezdcem"
+    },
+    {
+      "label": "[section] Princip vedení koně",
+      "content": "a.Základní chody koněb.Pomůcky sedemc.Pomůcky holeníd.Pomůcky rukoue.Vedení koně jezdcem"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Základní chody koněb.Lonžování koněc.Aktivní odpočinek"
+      "content": "a.Charakteristika přilnutíb.Praktický nácvik souhry pomůcekc.Přilnutí dole"
     },
     {
-      "label": "[section] Chody koně",
-      "content": "a.Základní chody koněb.Lonžování koněc.Aktivní odpočinek"
+      "label": "[section] Přilnutí",
+      "content": "a.Charakteristika přilnutíb.Praktický nácvik souhry pomůcekc.Přilnutí dole"
     },
     {
       "label": "[section] 5.",
-      "content": "a.Základní výcvik koně, obsedáníb.Etapy výcviku jezdcec.Jezdecké pojmy"
+      "content": "a.Charakteristika jezdeckého taktub.Nácvik uvolnění jezdce ve všech chodechc.Obraty na jízdárně - vedení koně"
     },
     {
-      "label": "[section] Základy výcviku koně a jezdce",
-      "content": "a.Základní výcvik koně, obsedáníb.Etapy výcviku jezdcec.Jezdecké pojmy"
+      "label": "[section] Získávání jezdeckého taktu",
+      "content": "a.Charakteristika jezdeckého taktub.Nácvik uvolnění jezdce ve všech chodechc.Obraty na jízdárně - vedení koně"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Sed jezdce v kroku a klusu bez třmenůb.Nácvik odlehčeného seduc.Zdokonalení vedení koně"
+    },
+    {
+      "label": "[section] Zdokonalování sedu a vedení koně jezdcem",
+      "content": "a.Sed jezdce v kroku a klusu bez třmenůb.Nácvik odlehčeného seduc.Zdokonalení vedení koně"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumcvičení48 hpráce v terénu12 hodborná exkurze10 hpříprava na zkoušku50 hpříprava na průběžné hodnocení20 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška12 hcvičení36 hpráce v terénu12 hodborná exkurze10 hpříprava na zkoušku50 hpříprava na průběžné hodnocení20 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Hodnocení účasti na cvičeních (80%), praktický zápočet z hipologických dovedností( manipulace s koněm, předvádění, lonžování, sedlání, uždění) a ústní závěrečná zkouška v trvání 50 minut. Sylabus zahraničních mobilit: Splnění podmínek studia daných sylabem předmětu v rámci zahraniční mobility."
+      "content": "Hodnocení účasti na cvičeních (80%), praktický zápočet z nasedlání a nauždění koně a ústní závěrečná zkouška v trvání 40 minut."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -295,19 +335,19 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 s. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278.KLIMKE, Ingrid; KLIMKE, Reiner. 2005. Kavalety: drezura a skákání : profesionální tipy. 1. vyd. Praha: Brázda, 143 s. ISBN 80-209-0333-X.PAALMAN, Anthony. 2006. Skokové ježdění. Praha: Brázda, 359 s. ISBN 978-80-209-0404-1.KNOPFHART, Alfred. 2003. Drezura od stupně Z do stupně T. Praha: Brázda, 156 s. ISBN 80-209-0322-4.DOBEŠ, Josef. 1997. Jízda na koni: [trénink jezdce a koně ve skokovém ježdění, všestrannosti a drezuře]. 2. vyd. Praha: Cesty, 200 s. ISBN 80-7181-169-6.Doporučená: Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1. vyd. Praha: SAGA, 196 s. ISBN 80-86133-17-6. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 s. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 s.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 s. Kůň v životě člověka. ISBN 80-7225-067-1x. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1. vyd. Praha: 76 s. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
+      "content": "Základní:JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 s. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278.Doporučená: Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1. vyd. Praha: SAGA, 196 s. ISBN 80-86133-17-6. Jezdectví - praktická příručka: obrazový průvodce. 2002. Praha: Svojtka, 160 s. ISBN 80-7237-505-9. Praktická příručka jezdectví: Úplný kurs jezdectví - od počátku až po dosažení dokonalosti. 1998. 1. vyd. Praha: Svojtka a Vašut, 160 s. ISBN 80-7237-016-2. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 s. Jazdectvo. 2005. 1. vyd. Nitra: Slovenská polnohospodárska univerzita v Nitre, 117 s. ISBN 80-8069-573-3.HARRIS, Moira C.; CLEGG, Lis. 2007. Jezdectví: [techniky, soutěže, výstroj, péče o koně, dovolená]. 1. vyd. Praha: Slovart, 344 s. ISBN 978-80-7209-913-9. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 s. Kůň a jezdecký sport. 1997. Praha: Rebo, 144 s. ISBN 80-85815-70-2.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 s. Kůň v životě člověka. ISBN 80-7225-067-1x.WEEKS, Jo; ŠEDÝ, Jiří. 2009. Mistrovské lekce jezdeckého umění. 1. vyd. Praha: Metafora, 153 s. ISBN 978-80-7359-200-4.MICKLEM, William. 2004. Příručka jízdy na koni. V Praze: Knižní klub, 400 s. Universum. ISBN 80-242-1226-9. Sport s koňmi. 1996. Pardubice: lastním nákladem, 176 s. Škola jezdectví: naučte se jezdit se skutečnou jezdeckou školou. 2004. 1. vyd. Praga: Slovart, 47 s. ISBN 80-7209-638-9. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1. vyd. Praha: 76 s. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
     },
     {
       "label": "[section] Základní:",
-      "content": "JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 s. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278.KLIMKE, Ingrid; KLIMKE, Reiner. 2005. Kavalety: drezura a skákání : profesionální tipy. 1. vyd. Praha: Brázda, 143 s. ISBN 80-209-0333-X.PAALMAN, Anthony. 2006. Skokové ježdění. Praha: Brázda, 359 s. ISBN 978-80-209-0404-1.KNOPFHART, Alfred. 2003. Drezura od stupně Z do stupně T. Praha: Brázda, 156 s. ISBN 80-209-0322-4.DOBEŠ, Josef. 1997. Jízda na koni: [trénink jezdce a koně ve skokovém ježdění, všestrannosti a drezuře]. 2. vyd. Praha: Cesty, 200 s. ISBN 80-7181-169-6."
+      "content": "JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 s. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1. vyd. Praha: SAGA, 196 s. ISBN 80-86133-17-6. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 s. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 s.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 s. Kůň v životě člověka. ISBN 80-7225-067-1x. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1. vyd. Praha: 76 s. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
+      "content": "Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1. vyd. Praha: SAGA, 196 s. ISBN 80-86133-17-6. Jezdectví - praktická příručka: obrazový průvodce. 2002. Praha: Svojtka, 160 s. ISBN 80-7237-505-9. Praktická příručka jezdectví: Úplný kurs jezdectví - od počátku až po dosažení dokonalosti. 1998. 1. vyd. Praha: Svojtka a Vašut, 160 s. ISBN 80-7237-016-2. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 s. Jazdectvo. 2005. 1. vyd. Nitra: Slovenská polnohospodárska univerzita v Nitre, 117 s. ISBN 80-8069-573-3.HARRIS, Moira C.; CLEGG, Lis. 2007. Jezdectví: [techniky, soutěže, výstroj, péče o koně, dovolená]. 1. vyd. Praha: Slovart, 344 s. ISBN 978-80-7209-913-9. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 s. Kůň a jezdecký sport. 1997. Praha: Rebo, 144 s. ISBN 80-85815-70-2.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 s. Kůň v životě člověka. ISBN 80-7225-067-1x.WEEKS, Jo; ŠEDÝ, Jiří. 2009. Mistrovské lekce jezdeckého umění. 1. vyd. Praha: Metafora, 153 s. ISBN 978-80-7359-200-4.MICKLEM, William. 2004. Příručka jízdy na koni. V Praze: Knižní klub, 400 s. Universum. ISBN 80-242-1226-9. Sport s koňmi. 1996. Pardubice: lastním nákladem, 176 s. Škola jezdectví: naučte se jezdit se skutečnou jezdeckou školou. 2004. 1. vyd. Praga: Slovart, 47 s. ISBN 80-7209-638-9. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1. vyd. Praha: 76 s. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace SNCHKA Chov koní a agroturistika, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -329,7 +369,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2024/2025"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -345,7 +385,7 @@
     },
     {
       "label": "Course type:",
-      "content": "required"
+      "content": "optional"
     },
     {
       "label": "Type of delivery:",
@@ -361,7 +401,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Dana Kuřitková"
+      "content": "Ing. Eva Sobotková, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -373,11 +413,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Dana Kuřitková (examiner, instructor, lecturer, supervisor)Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer)Bc. Ing. Lenka Zapletalová (examiner, instructor)"
+      "content": "Ing. Dana Kuřitková (examiner, instructor, lecturer)Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "Bachelor State Examination and to study at faculty AF and now Horse Ethology"
+      "content": "Bachelor State Examination and to study at faculty AF and now Horse Husbandry - specialization"
     },
     {
       "label": "1.",
@@ -505,7 +545,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2022/2023, WS 2020/2021, WS 2019/2020, WS 2018/2019 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2022/2023, WS 2020/2021, WS 2019/2020, WS 2018/2019 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -521,7 +561,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2024/2025"
     },
     {
       "label": "[section] Semester:",
@@ -541,7 +581,7 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: required"
+      "content": "Course type: optional"
     },
     {
       "label": "[section] Course type:",
@@ -557,7 +597,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Dana Kuřitková"
+      "content": "Course supervisor: Ing. Eva Sobotková, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -569,15 +609,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Dana Kuřitková (examiner, instructor, lecturer, supervisor)Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer)Bc. Ing. Lenka Zapletalová (examiner, instructor)"
+      "content": "Teachers: Ing. Dana Kuřitková (examiner, instructor, lecturer)Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: Bachelor State Examination and to study at faculty AF and now Horse Ethology"
+      "content": "Prerequisites: Bachelor State Examination and to study at faculty AF and now Horse Husbandry - specialization"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-12.50PL001 (Sob)D. Kuřitková, E. SobotkováSeminarEvery week6Friday9.00-12.50PL001 (Sob)D. Kuřitková, E. Sobotková, L. ZapletalováSeminarEvery week6"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday10.00-12.50PL001 (Sob)D. Kuřitková, E. SobotkováSeminarEvery week5Monday13.00-13.50PL001 (Sob)E. Sobotková, D. KuřitkováLectureEvery week5"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -637,11 +677,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancepractice48 hfield work12 hprofessional educational excursion10 hpreparation for exam50 hpreparation for regular assessment20 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture12 hpractice36 hfield work12 hprofessional educational excursion10 hpreparation for exam50 hpreparation for regular assessment20 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Evaluation of participation in seminars (80%), practical test and oral final examination in duration 50 minutes. Foreign mobility sylabus: Fulfillment of the study conditions given by the course syllabus within the framework of foreign mobility."
+      "content": "Evaluation of participation in seminars (80%), practical test and oral final examination in duration 40 minutes"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -649,25 +689,25 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 p. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278.KLIMKE, Ingrid; KLIMKE, Reiner. 2005. Kavalety: drezura a skákání : profesionální tipy. 1st ed. Praha: Brázda, 143 p. ISBN 80-209-0333-X.PAALMAN, Anthony. 2006. Skokové ježdění. Praha: Brázda, 359 p. ISBN 978-80-209-0404-1.KNOPFHART, Alfred. 2003. Drezura od stupně Z do stupně T. Praha: Brázda, 156 p. ISBN 80-209-0322-4.DOBEŠ, Josef. 1997. Jízda na koni: [trénink jezdce a koně ve skokovém ježdění, všestrannosti a drezuře]. 2nd ed. Praha: Cesty, 200 p. ISBN 80-7181-169-6.Recommended: Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1st ed. Praha: SAGA, 196 p. ISBN 80-86133-17-6. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 p. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 p.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 p. Kůň v životě člověka. ISBN 80-7225-067-1x. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1st ed. Praha: 76 p. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
+      "content": "Basic:JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 p. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278.Recommended: Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1st ed. Praha: SAGA, 196 p. ISBN 80-86133-17-6. Jezdectví - praktická příručka: obrazový průvodce. 2002. Praha: Svojtka, 160 p. ISBN 80-7237-505-9. Praktická příručka jezdectví: Úplný kurs jezdectví - od počátku až po dosažení dokonalosti. 1998. 1st ed. Praha: Svojtka a Vašut, 160 p. ISBN 80-7237-016-2. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 p. Jazdectvo. 2005. 1st ed. Nitra: Slovenská polnohospodárska univerzita v Nitre, 117 p. ISBN 80-8069-573-3.HARRIS, Moira C.; CLEGG, Lis. 2007. Jezdectví: [techniky, soutěže, výstroj, péče o koně, dovolená]. 1st ed. Praha: Slovart, 344 p. ISBN 978-80-7209-913-9. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 p. Kůň a jezdecký sport. 1997. Praha: Rebo, 144 p. ISBN 80-85815-70-2.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 p. Kůň v životě člověka. ISBN 80-7225-067-1x.WEEKS, Jo; ŠEDÝ, Jiří. 2009. Mistrovské lekce jezdeckého umění. 1st ed. Praha: Metafora, 153 p. ISBN 978-80-7359-200-4.MICKLEM, William. 2004. Příručka jízdy na koni. V Praze: Knižní klub, 400 p. Universum. ISBN 80-242-1226-9. Sport s koňmi. 1996. Pardubice: lastním nákladem, 176 p. Škola jezdectví: naučte se jezdit se skutečnou jezdeckou školou. 2004. 1st ed. Praga: Slovart, 47 p. ISBN 80-7209-638-9. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1st ed. Praha: 76 p. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
     },
     {
       "label": "[section] Basic:",
-      "content": "JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 p. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278.KLIMKE, Ingrid; KLIMKE, Reiner. 2005. Kavalety: drezura a skákání : profesionální tipy. 1st ed. Praha: Brázda, 143 p. ISBN 80-209-0333-X.PAALMAN, Anthony. 2006. Skokové ježdění. Praha: Brázda, 359 p. ISBN 978-80-209-0404-1.KNOPFHART, Alfred. 2003. Drezura od stupně Z do stupně T. Praha: Brázda, 156 p. ISBN 80-209-0322-4.DOBEŠ, Josef. 1997. Jízda na koni: [trénink jezdce a koně ve skokovém ježdění, všestrannosti a drezuře]. 2nd ed. Praha: Cesty, 200 p. ISBN 80-7181-169-6."
+      "content": "JISKROVÁ, Iva; MISAŘ, Drahoslav; SOBOTKOVÁ, Eva; ŠIŠKOVÁ, Pavla; ZUROVACOVÁ, Barbora. 2006. Jezdectví a vozatajství. Brno: Mendelova zemědělská a lesnícka univerzita v Brně, 82 p. ISBN 80-7157-969-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Základy jezdectví. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2278."
     },
     {
       "label": "[section] Recommended:",
-      "content": "Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1st ed. Praha: SAGA, 196 p. ISBN 80-86133-17-6. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 p. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 p.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 p. Kůň v životě člověka. ISBN 80-7225-067-1x. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1st ed. Praha: 76 p. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
+      "content": "Učebnice jezdectví a vozatajství - 1.díl: Základní výcvik jezdce a koně. 1998. 1st ed. Praha: SAGA, 196 p. ISBN 80-86133-17-6. Jezdectví - praktická příručka: obrazový průvodce. 2002. Praha: Svojtka, 160 p. ISBN 80-7237-505-9. Praktická příručka jezdectví: Úplný kurs jezdectví - od počátku až po dosažení dokonalosti. 1998. 1st ed. Praha: Svojtka a Vašut, 160 p. ISBN 80-7237-016-2. Česko-německo-anglický slovník jezdectví a vozatajského sportu. 2000. Písek: František Lomský, 176 p. Jazdectvo. 2005. 1st ed. Nitra: Slovenská polnohospodárska univerzita v Nitre, 117 p. ISBN 80-8069-573-3.HARRIS, Moira C.; CLEGG, Lis. 2007. Jezdectví: [techniky, soutěže, výstroj, péče o koně, dovolená]. 1st ed. Praha: Slovart, 344 p. ISBN 978-80-7209-913-9. Jezdectví pro vzdělance. 2001. Kladruby: Národní hřebčín, 112 p. Kůň a jezdecký sport. 1997. Praha: Rebo, 144 p. ISBN 80-85815-70-2.ŠVEHLOVÁ, Dominika. 2003. Lonžování. Ostrava: Montanex, 254 p. Kůň v životě člověka. ISBN 80-7225-067-1x.WEEKS, Jo; ŠEDÝ, Jiří. 2009. Mistrovské lekce jezdeckého umění. 1st ed. Praha: Metafora, 153 p. ISBN 978-80-7359-200-4.MICKLEM, William. 2004. Příručka jízdy na koni. V Praze: Knižní klub, 400 p. Universum. ISBN 80-242-1226-9. Sport s koňmi. 1996. Pardubice: lastním nákladem, 176 p. Škola jezdectví: naučte se jezdit se skutečnou jezdeckou školou. 2004. 1st ed. Praga: Slovart, 47 p. ISBN 80-7209-638-9. Učebnice jezdectví - Díl 2: Vzdělávání pro pokročilé. 2000. 1st ed. Praha: 76 p. ISBN 80-238-4953-0.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Posuzování a využití koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=91."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track SNCHKA Horse Breeding and Agrotourism, full-time form, initial period WS 2025/2026"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:18:09",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:31:11",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,20 +3,72 @@
   "name": "Portfolio management v AJ",
   "nameCs": "Portfolio management v AJ",
   "nameEn": "Portfolio Management",
-  "predmetId": "156622",
+  "predmetId": "159908",
   "facultyId": 2,
   "aliases": [
     "MISAC"
   ],
   "teachers": [
     "Ing. Daniel Pastorek, Ph.D.",
-    "Ing. Dávid Kurjak",
+    "Ing. David Kurjak",
     "Ing. Peter Albrecht, Ph.D.",
     "Mgr. Ing. Martin Stachoň, Ph.D.",
-    "doc. Ing. Svatopluk Kapounek, Ph.D.",
-    "prof. RNDr. Jan Hanousek, CSc., DSc."
+    "doc. Ing. Svatopluk Kapounek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=159908;lang=cz",
+      "totalPass": 11,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 3,
+            "C": 1,
+            "D": 2,
+            "E": 3,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 11,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 1,
+            "D": 1,
+            "E": 3,
+            "F": 3,
+            "FN": 2
+          },
+          "pass": 8,
+          "fail": 5
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -71,5 +123,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

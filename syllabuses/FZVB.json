@@ -199,7 +199,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý7.00-8.50B51P. HoráčekPřednáškaKaždý týden20Středa9.00-10.50B51P. HoráčekCvičeníKaždý týden20"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -275,7 +275,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hlaboratorní práce14 hkonzultace4 hprojektová práce4 hveřejná prezentace (ústní)2 hpříprava prezentace2 hCelkem68 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení14 hlaboratorní práce14 hkonzultace4 hprojektová práce4 hveřejná prezentace (ústní)2 hpříprava prezentace2 hCelkem68 h"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -449,7 +449,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday7.00-8.50B51P. HoráčekLectureEvery week20Wednesday9.00-10.50B51P. HoráčekSeminarEvery week20"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -461,7 +461,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hlaboratory work14 hconsultation4 hproject work4 hpublic presentation (oral)2 hpreparation of presentation2 hTotal68 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice14 hlaboratory work14 hconsultation4 hproject work4 hpublic presentation (oral)2 hpreparation of presentation2 hTotal68 h"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -484,6 +484,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:11:31",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:25:53",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

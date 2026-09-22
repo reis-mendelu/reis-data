@@ -1,15 +1,54 @@
 {
   "courseCode": "IMHSSVP",
   "name": "IMHS Sofistikovaná zelinářská produkce",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "151372",
+  "nameCs": "IMHS Sofistikovaná zelinářská produkce",
+  "nameEn": "IMHS Sophisticated Vegetable Production",
+  "predmetId": "163835",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
     "prof. Ing. Robert Pokluda, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=163835;lang=cz",
+      "totalPass": 3,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2023/2024 - ZF",
       "semesterId": "762",
@@ -50,5 +89,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

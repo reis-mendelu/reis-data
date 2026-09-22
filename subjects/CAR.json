@@ -3,7 +3,7 @@
   "name": "Chemie anorganická",
   "nameCs": "Chemie anorganická",
   "nameEn": "Inorganic Chemistry",
-  "predmetId": "158714",
+  "predmetId": "162409",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "doc. RNDr. Lukáš Richtera, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162409;lang=cz",
+      "totalPass": 44,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 4,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 9,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 9,
+            "C": 10,
+            "D": 7,
+            "E": 10,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 44,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 8,
+            "C": 6,
+            "D": 5,
+            "E": 9,
+            "F": 10,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 10
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -596,5 +663,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

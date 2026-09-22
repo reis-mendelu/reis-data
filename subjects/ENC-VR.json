@@ -1,9 +1,9 @@
 {
   "courseCode": "ENC-VR",
   "name": "Virtuální světy",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "4",
+  "nameCs": "Virtuální světy",
+  "nameEn": "Virtual Worlds",
+  "predmetId": "162646",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,46 @@
     "Ing. Ivo Pisařovic, Ph.D.",
     "Ing. Jaromír Landa, Ph.D."
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162646;lang=cz",
+      "totalPass": 24,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 17,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 17,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 24,
+          "fail": 0
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,11 +3,78 @@
   "name": "Geobiocenologie a lesnická typologie",
   "nameCs": "Geobiocenologie a lesnická typologie",
   "nameEn": "Geobiocenology and Forest Typology",
-  "predmetId": "159939",
+  "predmetId": "161829",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161829;lang=cz",
+      "totalPass": 38,
+      "totalFail": 11,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 5,
+            "D": 6,
+            "E": 0,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 17,
+          "fail": 6
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 8,
+            "C": 7,
+            "D": 14,
+            "E": 2,
+            "F": 11,
+            "FN": 0
+          },
+          "pass": 38,
+          "fail": 11
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 5,
+            "C": 2,
+            "D": 7,
+            "E": 2,
+            "F": 29,
+            "FN": 0
+          },
+          "pass": 20,
+          "fail": 29
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -82,7 +149,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156797;lang=cz",
       "totalPass": 44,
-      "totalFail": 10,
+      "totalFail": 11,
       "terms": [
         {
           "term": "1. opravný",
@@ -120,11 +187,11 @@
             "C": 11,
             "D": 7,
             "E": 8,
-            "F": 10,
+            "F": 11,
             "FN": 0
           },
           "pass": 44,
-          "fail": 10
+          "fail": 11
         },
         {
           "term": "Řádný termín",
@@ -531,5 +598,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

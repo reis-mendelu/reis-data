@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2023/2024"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Daniel Pastorek, Ph.D."
+      "content": "Ing. Luděk Benada, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Luděk Benada, Ph.D. (cvičící, přednášející, zkoušející)Ing. Daniel Pastorek, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "Ing. Luděk Benada, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -147,19 +147,19 @@
     },
     {
       "label": "10.",
-      "content": "Behaviorální finance v rámci pojišťovnictví (dotace 2/2)"
+      "content": "Základy modelování individuálního rizika/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví."
+      "content": "Úvod do teorie rizika, modely počtu a výše pojistných nároků, základní pravděpodobnostní rozdělení počtu a výše pojistných nároků, pojistné modely v čase."
     },
     {
       "label": "11.",
-      "content": "Současné trendy v pojišťovnictví (dotace 2/2)"
+      "content": "Solvency (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+      "content": "Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
       "label": "Aktivita na přednáškách/cvičeních/seminářích",
@@ -179,7 +179,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2023/2024 (a starší)"
+      "content": "LS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -195,7 +195,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2023/2024"
     },
     {
       "label": "[section] Semestr:",
@@ -231,7 +231,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Daniel Pastorek, Ph.D."
+      "content": "Garant předmětu: Ing. Luděk Benada, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -243,7 +243,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Luděk Benada, Ph.D. (cvičící, přednášející, zkoušející)Ing. Daniel Pastorek, Ph.D. (cvičící, garant, přednášející, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Luděk Benada, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Mgr. Ing. Martin Stachoň, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -251,7 +251,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50Q24L. Benada, D. Pastorek, M. StachoňPřednáškaKaždý týden24Čtvrtek15.00-16.50Q24M. Stachoň, L. Benada, D. PastorekCvičeníKaždý týden22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek9.00-10.50Q24M. Stachoň, L. BenadaPřednáškaKaždý týden24Čtvrtek11.00-12.50Q24L. Benada, M. StachoňCvičeníKaždý týden24"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -259,7 +259,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Model úmrtnosti, komutační čísla a jejich aplikace/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Model úmrtnosti, délka života – distribuční funkce, funkce přežití, intenzita úmrtnosti, úmrtnostní tabulky.b.Odvození vzorců pro výpočet jednorázového netto pojistného jako střední hodnoty budoucích nákladů pojišťovny, rovnice ekvivalence – aplikace na modelových příkladech.2.Výpočet jednorázového netto pojistného pro případ smrti a pro případ dožití/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Pojistné, princip fiktivního souboru, princip ekvivalence, pojištění pro případ dožití a pojištění pro případ smrti; doživotního, dočasného, odloženého.3.Výpočet jednorázového netto pojistného pro smíšené pojištění, důchodové pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Podstata smíšeného a důchodového pojištění dle forem (předlhůtní, polhůtní, doživotní, dočasná, odložená, rostoucí, klesající pojistná částka, garantované důchody).b.Odvození parciálních vzorců s aplikací na modelových příkladech.4.Výpočet běžného netto pojistného, všeobecná rovnice ekvivalence/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Odvození vzorců pro pojistné placené jedenkrát ročně s aplikací na modelových příkladech.5.Brutto pojistné u životního pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Náklady pojišťovny a jejich dopad na cenu pojistného – počáteční náklady, běžné správní náklady, inkasní náklady, výpočet brutto pojistného, rovnice pro výpočet jednorázového a běžného brutto pojistného s aplikací na modelových příkladech.6.Technické rezervy v pojištění osob/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Dělení technických rezerv, rezerva pojistného životního pojištění, výpočet netto rezervy, ukládací a riziková část pojistného.7.Zillmerova rezerva, pojistně matematické výpočty založené na netto rezervě a brutto rezervě/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Výpočet Zillmerovy rezervy, odkupné, výpočet redukované pojistné částky, změna typu pojištění, dynamizace.8.Tarifní skupiny a základní ukazatele, netto pojistné/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.a. Příklady tarifování, statistické ukazatele pojištění, průměrné pojistné plnění, škodní frekvence, škodní stupeň, obecný vzorec netto pojistného, výpočet pojistného – ryzí zájmové pojištění, pojištění na plnou hodnotu, pojištění na první riziko, spoluúčast; podílová, excedentní, integrální.9.Bonus-malus systém, Markovská analýza/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Základní pojmy, markovská analýza, matice pravděpodobnosti přechodu mezi skupinami, stav systému po t letech, stacionární vektor – ustálený stav systému, „hlad po bonusu“.10.Behaviorální finance v rámci pojišťovnictví (dotace 2/2) a.eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví.11.Současné trendy v pojišťovnictví (dotace 2/2) a.Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+      "content": "1.Model úmrtnosti, komutační čísla a jejich aplikace/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Model úmrtnosti, délka života – distribuční funkce, funkce přežití, intenzita úmrtnosti, úmrtnostní tabulky.b.Odvození vzorců pro výpočet jednorázového netto pojistného jako střední hodnoty budoucích nákladů pojišťovny, rovnice ekvivalence – aplikace na modelových příkladech.2.Výpočet jednorázového netto pojistného pro případ smrti a pro případ dožití/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Pojistné, princip fiktivního souboru, princip ekvivalence, pojištění pro případ dožití a pojištění pro případ smrti; doživotního, dočasného, odloženého.3.Výpočet jednorázového netto pojistného pro smíšené pojištění, důchodové pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Podstata smíšeného a důchodového pojištění dle forem (předlhůtní, polhůtní, doživotní, dočasná, odložená, rostoucí, klesající pojistná částka, garantované důchody).b.Odvození parciálních vzorců s aplikací na modelových příkladech.4.Výpočet běžného netto pojistného, všeobecná rovnice ekvivalence/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Odvození vzorců pro pojistné placené jedenkrát ročně s aplikací na modelových příkladech.5.Brutto pojistné u životního pojištění/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Náklady pojišťovny a jejich dopad na cenu pojistného – počáteční náklady, běžné správní náklady, inkasní náklady, výpočet brutto pojistného, rovnice pro výpočet jednorázového a běžného brutto pojistného s aplikací na modelových příkladech.6.Technické rezervy v pojištění osob/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Dělení technických rezerv, rezerva pojistného životního pojištění, výpočet netto rezervy, ukládací a riziková část pojistného.7.Zillmerova rezerva, pojistně matematické výpočty založené na netto rezervě a brutto rezervě/ŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Výpočet Zillmerovy rezervy, odkupné, výpočet redukované pojistné částky, změna typu pojištění, dynamizace.8.Tarifní skupiny a základní ukazatele, netto pojistné/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.a. Příklady tarifování, statistické ukazatele pojištění, průměrné pojistné plnění, škodní frekvence, škodní stupeň, obecný vzorec netto pojistného, výpočet pojistného – ryzí zájmové pojištění, pojištění na plnou hodnotu, pojištění na první riziko, spoluúčast; podílová, excedentní, integrální.9.Bonus-malus systém, Markovská analýza/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Základní pojmy, markovská analýza, matice pravděpodobnosti přechodu mezi skupinami, stav systému po t letech, stacionární vektor – ustálený stav systému, „hlad po bonusu“.10.Základy modelování individuálního rizika/NEŽIVOTNÍ POJIŠTĚNÍ (dotace 2/2) a.Úvod do teorie rizika, modely počtu a výše pojistných nároků, základní pravděpodobnostní rozdělení počtu a výše pojistných nároků, pojistné modely v čase.11.Solvency (dotace 2/2) a.Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
       "label": "[section] 1.",
@@ -331,27 +331,27 @@
     },
     {
       "label": "[section] 10.",
-      "content": "a.eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví."
+      "content": "a.Úvod do teorie rizika, modely počtu a výše pojistných nároků, základní pravděpodobnostní rozdělení počtu a výše pojistných nároků, pojistné modely v čase."
     },
     {
-      "label": "[section] Behaviorální finance v rámci pojišťovnictví",
-      "content": "a.eorie užitku v rámci rozhodování o pojištění, rozhodování za podmínek rizika a nejistoty, aplikace behaviorálních teorií v pojišťovnictví."
+      "label": "[section] Základy modelování individuálního rizika/NEŽIVOTNÍ POJIŠTĚNÍ",
+      "content": "a.Úvod do teorie rizika, modely počtu a výše pojistných nároků, základní pravděpodobnostní rozdělení počtu a výše pojistných nároků, pojistné modely v čase."
     },
     {
       "label": "[section] 11.",
-      "content": "a.Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+      "content": "a.Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
-      "label": "[section] Současné trendy v pojišťovnictví",
-      "content": "a.Principy designu pojištění, strategie pro řešení anomálií souvisejících s pojištěním, inovace na pojistných trzích."
+      "label": "[section] Solvency",
+      "content": "a.Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hseminář28 hkonzultace15 hpříprava na zkoušku51 hpříprava na průběžný test46 hCelkem168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hseminář28 hkonzultace15 hpříprava na zkoušku36 hpříprava na průběžný test31 hzpracování seminární práce30 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "V průběhu semestru budou studenti psát dva kontrolní testy. Konkrétní harmonogram bude upřesněn na začátku semestru. V průměru musí student získat minimálně 60 % úspěšnosti. Pokud student ze závažných důvodů test psát nemůže, bude mu po domluvě s vyučujícím umožněno psát náhradní test. Vyžaduje se aktivní účast na seminářích, povoleny jsou tři absence. Po splnění výše uvedených podmínek je student připuštěn k závěrečné písemné zkoušce. Výsledná známka je součtem získaných bodů za aktivitu na seminářích (10b), průběžný test (40 bodů) a závěrečný test (50 bodů). Dílčí hodnotící škála zahrnuje: A: 100-90, B: 89-83, C: 82-75, D: 74-68, E: 67-60, F: 59 a méně. Jakékoliv podvádění a porušení pravidel u zkoušení povede k výsledku “F” a vyučující zváží návrh na disciplinární řízení."
+      "content": "V průběhu semestru budou studenti psát dva kontrolní testy. Konkrétní harmonogram bude upřesněn na začátku semestru. V průměru musí student získat minimálně 60 % úspěšnosti. Pokud student ze závažných důvodů test psát nemůže, bude mu po domluvě s vyučujícím umožněno psát náhradní test. Vyžaduje se aktivní účast na seminářích, povoleny jsou tři absence. Po splnění výše uvedených podmínek je student připuštěn k závěrečné písemné zkoušce. Výsledná známka je součtem získaných bodů za aktivitu na seminářích (10b), průběžné testy (40b) a závěrečnou zkoušku (50b). Dílčí hodnotící škála zahrnuje: A: 100-90, B: 89-83, C: 82-75, D: 74-68, E: 67-60, F: 59 a méně. Jakékoliv podvádění a porušení pravidel u zkoušení povede k výsledku “F” a vyučující zváží návrh na disciplinární řízení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -359,15 +359,15 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1. vyd. Praha: Grada, 374 s. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1. vyd. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 s. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+      "content": "Základní:CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1. vyd. Praha: Grada, 374 s. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1. vyd. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 s. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer."
     },
     {
       "label": "[section] Základní:",
-      "content": "CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1. vyd. Praha: Grada, 374 s. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1. vyd. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 s. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+      "content": "CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1. vyd. Praha: Grada, 374 s. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1. vyd. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 s. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace ENIM Investiční management, prezenční forma, počáteční období ZS 2023/2024Specializace ENIM Investiční management, prezenční forma, počáteční období ZS 2024/2025Specializace ENIM Investiční management, prezenční forma, počáteční období LS 2024/2025"
+      "content": "Specializace ENIM Investiční management, prezenční forma, počáteční období LS 2023/2024"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -389,7 +389,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2023/2024"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -421,7 +421,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Daniel Pastorek, Ph.D."
+      "content": "Ing. Luděk Benada, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -433,7 +433,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer)Ing. Daniel Pastorek, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer)"
+      "content": "Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "Prerequisites:",
@@ -513,6 +513,14 @@
     },
     {
       "label": "9.",
+      "content": "Technical reserves, calculation of provisions for claims, gross insured / NON - LIFE INSURANCE (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Gross premiums - safety surcharge, division of technical provisions, calculation of provisions for claims using triangular schemes; chain ladder method, separation method."
+    },
+    {
+      "label": "10.",
       "content": "Bonus-malus system, Markov analysis / NON-LIFE INSURANCE (allowance 2/2)"
     },
     {
@@ -520,28 +528,20 @@
       "content": "Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\"."
     },
     {
-      "label": "10.",
-      "content": "Behavioral finance within the insurance industry (allowance 2/2)"
-    },
-    {
-      "label": "a.",
-      "content": "Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry."
-    },
-    {
       "label": "11.",
-      "content": "Understanding consumer and insurance behavior (allowance 2/2)"
+      "content": "Basics of individual risk modeling / NON - LIFE INSURANCE (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Insurance demand, descriptive models of insurance supply, supply-side anomalies."
+      "content": "Introduction to risk theory, models of the number and amount of insurance claims, basic probability distribution of the number and amount of insurance claims, insurance models over time."
     },
     {
       "label": "12.",
-      "content": "Current trends in the insurance industry (allowance 2/2)"
+      "content": "Solvency (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+      "content": "Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
       "label": "Active lecture/seminar/workshop/tutorial participation",
@@ -561,7 +561,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2023/2024 (and older)"
+      "content": "SS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -577,7 +577,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2023/2024"
     },
     {
       "label": "[section] Semester:",
@@ -613,7 +613,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Daniel Pastorek, Ph.D."
+      "content": "Course supervisor: Ing. Luděk Benada, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -625,7 +625,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer)Ing. Daniel Pastorek, Ph.D. (examiner, instructor, lecturer, supervisor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer)"
+      "content": "Teachers: Ing. Luděk Benada, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Mgr. Ing. Martin Stachoň, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "[section] Teachers:",
@@ -633,7 +633,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50Q24L. Benada, D. Pastorek, M. StachoňLectureEvery week24Thursday15.00-16.50Q24M. Stachoň, L. Benada, D. PastorekSeminarEvery week22"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday9.00-10.50Q24M. Stachoň, L. BenadaLectureEvery week24Thursday11.00-12.50Q24L. Benada, M. StachoňSeminarEvery week24"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -641,7 +641,7 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Mortality model, commutation numbers and their applications / LIFE INSURANCE (allowance 2/2) a.Mortality model, life expectancy - distribution function, survival function, mortality intensity, mortality tables.b.Derivation of formulas for the calculation of one-time net premium as the mean value of future costs of the insurance company, equivalence equation - application on model examples.2.Calculation of one - off net premium in case of death and in case of survival / LIFE INSURANCE (allowance 2/2) a.Premiums, fictitious set principle, equivalence principle, survival insurance and death insurance; lifetime, temporary, deferred.3.Calculation of one - off net premium for mixed insurance, pension insurance / LIFE INSURANCE (allowance 2/2) a.The essence of mixed and pension insurance according to forms (pre-term, half-term, lifetime, temporary, deferred, increasing, decreasing sum insured, guaranteed pensions).b.Derivation of partial formulas with application on model examples.4.Gross premiums for life insurance / LIFE INSURANCE (allowance 2/2) a.Costs of insurance company and their impact on the price of premiums - initial costs, current administrative costs, collection costs, calculation of gross premiums, equations for calculating one-off and current gross premiums with application on model examples.5.Calculation of current net premiums, general equation of equivalence / LIFE INSURANCE (allowance 2/2) a.Derivation of formulas for premiums paid once a year with application to model examples.6.Technical reserves in personal insurance / LIFE INSURANCE (allowance 2/2) a.Division of technical reserves, life insurance premium reserve, calculation of net reserves, storage and risk part of premiums.7.Zillmer's reserve, actuarial calculations based on net reserve and gross reserve / LIFE INSURANCE (allowance 2/2) a.Calculation of Zillmer's reserve, redemption, calculation of reduced sum insured, change of insurance type, dynamization.8.Tariff groups and basic indicators, net premiums / NON - LIFE INSURANCE (allowance 2/2) a.Examples of tariffing, statistical indicators of insurance, average insurance indemnity, claims frequency, claims level, general formula of net premiums, calculation of premiums - pure interest insurance, full value insurance, first risk insurance, co - participation; share, excellent, integral.9.Bonus-malus system, Markov analysis / NON-LIFE INSURANCE (allowance 2/2) a.Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\".10.Behavioral finance within the insurance industry (allowance 2/2) a.Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry.11.Understanding consumer and insurance behavior (allowance 2/2) a.Insurance demand, descriptive models of insurance supply, supply-side anomalies.12.Current trends in the insurance industry (allowance 2/2) a.Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+      "content": "1.Mortality model, commutation numbers and their applications / LIFE INSURANCE (allowance 2/2) a.Mortality model, life expectancy - distribution function, survival function, mortality intensity, mortality tables.b.Derivation of formulas for the calculation of one-time net premium as the mean value of future costs of the insurance company, equivalence equation - application on model examples.2.Calculation of one - off net premium in case of death and in case of survival / LIFE INSURANCE (allowance 2/2) a.Premiums, fictitious set principle, equivalence principle, survival insurance and death insurance; lifetime, temporary, deferred.3.Calculation of one - off net premium for mixed insurance, pension insurance / LIFE INSURANCE (allowance 2/2) a.The essence of mixed and pension insurance according to forms (pre-term, half-term, lifetime, temporary, deferred, increasing, decreasing sum insured, guaranteed pensions).b.Derivation of partial formulas with application on model examples.4.Gross premiums for life insurance / LIFE INSURANCE (allowance 2/2) a.Costs of insurance company and their impact on the price of premiums - initial costs, current administrative costs, collection costs, calculation of gross premiums, equations for calculating one-off and current gross premiums with application on model examples.5.Calculation of current net premiums, general equation of equivalence / LIFE INSURANCE (allowance 2/2) a.Derivation of formulas for premiums paid once a year with application to model examples.6.Technical reserves in personal insurance / LIFE INSURANCE (allowance 2/2) a.Division of technical reserves, life insurance premium reserve, calculation of net reserves, storage and risk part of premiums.7.Zillmer's reserve, actuarial calculations based on net reserve and gross reserve / LIFE INSURANCE (allowance 2/2) a.Calculation of Zillmer's reserve, redemption, calculation of reduced sum insured, change of insurance type, dynamization.8.Tariff groups and basic indicators, net premiums / NON - LIFE INSURANCE (allowance 2/2) a.Examples of tariffing, statistical indicators of insurance, average insurance indemnity, claims frequency, claims level, general formula of net premiums, calculation of premiums - pure interest insurance, full value insurance, first risk insurance, co - participation; share, excellent, integral.9.Technical reserves, calculation of provisions for claims, gross insured / NON - LIFE INSURANCE (allowance 2/2) a.Gross premiums - safety surcharge, division of technical provisions, calculation of provisions for claims using triangular schemes; chain ladder method, separation method.10.Bonus-malus system, Markov analysis / NON-LIFE INSURANCE (allowance 2/2) a.Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\".11.Basics of individual risk modeling / NON - LIFE INSURANCE (allowance 2/2) a.Introduction to risk theory, models of the number and amount of insurance claims, basic probability distribution of the number and amount of insurance claims, insurance models over time.12.Solvency (allowance 2/2) a.Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
       "label": "[section] 1.",
@@ -709,6 +709,14 @@
     },
     {
       "label": "[section] 9.",
+      "content": "a.Gross premiums - safety surcharge, division of technical provisions, calculation of provisions for claims using triangular schemes; chain ladder method, separation method."
+    },
+    {
+      "label": "[section] Technical reserves, calculation of provisions for claims, gross insured / NON - LIFE INSURANCE",
+      "content": "a.Gross premiums - safety surcharge, division of technical provisions, calculation of provisions for claims using triangular schemes; chain ladder method, separation method."
+    },
+    {
+      "label": "[section] 10.",
       "content": "a.Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\"."
     },
     {
@@ -716,36 +724,28 @@
       "content": "a.Basic concepts, Markov analysis, matrix of transition probability between groups, state of the system after t years, stationary vector - steady state of the system, \"hunger for bonus\"."
     },
     {
-      "label": "[section] 10.",
-      "content": "a.Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry."
-    },
-    {
-      "label": "[section] Behavioral finance within the insurance industry",
-      "content": "a.Theory of utility in insurance decision-making, decision-making under conditions of risk and uncertainty, application of behavioral theories in the insurance industry."
-    },
-    {
       "label": "[section] 11.",
-      "content": "a.Insurance demand, descriptive models of insurance supply, supply-side anomalies."
+      "content": "a.Introduction to risk theory, models of the number and amount of insurance claims, basic probability distribution of the number and amount of insurance claims, insurance models over time."
     },
     {
-      "label": "[section] Understanding consumer and insurance behavior",
-      "content": "a.Insurance demand, descriptive models of insurance supply, supply-side anomalies."
+      "label": "[section] Basics of individual risk modeling / NON - LIFE INSURANCE",
+      "content": "a.Introduction to risk theory, models of the number and amount of insurance claims, basic probability distribution of the number and amount of insurance claims, insurance models over time."
     },
     {
       "label": "[section] 12.",
-      "content": "a.Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+      "content": "a.Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
-      "label": "[section] Current trends in the insurance industry",
-      "content": "a.Principles of insurance design, strategies for dealing with insurance-related anomalies, innovation in insurance markets."
+      "label": "[section] Solvency",
+      "content": "a.Regulace v komerčních pojišťovnách v rámci EU, nároky na technické rezervy a kapitálovou vybavenost, interní vyhodnocování a řízení rizik, stanovení vlastní potřeby kapitálu, posílení transparentnosti a tržní disciplíny komerčních pojišťoven."
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hseminar28 hconsultation15 hpreparation for exam51 hpreparation for regular testing46 hTotal168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hseminar28 hconsultation15 hpreparation for exam36 hpreparation for regular testing31 hwriting of seminar paper30 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "There are two compulsory tests during the semester. The specific schedule wil be given at the beginning of the semester. Student must obtain at least 60 % to succeed in average from both tests. In the case that the student cannot participate on the test for serious reasoons, he/she will be allowed to write a substitute test after agreement with the teacher. Active participation in seminars is required. There are allowed only three absences. After fulfilling the above conditions, student is admitted to the final written exam. The final grade is the sum of the all obtained points for activity in seminars (10p.), preliminary test (40p) and the final test(50p). The particular grates are based on following scale: A: 100-90, B: 89-83, C: 82-75, D: 74-68, E: 67-60, F: 59 and less. Any form of cheating and violation of the rules for testing will result in the completion of the exam and valuation of “F”. Further, the teacher will consider a proposal for disciplinary action."
+      "content": "There are two compulsory tests during the semester. The specific schedule wil be given at the beginning of the semester. Student must obtain at least 60 % to succeed in average from both tests. In the case that the student cannot participate on the test for serious reasoons, he/she will be allowed to write a substitute test after agreement with the teacher. Active participation in seminars is required. There are allowed only three absences. After fulfilling the above conditions, student is admitted to the final written exam. The final grade is the sum of the all obtained points for activity in seminars (10p.), preliminary tests (40p) and the final exam (50p). The particular grates are based on following scale: A: 100-90, B: 89-83, C: 82-75, D: 74-68, E: 67-60, F: 59 and less. Any form of cheating and violation of the rules for testing will result in the completion of the exam and valuation of “F”. Further, the teacher will consider a proposal for disciplinary action."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -753,21 +753,21 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1st ed. Praha: Grada, 374 p. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1st ed. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 p. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+      "content": "Basic:CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1st ed. Praha: Grada, 374 p. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1st ed. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 p. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer."
     },
     {
       "label": "[section] Basic:",
-      "content": "CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1st ed. Praha: Grada, 374 p. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1st ed. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 p. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer. Insurance and behavioral economics: Improving decisions in the most misunderstood industry. 2013. Cambridge: Cambridge University Press."
+      "content": "CIPRA, Tomáš. 2006. Finanční a pojistné vzorce. 1st ed. Praha: Grada, 374 p. Finance. ISBN 80-247-1633-X.ČÁMSKÝ, František. 2005. Pojistná matematika I: distanční studijní opora. 1st ed. Brno: Masarykova univerzita v Brně, Ekonomicko-správní fakulta, 122 p. ISBN 80-210-3651-6. Life insurance mathematics. 2013. Gerber, Hans U, Springer Science & Business Media. Introduction to insurance mathematics: technical and financial features of risk transfers. 2015. Springer."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track ENIM Investment Management, full-time form, initial period WS 2023/2024Track ENIM Investment Management, full-time form, initial period WS 2024/2025Track ENIM Investment Management, full-time form, initial period SS 2024/2025"
+      "content": "Track ENIM Investment Management, full-time form, initial period SS 2023/2024"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:59:54",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:16:46",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,18 +3,18 @@
   "name": "Letní kurz ekologie",
   "nameCs": "Letní kurz ekologie",
   "nameEn": "Summer School of Ecology",
-  "predmetId": "156938",
+  "predmetId": "162067",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
     {
-      "semesterName": "LS 2024/2025 - LDF",
-      "semesterId": "777",
-      "year": 2024,
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
       "type": "credit",
-      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156938;lang=cz",
-      "totalPass": 12,
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=162067;lang=cz",
+      "totalPass": 10,
       "totalFail": 0,
       "terms": [
         {
@@ -28,10 +28,59 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 12,
+          "pass": 10,
           "fail": 0,
           "creditGrades": {
-            "zap": 12,
+            "zap": 10,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 10,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2024/2025 - LDF",
+      "semesterId": "777",
+      "year": 2024,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156938;lang=cz",
+      "totalPass": 13,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 13,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -254,5 +303,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,7 +3,7 @@
   "name": "Základy personalistiky",
   "nameCs": "Základy personalistiky",
   "nameEn": "Introduction to Human Resources",
-  "predmetId": "159842",
+  "predmetId": "162626",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "JUDr. Mgr. Roman Zapletal, Ph.D., LL.M."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162626;lang=cz",
+      "totalPass": 66,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 4,
+            "D": 1,
+            "E": 4,
+            "F": 13,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 13
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 3,
+            "E": 6,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 6,
+            "C": 29,
+            "D": 10,
+            "E": 20,
+            "F": 2,
+            "FN": 1
+          },
+          "pass": 66,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 4,
+            "C": 24,
+            "D": 6,
+            "E": 10,
+            "F": 24,
+            "FN": 0
+          },
+          "pass": 45,
+          "fail": 24
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -439,5 +506,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

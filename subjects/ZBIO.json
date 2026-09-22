@@ -1,16 +1,82 @@
 {
   "courseCode": "ZBIO",
   "name": "Základy biostatistiky",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "4",
+  "nameCs": "Základy biostatistiky",
+  "nameEn": "Introduction to Biostatistics",
+  "predmetId": "162881",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
-    "Ing. Dominik Stočes",
-    "Mgr. Attila Balázs, Ph.D.",
     "doc. Mgr. Jan Šipoš, Ph.D."
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162881;lang=cz",
+      "totalPass": 90,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 4,
+            "E": 2,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 6
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 19,
+            "C": 20,
+            "D": 24,
+            "E": 19,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 90,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 16,
+            "C": 16,
+            "D": 19,
+            "E": 17,
+            "F": 16,
+            "FN": 0
+          },
+          "pass": 75,
+          "fail": 16
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

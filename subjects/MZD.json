@@ -3,13 +3,80 @@
   "name": "Mezinárodní zdanění",
   "nameCs": "Mezinárodní zdanění",
   "nameEn": "International Taxation",
-  "predmetId": "156602",
+  "predmetId": "162610",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Milena Otavová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162610;lang=cz",
+      "totalPass": 46,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 9,
+            "C": 21,
+            "D": 10,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 46,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 9,
+            "C": 19,
+            "D": 8,
+            "E": 2,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 40,
+          "fail": 6
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -103,5 +170,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

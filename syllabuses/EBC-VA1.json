@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -31,7 +31,7 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "volitelný"
+      "content": "povinný"
     },
     {
       "label": "Typ výuky předmětu:",
@@ -63,7 +63,7 @@
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "ne Státní bakalářská zkouška a ne Mobilní aplikace pro Android"
     },
     {
       "label": "1.",
@@ -119,7 +119,7 @@
     },
     {
       "label": "d.",
-      "content": "Jetpack Compose"
+      "content": "Fragmenty"
     },
     {
       "label": "e.",
@@ -127,18 +127,30 @@
     },
     {
       "label": "f.",
-      "content": "Tvorba seznamů"
-    },
-    {
-      "label": "g.",
       "content": "Tvorba vlastních designových prvků"
     },
     {
-      "label": "h.",
+      "label": "g.",
       "content": "Styly"
     },
     {
       "label": "4.",
+      "content": "Seznamy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tvorba seznamů pomocí třídy RecyclerView"
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba vlastního adaptéru"
+    },
+    {
+      "label": "c.",
+      "content": "Vyřešení problému recyklace v seznamech"
+    },
+    {
+      "label": "5.",
       "content": "Persistence dat (dotace 2/4)"
     },
     {
@@ -147,7 +159,7 @@
     },
     {
       "label": "b.",
-      "content": "Využití třídy DataStore pro uložení dat"
+      "content": "Využití třídy SharedPreferences pro uložení dat"
     },
     {
       "label": "c.",
@@ -158,7 +170,7 @@
       "content": "Použití knihovny Room pro uložení dat"
     },
     {
-      "label": "5.",
+      "label": "6.",
       "content": "Práce s mapou (dotace 0/2)"
     },
     {
@@ -174,7 +186,7 @@
       "content": "Přidávání objektů do mapy (body, linie, polygony)"
     },
     {
-      "label": "6.",
+      "label": "7.",
       "content": "Pokročilá tvorba aplikace (dotace 4/8)"
     },
     {
@@ -187,10 +199,14 @@
     },
     {
       "label": "c.",
-      "content": "Lokalizace do různých jazyků"
+      "content": "Notifikace"
     },
     {
       "label": "d.",
+      "content": "Lokalizace do různých jazyků"
+    },
+    {
+      "label": "e.",
       "content": "Nasazení aplikace do obchodu Google Play"
     },
     {
@@ -215,7 +231,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -231,7 +247,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -251,7 +267,7 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "content": "Typ předmětu: povinný"
     },
     {
       "label": "[section] Typ předmětu:",
@@ -283,11 +299,11 @@
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Mobilní aplikace pro Android"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q16B-OIJ. LandaPřednáškaSudý týden80Čtvrtek9.00-10.50Q12B-OIJ. LandaCvičeníKaždý týden19Čtvrtek11.00-12.50Q12B-OIJ. LandaCvičeníKaždý týden19Čtvrtek13.00-14.50Q12B-OIJ. LandaCvičeníKaždý týden19"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý7.00-8.50Q12J. LandaCvičeníKaždý týden19Úterý11.00-12.50Q12J. LandaCvičeníKaždý týden19Středa15.00-16.50Q15J. LandaPřednáškaLichý týden48"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -295,7 +311,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do jazyka Kotlin (dotace 2/4) a.Třídy, proměnné, objekty, dědičnostb.Null safetyc.Cykly, if, when,…d.Změny oproti Javě2.Architektura Android aplikací (dotace 2/2) a.Android – historie, verze, architektura.b.Android studio – vývojové prostředí, spuštění a ladění aplikace, emulátorc.Material Design3.Uživatelské rozhraní (dotace 2/6) a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Jetpack Composee.Navigation componentf.Tvorba seznamůg.Tvorba vlastních designových prvkůh.Styly4.Persistence dat (dotace 2/4) a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy DataStore pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat5.Práce s mapou (dotace 0/2) a.Inicializace mapy pomocí API klíčeb.Práce s virtuální kamerou mapyc.Přidávání objektů do mapy (body, linie, polygony)6.Pokročilá tvorba aplikace (dotace 4/8) a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Lokalizace do různých jazykůd.Nasazení aplikace do obchodu Google Play"
+      "content": "1.Úvod do jazyka Kotlin (dotace 2/4) a.Třídy, proměnné, objekty, dědičnostb.Null safetyc.Cykly, if, when,…d.Změny oproti Javě2.Architektura Android aplikací (dotace 2/2) a.Android – historie, verze, architektura.b.Android studio – vývojové prostředí, spuštění a ladění aplikace, emulátorc.Material Design3.Uživatelské rozhraní (dotace 2/6) a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Fragmentye.Navigation componentf.Tvorba vlastních designových prvkůg.Styly4.Seznamy (dotace 2/2) a.Tvorba seznamů pomocí třídy RecyclerViewb.Tvorba vlastního adaptéruc.Vyřešení problému recyklace v seznamech5.Persistence dat (dotace 2/4) a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy SharedPreferences pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat6.Práce s mapou (dotace 0/2) a.Inicializace mapy pomocí API klíčeb.Práce s virtuální kamerou mapyc.Přidávání objektů do mapy (body, linie, polygony)7.Pokročilá tvorba aplikace (dotace 4/8) a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Notifikaced.Lokalizace do různých jazykůe.Nasazení aplikace do obchodu Google Play"
     },
     {
       "label": "[section] 1.",
@@ -315,22 +331,30 @@
     },
     {
       "label": "[section] 3.",
-      "content": "a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Jetpack Composee.Navigation componentf.Tvorba seznamůg.Tvorba vlastních designových prvkůh.Styly"
+      "content": "a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Fragmentye.Navigation componentf.Tvorba vlastních designových prvkůg.Styly"
     },
     {
       "label": "[section] Uživatelské rozhraní",
-      "content": "a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Jetpack Composee.Navigation componentf.Tvorba seznamůg.Tvorba vlastních designových prvkůh.Styly"
+      "content": "a.Aktivita jako základ aplikace, životní cyklusb.Komunikace mezi aktivitami (využití třídy Intent)c.Třída Viewd.Fragmentye.Navigation componentf.Tvorba vlastních designových prvkůg.Styly"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy DataStore pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+      "content": "a.Tvorba seznamů pomocí třídy RecyclerViewb.Tvorba vlastního adaptéruc.Vyřešení problému recyklace v seznamech"
     },
     {
-      "label": "[section] Persistence dat",
-      "content": "a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy DataStore pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+      "label": "[section] Seznamy",
+      "content": "a.Tvorba seznamů pomocí třídy RecyclerViewb.Tvorba vlastního adaptéruc.Vyřešení problému recyklace v seznamech"
     },
     {
       "label": "[section] 5.",
+      "content": "a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy SharedPreferences pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] Persistence dat",
+      "content": "a.Uložení v průběhu běhu programu – proměnné typu staticb.Využití třídy SharedPreferences pro uložení datc.SQLite databáze – tvorba, dotazy, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] 6.",
       "content": "a.Inicializace mapy pomocí API klíčeb.Práce s virtuální kamerou mapyc.Přidávání objektů do mapy (body, linie, polygony)"
     },
     {
@@ -338,16 +362,16 @@
       "content": "a.Inicializace mapy pomocí API klíčeb.Práce s virtuální kamerou mapyc.Přidávání objektů do mapy (body, linie, polygony)"
     },
     {
-      "label": "[section] 6.",
-      "content": "a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Lokalizace do různých jazykůd.Nasazení aplikace do obchodu Google Play"
+      "label": "[section] 7.",
+      "content": "a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Notifikaced.Lokalizace do různých jazykůe.Nasazení aplikace do obchodu Google Play"
     },
     {
       "label": "[section] Pokročilá tvorba aplikace",
-      "content": "a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Lokalizace do různých jazykůd.Nasazení aplikace do obchodu Google Play"
+      "content": "a.Efektivní načítání obrázkůb.Práce na pozadí (Coroutines)c.Notifikaced.Lokalizace do různých jazykůe.Nasazení aplikace do obchodu Google Play"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška12 hcvičení24 hpříprava na zkoušku20 hpříprava na průběžný test10 hzpracování projektů74 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška12 hcvičení24 hpříprava na zkoušku20 hpříprava na průběžný test10 hzpracování projektů74 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -371,7 +395,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Specializace SBMA Mobilní a mapové aplikace, prezenční forma, počáteční období LS 2019/2020Specializace SBMA Mobilní a mapové aplikace, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -393,7 +417,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -409,7 +433,7 @@
     },
     {
       "label": "Course type:",
-      "content": "optional"
+      "content": "required"
     },
     {
       "label": "Type of delivery:",
@@ -441,7 +465,7 @@
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "not Final Bachelor Exam and not Mobile Applications for Android"
     },
     {
       "label": "1.",
@@ -505,18 +529,30 @@
     },
     {
       "label": "f.",
-      "content": "Lists"
-    },
-    {
-      "label": "g.",
       "content": "Creating your own design elements"
     },
     {
-      "label": "h.",
+      "label": "g.",
       "content": "Styles"
     },
     {
       "label": "4.",
+      "content": "Lists (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Creating lists using the RecyclerView class"
+    },
+    {
+      "label": "b.",
+      "content": "Creating adapter class"
+    },
+    {
+      "label": "c.",
+      "content": "Solve the problem of recycling in lists"
+    },
+    {
+      "label": "5.",
       "content": "Data persistence (allowance 2/4)"
     },
     {
@@ -525,7 +561,7 @@
     },
     {
       "label": "b.",
-      "content": "Use of the DataStore class to store data"
+      "content": "Use of the SharedPreferences class to store data"
     },
     {
       "label": "c.",
@@ -536,7 +572,7 @@
       "content": "Použití knihovny Room pro uložení dat"
     },
     {
-      "label": "5.",
+      "label": "6.",
       "content": "Working with the map (allowance 0/2)"
     },
     {
@@ -552,7 +588,7 @@
       "content": "Adding objects to the map (points, lines, polygons)"
     },
     {
-      "label": "6.",
+      "label": "7.",
       "content": "Advanced application creation (allowance 4/8)"
     },
     {
@@ -565,10 +601,14 @@
     },
     {
       "label": "c.",
-      "content": "Localization"
+      "content": "Notifications"
     },
     {
       "label": "d.",
+      "content": "Localization"
+    },
+    {
+      "label": "e.",
       "content": "Deploying the app to the Google Play store"
     },
     {
@@ -593,7 +633,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -609,7 +649,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -629,7 +669,7 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: optional"
+      "content": "Course type: required"
     },
     {
       "label": "[section] Course type:",
@@ -661,11 +701,11 @@
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "Prerequisites: not Final Bachelor Exam and not Mobile Applications for Android"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday13.00-14.50Q16B-OIJ. LandaLectureEven week80Thursday9.00-10.50Q12B-OIJ. LandaSeminarEvery week19Thursday11.00-12.50Q12B-OIJ. LandaSeminarEvery week19Thursday13.00-14.50Q12B-OIJ. LandaSeminarEvery week19"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday7.00-8.50Q12J. LandaSeminarEvery week19Tuesday11.00-12.50Q12J. LandaSeminarEvery week19Wednesday15.00-16.50Q15J. LandaLectureOdd week48"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -673,7 +713,7 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Introduction to the Kotlin language (allowance 2/4) a.Classes, variables, objects, inheritanceb.Null safetyc.Cycles, if, when,…d.Changes from Java2.Android application architecture (allowance 2/2) a.Android - history, version, architecture.b.Android studio - development environment, application launching and debugging, emulatorc.Material Design3.User interface (allowance 2/6) a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Listsg.Creating your own design elementsh.Styles4.Data persistence (allowance 2/4) a.Save during program run - companion objectb.Use of the DataStore class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat5.Working with the map (allowance 0/2) a.Map initialization using API keyb.Working with a virtual map camerac.Adding objects to the map (points, lines, polygons)6.Advanced application creation (allowance 4/8) a.Efficient image loadingb.Background work (Coroutines)c.Localizationd.Deploying the app to the Google Play store"
+      "content": "1.Introduction to the Kotlin language (allowance 2/4) a.Classes, variables, objects, inheritanceb.Null safetyc.Cycles, if, when,…d.Changes from Java2.Android application architecture (allowance 2/2) a.Android - history, version, architecture.b.Android studio - development environment, application launching and debugging, emulatorc.Material Design3.User interface (allowance 2/6) a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Creating your own design elementsg.Styles4.Lists (allowance 2/2) a.Creating lists using the RecyclerView classb.Creating adapter classc.Solve the problem of recycling in lists5.Data persistence (allowance 2/4) a.Save during program run - companion objectb.Use of the SharedPreferences class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat6.Working with the map (allowance 0/2) a.Map initialization using API keyb.Working with a virtual map camerac.Adding objects to the map (points, lines, polygons)7.Advanced application creation (allowance 4/8) a.Efficient image loadingb.Background work (Coroutines)c.Notificationsd.Localizatione.Deploying the app to the Google Play store"
     },
     {
       "label": "[section] 1.",
@@ -693,22 +733,30 @@
     },
     {
       "label": "[section] 3.",
-      "content": "a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Listsg.Creating your own design elementsh.Styles"
+      "content": "a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Creating your own design elementsg.Styles"
     },
     {
       "label": "[section] User interface",
-      "content": "a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Listsg.Creating your own design elementsh.Styles"
+      "content": "a.Activity as a basis for application, life cycleb.Communication between activities (using the Intent class)c.View classd.Fragmentse.Navigation componentf.Creating your own design elementsg.Styles"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Save during program run - companion objectb.Use of the DataStore class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+      "content": "a.Creating lists using the RecyclerView classb.Creating adapter classc.Solve the problem of recycling in lists"
     },
     {
-      "label": "[section] Data persistence",
-      "content": "a.Save during program run - companion objectb.Use of the DataStore class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+      "label": "[section] Lists",
+      "content": "a.Creating lists using the RecyclerView classb.Creating adapter classc.Solve the problem of recycling in lists"
     },
     {
       "label": "[section] 5.",
+      "content": "a.Save during program run - companion objectb.Use of the SharedPreferences class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] Data persistence",
+      "content": "a.Save during program run - companion objectb.Use of the SharedPreferences class to store datac.SQLite database - creation, queries, onCreate, onUpgraded.Použití knihovny Room pro uložení dat"
+    },
+    {
+      "label": "[section] 6.",
       "content": "a.Map initialization using API keyb.Working with a virtual map camerac.Adding objects to the map (points, lines, polygons)"
     },
     {
@@ -716,16 +764,16 @@
       "content": "a.Map initialization using API keyb.Working with a virtual map camerac.Adding objects to the map (points, lines, polygons)"
     },
     {
-      "label": "[section] 6.",
-      "content": "a.Efficient image loadingb.Background work (Coroutines)c.Localizationd.Deploying the app to the Google Play store"
+      "label": "[section] 7.",
+      "content": "a.Efficient image loadingb.Background work (Coroutines)c.Notificationsd.Localizatione.Deploying the app to the Google Play store"
     },
     {
       "label": "[section] Advanced application creation",
-      "content": "a.Efficient image loadingb.Background work (Coroutines)c.Localizationd.Deploying the app to the Google Play store"
+      "content": "a.Efficient image loadingb.Background work (Coroutines)c.Notificationsd.Localizatione.Deploying the app to the Google Play store"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture12 hpractice24 hpreparation for exam20 hpreparation for regular testing10 helaboration and execution of projects74 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture12 hpractice24 hpreparation for exam20 hpreparation for regular testing10 helaboration and execution of projects74 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -749,13 +797,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+      "content": "Track SBMA Mobile and Mapping Applications, full-time form, initial period SS 2019/2020Track SBMA Mobile and Mapping Applications, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:46:21",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:01:25",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,11 +15,11 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
-      "content": "zápočet (4 kredity)"
+      "content": "zápočet (3 kredity)"
     },
     {
       "label": "Forma výuky a dotace hodin:",
@@ -63,7 +63,7 @@
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Informatika"
+      "content": "Informatika a ne Státní bakalářská zkouška"
     },
     {
       "label": "1.",
@@ -103,7 +103,7 @@
     },
     {
       "label": "3.",
-      "content": "Práce s mapovými aplikacemi (dotace 0/18)"
+      "content": "Práce s mapovými aplikacemi (dotace 0/14)"
     },
     {
       "label": "a.",
@@ -119,7 +119,7 @@
     },
     {
       "label": "4.",
-      "content": "Lokační služby (dotace 0/2)"
+      "content": "Lokační služby (dotace 0/6)"
     },
     {
       "label": "a.",
@@ -139,7 +139,11 @@
     },
     {
       "label": "Vypracování semestrální práce",
-      "content": "60 %"
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "20 %"
     },
     {
       "label": "Absolvování závěrečného testu",
@@ -151,7 +155,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -167,18 +171,18 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
-      "content": "Způsob ukončení a počet kreditů: zápočet (4 kredity)"
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
       "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
-      "label": "[section] zápočet (4 kredity)",
+      "label": "[section] zápočet (3 kredity)",
       "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
@@ -219,11 +223,11 @@
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Informatika"
+      "content": "Prerekvizity: Informatika a ne Státní bakalářská zkouška"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek9.00-10.50Q04J. LandaCvičeníKaždý týden33"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q09J. LandaCvičeníKaždý týden20Úterý13.00-14.50Q09J. LandaCvičeníKaždý týden20Úterý15.00-16.50Q09J. LandaCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -231,7 +235,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do problematiky (dotace 0/4) a.základní pojmy kartografieb.souřadnicové systémyc.globální navigační satelitní systémyd.trendy v GIS2.Geografická data (dotace 0/4) a.zdroje datb.hodnocení kvality geografických datc.otevřená data3.Práce s mapovými aplikacemi (dotace 0/18) a.Google Mapyb.ArcGIS Proc.ArcGIS Online4.Lokační služby (dotace 0/2) a.charakteristika lokační službyb.tvorba lokační službyc.mobilní aplikace založené na principu lokačních služebd.využití lokačních služeb v cestovním ruchu"
+      "content": "1.Úvod do problematiky (dotace 0/4) a.základní pojmy kartografieb.souřadnicové systémyc.globální navigační satelitní systémyd.trendy v GIS2.Geografická data (dotace 0/4) a.zdroje datb.hodnocení kvality geografických datc.otevřená data3.Práce s mapovými aplikacemi (dotace 0/14) a.Google Mapyb.ArcGIS Proc.ArcGIS Online4.Lokační služby (dotace 0/6) a.charakteristika lokační službyb.tvorba lokační službyc.mobilní aplikace založené na principu lokačních služebd.využití lokačních služeb v cestovním ruchu"
     },
     {
       "label": "[section] 1.",
@@ -267,15 +271,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení28 hpráce v terénu10 hkonzultace4 hpříprava na průběžný test16 hzpracování seminární práce54 hCelkem112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumcvičení28 hpráce v terénu10 hpříprava na průběžný test10 hzpracování seminární práce36 hCelkem84 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "V průběhu semestru mají studenti možnost získat až 50 bodů. Pro úspěšné splnění zápočtu je nutné získat alespoň 30 bodů. Součástí zápočtu je praktický projekt, který studenti vytvoří během semestru. Součástí bodování projektu jsou i průběžné konzultace, za které mohou studenti získat až 5 bodů z celkových 30 určených za projekt. Dále je nutné splnit zápočtový test, za který je možné získat až 20 bodů. Zároveň je nutné z projektu získat minimálně 15 bodů a ze zápočtového testu minimálně 10 bodů. Počet oprav zápočtového testu je 2, u ostatních částí zápočtu je 1."
+      "content": "V průběhu semestru mají studenti možnost získat až 50 bodů. Pro úspěšné splnění zápočtu je nutné získat alespoň 30 bodů. Součástí zápočtu je praktický projekt, který studenti vytvoří během semestru. Součástí bodování projektu jsou i průběžné konzultace a samostudium látky, za které mohou studenti získat až 10 bodů z celkových 30 určených za projekt. Dále je nutné splnit zápočtový test, za který je možné získat až 20 bodů. Zároveň je nutné z projektu získat minimálně 15 bodů a ze zápočtového testu minimálně 10 bodů. Počet oprav zápočtového testu je 2, u ostatních částí zápočtu je 1."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumVypracování semestrální práce60 %Absolvování závěrečného testu40 %Celkem100 %"
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování průběžného testu (testů)20 %Absolvování závěrečného testu40 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -291,7 +295,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace EBMCR Management cestovního ruchu, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Specializace EBMCR Management cestovního ruchu, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -313,11 +317,11 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
-      "content": "Pass credit (4 credits)"
+      "content": "Pass credit (3 credits)"
     },
     {
       "label": "Mode of delivery and timetabled classes:",
@@ -361,7 +365,7 @@
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Informatics"
+      "content": "Informatics and not Final Bachelor Exam"
     },
     {
       "label": "1.",
@@ -437,7 +441,11 @@
     },
     {
       "label": "Term paper",
-      "content": "60 %"
+      "content": "40 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "20 %"
     },
     {
       "label": "Final test",
@@ -449,7 +457,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -465,18 +473,18 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
-      "content": "Mode of completion and number of credits: Pass credit (4 credits)"
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
     },
     {
       "label": "[section] Mode of completion and number of credits:",
       "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] Pass credit (4 credits)",
+      "label": "[section] Pass credit (3 credits)",
       "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
@@ -517,11 +525,11 @@
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Informatics"
+      "content": "Prerequisites: Informatics and not Final Bachelor Exam"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday9.00-10.50Q04J. LandaSeminarEvery week33"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50Q09J. LandaSeminarEvery week20Tuesday13.00-14.50Q09J. LandaSeminarEvery week20Tuesday15.00-16.50Q09J. LandaSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -565,15 +573,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice28 hfield work10 hconsultation4 hpreparation for regular testing16 hwriting of seminar paper54 hTotal112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancepractice28 hfield work10 hpreparation for regular testing10 hwriting of seminar paper36 hTotal84 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "During the semester, students have the opportunity to obtain up to 50 points. To successfully complete the course, it is necessary to obtain at least 30 points. Part of the course is a practical project that students create during the semester. The scoring of the project also includes ongoing consultations, for which students can obtain up to 5 points out of a total of 30 earmarked for the project. It is also necessary to pass a final test, for which it is possible to obtain up to 20 points. At the same time, it is necessary to obtain at least 15 points from the project and at least 10 points from the final test. The number of credit test corrections is 2, for other parts of the credit it is 1."
+      "content": "During the semester, students have the opportunity to obtain up to 50 points. To successfully complete the course, it is necessary to obtain at least 30 points. Part of the course is a practical project that students create during the semester. The scoring of the project also includes ongoing consultations and self-study of the subject, for which students can obtain up to 10 points out of a total of 30 earmarked for the project. It is also necessary to pass a final test, for which it is possible to obtain up to 20 points. At the same time, it is necessary to obtain at least 15 points from the project and at least 10 points from the final test. The number of credit test corrections is 2, for other parts of the credit it is 1."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceTerm paper60 %Final test40 %Total100 %"
+      "content": "Requirement typeDaily attendanceTerm paper40 %Mid-term test(s)20 %Final test40 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -589,13 +597,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track EBMCR Tourism Management, full-time form, initial period WS 2023/2024"
+      "content": "Track EBMCR Tourism Management, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:40:34",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:54:00",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

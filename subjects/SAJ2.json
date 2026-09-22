@@ -3,7 +3,7 @@
   "name": "Světový jazyk 2 - angličtina",
   "nameCs": "Světový jazyk 2 - angličtina",
   "nameEn": "English Course 2",
-  "predmetId": "156665",
+  "predmetId": "161670",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,59 @@
     "PhDr. Lenka Řitičková"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161670;lang=cz",
+      "totalPass": 318,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 2,
+            "D": 2,
+            "E": 4,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 10,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 77,
+            "B": 123,
+            "C": 67,
+            "D": 32,
+            "E": 19,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 318,
+          "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 77,
+            "B": 121,
+            "C": 65,
+            "D": 30,
+            "E": 15,
+            "F": 10,
+            "FN": 5
+          },
+          "pass": 308,
+          "fail": 15
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -264,5 +317,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

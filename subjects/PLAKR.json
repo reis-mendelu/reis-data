@@ -3,11 +3,50 @@
   "name": "Pěstování LAKR",
   "nameCs": "Pěstování LAKR",
   "nameEn": "Medical and Aromatic Crops Science",
-  "predmetId": "157084",
+  "predmetId": "161993",
   "facultyId": 14,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161993;lang=cz",
+      "totalPass": 40,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 9,
+            "C": 11,
+            "D": 3,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 40,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 12,
+            "B": 9,
+            "C": 11,
+            "D": 3,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 40,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -218,5 +257,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

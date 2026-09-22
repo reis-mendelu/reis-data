@@ -3,11 +3,50 @@
   "name": "Diplomacie a diplomatický protokol v AJ",
   "nameCs": "Diplomacie a diplomatický protokol v AJ",
   "nameEn": "Diplomacy and diplomatic protocol in EN",
-  "predmetId": "157778",
+  "predmetId": "163024",
   "facultyId": 23,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163024;lang=cz",
+      "totalPass": 37,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 21,
+            "C": 10,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 37,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 21,
+            "C": 10,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 37,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -126,5 +165,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

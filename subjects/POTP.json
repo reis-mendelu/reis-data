@@ -3,13 +3,80 @@
   "name": "Pěstování technických plodin",
   "nameCs": "Pěstování technických plodin",
   "nameEn": "Tuber and Root Science",
-  "predmetId": "157137",
+  "predmetId": "162384",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "doc. Ing. Tomáš Středa, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162384;lang=cz",
+      "totalPass": 22,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 0,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 7,
+            "B": 4,
+            "C": 3,
+            "D": 6,
+            "E": 2,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 22,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 4,
+            "C": 2,
+            "D": 4,
+            "E": 0,
+            "F": 6,
+            "FN": 1
+          },
+          "pass": 16,
+          "fail": 7
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -304,5 +371,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

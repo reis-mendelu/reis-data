@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2020/2021"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -31,15 +31,15 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "povinný"
+      "content": "volitelný"
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "normální"
+      "content": "konzultační"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Výuka může probíhat konzultační formou a ukončení předmětu zápočtem v řádném termínu."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Richard Danko (cvičící, přednášející, zkoušející)Ing. Miroslav Horák, Ph.D. (cvičící, přednášející, zkoušející)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Jiří Sochor, Ph.D. (cvičící, přednášející)Ing. Miroslav Vachůn, Ph.D. (cvičící, přednášející)"
+      "content": "prof. Ing. Mojmír Baroň, Ph.D. (cvičící, přednášející, zkoušející)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -87,7 +87,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -103,7 +103,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2020/2021"
     },
     {
       "label": "[section] Semestr:",
@@ -123,15 +123,15 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: povinný"
+      "content": "Typ předmětu: volitelný"
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: normální"
+      "content": "Typ výuky předmětu: konzultační"
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Výuka může probíhat konzultační formou a ukončení předmětu zápočtem v řádném termínu."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -151,7 +151,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Richard Danko (cvičící, přednášející, zkoušející)Ing. Miroslav Horák, Ph.D. (cvičící, přednášející, zkoušející)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Jiří Sochor, Ph.D. (cvičící, přednášející)Ing. Miroslav Vachůn, Ph.D. (cvičící, přednášející)"
+      "content": "Vyučující: prof. Ing. Mojmír Baroň, Ph.D. (cvičící, přednášející, zkoušející)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -159,7 +159,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek8.00-9.50ZFC21 (Led)R. Danko, M. Horák, T. Kopta, J. Sochor, M. VachůnCvičeníKaždý týden22Čtvrtek8.00-9.50ZFC13 (Led)M. Horák, R. Danko, T. Kopta, M. VachůnCvičeníKaždý týden22Sobota8.00-11.50ZFAC2 (Led)T. Kopta, R. Danko, M. Horák, J. Sochor, M. VachůnPřednáškaNepravidelně45"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -203,11 +203,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumcvičení24 h14 hkonzultace10 h20 hkolokvium5 h5 hveřejná prezentace (ústní)1 h1 hpříprava prezentace4 h4 hzpracování seminární práce12 h12 hCelkem56 h56 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumKombinované studiumcvičení24 h14 hkonzultace25 h35 hprojektová práce10 h10 hkolokvium17 h17 hveřejná prezentace (ústní)1 h1 hpříprava prezentace10 h10 hzpracování projektů25 h25 hCelkem112 h112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Zpracování odborného ročníkového projektu s povinnými konzultacemi (min. požadavek na splnění 75 %), odevzdání pasáže literární části DP."
+      "content": "Zpracování odborného ročníkového projektu s povinnými konzultacemi (min. požadavek na splnění 75 %)"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -223,7 +223,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program N-ZIZ Zahradnické inženýrství, kombinovaná forma, počáteční období ZS 2024/2025Program N-ZIZ Zahradnické inženýrství, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -245,7 +245,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2020/2021"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -261,15 +261,15 @@
     },
     {
       "label": "Course type:",
-      "content": "required"
+      "content": "optional"
     },
     {
       "label": "Type of delivery:",
-      "content": "usual"
+      "content": "consulting"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "Teaching can take place in the consultation form and the subject can be completed by final evaluation in the regular exam period."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -289,7 +289,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Richard Danko (examiner, instructor, lecturer)Ing. Miroslav Horák, Ph.D. (examiner, instructor, lecturer)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Jiří Sochor, Ph.D. (instructor, lecturer)Ing. Miroslav Vachůn, Ph.D. (instructor, lecturer)"
+      "content": "prof. Ing. Mojmír Baroň, Ph.D. (examiner, instructor, lecturer)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -297,7 +297,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -313,7 +313,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2020/2021"
     },
     {
       "label": "[section] Semester:",
@@ -333,15 +333,15 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: required"
+      "content": "Course type: optional"
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: usual"
+      "content": "Type of delivery: consulting"
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: Teaching can take place in the consultation form and the subject can be completed by final evaluation in the regular exam period."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -361,7 +361,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Richard Danko (examiner, instructor, lecturer)Ing. Miroslav Horák, Ph.D. (examiner, instructor, lecturer)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Jiří Sochor, Ph.D. (instructor, lecturer)Ing. Miroslav Vachůn, Ph.D. (instructor, lecturer)"
+      "content": "Teachers: prof. Ing. Mojmír Baroň, Ph.D. (examiner, instructor, lecturer)doc. Mgr. Ing. Tomáš Kopta, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -369,7 +369,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday8.00-9.50ZFC13 (Led)M. Horák, R. Danko, T. Kopta, M. VachůnSeminarEvery week22Thursday8.00-9.50ZFC21 (Led)R. Danko, M. Horák, T. Kopta, J. Sochor, M. VachůnSeminarEvery week22Saturday8.00-11.50ZFAC2 (Led)T. Kopta, R. Danko, M. Horák, J. Sochor, M. VachůnLectureOccasionally45"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -381,11 +381,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formpractice24 h14 hconsultation10 h20 hcolloquium5 h5 hpublic presentation (oral)1 h1 hpreparation of presentation4 h4 hwriting of seminar paper12 h12 hTotal56 h56 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formpractice24 h14 hconsultation25 h35 hproject work10 h10 hcolloquium17 h17 hpublic presentation (oral)1 h1 hpreparation of presentation10 h10 helaboration and execution of projects25 h25 hTotal112 h112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Preparation of a professional class project with mandatory consultations (min. 75% success rate), submission of a passage of the literary part of the DP."
+      "content": "Preparation of a professional class project with mandatory consultations (min. 75% success rate)"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -401,13 +401,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme C-HEN Horticulture engineering, part-time form, initial period WS 2024/2025Programme C-HEN Horticulture engineering, full-time form, initial period WS 2024/2025"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 08:20:27",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:32:51",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

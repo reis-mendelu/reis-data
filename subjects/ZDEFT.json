@@ -1,13 +1,52 @@
 {
   "courseCode": "ZDEFT",
-  "name": "Dendrologie a ekologie lesních dřevin (v AJ)",
-  "nameCs": "Dendrologie a ekologie lesních dřevin (v AJ)",
-  "nameEn": "Dendrology and Ecology of Forest Tree Species",
-  "predmetId": "156969",
-  "facultyId": 38,
+  "name": "Dendrology and Ecology of  Forest Trees",
+  "nameCs": "Dendrology and Ecology of Forest Trees",
+  "nameEn": "Dendrology and Ecology of Forest Trees",
+  "predmetId": "162097",
+  "facultyId": 79,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=162097;lang=cz",
+      "totalPass": 6,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 3,
+            "D": 2,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -360,5 +399,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -1,15 +1,55 @@
 {
   "courseCode": "SPMECH",
   "name": "Speciální mechanizace (RSZ)",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "3",
+  "nameCs": "Speciální mechanizace (RSZ)",
+  "nameEn": "Specialized machinery (RSZ)",
+  "predmetId": "162307",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
     "Ing. Vladimír Mašán, Ph.D.",
     "prof. Ing. Patrik Burg, Ph.D."
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162307;lang=cz",
+      "totalPass": 18,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 6,
+            "C": 6,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 6,
+            "C": 6,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 0
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

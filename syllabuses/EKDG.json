@@ -203,7 +203,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek9.00-9.50P-ATEP. Krupičková, J. SvobodaPřednáškaKaždý týden20Čtvrtek10.00-12.50P-ATEP. Krupičková, J. SvobodaCvičeníKaždý týden20"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -291,7 +291,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení42 hpříprava prezentace10 hzpracování seminární práce42 hCelkem108 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumpřednáška14 hcvičení42 hpříprava prezentace10 hzpracování seminární práce42 hCelkem108 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -521,7 +521,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday9.00-9.50P-ATEP. Krupičková, J. SvobodaLectureEvery week20Thursday10.00-12.50P-ATEP. Krupičková, J. SvobodaSeminarEvery week20"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -605,7 +605,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice42 hpreparation of presentation10 hwriting of seminar paper42 hTotal108 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelecture14 hpractice42 hpreparation of presentation10 hwriting of seminar paper42 hTotal108 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -632,6 +632,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:48:27",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:03:52",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

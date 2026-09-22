@@ -1,20 +1,88 @@
 {
   "courseCode": "EBC-AVD",
   "name": "Analytika a vizualizace dat",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "6",
+  "nameCs": "Analytika a vizualizace dat",
+  "nameEn": "Data analysis and visualisation",
+  "predmetId": "162535",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Anděla Matiášová, Ph.D.",
-    "Ing. Jiří Třináctý",
+    "Ing. Ludmila Brestičová",
     "Ing. Mgr. Jana Dannhoferová, Ph.D.",
     "Ing. Petr Jedlička, Ph.D.",
     "Ing. et Ing. Michaela Veselá",
     "Mgr. Zuzana Košťálová",
     "doc. Dr. Ing. Jiří Rybička"
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162535;lang=cz",
+      "totalPass": 325,
+      "totalFail": 315,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 4,
+            "C": 16,
+            "D": 13,
+            "E": 12,
+            "F": 12,
+            "FN": 1
+          },
+          "pass": 47,
+          "fail": 13
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 3,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 53,
+            "B": 59,
+            "C": 102,
+            "D": 69,
+            "E": 42,
+            "F": 17,
+            "FN": 298
+          },
+          "pass": 325,
+          "fail": 315
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 51,
+            "B": 55,
+            "C": 85,
+            "D": 53,
+            "E": 29,
+            "F": 67,
+            "FN": 300
+          },
+          "pass": 273,
+          "fail": 367
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

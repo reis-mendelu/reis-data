@@ -3,7 +3,7 @@
   "name": "Chov koní",
   "nameCs": "Chov koní",
   "nameEn": "Horse Husbandry",
-  "predmetId": "161345",
+  "predmetId": "161962",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "Ing. Eva Sobotková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161962;lang=cz",
+      "totalPass": 85,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 6,
+            "C": 1,
+            "D": 2,
+            "E": 3,
+            "F": 9,
+            "FN": 0
+          },
+          "pass": 13,
+          "fail": 9
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 5,
+            "D": 2,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 18,
+            "B": 28,
+            "C": 22,
+            "D": 12,
+            "E": 5,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 85,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 22,
+            "C": 16,
+            "D": 8,
+            "E": 2,
+            "F": 20,
+            "FN": 2
+          },
+          "pass": 65,
+          "fail": 22
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -447,5 +514,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

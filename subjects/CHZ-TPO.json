@@ -3,7 +3,7 @@
   "name": "Chov hospodářských zvířat TP",
   "nameCs": "Chov hospodářských zvířat TP",
   "nameEn": "Farm animal husbandry FT",
-  "predmetId": "157195",
+  "predmetId": "162456",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,59 @@
     "doc. Ing. Pavel Nevrkla, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162456;lang=cz",
+      "totalPass": 28,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 11,
+            "B": 8,
+            "C": 6,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 28,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 11,
+            "B": 8,
+            "C": 4,
+            "D": 1,
+            "E": 0,
+            "F": 3,
+            "FN": 1
+          },
+          "pass": 24,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -305,5 +358,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,15 +3,112 @@
   "name": "Bakalářský seminář IS/ICT",
   "nameCs": "Bakalářský seminář IS/ICT",
   "nameEn": "Bachelor's Thesis Seminar IS/ICT",
-  "predmetId": "159818",
+  "predmetId": "162867",
   "facultyId": 2,
   "aliases": [
     "BSA"
   ],
   "teachers": [
-    "doc. Ing. František Dařena, Ph.D."
+    "Bc. Ing. Jan Janča",
+    "Ing. Andrej Gono",
+    "Ing. Andrej Juríčka",
+    "Ing. David Procházka, Ph.D.",
+    "Ing. Ivo Pisařovic, Ph.D.",
+    "Ing. Jan Kodýtek",
+    "Ing. Jan Přichystal, Ph.D.",
+    "Ing. Jan Turčínek, Ph.D.",
+    "Ing. Jaromír Landa, Ph.D.",
+    "Ing. Jiří Passinger",
+    "Ing. Miroslav Jaroš",
+    "Ing. Oldřich Faldík, Ph.D.",
+    "Ing. Pavel Haluza, Ph.D.",
+    "Ing. Pavel Turčínek, Ph.D.",
+    "Ing. Petr Jedlička, Ph.D.",
+    "Ing. Roman Valovič",
+    "Ing. Stratos Zerdaloglu",
+    "Ing. Vlastimil Slaný, Ph.D.",
+    "Ing. et Ing. Michaela Veselá",
+    "Mgr. David Vašíček",
+    "RNDr. Tomáš Hála, Ph.D.",
+    "RNDr. Zuzana Špendel, Ph.D.",
+    "doc. Dr. Ing. Jiří Rybička",
+    "doc. Ing. František Dařena, Ph.D.",
+    "doc. Ing. Ivana Rábová, Ph.D.",
+    "doc. Ing. Oldřich Trenz, Ph.D.",
+    "doc. RNDr. Tomáš Sochor, CSc.",
+    "prof. Ing. Cyril Klimeš, CSc.",
+    "prof. Ing. Radim Farana, CSc., FEng.",
+    "prof. RNDr. Tomáš Pitner, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162867;lang=cz",
+      "totalPass": 9,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 9,
+            "nezap": 0,
+            "zapNedost": 3
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 8,
+            "nezap": 0,
+            "zapNedost": 4
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -345,5 +442,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

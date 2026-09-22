@@ -3,46 +3,65 @@
   "name": "Bakalářská práce IS/ICT",
   "nameCs": "Bakalářská práce IS/ICT",
   "nameEn": "Bachelor's Thesis IS/ICT",
-  "predmetId": "160357",
+  "predmetId": "162521",
   "facultyId": 2,
   "aliases": [
     "BPA"
   ],
   "teachers": [
-    "Bc. Michal Koudela",
-    "Ing. Andrej Gono",
-    "Ing. Andrej Juríčka",
-    "Ing. David Procházka, Ph.D.",
-    "Ing. Ivo Pisařovic, Ph.D.",
-    "Ing. Jan Janča",
-    "Ing. Jan Kodýtek",
-    "Ing. Jan Přichystal, Ph.D.",
-    "Ing. Jaromír Landa, Ph.D.",
-    "Ing. Jiří Balej, Ph.D.",
-    "Ing. Jiří Passinger",
-    "Ing. Miroslav Jaroš",
-    "Ing. Oldřich Faldík, Ph.D.",
-    "Ing. Pavel Haluza, Ph.D.",
     "Ing. Pavel Turčínek, Ph.D.",
-    "Ing. Petr Jedlička, Ph.D.",
-    "Ing. Roman Valovič",
-    "Ing. Stratos Zerdaloglu",
-    "Ing. Vlastimil Slaný, Ph.D.",
-    "Ing. et Ing. Michaela Veselá",
-    "Mgr. David Vašíček",
-    "RNDr. Tomáš Hála, Ph.D.",
-    "RNDr. Zuzana Špendel, Ph.D.",
-    "doc. Dr. Ing. Jiří Rybička",
-    "doc. Dr. Ing. Vladimír Kebo",
-    "doc. Ing. František Dařena, Ph.D.",
-    "doc. Ing. Ivana Rábová, Ph.D.",
-    "doc. Ing. Oldřich Trenz, Ph.D.",
-    "doc. RNDr. Tomáš Sochor, CSc.",
-    "prof. Ing. Cyril Klimeš, CSc.",
-    "prof. Ing. Radim Farana, CSc., FEng.",
-    "prof. RNDr. Tomáš Pitner, Ph.D."
+    "doc. Ing. František Dařena, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162521;lang=cz",
+      "totalPass": 64,
+      "totalFail": 27,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 64,
+          "fail": 27,
+          "creditGrades": {
+            "zap": 64,
+            "nezap": 5,
+            "zapNedost": 22
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 64,
+          "fail": 27,
+          "creditGrades": {
+            "zap": 64,
+            "nezap": 5,
+            "zapNedost": 22
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -98,7 +117,7 @@
       "year": 2024,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156521;lang=cz",
-      "totalPass": 55,
+      "totalPass": 56,
       "totalFail": 14,
       "terms": [
         {
@@ -112,10 +131,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 55,
+          "pass": 56,
           "fail": 14,
           "creditGrades": {
-            "zap": 55,
+            "zap": 56,
             "nezap": 14,
             "zapNedost": 0
           }
@@ -357,5 +376,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

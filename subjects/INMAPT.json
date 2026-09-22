@@ -3,22 +3,66 @@
   "name": "Instrumentální metody analýzy v potravinářství",
   "nameCs": "Instrumentální metody analýzy v potravinářství",
   "nameEn": "Instrumental methods of analysis in food science",
-  "predmetId": "157298",
+  "predmetId": "162780",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
-    "Ing. Andrea Ridošková, Ph.D.",
-    "Ing. Eliška Birgusová",
-    "Ing. Libor Lenža, Ph.D.",
-    "Ing. Silvia Vaculčiaková",
-    "Ing. Tomáš Do, Ph.D.",
-    "Mgr. Lenka Brůhová",
-    "Mgr. Roman Guráň, Ph.D.",
-    "RNDr. Lenka Vaňková, Ph.D.",
-    "doc. RNDr. Lukáš Richtera, Ph.D.",
     "prof. Mgr. Pavlína Pelcová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162780;lang=cz",
+      "totalPass": 12,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 5,
+            "C": 5,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 12,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 4,
+            "D": 2,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -193,5 +237,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

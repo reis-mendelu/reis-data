@@ -1,0 +1,657 @@
+{
+  "courseCode": "ZBIO",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ZBIO"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Základy biostatistiky"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Introduction to Biostatistics"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Během mobility bude výuka probíhat formou samostudia doporučené literatury a vypracováním samostatných cvičení na probíraná témata. Studenti obdrží pokyny a materiály na podporu svého samostatného studia. Pravidelné konzultace s vyučujícím budou k dispozici pro zodpovězení dotazů a zajištění pokroku."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zoologie, rybářství a hydrobiologie (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Mgr. Attila Balázs, Ph.D. (cvičící)Ing. Dominik Stočes, Ph.D. (cvičící)doc. Mgr. Jan Šipoš, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Výběr dat a jejich příprava"
+    },
+    {
+      "label": "b.",
+      "content": "Indukce a dedukce"
+    },
+    {
+      "label": "c.",
+      "content": "Testovování hypotéz"
+    },
+    {
+      "label": "2.",
+      "content": "Význam statistiky a biostatistiky (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Zpřehlednění dat"
+    },
+    {
+      "label": "b.",
+      "content": "Věrohodnost závěrů"
+    },
+    {
+      "label": "c.",
+      "content": "Predikce"
+    },
+    {
+      "label": "3.",
+      "content": "Odvětví statistiky (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Popisná statistika"
+    },
+    {
+      "label": "b.",
+      "content": "Induktivní statistika"
+    },
+    {
+      "label": "c.",
+      "content": "Frekvenční statistika"
+    },
+    {
+      "label": "4.",
+      "content": "Dedukce, indukce a pravdivost (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Indukce"
+    },
+    {
+      "label": "b.",
+      "content": "Dedukce"
+    },
+    {
+      "label": "c.",
+      "content": "Induktivně-deduktivní přístup"
+    },
+    {
+      "label": "5.",
+      "content": "Hypotéza a teorie (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Hypotéza"
+    },
+    {
+      "label": "b.",
+      "content": "Teorie"
+    },
+    {
+      "label": "c.",
+      "content": "Paradigma"
+    },
+    {
+      "label": "6.",
+      "content": "Příprava výzkumného projektu a testování hypotéz (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Formulace hypotéz"
+    },
+    {
+      "label": "b.",
+      "content": "Plánování analýzy"
+    },
+    {
+      "label": "c.",
+      "content": "Rizika a časté chyby"
+    },
+    {
+      "label": "7.",
+      "content": "Populace a výběrový soubor (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní populace"
+    },
+    {
+      "label": "b.",
+      "content": "Výběrový soubor"
+    },
+    {
+      "label": "c.",
+      "content": "Statistické usuzování"
+    },
+    {
+      "label": "8.",
+      "content": "Metody výběru vzorku (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Náhodný výběr"
+    },
+    {
+      "label": "b.",
+      "content": "Stratifikovaný náhodný výběr"
+    },
+    {
+      "label": "c.",
+      "content": "Nenáhodný výběr (záměrný, spontánní, kvótní)"
+    },
+    {
+      "label": "9.",
+      "content": "Časté chyby (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Výběrové šetření a příčinnost"
+    },
+    {
+      "label": "b.",
+      "content": "Kvalita měření"
+    },
+    {
+      "label": "c.",
+      "content": "Metody sběru dat"
+    },
+    {
+      "label": "10.",
+      "content": "Rozdělení náhodné veličiny (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozdělení dat"
+    },
+    {
+      "label": "b.",
+      "content": "Rozdělení pravděpodobnosti"
+    },
+    {
+      "label": "c.",
+      "content": "Gaussovo, Poissonovo a Binomické rozdělení"
+    },
+    {
+      "label": "11.",
+      "content": "Základní statistické testy a modely (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Testy hypotézy o střední hodnotě (t-test a ANOVA)"
+    },
+    {
+      "label": "b.",
+      "content": "Test variability (F-test)"
+    },
+    {
+      "label": "c.",
+      "content": "Testy hypotéz pro neparametrická data (Chi‑square, Wilcoxonův a znaménkový test)"
+    },
+    {
+      "label": "12.",
+      "content": "Korelace a regrese (dotace 1/1)"
+    },
+    {
+      "label": "a.",
+      "content": "Rovnice přímky"
+    },
+    {
+      "label": "b.",
+      "content": "Residuály"
+    },
+    {
+      "label": "c.",
+      "content": "Validace modelu"
+    },
+    {
+      "label": "Praxe, exkurze nebo praktický projekt",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "80 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "ZS 2026/2027 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Základy biostatistiky"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Introduction to Biostatistics"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Během mobility bude výuka probíhat formou samostudia doporučené literatury a vypracováním samostatných cvičení na probíraná témata. Studenti obdrží pokyny a materiály na podporu svého samostatného studia. Pravidelné konzultace s vyučujícím budou k dispozici pro zodpovězení dotazů a zajištění pokroku."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zoologie, rybářství a hydrobiologie (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Mgr. Attila Balázs, Ph.D. (cvičící)Ing. Dominik Stočes, Ph.D. (cvičící)doc. Mgr. Jan Šipoš, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí9.00-10.50A416D. StočesCvičeníKaždý týden20Pondělí11.00-12.50A416D. StočesCvičeníKaždý týden20Úterý9.00-10.50A416A. BalázsCvičeníKaždý týden20Úterý11.00-12.50A416A. BalázsCvičeníKaždý týden20Středa8.00-8.50C02J. ŠipošPřednáškaKaždý týden132Čtvrtek9.00-10.50A416D. StočesCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět Základy biostatistiky je zaměřen na osvojení základních statistických konceptů a metod, včetně pravděpodobnostních rozdělení, statistického rozhodování a základních testů, jako jsou ANOVA a t-test. Cílem kurzu je: Seznámit studenty s principy experimentálního designu a analýzy biologických dat. Naučit studenty správně interpretovat statistické výstupy a vyvozovat z nich závěry. Procvičit praktické použití statistických metod v biologickém výzkumu, včetně vizualizace dat."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod (dotace 1/1) a.Výběr dat a jejich přípravab.Indukce a dedukcec.Testovování hypotéz2.Význam statistiky a biostatistiky (dotace 1/1) a.Zpřehlednění datb.Věrohodnost závěrůc.Predikce3.Odvětví statistiky (dotace 1/1) a.Popisná statistikab.Induktivní statistikac.Frekvenční statistika4.Dedukce, indukce a pravdivost (dotace 1/1) a.Indukceb.Dedukcec.Induktivně-deduktivní přístup5.Hypotéza a teorie (dotace 1/1) a.Hypotézab.Teoriec.Paradigma6.Příprava výzkumného projektu a testování hypotéz (dotace 1/1) a.Formulace hypotézb.Plánování analýzyc.Rizika a časté chyby7.Populace a výběrový soubor (dotace 1/1) a.Základní populaceb.Výběrový souborc.Statistické usuzování8.Metody výběru vzorku (dotace 1/1) a.Náhodný výběrb.Stratifikovaný náhodný výběrc.Nenáhodný výběr (záměrný, spontánní, kvótní)9.Časté chyby (dotace 1/1) a.Výběrové šetření a příčinnostb.Kvalita měřeníc.Metody sběru dat10.Rozdělení náhodné veličiny (dotace 1/1) a.Rozdělení datb.Rozdělení pravděpodobnostic.Gaussovo, Poissonovo a Binomické rozdělení11.Základní statistické testy a modely (dotace 1/1) a.Testy hypotézy o střední hodnotě (t-test a ANOVA)b.Test variability (F-test)c.Testy hypotéz pro neparametrická data (Chi‑square, Wilcoxonův a znaménkový test)12.Korelace a regrese (dotace 1/1) a.Rovnice přímkyb.Residuályc.Validace modelu"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Výběr dat a jejich přípravab.Indukce a dedukcec.Testovování hypotéz"
+    },
+    {
+      "label": "[section] Úvod",
+      "content": "a.Výběr dat a jejich přípravab.Indukce a dedukcec.Testovování hypotéz"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Zpřehlednění datb.Věrohodnost závěrůc.Predikce"
+    },
+    {
+      "label": "[section] Význam statistiky a biostatistiky",
+      "content": "a.Zpřehlednění datb.Věrohodnost závěrůc.Predikce"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Popisná statistikab.Induktivní statistikac.Frekvenční statistika"
+    },
+    {
+      "label": "[section] Odvětví statistiky",
+      "content": "a.Popisná statistikab.Induktivní statistikac.Frekvenční statistika"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Indukceb.Dedukcec.Induktivně-deduktivní přístup"
+    },
+    {
+      "label": "[section] Dedukce, indukce a pravdivost",
+      "content": "a.Indukceb.Dedukcec.Induktivně-deduktivní přístup"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Hypotézab.Teoriec.Paradigma"
+    },
+    {
+      "label": "[section] Hypotéza a teorie",
+      "content": "a.Hypotézab.Teoriec.Paradigma"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Formulace hypotézb.Plánování analýzyc.Rizika a časté chyby"
+    },
+    {
+      "label": "[section] Příprava výzkumného projektu a testování hypotéz",
+      "content": "a.Formulace hypotézb.Plánování analýzyc.Rizika a časté chyby"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Základní populaceb.Výběrový souborc.Statistické usuzování"
+    },
+    {
+      "label": "[section] Populace a výběrový soubor",
+      "content": "a.Základní populaceb.Výběrový souborc.Statistické usuzování"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Náhodný výběrb.Stratifikovaný náhodný výběrc.Nenáhodný výběr (záměrný, spontánní, kvótní)"
+    },
+    {
+      "label": "[section] Metody výběru vzorku",
+      "content": "a.Náhodný výběrb.Stratifikovaný náhodný výběrc.Nenáhodný výběr (záměrný, spontánní, kvótní)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Výběrové šetření a příčinnostb.Kvalita měřeníc.Metody sběru dat"
+    },
+    {
+      "label": "[section] Časté chyby",
+      "content": "a.Výběrové šetření a příčinnostb.Kvalita měřeníc.Metody sběru dat"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Rozdělení datb.Rozdělení pravděpodobnostic.Gaussovo, Poissonovo a Binomické rozdělení"
+    },
+    {
+      "label": "[section] Rozdělení náhodné veličiny",
+      "content": "a.Rozdělení datb.Rozdělení pravděpodobnostic.Gaussovo, Poissonovo a Binomické rozdělení"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Testy hypotézy o střední hodnotě (t-test a ANOVA)b.Test variability (F-test)c.Testy hypotéz pro neparametrická data (Chi‑square, Wilcoxonův a znaménkový test)"
+    },
+    {
+      "label": "[section] Základní statistické testy a modely",
+      "content": "a.Testy hypotézy o střední hodnotě (t-test a ANOVA)b.Test variability (F-test)c.Testy hypotéz pro neparametrická data (Chi‑square, Wilcoxonův a znaménkový test)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Rovnice přímkyb.Residuályc.Validace modelu"
+    },
+    {
+      "label": "[section] Korelace a regrese",
+      "content": "a.Rovnice přímkyb.Residuályc.Validace modelu"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška12 hcvičení24 hCelkem36 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Povinná účast na cvičení; předmět je ukončen praktickou zkouškou na počítači v podobě statistického vyhodnocení dat v Excelu. Doba trvání zkoušky bude 60 min., pro úspěšné splnění zkoušky bude nutné dosáhnout minimálně 60 % bodů."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumPraxe, exkurze nebo praktický projekt20 %Absolvování závěrečného testu80 %Celkem100 %"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-ZOT Zootechnika, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ZBIO"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Základy biostatistiky"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Introduction to Biostatistics"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "During the mobility period, the course will be conducted through self-study of the recommended literature and completion of independent exercises on the topics covered. Students will receive guidelines and materials to support their self-directed learning. Regular consultations with the instructor will be available to answer questions and ensure progress."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Zoology, Fisheries and Hydrobiology (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Mgr. Attila Balázs, Ph.D. (instructor)Ing. Dominik Stočes, Ph.D. (instructor)doc. Mgr. Jan Šipoš, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "Practical assessment, internship",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "80 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "WS 2026/2027 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Základy biostatistiky"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Introduction to Biostatistics"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: During the mobility period, the course will be conducted through self-study of the recommended literature and completion of independent exercises on the topics covered. Students will receive guidelines and materials to support their self-directed learning. Regular consultations with the instructor will be available to answer questions and ensure progress."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Jan Šipoš, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Zoology, Fisheries and Hydrobiology (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Mgr. Attila Balázs, Ph.D. (instructor)Ing. Dominik Stočes, Ph.D. (instructor)doc. Mgr. Jan Šipoš, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday9.00-10.50A416D. StočesSeminarEvery week20Monday11.00-12.50A416D. StočesSeminarEvery week20Tuesday9.00-10.50A416A. BalázsSeminarEvery week20Tuesday11.00-12.50A416A. BalázsSeminarEvery week20Wednesday8.00-8.50C02J. ŠipošLectureEvery week132Thursday9.00-10.50A416D. StočesSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course Basics of Biostatistics focuses on acquiring fundamental statistical concepts and methods, including probability distributions, statistical decision-making, and basic tests such as ANOVA and the t-test. The objectives of the course are to: Introduce students to the principles of experimental design and analysis of biological data. Teach students to correctly interpret statistical outputs and draw appropriate conclusions. Practice the practical application of statistical methods in biological research, including data visualization."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture12 hpractice24 hTotal36 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Attendance at exercises is mandatory; the course is completed with a practical computer-based exam involving statistical data analysis in Excel. The duration of the exam will be 60 minutes, and a minimum of 60 % of points is required to pass."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendancePractical assessment, internship20 %Final test80 %Total100 %"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-ABG Animal Breeding, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 10:10:27",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

@@ -3,7 +3,7 @@
   "name": "Mikroekonomie 2 v AJ",
   "nameCs": "Mikroekonomie 2 v AJ",
   "nameEn": "Microeconomics 2",
-  "predmetId": "158187",
+  "predmetId": "163826",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,13 +11,80 @@
   ],
   "stats": [
     {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=163826;lang=cz",
+      "totalPass": 2,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 3
+        }
+      ]
+    },
+    {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
       "year": 2025,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=158187;lang=cz",
       "totalPass": 24,
-      "totalFail": 31,
+      "totalFail": 33,
       "terms": [
         {
           "term": "1. opravný",
@@ -55,11 +122,11 @@
             "C": 5,
             "D": 3,
             "E": 4,
-            "F": 28,
+            "F": 30,
             "FN": 3
           },
           "pass": 24,
-          "fail": 31
+          "fail": 33
         },
         {
           "term": "Řádný termín",
@@ -122,7 +189,7 @@
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152048;lang=cz",
-      "totalPass": 27,
+      "totalPass": 28,
       "totalFail": 23,
       "terms": [
         {
@@ -157,14 +224,14 @@
           "term": "Všechny termíny",
           "grades": {
             "A": 6,
-            "B": 4,
+            "B": 5,
             "C": 6,
             "D": 7,
             "E": 4,
             "F": 13,
             "FN": 10
           },
-          "pass": 27,
+          "pass": 28,
           "fail": 23
         },
         {
@@ -438,5 +505,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

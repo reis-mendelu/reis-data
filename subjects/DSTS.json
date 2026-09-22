@@ -3,13 +3,80 @@
   "name": "Dendrometrie a statistika",
   "nameCs": "Dendrometrie a statistika",
   "nameEn": "Dendrometry and Statistics",
-  "predmetId": "160713",
+  "predmetId": "161663",
   "facultyId": 38,
   "aliases": [
     "DSAR"
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161663;lang=cz",
+      "totalPass": 25,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 1,
+            "E": 2,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 4,
+            "C": 6,
+            "D": 8,
+            "E": 7,
+            "F": 3,
+            "FN": 2
+          },
+          "pass": 25,
+          "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 3,
+            "D": 6,
+            "E": 5,
+            "F": 11,
+            "FN": 2
+          },
+          "pass": 17,
+          "fail": 13
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -541,5 +608,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

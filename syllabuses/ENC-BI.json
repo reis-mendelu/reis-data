@@ -1,0 +1,569 @@
+{
+  "courseCode": "ENC-BI",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ENC-BI"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Business Intelligence"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Business Intelligence"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět lze studovat i při vzdělávacím pobytu v zahraničí, kdy student musí vyhovět všem výše uvedeným podmínkám pro úspěšné ukončení předmětu v dohodnutých termínech s vyučujícím."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Vavřina, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav podnikové ekonomiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Peter Mikuš (cvičící, zkoušející)Ing. Jan Vavřina, Ph.D. (garant, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Využití konceptů a technologií „Business Intelligence“ (BI) pro podporu podnikového řízení (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy softwarového řešení analytických a plánovacích úkolů podnikového řízení"
+    },
+    {
+      "label": "b.",
+      "content": "Komponenty platforem BI"
+    },
+    {
+      "label": "c.",
+      "content": "Uživatelé platforem BI a jejich podnikové role"
+    },
+    {
+      "label": "d.",
+      "content": "Typové přístupy k řešení podnikových BI systémů"
+    },
+    {
+      "label": "2.",
+      "content": "Navrhování a implementace principů BI v podniku ze strany individuálního uživatele („Self Service BI“) (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Nejlepší praxe při zavádění „Self Service BI“ v podniku"
+    },
+    {
+      "label": "b.",
+      "content": "Plánování implementace „Self Service BI“ v podniku vzhledem ke specifikaci požadavků a zdrojům dat"
+    },
+    {
+      "label": "c.",
+      "content": "Analýza, návrh a implementace podnikových aplikací „Self Service BI“"
+    },
+    {
+      "label": "3.",
+      "content": "Využitelné nástroje pro tvorbu aplikací „Self Service BI“ v praxi malých a středních podniků (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Funkční a technologické charakteristiky využitelných nástrojů „Business Intelligence“"
+    },
+    {
+      "label": "b.",
+      "content": "Doporučené postupy implementace vybraných nástrojů „Business Intelligence“"
+    },
+    {
+      "label": "c.",
+      "content": "Uživatelská tvorba databází a datových modelů"
+    },
+    {
+      "label": "d.",
+      "content": "Aplikační potenciál typových nástrojů „Self Service BI“"
+    },
+    {
+      "label": "4.",
+      "content": "Možnosti zefektivňování rozhodovacích procesů a tvorby plánů v podnikové praxi (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Sestavování podnikových plánů"
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba systematizovaných informačních výstupů pro podporu podnikového řízení"
+    },
+    {
+      "label": "c.",
+      "content": "Řízení pracovních toků v rámci procesu plánování"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2026/2027 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Business Intelligence"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Business Intelligence"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět lze studovat i při vzdělávacím pobytu v zahraničí, kdy student musí vyhovět všem výše uvedeným podmínkám pro úspěšné ukončení předmětu v dohodnutých termínech s vyučujícím."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Vavřina, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav podnikové ekonomiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Peter Mikuš (cvičící, zkoušející)Ing. Jan Vavřina, Ph.D. (garant, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q35P. MikušCvičeníKaždý týden25Úterý9.00-10.50Q35P. MikušCvičeníKaždý týden25Čtvrtek7.00-8.50Q35J. VavřinaPřednáškaKaždý týden45Pátek14.00-17.50Q35J. VavřinaPřednáškaNepravidelně30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Student bude schopen prakticky využívat jednotlivé komponenty i kompletní systémy Business Intelligence. Student bude umět analyzovat podnikové potřeby, ve spolupráci s odborníky v oblasti IT navrhnout datové modely a procesy uvnitř firmy včetně IT podpory, získaná data verifikovat a interpretovat."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Využití konceptů a technologií „Business Intelligence“ (BI) pro podporu podnikového řízení (dotace 8/8) a.Principy softwarového řešení analytických a plánovacích úkolů podnikového řízeníb.Komponenty platforem BIc.Uživatelé platforem BI a jejich podnikové roled.Typové přístupy k řešení podnikových BI systémů2.Navrhování a implementace principů BI v podniku ze strany individuálního uživatele („Self Service BI“) (dotace 8/8) a.Nejlepší praxe při zavádění „Self Service BI“ v podnikub.Plánování implementace „Self Service BI“ v podniku vzhledem ke specifikaci požadavků a zdrojům datc.Analýza, návrh a implementace podnikových aplikací „Self Service BI“3.Využitelné nástroje pro tvorbu aplikací „Self Service BI“ v praxi malých a středních podniků (dotace 6/6) a.Funkční a technologické charakteristiky využitelných nástrojů „Business Intelligence“b.Doporučené postupy implementace vybraných nástrojů „Business Intelligence“c.Uživatelská tvorba databází a datových modelůd.Aplikační potenciál typových nástrojů „Self Service BI“4.Možnosti zefektivňování rozhodovacích procesů a tvorby plánů v podnikové praxi (dotace 6/6) a.Sestavování podnikových plánůb.Tvorba systematizovaných informačních výstupů pro podporu podnikového řízeníc.Řízení pracovních toků v rámci procesu plánování"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Principy softwarového řešení analytických a plánovacích úkolů podnikového řízeníb.Komponenty platforem BIc.Uživatelé platforem BI a jejich podnikové roled.Typové přístupy k řešení podnikových BI systémů"
+    },
+    {
+      "label": "[section] Využití konceptů a technologií „Business Intelligence“ (BI) pro podporu podnikového řízení",
+      "content": "a.Principy softwarového řešení analytických a plánovacích úkolů podnikového řízeníb.Komponenty platforem BIc.Uživatelé platforem BI a jejich podnikové roled.Typové přístupy k řešení podnikových BI systémů"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Nejlepší praxe při zavádění „Self Service BI“ v podnikub.Plánování implementace „Self Service BI“ v podniku vzhledem ke specifikaci požadavků a zdrojům datc.Analýza, návrh a implementace podnikových aplikací „Self Service BI“"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Funkční a technologické charakteristiky využitelných nástrojů „Business Intelligence“b.Doporučené postupy implementace vybraných nástrojů „Business Intelligence“c.Uživatelská tvorba databází a datových modelůd.Aplikační potenciál typových nástrojů „Self Service BI“"
+    },
+    {
+      "label": "[section] Využitelné nástroje pro tvorbu aplikací „Self Service BI“ v praxi malých a středních podniků",
+      "content": "a.Funkční a technologické charakteristiky využitelných nástrojů „Business Intelligence“b.Doporučené postupy implementace vybraných nástrojů „Business Intelligence“c.Uživatelská tvorba databází a datových modelůd.Aplikační potenciál typových nástrojů „Self Service BI“"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Sestavování podnikových plánůb.Tvorba systematizovaných informačních výstupů pro podporu podnikového řízeníc.Řízení pracovních toků v rámci procesu plánování"
+    },
+    {
+      "label": "[section] Možnosti zefektivňování rozhodovacích procesů a tvorby plánů v podnikové praxi",
+      "content": "a.Sestavování podnikových plánůb.Tvorba systematizovaných informačních výstupů pro podporu podnikového řízeníc.Řízení pracovních toků v rámci procesu plánování"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hpříprava na zkoušku20 h44 hpříprava na průběžné hodnocení14 h30 hpříprava prezentace8 h8 hzpracování projektů70 h70 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předpokladem získání zápočtu je získání alespoň 60/100 bodů z písemného testu a vypracování a řádné odevzdání semestrálního projektu (při naplnění formálních podmínek, kladených na tento projekt jako jsou téma, rozsah, struktura a forma). Závěrečná zkouška je spojena s obhajobou semestrálního projektu studentem."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce70 %70 %Absolvování průběžného testu (testů)30 %30 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:POUR, Jan; STANOVSKÁ, Iva; MARYŠKA, Miloš. 2018. Self service business intelligence: jak si vytvořit vlastní analytické, plánovací a reportingové aplikace. Praha: Grada Publishing, ISBN 978-80-271-0616-5.Doporučená: Beginning Microsoft Power BI: a practical guide to self-service data analytics. 2020. New York: Apress, 411 s. ISBN 978-1-4842-5619-0. Business analytics for managers: taking business intelligence beyond reporting. 2016. Hoboken: Wiley, 264 s. The Wiley SAS business series. ISBN 978-1-119-29858-8. Planning and reporting in BI-supported controlling: fundamentals, business intelligence, mobile BI, big data analytics and AI."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "POUR, Jan; STANOVSKÁ, Iva; MARYŠKA, Miloš. 2018. Self service business intelligence: jak si vytvořit vlastní analytické, plánovací a reportingové aplikace. Praha: Grada Publishing, ISBN 978-80-271-0616-5."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "Beginning Microsoft Power BI: a practical guide to self-service data analytics. 2020. New York: Apress, 411 s. ISBN 978-1-4842-5619-0. Business analytics for managers: taking business intelligence beyond reporting. 2016. Hoboken: Wiley, 264 s. The Wiley SAS business series. ISBN 978-1-119-29858-8. Planning and reporting in BI-supported controlling: fundamentals, business intelligence, mobile BI, big data analytics and AI."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Specializace SNFNR Finanční řízení, prezenční forma, počáteční období ZS 2025/2026Specializace SNFNR Finanční řízení, kombinovaná forma, počáteční období ZS 2025/2026Specializace SNFNR Finanční řízení, prezenční forma, počáteční období LS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ENC-BI"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Business Intelligence"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Business Intelligence"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course may also be taken during a study stay abroad, provided that the student meets all of the requirements for successful completion of the course within the deadlines agreed upon with the course supervisor."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Vavřina, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Business Economics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Peter Mikuš (examiner, instructor)Ing. Jan Vavřina, Ph.D. (lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Tools for creating \"Self Service BI\" applications in the practice of small and medium enterprises (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Use of \"Business Intelligence\" (BI) concepts and technologies to support business management"
+    },
+    {
+      "label": "b.",
+      "content": "Components of BI platforms"
+    },
+    {
+      "label": "c.",
+      "content": "Users of BI platforms and their business roles"
+    },
+    {
+      "label": "d.",
+      "content": "Best practice approaches to business BI system solutions"
+    },
+    {
+      "label": "2.",
+      "content": "Design and implementation of BI principles in the company by the individual user (\"Self Service BI\") (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Best practices for implementing \"Self Service BI\" in the company"
+    },
+    {
+      "label": "b.",
+      "content": "Planning the implementation of \"Self Service BI\" in the company with respect to the specification of requirements and data sources"
+    },
+    {
+      "label": "c.",
+      "content": "Analysis, design and implementation of enterprise applications \"Self Service BI"
+    },
+    {
+      "label": "3.",
+      "content": "Useful tools for creating \"Self Service BI\" applications in the practice of small and medium enterprises (allowance 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Functional and technological characteristics of usable \"Business Intelligence\" tools"
+    },
+    {
+      "label": "b.",
+      "content": "Recommended procedures for the implementation of selected \"Business Intelligence\" tools"
+    },
+    {
+      "label": "c.",
+      "content": "User creation of databases and data models"
+    },
+    {
+      "label": "d.",
+      "content": "Application potential of \"Self Service BI\" type tools"
+    },
+    {
+      "label": "4.",
+      "content": "Possibilities of streamlining decision-making processes and creating plans in business practice (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Drawing up business plans"
+    },
+    {
+      "label": "b.",
+      "content": "Creation of systematised information outputs to support business management"
+    },
+    {
+      "label": "c.",
+      "content": "Workflow management within the planning process"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2026/2027 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Business Intelligence"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Business Intelligence"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course may also be taken during a study stay abroad, provided that the student meets all of the requirements for successful completion of the course within the deadlines agreed upon with the course supervisor."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Vavřina, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Business Economics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Peter Mikuš (examiner, instructor)Ing. Jan Vavřina, Ph.D. (lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday15.00-16.50Q35P. MikušSeminarEvery week25Tuesday9.00-10.50Q35P. MikušSeminarEvery week25Thursday7.00-8.50Q35J. VavřinaLectureEvery week45Friday14.00-17.50Q35J. VavřinaLectureOccasionally30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The student will be able to practically employ individual components as well as complete Business Intelligence systems. The student will be capable of analysing organisational needs, collaborating with IT specialists to design data models and internal business processes, including their IT support, and verifying and interpreting the data obtained."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Tools for creating \"Self Service BI\" applications in the practice of small and medium enterprises (allowance 8/8) a.Use of \"Business Intelligence\" (BI) concepts and technologies to support business managementb.Components of BI platformsc.Users of BI platforms and their business rolesd.Best practice approaches to business BI system solutions2.Design and implementation of BI principles in the company by the individual user (\"Self Service BI\") (allowance 6/6) a.Best practices for implementing \"Self Service BI\" in the companyb.Planning the implementation of \"Self Service BI\" in the company with respect to the specification of requirements and data sourcesc.Analysis, design and implementation of enterprise applications \"Self Service BI3.Useful tools for creating \"Self Service BI\" applications in the practice of small and medium enterprises (allowance 8/8) a.Functional and technological characteristics of usable \"Business Intelligence\" toolsb.Recommended procedures for the implementation of selected \"Business Intelligence\" toolsc.User creation of databases and data modelsd.Application potential of \"Self Service BI\" type tools4.Possibilities of streamlining decision-making processes and creating plans in business practice (allowance 6/6) a.Drawing up business plansb.Creation of systematised information outputs to support business managementc.Workflow management within the planning process"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Use of \"Business Intelligence\" (BI) concepts and technologies to support business managementb.Components of BI platformsc.Users of BI platforms and their business rolesd.Best practice approaches to business BI system solutions"
+    },
+    {
+      "label": "[section] Tools for creating \"Self Service BI\" applications in the practice of small and medium enterprises",
+      "content": "a.Use of \"Business Intelligence\" (BI) concepts and technologies to support business managementb.Components of BI platformsc.Users of BI platforms and their business rolesd.Best practice approaches to business BI system solutions"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Best practices for implementing \"Self Service BI\" in the companyb.Planning the implementation of \"Self Service BI\" in the company with respect to the specification of requirements and data sourcesc.Analysis, design and implementation of enterprise applications \"Self Service BI"
+    },
+    {
+      "label": "[section] Design and implementation of BI principles in the company by the individual user (\"Self Service BI\")",
+      "content": "a.Best practices for implementing \"Self Service BI\" in the companyb.Planning the implementation of \"Self Service BI\" in the company with respect to the specification of requirements and data sourcesc.Analysis, design and implementation of enterprise applications \"Self Service BI"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Functional and technological characteristics of usable \"Business Intelligence\" toolsb.Recommended procedures for the implementation of selected \"Business Intelligence\" toolsc.User creation of databases and data modelsd.Application potential of \"Self Service BI\" type tools"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Drawing up business plansb.Creation of systematised information outputs to support business managementc.Workflow management within the planning process"
+    },
+    {
+      "label": "[section] Possibilities of streamlining decision-making processes and creating plans in business practice",
+      "content": "a.Drawing up business plansb.Creation of systematised information outputs to support business managementc.Workflow management within the planning process"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hpreparation for exam20 h44 hpreparation for regular assessment14 h30 hpreparation of presentation8 h8 helaboration and execution of projects70 h70 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The prerequisite for obtaining the preliminary is achieving at least 60 out of 100 points on the written test and completing and duly submitting the semester project, provided that all formal requirements for the project — such as topic, scope, structure, and format — are fulfilled. The final examination includes the student’s defence of the semester project.”"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formTerm paper70 %70 %Mid-term test(s)30 %30 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:POUR, Jan; STANOVSKÁ, Iva; MARYŠKA, Miloš. 2018. Self service business intelligence: jak si vytvořit vlastní analytické, plánovací a reportingové aplikace. Praha: Grada Publishing, ISBN 978-80-271-0616-5.Recommended: Beginning Microsoft Power BI: a practical guide to self-service data analytics. 2020. New York: Apress, 411 p. ISBN 978-1-4842-5619-0. Business analytics for managers: taking business intelligence beyond reporting. 2016. Hoboken: Wiley, 264 p. The Wiley SAS business series. ISBN 978-1-119-29858-8. Planning and reporting in BI-supported controlling: fundamentals, business intelligence, mobile BI, big data analytics and AI."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "POUR, Jan; STANOVSKÁ, Iva; MARYŠKA, Miloš. 2018. Self service business intelligence: jak si vytvořit vlastní analytické, plánovací a reportingové aplikace. Praha: Grada Publishing, ISBN 978-80-271-0616-5."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "Beginning Microsoft Power BI: a practical guide to self-service data analytics. 2020. New York: Apress, 411 p. ISBN 978-1-4842-5619-0. Business analytics for managers: taking business intelligence beyond reporting. 2016. Hoboken: Wiley, 264 p. The Wiley SAS business series. ISBN 978-1-119-29858-8. Planning and reporting in BI-supported controlling: fundamentals, business intelligence, mobile BI, big data analytics and AI."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Track SNFNR Finanční řízení, full-time form, initial period WS 2025/2026Track SNFNR Finanční řízení, part-time form, initial period WS 2025/2026Track SNFNR Finanční řízení, full-time form, initial period SS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:11:40",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

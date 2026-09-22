@@ -3,13 +3,64 @@
   "name": "Finanční trhy",
   "nameCs": "Finanční trhy",
   "nameEn": "Financial Markets",
-  "predmetId": "159020",
+  "predmetId": "163536",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
-    "Mgr. Ing. Martin Stachoň, Ph.D."
+    "Ing. Daniel Pastorek, Ph.D.",
+    "Ing. Jolana Stejskalová, Ph.D.",
+    "Ing. Klára Plecitá",
+    "Ing. Luděk Benada, Ph.D.",
+    "Ing. Martin Širůček, Ph.D.",
+    "Ing. Michal Dufek",
+    "Ing. Peter Albrecht, Ph.D.",
+    "Ing. Petr Toman, Ph.D.",
+    "Ing. Roman Ptáček, Ph.D.",
+    "Ing. Zuzana Vlasáková, Ph.D.",
+    "Ing. Štěpán Kučera",
+    "Mgr. Ing. Martin Stachoň, Ph.D.",
+    "doc. Ing. Svatopluk Kapounek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=163536;lang=cz",
+      "totalPass": 0,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -625,5 +676,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

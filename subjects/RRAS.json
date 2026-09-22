@@ -3,7 +3,7 @@
   "name": "Aplikovaná statistika",
   "nameCs": "Aplikovaná statistika",
   "nameEn": "Applied Statistics",
-  "predmetId": "160978",
+  "predmetId": "162684",
   "facultyId": 23,
   "aliases": [
     "APST",
@@ -16,6 +16,73 @@
     "doc. Ing. Kristina Somerlíková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162684;lang=cz",
+      "totalPass": 139,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 4,
+            "C": 3,
+            "D": 10,
+            "E": 17,
+            "F": 28,
+            "FN": 0
+          },
+          "pass": 36,
+          "fail": 28
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 4,
+            "D": 3,
+            "E": 13,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 7
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 15,
+            "C": 23,
+            "D": 28,
+            "E": 64,
+            "F": 8,
+            "FN": 0
+          },
+          "pass": 139,
+          "fail": 8
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 11,
+            "C": 16,
+            "D": 15,
+            "E": 34,
+            "F": 64,
+            "FN": 1
+          },
+          "pass": 82,
+          "fail": 65
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -90,7 +157,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157604;lang=cz",
       "totalPass": 151,
-      "totalFail": 32,
+      "totalFail": 42,
       "terms": [
         {
           "term": "1. opravný",
@@ -128,11 +195,11 @@
             "C": 30,
             "D": 38,
             "E": 74,
-            "F": 28,
-            "FN": 4
+            "F": 37,
+            "FN": 5
           },
           "pass": 151,
-          "fail": 32
+          "fail": 42
         },
         {
           "term": "Řádný termín",
@@ -712,5 +779,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

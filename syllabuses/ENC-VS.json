@@ -15,11 +15,11 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2024/2025"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
-      "content": "zkouška (4 kredity)"
+      "content": "zkouška (6 kreditů)"
     },
     {
       "label": "Forma výuky a dotace hodin:",
@@ -86,10 +86,6 @@
       "content": "Analýza závislostí pro různé typy dat (dotace 2/4)"
     },
     {
-      "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "30 %"
-    },
-    {
       "label": "Vypracování semestrální práce",
       "content": "50 %"
     },
@@ -98,12 +94,16 @@
       "content": "20 %"
     },
     {
+      "label": "Absolvování závěrečného testu",
+      "content": "30 %"
+    },
+    {
       "label": "Celkem",
       "content": "100 %"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "LS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -119,18 +119,18 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2024/2025"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
-      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
       "content": "Forma výuky a dotace hodin: prezenční, etapa A 2/1, etapa B 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
-      "label": "[section] zkouška (4 kredity)",
+      "label": "[section] zkouška (6 kreditů)",
       "content": "Forma výuky a dotace hodin: prezenční, etapa A 2/1, etapa B 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
@@ -175,7 +175,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa11.00-11.50Q34V. BlaškováPřednáškaKaždý týden24Středa12.00-13.50Q34V. BlaškováCvičeníKaždý týden20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPoznámkaStředa8.00-8.50Q34V. BlaškováPřednáškaKaždý týden24V první etapě má předmět dotaci 2/1 a ve druhé 1/2Středa9.00-10.50Q34V. BlaškováCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -219,15 +219,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška21 hcvičení21 hpříprava na zkoušku28 hzpracování projektů42 hCelkem112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška21 hcvičení21 hpříprava na zkoušku48 hzpracování projektů78 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Celkové hodnocení studenta se odvíjí od počtu bodů získaných během celého semestru a to následujícím způsobem: 1) Projekt (max. 50 bodů, minimum není stanoveno). 2) Prezentace projektu (max. 20 bodů, minimum není stanoveno). 3) Samostatná práce ve cvičení (max. 30 bodů, minimum není stanoveno). Hodnocení předmětu je dáno následovně: <90; 100> bodů - A <83; 90) bodů - B <75; 83) bodů - C <68; 75) bodů - D <60; 68) bodů - E <0; 60) bodů - F"
+      "content": "Celkové hodnocení studenta se odvíjí od počtu bodů získaných během celého semestru a to následujícím způsobem: 1) Projekt (max. 50 bodů, minimum není stanoveno). 2) Prezentace projektu (max. 20 bodů, minimum není stanoveno). 3) Písemný test (max. 30 bodů, minimum není stanoveno). Hodnocení předmětu je dáno následovně: <90; 100> bodů - A <83; 90) bodů - B <75; 83) bodů - C <68; 75) bodů - D <60; 68) bodů - E <0; 60) bodů - F"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích30 %Vypracování semestrální práce50 %Prezentace nebo obhajoba20 %Celkem100 %"
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Prezentace nebo obhajoba20 %Absolvování závěrečného testu30 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -243,7 +243,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace ENEMOS Ekonomická statistika, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Specializace ENEMOS Ekonomická statistika, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -265,11 +265,11 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2024/2025"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
-      "content": "Exam (4 credits)"
+      "content": "Exam (6 credits)"
     },
     {
       "label": "Mode of delivery and timetabled classes:",
@@ -336,10 +336,6 @@
       "content": "Dependency analysis for different data types (allowance 2/4)"
     },
     {
-      "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "30 %"
-    },
-    {
       "label": "Term paper",
       "content": "50 %"
     },
@@ -348,12 +344,16 @@
       "content": "20 %"
     },
     {
+      "label": "Final test",
+      "content": "30 %"
+    },
+    {
       "label": "Total",
       "content": "100 %"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "SS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -369,18 +369,18 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2024/2025"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
-      "content": "Mode of completion and number of credits: Exam (4 credits)"
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
     },
     {
       "label": "[section] Mode of completion and number of credits:",
       "content": "Mode of delivery and timetabled classes: full-time, period A 2/1, period B 1/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] Exam (4 credits)",
+      "label": "[section] Exam (6 credits)",
       "content": "Mode of delivery and timetabled classes: full-time, period A 2/1, period B 1/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
@@ -425,7 +425,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday11.00-11.50Q34V. BlaškováLectureEvery week24Wednesday12.00-13.50Q34V. BlaškováSeminarEvery week20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityNoteWednesday8.00-8.50Q34V. BlaškováLectureEvery week24V první etapě má předmět dotaci 2/1 a ve druhé 1/2Wednesday9.00-10.50Q34V. BlaškováSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -469,15 +469,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture21 hpractice21 hpreparation for exam28 helaboration and execution of projects42 hTotal112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture21 hpractice21 hpreparation for exam48 helaboration and execution of projects78 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Project (max. 50 points, minimum score is not specified). 2) Project presentation(max. 20 points, minimum score is not specified). 3) Seminars (max. 30 points, minimum score is not specified). The assessment of the course is given as follows: <90; 100> points - A <83; 90) points - B <75; 83) points - C <68; 75) points - D <60; 68) points - E <0; 60) points - F"
+      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Project (max. 50 points, minimum score is not specified). 2) Project presentation(max. 20 points, minimum score is not specified). 3) Test (max. 30 points, minimum score is not specified). The assessment of the course is given as follows: <90; 100> points - A <83; 90) points - B <75; 83) points - C <68; 75) points - D <60; 68) points - E <0; 60) points - F"
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation30 %Term paper50 %Presentation or defence20 %Total100 %"
+      "content": "Requirement typeDaily attendanceTerm paper50 %Presentation or defence20 %Final test30 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -493,13 +493,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track ENEMOS Economic Statistics, full-time form, initial period WS 2023/2024"
+      "content": "Track ENEMOS Economic Statistics, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:02:06",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:18:54",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

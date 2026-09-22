@@ -3,13 +3,66 @@
   "name": "Ekonomická analýza",
   "nameCs": "Ekonomická analýza",
   "nameEn": "Economic Analysis",
-  "predmetId": "156560",
+  "predmetId": "162558",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Radek Náplava, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162558;lang=cz",
+      "totalPass": 32,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 9,
+            "C": 7,
+            "D": 9,
+            "E": 6,
+            "F": 4,
+            "FN": 1
+          },
+          "pass": 32,
+          "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 9,
+            "C": 7,
+            "D": 9,
+            "E": 4,
+            "F": 6,
+            "FN": 1
+          },
+          "pass": 30,
+          "fail": 7
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -251,5 +304,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,7 +3,7 @@
   "name": "Technická zařízení budov",
   "nameCs": "Technická zařízení budov",
   "nameEn": "Technical Equipments of Building",
-  "predmetId": "156902",
+  "predmetId": "161922",
   "facultyId": 38,
   "aliases": [
     "TZABU"
@@ -13,6 +13,45 @@
     "Ing. Vanesa Čechová"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161922;lang=cz",
+      "totalPass": 52,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 17,
+            "B": 8,
+            "C": 8,
+            "D": 9,
+            "E": 10,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 8,
+            "C": 8,
+            "D": 9,
+            "E": 10,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -159,5 +198,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2022/2023"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -71,30 +71,42 @@
     },
     {
       "label": "2.",
-      "content": "Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)"
+      "content": "Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 2/6)"
     },
     {
       "label": "3.",
-      "content": "Statistické metody v genetice - Využívání programu R – statistické přístupy hodnocení variability populací. (dotace 1/3)"
+      "content": "Analýzy dat genetických markerů (dotace 1/3)"
     },
     {
       "label": "4.",
-      "content": "Komplexní vlastnosti a genetická variabilita (dotace 1/3)"
+      "content": "Ekologická genetika – konzervace ohrožených druhů (dotace 1/3)"
     },
     {
       "label": "5.",
-      "content": "Odhad genetických parametrů (dotace 2/6)"
+      "content": "Komplexní vlastnosti a genetická variabilita (dotace 1/3)"
     },
     {
       "label": "6.",
-      "content": "Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+      "content": "Využívání programu R – statistické přístupy hodnocení variability populací. Modelování pomocí matic v programu R. (dotace 2/6)"
     },
     {
       "label": "7.",
-      "content": "Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+      "content": "Lineární modely s pevnými efekty (ANOVA, BLUE) (dotace 1/3)"
     },
     {
       "label": "8.",
+      "content": "Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+    },
+    {
+      "label": "9.",
+      "content": "Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+    },
+    {
+      "label": "10.",
+      "content": "Animal model – víceznakový (dotace 1/3)"
+    },
+    {
+      "label": "11.",
       "content": "Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
     },
     {
@@ -119,7 +131,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2021/2022 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -135,7 +147,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2022/2023"
     },
     {
       "label": "[section] Semestr:",
@@ -191,7 +203,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí10.00-12.50A416T. UrbanCvičeníKaždý týden20Úterý13.00-15.50A416T. UrbanCvičeníKaždý týden20Úterý16.00-16.50A416T. UrbanPřednáškaKaždý týden40"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek12.00-12.50A32aT. UrbanPřednáškaKaždý týden25Čtvrtek13.00-15.50A416T. UrbanCvičeníKaždý týden22"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -199,59 +211,83 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Struktura populace, genetická diverzita (dotace 1/3)2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)3.Statistické metody v genetice - Využívání programu R – statistické přístupy hodnocení variability populací. (dotace 1/3)4.Komplexní vlastnosti a genetická variabilita (dotace 1/3)5.Odhad genetických parametrů (dotace 2/6)6.Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)7.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)8.Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
+      "content": "1.Struktura populace, genetická diverzita (dotace 1/3)2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 2/6)3.Analýzy dat genetických markerů (dotace 1/3)4.Ekologická genetika – konzervace ohrožených druhů (dotace 1/3)5.Komplexní vlastnosti a genetická variabilita (dotace 1/3)6.Využívání programu R – statistické přístupy hodnocení variability populací. Modelování pomocí matic v programu R. (dotace 2/6)7.Lineární modely s pevnými efekty (ANOVA, BLUE) (dotace 1/3)8.Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)9.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)10.Animal model – víceznakový (dotace 1/3)11.Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)"
+      "content": "2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 2/6)"
     },
     {
       "label": "[section] Struktura populace, genetická diverzita",
-      "content": "2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 3/9)"
+      "content": "2.Evoluční faktory měnící genetickou variabilitu populace (selekce, migrace, mutace, genetický drift, inbriding) (dotace 2/6)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Statistické metody v genetice - Využívání programu R – statistické přístupy hodnocení variability populací. (dotace 1/3)"
+      "content": "3.Analýzy dat genetických markerů (dotace 1/3)"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Komplexní vlastnosti a genetická variabilita (dotace 1/3)"
+      "content": "4.Ekologická genetika – konzervace ohrožených druhů (dotace 1/3)"
+    },
+    {
+      "label": "[section] Analýzy dat genetických markerů",
+      "content": "4.Ekologická genetika – konzervace ohrožených druhů (dotace 1/3)"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Odhad genetických parametrů (dotace 2/6)"
+      "content": "5.Komplexní vlastnosti a genetická variabilita (dotace 1/3)"
     },
     {
-      "label": "[section] Komplexní vlastnosti a genetická variabilita",
-      "content": "5.Odhad genetických parametrů (dotace 2/6)"
+      "label": "[section] Ekologická genetika – konzervace ohrožených druhů",
+      "content": "5.Komplexní vlastnosti a genetická variabilita (dotace 1/3)"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+      "content": "6.Využívání programu R – statistické přístupy hodnocení variability populací. Modelování pomocí matic v programu R. (dotace 2/6)"
     },
     {
-      "label": "[section] Odhad genetických parametrů",
-      "content": "6.Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+      "label": "[section] Komplexní vlastnosti a genetická variabilita",
+      "content": "6.Využívání programu R – statistické přístupy hodnocení variability populací. Modelování pomocí matic v programu R. (dotace 2/6)"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
-    },
-    {
-      "label": "[section] Modelování pomocí matic v programu R. Lineární modely s náhodnými efekty (BLUP, ML, REML)",
-      "content": "7.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+      "content": "7.Lineární modely s pevnými efekty (ANOVA, BLUE) (dotace 1/3)"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
+      "content": "8.Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+    },
+    {
+      "label": "[section] Lineární modely s pevnými efekty (ANOVA, BLUE)",
+      "content": "8.Lineární modely s náhodnými efekty (BLUP, ML, REML) (dotace 1/3)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+    },
+    {
+      "label": "[section] Lineární modely s náhodnými efekty (BLUP, ML, REML)",
+      "content": "9.Analýza genetických dat pro šlechtění zvířat - Modely odhadu plemenných hodnot – animal model (jednoznakový) (dotace 2/6)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Animal model – víceznakový (dotace 1/3)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
+    },
+    {
+      "label": "[section] Animal model – víceznakový",
+      "content": "11.Genomická příbuznost a odhad genomické plemenné hodnoty v rámci genomické selekce (GBLUP) (dotace 1/3)"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení42 hpříprava na zkoušku20 hpříprava na průběžný test5 hzpracování projektů5 hCelkem86 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška14 hcvičení42 hpříprava na zkoušku20 hpříprava na průběžný test5 hzpracování projektů5 hCelkem86 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Docházka cvičení minimálně 80 %. Zápočet je udělen na základě prověření znalostí dvou teoretických testů a tří projektů celkem za 50 bodů, pro zápočet min. 60 %. Zkouška je písemná a ústní. V písemné části zodpoví studenti 15 otázek (min. z 60 %). Poté následuje ústní zkouška, kde si vyberou 2 otázky z tematických okruhů uvedených v sylabu předmětu."
+      "content": "Zápočet je udělen na základě prověření znalostí dvou teoretických testů a tří projektů celkem za 50 bodů, pro zápočet min. 60 %. Zkouška je písemná a ústní. V písemné části zodpoví studenti 15 otázek (min. z 60 %). Poté následuje ústní zkouška, kde si vyberou 2 otázky z tematických okruhů uvedených v sylabu předmětu."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -259,11 +295,11 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 s. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3. vyd. Sunderland, Massachusetts: Sinauer Associates, 542 s. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 s. ISBN 978-80-7509-385-1.Doporučená:ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
+      "content": "Základní:KUCIEL, Jiří; URBAN, Tomáš. 2016. Principy genetiky. 1. vyd. Brno: Vydavatelství Mendelovy univerzity v Brně, 200 s. ISBN 978-80-7509-385-1.URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 s. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3. vyd. Sunderland, Massachusetts: Sinauer Associates, 542 s. ISBN 0-87893-306-9.Doporučená:ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
     },
     {
       "label": "[section] Základní:",
-      "content": "URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 s. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3. vyd. Sunderland, Massachusetts: Sinauer Associates, 542 s. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 s. ISBN 978-80-7509-385-1."
+      "content": "KUCIEL, Jiří; URBAN, Tomáš. 2016. Principy genetiky. 1. vyd. Brno: Vydavatelství Mendelovy univerzity v Brně, 200 s. ISBN 978-80-7509-385-1.URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 s. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3. vyd. Sunderland, Massachusetts: Sinauer Associates, 542 s. ISBN 0-87893-306-9."
     },
     {
       "label": "[section] Doporučená:",
@@ -271,7 +307,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program N-ZOT Zootechnika, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Program N-ZOT Zootechnika, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -293,7 +329,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2022/2023"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -365,7 +401,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2021/2022 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -381,7 +417,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2022/2023"
     },
     {
       "label": "[section] Semester:",
@@ -437,7 +473,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday10.00-12.50A416T. UrbanSeminarEvery week20Tuesday13.00-15.50A416T. UrbanSeminarEvery week20Tuesday16.00-16.50A416T. UrbanLectureEvery week40"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday12.00-12.50A32aT. UrbanLectureEvery week25Thursday13.00-15.50A416T. UrbanSeminarEvery week22"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -449,11 +485,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice42 hpreparation for exam20 hpreparation for regular testing5 helaboration and execution of projects5 hTotal86 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture14 hpractice42 hpreparation for exam20 hpreparation for regular testing5 helaboration and execution of projects5 hTotal86 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Attendance minim. 80 %. Credit is obtained on the basis of the verification of knowledge of two theoretical tests and three projects for a total of 50 points, with a minimum of 60% for credit. The exam is written and oral. In the written part, students answer 15 questions (min. 60%). This is followed by an oral exam where they choose 2 questions from the topics listed in the course syllabus."
+      "content": "Credit is obtained on the basis of the verification of knowledge of two theoretical tests and three projects for a total of 50 points, with a minimum of 60% for credit. The exam is written and oral. In the written part, students answer 15 questions (min. 60%). This is followed by an oral exam where they choose 2 questions from the topics listed in the course syllabus."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -461,11 +497,11 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 p. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3rd ed. Sunderland, Massachusetts: Sinauer Associates, 542 p. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 p. ISBN 978-80-7509-385-1.Recommended:ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
+      "content": "Basic:KUCIEL, Jiří; URBAN, Tomáš. 2016. Principy genetiky. 1st ed. Brno: Vydavatelství Mendelovy univerzity v Brně, 200 p. ISBN 978-80-7509-385-1.URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 p. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3rd ed. Sunderland, Massachusetts: Sinauer Associates, 542 p. ISBN 0-87893-306-9.Recommended:ALLENDORF, Frederick William, Gordon LUIKART a Sally N. AITKEN. Conservation and the genetics of populations. 2. vyd. Ilustroval Agostinho ANTUNES. Chichester, West Sussex: John Wiley, 2013. ISBN 978-0-470-67146-7."
     },
     {
       "label": "[section] Basic:",
-      "content": "URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 p. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3rd ed. Sunderland, Massachusetts: Sinauer Associates, 542 p. ISBN 0-87893-306-9.KUCIEL, Jiří; URBAN, Tomáš. 2023. Principy genetiky. Brno: Mendelova univerzita v Brně, 200 p. ISBN 978-80-7509-385-1."
+      "content": "KUCIEL, Jiří; URBAN, Tomáš. 2016. Principy genetiky. 1st ed. Brno: Vydavatelství Mendelovy univerzity v Brně, 200 p. ISBN 978-80-7509-385-1.URBAN, Tomáš. 2008. Virtuální svět genetiky 3 - principy genetiky populací a kvantitativních znaků. http://user.mendelu.cz/urban/vsg3/. Genetics and Analysis of Quantitative Traits. 1997. Sunderland: Sinauer Associates, 980 p. ISBN 0-87893-481-2. Principles of population genetics. 1997. 3rd ed. Sunderland, Massachusetts: Sinauer Associates, 542 p. ISBN 0-87893-306-9."
     },
     {
       "label": "[section] Recommended:",
@@ -473,13 +509,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme C-ZOT Animal Breeding, full-time form, initial period WS 2024/2025"
+      "content": "Programme C-ZOT Animal Breeding, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:12:56",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:26:55",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

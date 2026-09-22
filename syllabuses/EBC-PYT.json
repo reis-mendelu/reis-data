@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Šimon Bilík, Ph.D. (cvičící, zkoušející)Ing. Michal Dufek (cvičící, zkoušející)Ing. Aleš Ďurčanský (cvičící, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Ing. Jan Havlík (cvičící, zkoušející)Ing. Štěpán Hošek (cvičící, zkoušející)Ing. Naděžda Chalupová, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Mikuláš Muroň, Ph.D. (cvičící, přednášející, zkoušející)Ing. Petr Pernes (cvičící, zkoušející)Ing. Roman Valovič (cvičící, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "Algoritmizace nebo nyní Algoritmizace nebo Algoritmizace – skriptování"
+      "content": "Algoritmizace nebo Algoritmizace nebo Algoritmizace – skriptování nebo nyní Algoritmizace"
     },
     {
       "label": "1.",
@@ -71,47 +71,47 @@
     },
     {
       "label": "a.",
+      "content": "Přednáška: úvod do interpretovaných jazyků"
+    },
+    {
+      "label": "b.",
+      "content": "Cvičení: úvod do předmětu"
+    },
+    {
+      "label": "2.",
+      "content": "Základní syntax a datové typy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
       "content": "Přednáška: základní syntax, datové typy a jejich použití"
     },
     {
       "label": "b.",
-      "content": "Cvičení: seznámení se základními příkazy jazyk"
-    },
-    {
-      "label": "2.",
-      "content": "Strukturované datové typy (dotace 2/2)"
-    },
-    {
-      "label": "a.",
-      "content": "Přednáška: funkce, strukturované datové typy"
-    },
-    {
-      "label": "b.",
-      "content": "Cvičení: jednoduché funkce nad strukturovanými proměnnými"
+      "content": "Cvičení: interpretované jazyky, seznámení s IDE"
     },
     {
       "label": "3.",
-      "content": "Funkcionální programování (dotace 2/2)"
+      "content": "Základní konstrukce, funkce (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "Přednáška: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkce"
+      "content": "Přednáška: základní principy a konstrukce jazyka, funkce"
     },
     {
       "label": "b.",
-      "content": "Cvičení: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkce"
+      "content": "Cvičení: algoritmizace základních úloh zpracování dat"
     },
     {
       "label": "4.",
-      "content": "Práce s textem, řetězce (dotace 2/2)"
+      "content": "Knihovny a moduly (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "Přednáška: datový typ string, operace s řetězci, algoritmy nad řetězci"
+      "content": "Přednáška: standardní knihovna, další knihovny a moduly"
     },
     {
       "label": "b.",
-      "content": "Cvičení: zpracování textových informací"
+      "content": "Cvičení: použití std, os, sys, shutil, logging, timeit, datetime a dalších; tvorba vlastních modulů"
     },
     {
       "label": "5.",
@@ -139,43 +139,43 @@
     },
     {
       "label": "7.",
-      "content": "Binární soubory, operační systémy (dotace 2/2)"
+      "content": "Pokročilé koncepty (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "Přednáška: zprcování binárních souborů, správa adresářové struktury,vytváření spustitelných programů"
+      "content": "Přednáška: iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory"
     },
     {
       "label": "b.",
-      "content": "Cvičení: zprcování binárních souborů, práce s knihovnou os,vytváření spustitelných programů"
+      "content": "Cvičení: itertools, list comprehensions, parsování textu"
     },
     {
       "label": "8.",
-      "content": "Paralelní programování (dotace 4/4)"
+      "content": "Paralelní zpracování dat, konvence jazyka Python (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "Cvičení: Paralelní programování, RESTAPI"
+      "content": "Cvičení: vlákna a multiprocesing, PEP8, REST API"
     },
     {
       "label": "b.",
-      "content": "Přednáška: Paralelní programování, RESTAPI"
+      "content": "Přednáška: práce s REST API, paralelní aplikace"
     },
     {
       "label": "9.",
-      "content": "Další vybrané knihovny a možnosti aplikace (dotace 4/4)"
+      "content": "Pokročilá práce s rozsáhlými daty (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "Přednáška: vybrané knihovny a možnosti aplikace jazyka Python, GUI"
+      "content": "Přednáška: broadcasting operací, maticové operace, knihovny numpy a pandas"
     },
     {
       "label": "b.",
-      "content": "Cvičení: Tvorba desktopového rozhraní aplikace"
+      "content": "Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi"
     },
     {
       "label": "10.",
-      "content": "Získávání dat z internetu, úpravy a vizualizace (dotace 2/2)"
+      "content": "Získávání dat z internetu, úpravy a vizualizace (dotace 4/4)"
     },
     {
       "label": "a.",
@@ -183,23 +183,23 @@
     },
     {
       "label": "b.",
-      "content": "Cvičení: knihovny requests, BeautifulSoup"
+      "content": "Cvičení: vizualizační knihovny Matplotlib a Seaborn"
     },
     {
       "label": "11.",
-      "content": "Pokročilá práce s rozsáhlými daty (dotace 4/4)"
+      "content": "Další vybrané knihovny a možnosti aplikace (dotace 6/6)"
     },
     {
       "label": "a.",
-      "content": "Přednáška: maticové operace, knihovny numpy a pandas"
+      "content": "Přednáška: vybrané knihovny a možnosti aplikace jazyka Python"
     },
     {
       "label": "b.",
-      "content": "Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi"
+      "content": "Cvičení: diskuze řešení semestrálních projektů"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -215,7 +215,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -263,15 +263,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Šimon Bilík, Ph.D. (cvičící, zkoušející)Ing. Michal Dufek (cvičící, zkoušející)Ing. Aleš Ďurčanský (cvičící, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Jan Havlík (cvičící, zkoušející)Ing. Štěpán Hošek (cvičící, zkoušející)Ing. Naděžda Chalupová, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Cyril Klimeš, CSc. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Mikuláš Muroň, Ph.D. (cvičící, přednášející, zkoušející)Ing. Petr Pernes (cvičící, zkoušející)Ing. Roman Valovič (cvičící, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: Algoritmizace nebo nyní Algoritmizace nebo Algoritmizace – skriptování"
+      "content": "Prerekvizity: Algoritmizace nebo Algoritmizace nebo Algoritmizace – skriptování nebo nyní Algoritmizace"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí17.00-18.50Q04B-AIIB-OIJ. TurčínekCvičeníKaždý týden30Úterý13.00-14.50Q02B-AIIB-OIJ. TurčínekPřednáškaKaždý týden170Úterý17.00-18.50Q04B-AIIB-OIA. ĎurčanskýCvičeníKaždý týden30Středa17.00-18.50Q04B-AIIB-OIA. ĎurčanskýCvičeníKaždý týden30Pátek9.00-10.50Q05B-AIIB-OIŠ. BilíkCvičeníKaždý týden22Sobota9.00-12.50Q08B-AIIJ. TurčínekPřednáškaNepravidelně20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostRočníkVyučujícíAkceČetnostKapacitaÚterý15.00-16.50Q02M. Muroň, N. ChalupováPřednáškaKaždý týden170Středa7.00-8.50Q0623J. HavlíkCvičeníKaždý týden22Středa9.00-10.50Q061J. HavlíkCvičeníKaždý týden20Středa11.00-12.50Q051R. ValovičCvičeníKaždý týden20Středa13.00-14.50Q051R. ValovičCvičeníKaždý týden20Středa17.00-18.50Q061Š. HošekCvičeníKaždý týden20Čtvrtek14.00-14.50Q15M. Muroň, N. ChalupováPřednáškaNepravidelně20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -279,39 +279,39 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do interpretovaných jazyků (dotace 2/2) a.Přednáška: základní syntax, datové typy a jejich použitíb.Cvičení: seznámení se základními příkazy jazyk2.Strukturované datové typy (dotace 2/2) a.Přednáška: funkce, strukturované datové typyb.Cvičení: jednoduché funkce nad strukturovanými proměnnými3.Funkcionální programování (dotace 2/2) a.Přednáška: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkceb.Cvičení: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkce4.Práce s textem, řetězce (dotace 2/2) a.Přednáška: datový typ string, operace s řetězci, algoritmy nad řetězcib.Cvičení: zpracování textových informací5.Práce se soubory a výjimky (dotace 2/2) a.Přednáška: práce se soubory a výjimkyb.Cvičení: zápis dat do souboru, formáty souborů (CSV, XML, JSON, pickle) a ošetření chybových stavů6.Objektový návrh a návrhové vzory (dotace 2/2) a.Přednáška: principy objektového návrhu, vybrané návrhové vzoryb.Cvičení: vytváření tříd, vlastnosti a metody, typy vazeb, dědičnost7.Binární soubory, operační systémy (dotace 2/2) a.Přednáška: zprcování binárních souborů, správa adresářové struktury,vytváření spustitelných programůb.Cvičení: zprcování binárních souborů, práce s knihovnou os,vytváření spustitelných programů8.Paralelní programování (dotace 4/4) a.Cvičení: Paralelní programování, RESTAPIb.Přednáška: Paralelní programování, RESTAPI9.Další vybrané knihovny a možnosti aplikace (dotace 4/4) a.Přednáška: vybrané knihovny a možnosti aplikace jazyka Python, GUIb.Cvičení: Tvorba desktopového rozhraní aplikace10.Získávání dat z internetu, úpravy a vizualizace (dotace 2/2) a.Přednáška: automatizovaný sběr dat, agregace, transformaceb.Cvičení: knihovny requests, BeautifulSoup11.Pokročilá práce s rozsáhlými daty (dotace 4/4) a.Přednáška: maticové operace, knihovny numpy a pandasb.Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi"
+      "content": "1.Úvod do interpretovaných jazyků (dotace 2/2) a.Přednáška: úvod do interpretovaných jazykůb.Cvičení: úvod do předmětu2.Základní syntax a datové typy (dotace 2/2) a.Přednáška: základní syntax, datové typy a jejich použitíb.Cvičení: interpretované jazyky, seznámení s IDE3.Základní konstrukce, funkce (dotace 2/2) a.Přednáška: základní principy a konstrukce jazyka, funkceb.Cvičení: algoritmizace základních úloh zpracování dat4.Knihovny a moduly (dotace 2/2) a.Přednáška: standardní knihovna, další knihovny a modulyb.Cvičení: použití std, os, sys, shutil, logging, timeit, datetime a dalších; tvorba vlastních modulů5.Práce se soubory a výjimky (dotace 2/2) a.Přednáška: práce se soubory a výjimkyb.Cvičení: zápis dat do souboru, formáty souborů (CSV, XML, JSON, pickle) a ošetření chybových stavů6.Objektový návrh a návrhové vzory (dotace 2/2) a.Přednáška: principy objektového návrhu, vybrané návrhové vzoryb.Cvičení: vytváření tříd, vlastnosti a metody, typy vazeb, dědičnost7.Pokročilé koncepty (dotace 2/2) a.Přednáška: iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátoryb.Cvičení: itertools, list comprehensions, parsování textu8.Paralelní zpracování dat, konvence jazyka Python (dotace 2/2) a.Cvičení: vlákna a multiprocesing, PEP8, REST APIb.Přednáška: práce s REST API, paralelní aplikace9.Pokročilá práce s rozsáhlými daty (dotace 2/2) a.Přednáška: broadcasting operací, maticové operace, knihovny numpy a pandasb.Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi10.Získávání dat z internetu, úpravy a vizualizace (dotace 4/4) a.Přednáška: automatizovaný sběr dat, agregace, transformaceb.Cvičení: vizualizační knihovny Matplotlib a Seaborn11.Další vybrané knihovny a možnosti aplikace (dotace 6/6) a.Přednáška: vybrané knihovny a možnosti aplikace jazyka Pythonb.Cvičení: diskuze řešení semestrálních projektů"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Přednáška: základní syntax, datové typy a jejich použitíb.Cvičení: seznámení se základními příkazy jazyk"
+      "content": "a.Přednáška: úvod do interpretovaných jazykůb.Cvičení: úvod do předmětu"
     },
     {
       "label": "[section] Úvod do interpretovaných jazyků",
-      "content": "a.Přednáška: základní syntax, datové typy a jejich použitíb.Cvičení: seznámení se základními příkazy jazyk"
+      "content": "a.Přednáška: úvod do interpretovaných jazykůb.Cvičení: úvod do předmětu"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Přednáška: funkce, strukturované datové typyb.Cvičení: jednoduché funkce nad strukturovanými proměnnými"
+      "content": "a.Přednáška: základní syntax, datové typy a jejich použitíb.Cvičení: interpretované jazyky, seznámení s IDE"
     },
     {
-      "label": "[section] Strukturované datové typy",
-      "content": "a.Přednáška: funkce, strukturované datové typyb.Cvičení: jednoduché funkce nad strukturovanými proměnnými"
+      "label": "[section] Základní syntax a datové typy",
+      "content": "a.Přednáška: základní syntax, datové typy a jejich použitíb.Cvičení: interpretované jazyky, seznámení s IDE"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Přednáška: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkceb.Cvičení: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkce"
+      "content": "a.Přednáška: základní principy a konstrukce jazyka, funkceb.Cvičení: algoritmizace základních úloh zpracování dat"
     },
     {
-      "label": "[section] Funkcionální programování",
-      "content": "a.Přednáška: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkceb.Cvičení: Funkce, iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátory, mapovací funkce"
+      "label": "[section] Základní konstrukce, funkce",
+      "content": "a.Přednáška: základní principy a konstrukce jazyka, funkceb.Cvičení: algoritmizace základních úloh zpracování dat"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Přednáška: datový typ string, operace s řetězci, algoritmy nad řetězcib.Cvičení: zpracování textových informací"
+      "content": "a.Přednáška: standardní knihovna, další knihovny a modulyb.Cvičení: použití std, os, sys, shutil, logging, timeit, datetime a dalších; tvorba vlastních modulů"
     },
     {
-      "label": "[section] Práce s textem, řetězce",
-      "content": "a.Přednáška: datový typ string, operace s řetězci, algoritmy nad řetězcib.Cvičení: zpracování textových informací"
+      "label": "[section] Knihovny a moduly",
+      "content": "a.Přednáška: standardní knihovna, další knihovny a modulyb.Cvičení: použití std, os, sys, shutil, logging, timeit, datetime a dalších; tvorba vlastních modulů"
     },
     {
       "label": "[section] 5.",
@@ -331,55 +331,55 @@
     },
     {
       "label": "[section] 7.",
-      "content": "a.Přednáška: zprcování binárních souborů, správa adresářové struktury,vytváření spustitelných programůb.Cvičení: zprcování binárních souborů, práce s knihovnou os,vytváření spustitelných programů"
+      "content": "a.Přednáška: iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátoryb.Cvičení: itertools, list comprehensions, parsování textu"
     },
     {
-      "label": "[section] Binární soubory, operační systémy",
-      "content": "a.Přednáška: zprcování binárních souborů, správa adresářové struktury,vytváření spustitelných programůb.Cvičení: zprcování binárních souborů, práce s knihovnou os,vytváření spustitelných programů"
+      "label": "[section] Pokročilé koncepty",
+      "content": "a.Přednáška: iterátory, lambda výrazy, regulární výrazy, generátory, closures, deskriptory, dekorátoryb.Cvičení: itertools, list comprehensions, parsování textu"
     },
     {
       "label": "[section] 8.",
-      "content": "a.Cvičení: Paralelní programování, RESTAPIb.Přednáška: Paralelní programování, RESTAPI"
+      "content": "a.Cvičení: vlákna a multiprocesing, PEP8, REST APIb.Přednáška: práce s REST API, paralelní aplikace"
     },
     {
-      "label": "[section] Paralelní programování",
-      "content": "a.Cvičení: Paralelní programování, RESTAPIb.Přednáška: Paralelní programování, RESTAPI"
+      "label": "[section] Paralelní zpracování dat, konvence jazyka Python",
+      "content": "a.Cvičení: vlákna a multiprocesing, PEP8, REST APIb.Přednáška: práce s REST API, paralelní aplikace"
     },
     {
       "label": "[section] 9.",
-      "content": "a.Přednáška: vybrané knihovny a možnosti aplikace jazyka Python, GUIb.Cvičení: Tvorba desktopového rozhraní aplikace"
-    },
-    {
-      "label": "[section] Další vybrané knihovny a možnosti aplikace",
-      "content": "a.Přednáška: vybrané knihovny a možnosti aplikace jazyka Python, GUIb.Cvičení: Tvorba desktopového rozhraní aplikace"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "a.Přednáška: automatizovaný sběr dat, agregace, transformaceb.Cvičení: knihovny requests, BeautifulSoup"
-    },
-    {
-      "label": "[section] Získávání dat z internetu, úpravy a vizualizace",
-      "content": "a.Přednáška: automatizovaný sběr dat, agregace, transformaceb.Cvičení: knihovny requests, BeautifulSoup"
-    },
-    {
-      "label": "[section] 11.",
-      "content": "a.Přednáška: maticové operace, knihovny numpy a pandasb.Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi"
+      "content": "a.Přednáška: broadcasting operací, maticové operace, knihovny numpy a pandasb.Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi"
     },
     {
       "label": "[section] Pokročilá práce s rozsáhlými daty",
-      "content": "a.Přednáška: maticové operace, knihovny numpy a pandasb.Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi"
+      "content": "a.Přednáška: broadcasting operací, maticové operace, knihovny numpy a pandasb.Cvičení: základní datové objekty pro manipulaci s rozsáhlými daty a operace s nimi"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Přednáška: automatizovaný sběr dat, agregace, transformaceb.Cvičení: vizualizační knihovny Matplotlib a Seaborn"
+    },
+    {
+      "label": "[section] Získávání dat z internetu, úpravy a vizualizace",
+      "content": "a.Přednáška: automatizovaný sběr dat, agregace, transformaceb.Cvičení: vizualizační knihovny Matplotlib a Seaborn"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Přednáška: vybrané knihovny a možnosti aplikace jazyka Pythonb.Cvičení: diskuze řešení semestrálních projektů"
+    },
+    {
+      "label": "[section] Další vybrané knihovny a možnosti aplikace",
+      "content": "a.Přednáška: vybrané knihovny a možnosti aplikace jazyka Pythonb.Cvičení: diskuze řešení semestrálních projektů"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h40 hprojektová práce40 h40 hpříprava na zkoušku24 h24 hpříprava na průběžné hodnocení20 h20 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h40 hveřejná prezentace (ústní)1 h1 hpříprava na zkoušku24 h24 hpříprava prezentace9 h9 hzpracování seminární práce50 h50 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Student má povinnost během semestru splnit průběžný test (40 bodů), zaměřený na základní syntaxi jazyka a práci s vestavěnými datovými typy, a závěrečečný zkouškový test (50 bodů), ten bude představovat vytvoření komplexního funkčního programu (hodnoceno bude splění zadané funkcionality, způsob komunikace s uživatelem, způsob provedení kódu). Požadovaná minima pro testy je 20 bodů za první a 25 za druhý. Každý zkouškový test je možné si 2x opravit. Zbývajících 10 bodů mají k dispozici cvičící k ohodnocení aktivity studenta během semestru. U kombinovaných studentů se body za aktivitu na cvičení přesouvají do hodnocení domácích úkolů. Tz. za splnění 2 domácích úkolů mohou obdržet 10 bodů."
+      "content": "Možnost vykonat zkoušku (resp. závěrečný zápočtový test) je podmíněna získáním \"malého\" zápočtu, který bude udělen po splnění všech částí tvorby semestrálního projektu. Za úspěšně splněný projekt student/ka získá maximálně 40 bodů. Závěrečný zápočtový test je hodnocen maximálně 60 body a je možné jej dvakrát opravit. Tvorba projektu se skládá z několika navazujících dílčích úkolů, přičemž každý úkol má své zadání (včetně termínu), které je nutné splnit – nesplnění kteréhokoliv z úkolů má za následek nemožnost získat \"malý\" zápočet, a tedy úspěšně ukončit předmět. Případné chyby a nutnost jejich opravy (včetně případného nového termínu) budou sděleny prostřednictvím aplikace Odevzdávárna v UIS. Výsledné hodnocení předmětu je pak dáno součtem získaných bodů ze semestrálního projektu a závěrečného testu, a to následovně: méně než 60 bodů => \"velké\" nezapočteno, 60 bodů a více => \"velké\" započteno V případě odhalení podvodného jednání bude se studentem/-kou zahájeno disciplinární řízení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %20 %Absolvování průběžného testu (testů)40 %40 %Absolvování závěrečného testu40 %40 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce35 %35 %Prezentace nebo obhajoba5 %5 %Absolvování závěrečného testu60 %60 %Celkem100 %100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -395,7 +395,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -417,7 +417,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -461,11 +461,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Šimon Bilík, Ph.D. (examiner, instructor)Ing. Michal Dufek (examiner, instructor)Ing. Aleš Ďurčanský (examiner, instructor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "Ing. Jan Havlík (examiner, instructor)Ing. Štěpán Hošek (examiner, instructor)Ing. Naděžda Chalupová, Ph.D. (examiner, instructor, lecturer)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Mikuláš Muroň, Ph.D. (examiner, instructor, lecturer)Ing. Petr Pernes (examiner, instructor)Ing. Roman Valovič (examiner, instructor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "Algorithmization or now Algorithmization or Algorithmization – scripting"
+      "content": "Algorithm Development or Algorithmization or Algorithmization – scripting or now Algorithmization"
     },
     {
       "label": "1.",
@@ -473,47 +473,47 @@
     },
     {
       "label": "a.",
-      "content": "Lecture: Basic syntax, data types, and their usage."
+      "content": "Lecture: Introduction to interpreted languages"
     },
     {
       "label": "b.",
-      "content": "Practice: Familiarization with basic language commands."
+      "content": "Practice: Introduction"
     },
     {
       "label": "2.",
-      "content": "Structured data types (allowance 2/2)"
+      "content": "Basic syntax and basic data types (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Lecture: Functions, structured data types"
+      "content": "Lecture: Basic syntax and basic data types"
     },
     {
       "label": "b.",
-      "content": "Practice: Simple functions with structured variables"
+      "content": "Practice: Interpreted languages, getting strated with IDE"
     },
     {
       "label": "3.",
-      "content": "Functional programming (allowance 2/2)"
+      "content": "Methods, functions and classes (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Lecture: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functions"
+      "content": "Lecture: Methods, functions and classes"
     },
     {
       "label": "b.",
-      "content": "Practice: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functions"
+      "content": "Practice: Basic syntax constructions, data types"
     },
     {
       "label": "4.",
-      "content": "Text processing, strings (allowance 2/2)"
+      "content": "Python Standard Library, Modules (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Lecture: Data type string, string operations, algorithms on strings"
+      "content": "Lecture: Python Standard Library, Modules"
     },
     {
       "label": "b.",
-      "content": "Practice: Text processing, extracting information from text."
+      "content": "Practice: Using Python std (std, os, sys, shutil, logging, timeit, datetime), create custom module"
     },
     {
       "label": "5.",
@@ -529,7 +529,7 @@
     },
     {
       "label": "6.",
-      "content": "Principles of OOP (allowance 2/2)"
+      "content": "Principles of OOP, Design patterns (allowance 2/2)"
     },
     {
       "label": "a.",
@@ -541,19 +541,19 @@
     },
     {
       "label": "7.",
-      "content": "Binary files, operating systems (allowance 2/2)"
+      "content": "Advanced concepts (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Lecture: Processing binary files, managing directory structure, creating executable programs."
+      "content": "Lecture: iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators"
     },
     {
       "label": "b.",
-      "content": "Practice: Processing binary files, managing directory structure, creating executable programs."
+      "content": "Practice: Itertools, List comprehensions, text parsing"
     },
     {
       "label": "8.",
-      "content": "Parallel data processing, Python conventions (allowance 4/4)"
+      "content": "Parallel data processing, Python conventions (allowance 2/2)"
     },
     {
       "label": "a.",
@@ -565,19 +565,19 @@
     },
     {
       "label": "9.",
-      "content": "Selected libraries and practical application (allowance 4/4)"
+      "content": "Working with big data (allowance 2/2)"
     },
     {
       "label": "a.",
-      "content": "Lecure: Selected Python libraries and its applications, GUI"
+      "content": "Lecure: Broadcasting operations, matrix operations, numpy and pandas libraries"
     },
     {
       "label": "b.",
-      "content": "Practice: Semester projects discussion and consultation, GUI"
+      "content": "Practice: Data objects for manipulation and operations with large data"
     },
     {
       "label": "10.",
-      "content": "Data retrieving from internet and visualization (allowance 2/2)"
+      "content": "Data retrieving from internet and visualization (allowance 4/4)"
     },
     {
       "label": "a.",
@@ -589,19 +589,19 @@
     },
     {
       "label": "11.",
-      "content": "Working with big data (allowance 4/4)"
+      "content": "Selected libraries and practical application (allowance 6/6)"
     },
     {
       "label": "a.",
-      "content": "Lecure: matrix operations, numpy and pandas libraries"
+      "content": "Lecure: Selected Python libraries and its applications"
     },
     {
       "label": "b.",
-      "content": "Practice: Data objects for manipulation and operations with large data"
+      "content": "Practice: Semester projects discussion and consultation"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -617,7 +617,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -665,15 +665,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Šimon Bilík, Ph.D. (examiner, instructor)Ing. Michal Dufek (examiner, instructor)Ing. Aleš Ďurčanský (examiner, instructor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Jan Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "Teachers: Ing. Jan Havlík (examiner, instructor)Ing. Štěpán Hošek (examiner, instructor)Ing. Naděžda Chalupová, Ph.D. (examiner, instructor, lecturer)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, supervisor, tutor)Ing. Mikuláš Muroň, Ph.D. (examiner, instructor, lecturer)Ing. Petr Pernes (examiner, instructor)Ing. Roman Valovič (examiner, instructor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: Algorithmization or now Algorithmization or Algorithmization – scripting"
+      "content": "Prerequisites: Algorithm Development or Algorithmization or Algorithmization – scripting or now Algorithmization"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday17.00-18.50Q04B-AIIB-OIJ. TurčínekSeminarEvery week30Tuesday13.00-14.50Q02B-AIIB-OIJ. TurčínekLectureEvery week170Tuesday17.00-18.50Q04B-AIIB-OIA. ĎurčanskýSeminarEvery week30Wednesday17.00-18.50Q04B-AIIB-OIA. ĎurčanskýSeminarEvery week30Friday9.00-10.50Q05B-AIIB-OIŠ. BilíkSeminarEvery week22Saturday9.00-12.50Q08B-AIIJ. TurčínekLectureOccasionally20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomYear of studyTeacherEntryFrequencyCapacityTuesday15.00-16.50Q02M. Muroň, N. ChalupováLectureEvery week170Wednesday7.00-8.50Q0623J. HavlíkSeminarEvery week22Wednesday9.00-10.50Q061J. HavlíkSeminarEvery week20Wednesday11.00-12.50Q051R. ValovičSeminarEvery week20Wednesday13.00-14.50Q051R. ValovičSeminarEvery week20Wednesday17.00-18.50Q061Š. HošekSeminarEvery week20Thursday14.00-14.50Q15M. Muroň, N. ChalupováLectureOccasionally20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -681,39 +681,39 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Introduction to interpreted languages (allowance 2/2) a.Lecture: Basic syntax, data types, and their usage.b.Practice: Familiarization with basic language commands.2.Structured data types (allowance 2/2) a.Lecture: Functions, structured data typesb.Practice: Simple functions with structured variables3.Functional programming (allowance 2/2) a.Lecture: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functionsb.Practice: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functions4.Text processing, strings (allowance 2/2) a.Lecture: Data type string, string operations, algorithms on stringsb.Practice: Text processing, extracting information from text.5.Files and exceptions (allowance 2/2) a.Lecture: Files and exceptionsb.Practice: Writing/reading from files, file formats (CSV, XML, JSON, pickle) and error handling6.Principles of OOP (allowance 2/2) a.Lecture: Principles of OOP, Design patternsb.Practice: classes, properties and methods, relations, inheritance7.Binary files, operating systems (allowance 2/2) a.Lecture: Processing binary files, managing directory structure, creating executable programs.b.Practice: Processing binary files, managing directory structure, creating executable programs.8.Parallel data processing, Python conventions (allowance 4/4) a.Lecture: REST API, Threads and multiprocessingb.Practice: Threads and multiprocessing, PEP8, REST API9.Selected libraries and practical application (allowance 4/4) a.Lecure: Selected Python libraries and its applications, GUIb.Practice: Semester projects discussion and consultation, GUI10.Data retrieving from internet and visualization (allowance 2/2) a.Lecure: Automated data collection possibilitiesb.Practice: Visualization libraries Matplotlib and Seaborn11.Working with big data (allowance 4/4) a.Lecure: matrix operations, numpy and pandas librariesb.Practice: Data objects for manipulation and operations with large data"
+      "content": "1.Introduction to interpreted languages (allowance 2/2) a.Lecture: Introduction to interpreted languagesb.Practice: Introduction2.Basic syntax and basic data types (allowance 2/2) a.Lecture: Basic syntax and basic data typesb.Practice: Interpreted languages, getting strated with IDE3.Methods, functions and classes (allowance 2/2) a.Lecture: Methods, functions and classesb.Practice: Basic syntax constructions, data types4.Python Standard Library, Modules (allowance 2/2) a.Lecture: Python Standard Library, Modulesb.Practice: Using Python std (std, os, sys, shutil, logging, timeit, datetime), create custom module5.Files and exceptions (allowance 2/2) a.Lecture: Files and exceptionsb.Practice: Writing/reading from files, file formats (CSV, XML, JSON, pickle) and error handling6.Principles of OOP, Design patterns (allowance 2/2) a.Lecture: Principles of OOP, Design patternsb.Practice: classes, properties and methods, relations, inheritance7.Advanced concepts (allowance 2/2) a.Lecture: iterators, lambda expressions, regular expressions, generators, closures, descriptors, decoratorsb.Practice: Itertools, List comprehensions, text parsing8.Parallel data processing, Python conventions (allowance 2/2) a.Lecture: REST API, Threads and multiprocessingb.Practice: Threads and multiprocessing, PEP8, REST API9.Working with big data (allowance 2/2) a.Lecure: Broadcasting operations, matrix operations, numpy and pandas librariesb.Practice: Data objects for manipulation and operations with large data10.Data retrieving from internet and visualization (allowance 4/4) a.Lecure: Automated data collection possibilitiesb.Practice: Visualization libraries Matplotlib and Seaborn11.Selected libraries and practical application (allowance 6/6) a.Lecure: Selected Python libraries and its applicationsb.Practice: Semester projects discussion and consultation"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Lecture: Basic syntax, data types, and their usage.b.Practice: Familiarization with basic language commands."
+      "content": "a.Lecture: Introduction to interpreted languagesb.Practice: Introduction"
     },
     {
       "label": "[section] Introduction to interpreted languages",
-      "content": "a.Lecture: Basic syntax, data types, and their usage.b.Practice: Familiarization with basic language commands."
+      "content": "a.Lecture: Introduction to interpreted languagesb.Practice: Introduction"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Lecture: Functions, structured data typesb.Practice: Simple functions with structured variables"
+      "content": "a.Lecture: Basic syntax and basic data typesb.Practice: Interpreted languages, getting strated with IDE"
     },
     {
-      "label": "[section] Structured data types",
-      "content": "a.Lecture: Functions, structured data typesb.Practice: Simple functions with structured variables"
+      "label": "[section] Basic syntax and basic data types",
+      "content": "a.Lecture: Basic syntax and basic data typesb.Practice: Interpreted languages, getting strated with IDE"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Lecture: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functionsb.Practice: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functions"
+      "content": "a.Lecture: Methods, functions and classesb.Practice: Basic syntax constructions, data types"
     },
     {
-      "label": "[section] Functional programming",
-      "content": "a.Lecture: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functionsb.Practice: Functions, iterators, lambda expressions, regular expressions, generators, closures, descriptors, decorators, mapping functions"
+      "label": "[section] Methods, functions and classes",
+      "content": "a.Lecture: Methods, functions and classesb.Practice: Basic syntax constructions, data types"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Lecture: Data type string, string operations, algorithms on stringsb.Practice: Text processing, extracting information from text."
+      "content": "a.Lecture: Python Standard Library, Modulesb.Practice: Using Python std (std, os, sys, shutil, logging, timeit, datetime), create custom module"
     },
     {
-      "label": "[section] Text processing, strings",
-      "content": "a.Lecture: Data type string, string operations, algorithms on stringsb.Practice: Text processing, extracting information from text."
+      "label": "[section] Python Standard Library, Modules",
+      "content": "a.Lecture: Python Standard Library, Modulesb.Practice: Using Python std (std, os, sys, shutil, logging, timeit, datetime), create custom module"
     },
     {
       "label": "[section] 5.",
@@ -728,16 +728,16 @@
       "content": "a.Lecture: Principles of OOP, Design patternsb.Practice: classes, properties and methods, relations, inheritance"
     },
     {
-      "label": "[section] Principles of OOP",
+      "label": "[section] Principles of OOP, Design patterns",
       "content": "a.Lecture: Principles of OOP, Design patternsb.Practice: classes, properties and methods, relations, inheritance"
     },
     {
       "label": "[section] 7.",
-      "content": "a.Lecture: Processing binary files, managing directory structure, creating executable programs.b.Practice: Processing binary files, managing directory structure, creating executable programs."
+      "content": "a.Lecture: iterators, lambda expressions, regular expressions, generators, closures, descriptors, decoratorsb.Practice: Itertools, List comprehensions, text parsing"
     },
     {
-      "label": "[section] Binary files, operating systems",
-      "content": "a.Lecture: Processing binary files, managing directory structure, creating executable programs.b.Practice: Processing binary files, managing directory structure, creating executable programs."
+      "label": "[section] Advanced concepts",
+      "content": "a.Lecture: iterators, lambda expressions, regular expressions, generators, closures, descriptors, decoratorsb.Practice: Itertools, List comprehensions, text parsing"
     },
     {
       "label": "[section] 8.",
@@ -749,11 +749,11 @@
     },
     {
       "label": "[section] 9.",
-      "content": "a.Lecure: Selected Python libraries and its applications, GUIb.Practice: Semester projects discussion and consultation, GUI"
+      "content": "a.Lecure: Broadcasting operations, matrix operations, numpy and pandas librariesb.Practice: Data objects for manipulation and operations with large data"
     },
     {
-      "label": "[section] Selected libraries and practical application",
-      "content": "a.Lecure: Selected Python libraries and its applications, GUIb.Practice: Semester projects discussion and consultation, GUI"
+      "label": "[section] Working with big data",
+      "content": "a.Lecure: Broadcasting operations, matrix operations, numpy and pandas librariesb.Practice: Data objects for manipulation and operations with large data"
     },
     {
       "label": "[section] 10.",
@@ -765,23 +765,23 @@
     },
     {
       "label": "[section] 11.",
-      "content": "a.Lecure: matrix operations, numpy and pandas librariesb.Practice: Data objects for manipulation and operations with large data"
+      "content": "a.Lecure: Selected Python libraries and its applicationsb.Practice: Semester projects discussion and consultation"
     },
     {
-      "label": "[section] Working with big data",
-      "content": "a.Lecure: matrix operations, numpy and pandas librariesb.Practice: Data objects for manipulation and operations with large data"
+      "label": "[section] Selected libraries and practical application",
+      "content": "a.Lecure: Selected Python libraries and its applicationsb.Practice: Semester projects discussion and consultation"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h40 hproject work40 h40 hpreparation for exam24 h24 hpreparation for regular assessment20 h20 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h40 hpublic presentation (oral)1 h1 hpreparation for exam24 h24 hpreparation of presentation9 h9 hwriting of seminar paper50 h50 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "During the semester, students are required to pass an ongoing test (40 points) focusing on the basic syntax of the language and working with built-in data types, and a final exam test (50 points), which will involve creating a complex functional program (assessed on the fulfillment of the assigned functionality, the method of communication with the user, and the execution of the code). The required minimum scores for the tests are 20 points for the first and 25 for the second. Each exam test can be retaken twice. The remaining 10 points are available to the tutors to assess the student's activity during the semester. For combined/part-time students, the points for activity in the tutorials are moved to the grading of homework assignments. That is, they can receive 10 points for completing 2 homework assignments."
+      "content": "The ability to perform the exam (final credit test respectively) is conditioned by obtaining the \"small\" credit, which will be awarded after the completion of all parts of the semestral project. For a successfully completed project, the student gets a maximum of 40 points. The final exam is evaluated with a maximum of 60 points and can be corrected twice. The project creation consists of several follow-up partial tasks, whereas each task has its own specification (including the deadline), which is necessary to complete - missing submission of any of the tasks results in the \"small\" credit obtaining inability and thus impossibility of successfull completion of the course. Possible errors and necessity to correct them (including any new deadline) will be communicated through the application \"Coursework submissions\" in UIS. The final evaluation of the course is then given by the sum of points obtained from the semester project and the final test, as follows: less than 60 points => \"large\" credit not awarded, 60 points and more => \"large\" credit awarded In the case of fraudulent behaviour detection, disciplinary proceedings will be initiated with the student."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %20 %Mid-term test(s)40 %40 %Final test40 %40 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTerm paper35 %35 %Presentation or defence5 %5 %Final test60 %60 %Total100 %100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -797,13 +797,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2024/2025"
+      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:44:22",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:58:30",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

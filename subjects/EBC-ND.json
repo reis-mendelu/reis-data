@@ -3,19 +3,84 @@
   "name": "Nepřímé daně",
   "nameCs": "Nepřímé daně",
   "nameEn": "Indirect Taxes",
-  "predmetId": "156549",
+  "predmetId": "162548",
   "facultyId": 2,
   "aliases": [
     "NDA"
   ],
   "teachers": [
-    "Ing. Iva Hasíková",
     "Ing. Milena Otavová, Ph.D.",
     "Ing. Miloš Grásgruber, Ph.D.",
-    "Ing. Radek Lančík",
     "prof. Ing. Petr David, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162548;lang=cz",
+      "totalPass": 96,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 2,
+            "C": 5,
+            "D": 0,
+            "E": 2,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 45,
+            "B": 24,
+            "C": 19,
+            "D": 2,
+            "E": 6,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 96,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 44,
+            "B": 22,
+            "C": 13,
+            "D": 2,
+            "E": 4,
+            "F": 12,
+            "FN": 1
+          },
+          "pass": 85,
+          "fail": 13
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -271,5 +336,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

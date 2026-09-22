@@ -3,9 +3,11 @@
   "name": "Zakládání a údržba zeleně I",
   "nameCs": "Zakládání a údržba zeleně I",
   "nameEn": "Vegetation Establishment and Maintenance I",
-  "predmetId": "159183",
+  "predmetId": "162264",
   "facultyId": 60,
-  "aliases": [],
+  "aliases": [
+    "ZZ1"
+  ],
   "teachers": [
     "Ing. Jana Drochytková",
     "Ing. Jozef Sedláček, Ph.D.",
@@ -15,6 +17,93 @@
     "prof. Ing. Pavel Šimek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162264;lang=cz",
+      "totalPass": 58,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 3,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 3,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 58,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 58,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 7,
+          "creditGrades": {
+            "zap": 52,
+            "nezap": 7,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - ZF",
       "semesterId": "794",
@@ -574,5 +663,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

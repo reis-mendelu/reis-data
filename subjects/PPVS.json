@@ -3,16 +3,53 @@
   "name": "Pěstování plodin pro výrobu sladu a piva",
   "nameCs": "Pěstování plodin pro výrobu sladu a piva",
   "nameEn": "Cultivation of crops for the production of malt and beer",
-  "predmetId": "157184",
+  "predmetId": "162445",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "Ing. Nicole Frantová, Ph.D.",
-    "doc. Ing. Radim Cerkal, Ph.D.",
-    "doc. Mgr. Ing. Eva Hrudová, Ph.D.",
-    "prof. Ing. Pavel Ryant, Ph.D."
+    "doc. Ing. Radim Cerkal, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162445;lang=cz",
+      "totalPass": 30,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 8,
+            "C": 9,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 8,
+            "C": 9,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -106,5 +143,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

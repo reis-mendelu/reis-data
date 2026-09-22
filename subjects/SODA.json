@@ -3,11 +3,52 @@
   "name": "Socioekonomická demografie v AJ",
   "nameCs": "Socioekonomická demografie v AJ",
   "nameEn": "Socioeconomic Demography in English",
-  "predmetId": "157796",
+  "predmetId": "163022",
   "facultyId": 23,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Mgr. RNDr. Pavel Ptáček, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163022;lang=cz",
+      "totalPass": 15,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 4,
+            "C": 1,
+            "D": 5,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 4,
+            "C": 1,
+            "D": 5,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -179,5 +220,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

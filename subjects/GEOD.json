@@ -3,13 +3,52 @@
   "name": "Geodézie AE",
   "nameCs": "Geodézie AE",
   "nameEn": "Geodesy AE",
-  "predmetId": "157163",
+  "predmetId": "162422",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "Ing. Miloš Cibulka, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162422;lang=cz",
+      "totalPass": 27,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 4,
+            "C": 4,
+            "D": 8,
+            "E": 8,
+            "F": 1,
+            "FN": 6
+          },
+          "pass": 27,
+          "fail": 7
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 4,
+            "C": 4,
+            "D": 8,
+            "E": 8,
+            "F": 1,
+            "FN": 6
+          },
+          "pass": 27,
+          "fail": 7
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -304,5 +343,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

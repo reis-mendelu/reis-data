@@ -3,7 +3,7 @@
   "name": "Péče o dřevinnou vegetaci v krajině",
   "nameCs": "Péče o dřevinnou vegetaci v krajině",
   "nameEn": "Landscape Woody Vegetation Management",
-  "predmetId": "156729",
+  "predmetId": "161747",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,45 @@
     "doc. Ing. Petr Kupec, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161747;lang=cz",
+      "totalPass": 28,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 7,
+            "C": 8,
+            "D": 6,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 28,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 7,
+            "C": 8,
+            "D": 6,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 28,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -207,5 +246,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,14 +3,52 @@
   "name": "Zoohygiena a prevence chorob",
   "nameCs": "Zoohygiena a prevence chorob",
   "nameEn": "Zoohygiene and Disease Prevention",
-  "predmetId": "157206",
+  "predmetId": "162408",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
-    "MVDr. Ladislav Taras, Ph.D.",
     "doc. Dr. Ing. Zdeněk Havlíček"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162408;lang=cz",
+      "totalPass": 104,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 74,
+            "B": 15,
+            "C": 10,
+            "D": 4,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 104,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 74,
+            "B": 15,
+            "C": 10,
+            "D": 4,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 104,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -235,5 +273,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,15 +3,104 @@
   "name": "Konstruktivní geometrie a technické kreslení",
   "nameCs": "Konstruktivní geometrie a technické kreslení",
   "nameEn": "Constructive Geometry and Technical Drawing",
-  "predmetId": "156705",
+  "predmetId": "161718",
   "facultyId": 38,
-  "aliases": [],
+  "aliases": [
+    "KG"
+  ],
   "teachers": [
     "Mgr. Alice Králová",
     "Mgr. Marie Koktavá, Ph.D.",
     "Mgr. Miroslava Tkadlecová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161718;lang=cz",
+      "totalPass": 101,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 11,
+          "creditGrades": {
+            "zap": 34,
+            "nezap": 11,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 10,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 101,
+          "fail": 2,
+          "creditGrades": {
+            "zap": 101,
+            "nezap": 2,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 57,
+          "fail": 46,
+          "creditGrades": {
+            "zap": 57,
+            "nezap": 46,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -383,5 +472,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

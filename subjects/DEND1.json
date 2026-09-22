@@ -3,10 +3,11 @@
   "name": "Dendrologie I",
   "nameCs": "Dendrologie I",
   "nameEn": "Dendrology I",
-  "predmetId": "157408",
+  "predmetId": "162263",
   "facultyId": 60,
   "aliases": [
-    "DE1"
+    "DE1",
+    "DENDA"
   ],
   "teachers": [
     "Bc. Ing. et Ing. Lenka Miksová, Ph.D.",
@@ -14,6 +15,93 @@
     "prof. Ing. Miloš Pejchal, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162263;lang=cz",
+      "totalPass": 67,
+      "totalFail": 15,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 17,
+          "creditGrades": {
+            "zap": 5,
+            "nezap": 12,
+            "zapNedost": 5
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 16,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 11,
+            "zapNedost": 5
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 67,
+          "fail": 15,
+          "creditGrades": {
+            "zap": 67,
+            "nezap": 10,
+            "zapNedost": 5
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 60,
+          "fail": 22,
+          "creditGrades": {
+            "zap": 60,
+            "nezap": 19,
+            "zapNedost": 3
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -540,5 +628,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

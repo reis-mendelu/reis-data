@@ -3,7 +3,7 @@
   "name": "Pedagogická psychologie",
   "nameCs": "Pedagogická psychologie",
   "nameEn": "Educational Psychology",
-  "predmetId": "157927",
+  "predmetId": "162970",
   "facultyId": 220,
   "aliases": [
     "EP-AJ",
@@ -12,6 +12,45 @@
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ICV",
+      "semesterId": "819",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=819;predmet=162970;lang=cz",
+      "totalPass": 36,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 11,
+            "C": 8,
+            "D": 7,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 36,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 11,
+            "C": 8,
+            "D": 7,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 36,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ICV",
       "semesterId": "781",
@@ -183,5 +222,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

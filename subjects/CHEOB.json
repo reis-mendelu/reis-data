@@ -3,11 +3,66 @@
   "name": "Chemie organická a biochemie",
   "nameCs": "Chemie organická a biochemie",
   "nameEn": "Organic Chemistry and Biochemistry",
-  "predmetId": "157466",
+  "predmetId": "162359",
   "facultyId": 60,
-  "aliases": [],
+  "aliases": [
+    "CHOB"
+  ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162359;lang=cz",
+      "totalPass": 36,
+      "totalFail": 18,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 7,
+            "D": 18,
+            "E": 8,
+            "F": 0,
+            "FN": 18
+          },
+          "pass": 36,
+          "fail": 18
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 6,
+            "D": 18,
+            "E": 8,
+            "F": 1,
+            "FN": 18
+          },
+          "pass": 35,
+          "fail": 19
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -232,5 +287,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

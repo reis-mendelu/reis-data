@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Ing. Luděk Kouba, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "doc. Ing. Luděk Kouba, Ph.D. (garant, přednášející, zkoušející)Ing. Michal Mádr, Ph.D. (cvičící, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -106,8 +106,24 @@
       "content": "Transformační strategie ve střední a východní Evropě a jejich vliv na hlavní ekonomické ukazatele (dotace 4/2)"
     },
     {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "25 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "25 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -123,7 +139,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -131,11 +147,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (4 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 0/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -171,7 +187,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Ing. Luděk Kouba, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: doc. Ing. Luděk Kouba, Ph.D. (garant, přednášející, zkoušející)Ing. Michal Mádr, Ph.D. (cvičící, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -179,7 +195,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q48není určenPřednáškaKaždý týden30Pondělí15.00-15.50Q48není určenCvičeníKaždý týden30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q48L. KoubaPřednáškaKaždý týden30Středa11.00-12.50Q48M. MádrCvičeníLichý týden30"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -259,7 +275,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení14 h0 hpříprava na zkoušku35 h0 hzpracování projektů35 h0 hCelkem112 h0 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku35 hzpracování projektů35 hCelkem112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -267,7 +283,7 @@
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích25 %0 %Vypracování semestrální práce25 %0 %Absolvování závěrečného testu50 %0 %Celkem100 %0 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích25 %Vypracování semestrální práce25 %Absolvování závěrečného testu50 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -283,7 +299,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace ENEMOS Ekonomická statistika, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Specializace ENEMOS Ekonomická statistika, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -305,7 +321,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -313,7 +329,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -349,7 +365,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Ing. Luděk Kouba, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "doc. Ing. Luděk Kouba, Ph.D. (examiner, lecturer, supervisor)Ing. Michal Mádr, Ph.D. (examiner, instructor)"
     },
     {
       "label": "Prerequisites:",
@@ -396,8 +412,24 @@
       "content": "Transition strategies in CEE countries and their impact on main economic indicators (allowance 4/2)"
     },
     {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "25 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "25 %"
+    },
+    {
+      "label": "Final test",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -413,7 +445,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -421,11 +453,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (4 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 0/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -461,7 +493,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Ing. Luděk Kouba, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: doc. Ing. Luděk Kouba, Ph.D. (examiner, lecturer, supervisor)Ing. Michal Mádr, Ph.D. (examiner, instructor)"
     },
     {
       "label": "[section] Teachers:",
@@ -469,7 +501,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday13.00-14.50Q48not setLectureEvery week30Monday15.00-15.50Q48not setSeminarEvery week30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50Q48L. KoubaLectureEvery week30Wednesday11.00-12.50Q48M. MádrSeminarOdd week30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -545,7 +577,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice14 h0 hpreparation for exam35 h0 helaboration and execution of projects35 h0 hTotal112 h0 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam35 helaboration and execution of projects35 hTotal112 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -553,7 +585,7 @@
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation25 %0 %Term paper25 %0 %Final test50 %0 %Total100 %0 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation25 %Term paper25 %Final test50 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -569,13 +601,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track ENEMOS Economic Statistics, full-time form, initial period WS 2023/2024"
+      "content": "Track ENEMOS Economic Statistics, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:57:19",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:13:48",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

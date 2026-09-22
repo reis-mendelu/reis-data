@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "doc. Ing. Pavel Syrovátka, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Alena Melicharová, Ph.D. (tutor, zkoušející)doc. Ing. Bc. Petr Suchánek, Ph.D. (garant)Ing. Jan Vavřina, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Ing. Alena Melicharová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Marie Poláchová, Ph.D. (zkoušející)doc. Ing. Pavel Syrovátka, Ph.D. (garant)Ing. Jan Vavřina, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -135,7 +135,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -151,7 +151,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -187,7 +187,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "Garant předmětu: doc. Ing. Pavel Syrovátka, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -199,7 +199,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Alena Melicharová, Ph.D. (tutor, zkoušející)doc. Ing. Bc. Petr Suchánek, Ph.D. (garant)Ing. Jan Vavřina, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Alena Melicharová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Marie Poláchová, Ph.D. (zkoušející)doc. Ing. Pavel Syrovátka, Ph.D. (garant)Ing. Jan Vavřina, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -207,7 +207,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý15.00-16.50A32bJ. VavřinaPřednáškaKaždý týden50Středa7.00-8.50Q42J. VavřinaCvičeníKaždý týden50"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q02A. MelicharováPřednáškaKaždý týden170Středa7.00-8.50Q22J. VavřinaCvičeníKaždý týden30Čtvrtek7.00-8.50Q22J. VavřinaCvičeníKaždý týden30"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -323,11 +323,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace4 hpříprava na zkoušku40 hpříprava na průběžné hodnocení20 hzpracování protokolů20 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace4 hpříprava na zkoušku40 hpříprava na průběžné hodnocení20 hzpracování protokolů20 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Hodnocení studentů v rámci cvičení je založeno na písemné zápočtové práci, ze které lze získat až 50 bodů. Pro udělení zápočtu je zapotřebí dosáhnout minimálně 25 bodů. Zkouška z předmětu má písemnou podobu. Student může ze zkouškové písemné práce získat maximálně 50 bodů. Jestliže student u zkouškové písemky obdrží méně než 30 bodů, u zkoušky neuspěl a je klasifikován stupněm F. V opačném případě je výsledné hodnocení studenta dáno součtem bodů ze zkoušky a ze cvičení. K těmto bodům jsou ještě připočítávány body za aktivitu na přednáškách a ve cvičení. Výsledná známka studenta je pak dána takto: E 60-67, D 68-74, C 75-82, B 83-89, A více než 90."
+      "content": "Hodnocení studentů v rámci cvičení je založeno na dvou písemných pracích, ze kterých lze v součtu získat maximálně 50 bodů. Pro udělení zápočtu je zapotřebí dosáhnout minimálně 30 bodů. Zkouška z předmětu má písemnou podobu. Student může ze zkouškové písemné práce získat maximálně 50 bodů. Jestliže student u zkouškové písemky obdrží méně než 30 bodů, u zkoušky neuspěl a je klasifikován stupněm F. V opačném případě je výsledné hodnocení studenta dáno součtem bodů ze zkoušky a ze cvičení takto: A 100-90, B 89-83, C 82-75, D 74-68, E 67-60."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -347,7 +347,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-FYT Fytotechnika, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Obor B-AGB-FY Fytotechnika, prezenční forma, počáteční období ZS 2019/2020Obor B-ZS-PT Provoz techniky, prezenční forma, počáteční období ZS 2019/2020Obor B-TO-OH Odpadové hospodářství, prezenční forma, počáteční období ZS 2019/2020"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -369,7 +369,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -401,7 +401,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "doc. Ing. Pavel Syrovátka, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -413,7 +413,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Alena Melicharová, Ph.D. (examiner, tutor)doc. Ing. Bc. Petr Suchánek, Ph.D. (supervisor)Ing. Jan Vavřina, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "Ing. Alena Melicharová, Ph.D. (examiner, instructor, lecturer)Ing. Marie Poláchová, Ph.D. (examiner)doc. Ing. Pavel Syrovátka, Ph.D. (supervisor)Ing. Jan Vavřina, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -489,7 +489,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -505,7 +505,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -541,7 +541,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "Course supervisor: doc. Ing. Pavel Syrovátka, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -553,7 +553,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Alena Melicharová, Ph.D. (examiner, tutor)doc. Ing. Bc. Petr Suchánek, Ph.D. (supervisor)Ing. Jan Vavřina, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "Teachers: Ing. Alena Melicharová, Ph.D. (examiner, instructor, lecturer)Ing. Marie Poláchová, Ph.D. (examiner)doc. Ing. Pavel Syrovátka, Ph.D. (supervisor)Ing. Jan Vavřina, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -561,7 +561,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday15.00-16.50A32bJ. VavřinaLectureEvery week50Wednesday7.00-8.50Q42J. VavřinaSeminarEvery week50"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday11.00-12.50Q02A. MelicharováLectureEvery week170Wednesday7.00-8.50Q22J. VavřinaSeminarEvery week30Thursday7.00-8.50Q22J. VavřinaSeminarEvery week30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -677,11 +677,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation4 hpreparation for exam40 hpreparation for regular assessment20 helaboration of reports20 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation4 hpreparation for exam40 hpreparation for regular assessment20 helaboration of reports20 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The assessment of students at the seminars is based on written work. The score of 30 points (out of a maximum of 50 points) is required to be awarded the subject-credit. The exam is in written form. A score of 30 points (out of a maximum of 50 points) is required to pass the exam. The final evaluation of the student in the course is given by the sum of points from the exam and the from the seminars. In addition to these points, points for activity in lectures and seminars are added. The student's final grade is then given as follows: E 60-67, D 68-74, C 75-82, B 83-89, A 90 and more."
+      "content": "The assessment of students at the seminars is based on two written works. In a sum, the score of 30 points (out of a maximum of 50 points) is required to be awarded the subject-credit. The exam is in written form. A score of 30 points (out of a maximum of 50 points) is required to pass the exam. The final evaluation of the student in the course is given by the sum of points from the exam and the from the seminars as follows: A 100-90, B 89-83, C 82-75, D 74-68, E 67-60, F 59 and less."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -701,13 +701,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-PPN Plant Production, full-time form, initial period WS 2023/2024"
+      "content": "Field of study B-AGB-PP Plant Production, full-time form, initial period WS 2019/2020Field of study B-AS-AM Agricultural Machinery, full-time form, initial period WS 2019/2020Field of study B-WT-WM Waste Management, full-time form, initial period WS 2019/2020"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:49:19",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:04:47",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

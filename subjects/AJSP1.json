@@ -3,8 +3,8 @@
   "name": "Světový jazyk - angličtina středně pokročilí 1",
   "nameCs": "Světový jazyk - angličtina středně pokročilí 1",
   "nameEn": "World Language - English Intermediate Course 1",
-  "predmetId": "159324",
-  "facultyId": 60,
+  "predmetId": "163060",
+  "facultyId": 23,
   "aliases": [],
   "teachers": [
     "Ing. Denisa Kovářová",
@@ -13,6 +13,74 @@
     "Mgr. Renata Hajslerová"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163060;lang=cz",
+      "totalPass": 52,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 4,
+          "creditGrades": {
+            "zap": 52,
+            "nezap": 2,
+            "zapNedost": 2
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 50,
+          "fail": 6,
+          "creditGrades": {
+            "zap": 50,
+            "nezap": 3,
+            "zapNedost": 3
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -868,5 +936,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

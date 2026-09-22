@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "ne"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. RNDr. Lubica Pospíšilová, CSc."
+      "content": "Ing. Vítězslav Vlček, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Jana Plisková (cvičící)doc. RNDr. Lubica Pospíšilová, CSc. (cvičící, garant, přednášející, zkoušející)"
+      "content": "doc. RNDr. Lubica Pospíšilová, CSc. (cvičící, přednášející, zkoušející)Ing. Jakub Prudil (cvičící)Ing. Luboš Sedlák (cvičící)Ing. Vítězslav Vlček, Ph.D. (garant)"
     },
     {
       "label": "Prerekvizity:",
@@ -199,7 +199,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -215,7 +215,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -243,7 +243,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: ne"
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -251,7 +251,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. RNDr. Lubica Pospíšilová, CSc."
+      "content": "Garant předmětu: Ing. Vítězslav Vlček, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -263,7 +263,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Jana Plisková (cvičící)doc. RNDr. Lubica Pospíšilová, CSc. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: doc. RNDr. Lubica Pospíšilová, CSc. (cvičící, přednášející, zkoušející)Ing. Jakub Prudil (cvičící)Ing. Luboš Sedlák (cvičící)Ing. Vítězslav Vlček, Ph.D. (garant)"
     },
     {
       "label": "[section] Vyučující:",
@@ -271,11 +271,11 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek13.00-14.50C21L. Pospíšilová, J. PliskováCvičeníKaždý týden15Čtvrtek15.00-16.50C21L. PospíšilováPřednáškaKaždý týden15"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek7.00-8.50C21L. PospíšilováPřednáškaKaždý týden20Čtvrtek9.00-10.50C21L. PospíšilováCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Seznámení posluchačů s podrobnou klasifikací půd ČR a také s mezinárodně používanou klasifikací IUSS Working Group WRB (2022) World Reference Base for Soil Resources. Výuka dále zahrnuje vybrané speciální metody průzkumu půd (např. kapacitní měření, penetrometrická měření a měření propustnosti), které rozšíří poznatky a pomohou pochopit problematiku ochrany půd. V rámci problematiky ochrany zemědělského půdního fondu jsou posluchači seznamováni jak se souborem legislativy, tak s možnostmi asanace a zlepšování degradovaných a devastovaných půd. Cílem je také seznámit posluchače s novými poznatky o vývoji zemědělského půdního fondu."
+      "content": "Seznámení posluchačů s podrobnou klasifikací půd ČR a také s mezinárodně používanou klasifikací FAO. Dále jsou ve výuce zahrnuty metody průzkumu a výzkumu půd a poznatky o informačním systému půd ČR. V rámci problematiky ochrany zemědělského půdního fondu jsou posluchači seznamováni jak se souborem legislativy, tak s možnostmi asanace a zlepšování degradovaných a devastovaných půd. Cílem je také seznámit posluchače s novými poznatky o vývoji zemědělského půdního fondu a jeho restrukturalizaci zvláště v souvislosti se vstupem České republiky do EU."
     },
     {
       "label": "[section] Obsah předmětu:",
@@ -339,11 +339,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška24 hcvičení6 hlaboratorní práce6 hpráce v terénu6 hodborná exkurze6 hpříprava na zkoušku50 hpříprava na průběžné hodnocení32 hzpracování protokolů10 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška24 hcvičení6 hlaboratorní práce6 hpráce v terénu6 hodborná exkurze6 hpříprava na zkoušku50 hpříprava na průběžné hodnocení32 hzpracování protokolů10 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Zpracování seminární práce a její prezentace Zápočtový test Zkouška písemná a ústní"
+      "content": "ústní zkouška"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -351,19 +351,19 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:NĚMEČEK, Jan a kol. 2011. Taxonomický klasifikační systém půd České republiky. 2. vyd. Praha: Česká zemědělská univerzita, 94 s. ISBN 978-80-213-2155-7.VLČEK, Vítězslav; POSPÍŠILOVÁ, Lubica; ŠIMEČKOVÁ, Jana; DVOŘÁČKOVÁ, Helena; JANDÁK, Jiří. 2020. Půdoznalství. 1. vyd. Brno: Mendelova univerzita v Brně, 135 s. ISBN 978-80-7509-738-5.PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 s. ISBN 80-7157-746-4.VÁCHA, Radim. 2019. Půda: naše bohatství. 1. vyd. Praha: Vydavatelství Profi Press s.r.o., 228 s. ISBN 978-80-88306-00-9.Doporučená: PAVLŮ, Lenka. Základy pedologie a ochrany půdy. V Praze: Česká zemědělská univerzita, 2019. ISBN 978-80-213-2952-2. ŠARAPATKA, Bořivoj. Vybrané kapitoly z pedologie a ochrany půdy. Skripta. Olomouc: Univerzita Palackého v Olomouci, 2013. ISBN 978-80-244-3476-6. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps. 4th edition. International Union of Soil Sciences (IUSS), Vienna, Austria."
+      "content": "Základní:PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 s. ISBN 80-7157-746-4.JANDÁK, Jiří; POKORNÝ, Eduard; PRAX, Alois. 2010. Půdoznalství. 3. vyd. Brno: Mendelova univerzita v Brně, 143 s. ISBN 978-80-7375-445-7.JANDÁK, Jiří a kol. 2003. Cvičení z půdoznalství. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 92 s. ISBN 978-80-7157-733-12009.Doporučená:Jonáš, F., Zúrodnění půd, Praha: VŠZ, 1988Míchal, I., Ekologická stabilita, Brno: NŽPČR a Veronika, 1994Němeček, J. et al., Pedologie a paleopedologie, Praha: Academia, 1990Pelíšek, J., Výšková půdní pásmitost střední Evropy, Praha: Academia, 1966"
     },
     {
       "label": "[section] Základní:",
-      "content": "NĚMEČEK, Jan a kol. 2011. Taxonomický klasifikační systém půd České republiky. 2. vyd. Praha: Česká zemědělská univerzita, 94 s. ISBN 978-80-213-2155-7.VLČEK, Vítězslav; POSPÍŠILOVÁ, Lubica; ŠIMEČKOVÁ, Jana; DVOŘÁČKOVÁ, Helena; JANDÁK, Jiří. 2020. Půdoznalství. 1. vyd. Brno: Mendelova univerzita v Brně, 135 s. ISBN 978-80-7509-738-5.PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 s. ISBN 80-7157-746-4.VÁCHA, Radim. 2019. Půda: naše bohatství. 1. vyd. Praha: Vydavatelství Profi Press s.r.o., 228 s. ISBN 978-80-88306-00-9."
+      "content": "PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 s. ISBN 80-7157-746-4.JANDÁK, Jiří; POKORNÝ, Eduard; PRAX, Alois. 2010. Půdoznalství. 3. vyd. Brno: Mendelova univerzita v Brně, 143 s. ISBN 978-80-7375-445-7.JANDÁK, Jiří a kol. 2003. Cvičení z půdoznalství. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 92 s. ISBN 978-80-7157-733-12009."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "PAVLŮ, Lenka. Základy pedologie a ochrany půdy. V Praze: Česká zemědělská univerzita, 2019. ISBN 978-80-213-2952-2. ŠARAPATKA, Bořivoj. Vybrané kapitoly z pedologie a ochrany půdy. Skripta. Olomouc: Univerzita Palackého v Olomouci, 2013. ISBN 978-80-244-3476-6. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps. 4th edition. International Union of Soil Sciences (IUSS), Vienna, Austria."
+      "content": "Jonáš, F., Zúrodnění půd, Praha: VŠZ, 1988Míchal, I., Ekologická stabilita, Brno: NŽPČR a Veronika, 1994Němeček, J. et al., Pedologie a paleopedologie, Praha: Academia, 1990Pelíšek, J., Výšková půdní pásmitost střední Evropy, Praha: Academia, 1966"
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace SBPUOP Pozemkové úpravy a ochrana půdy, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Specializace SBPUOP Pozemkové úpravy a ochrana půdy, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -385,7 +385,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -409,7 +409,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "no"
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -417,7 +417,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. RNDr. Lubica Pospíšilová, CSc."
+      "content": "Ing. Vítězslav Vlček, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -429,7 +429,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Jana Plisková (instructor)doc. RNDr. Lubica Pospíšilová, CSc. (examiner, instructor, lecturer, supervisor)"
+      "content": "doc. RNDr. Lubica Pospíšilová, CSc. (examiner, instructor, lecturer)Ing. Jakub Prudil (instructor)Ing. Luboš Sedlák (instructor)Ing. Vítězslav Vlček, Ph.D. (supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -445,7 +445,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -461,7 +461,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -489,7 +489,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: no"
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -497,7 +497,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. RNDr. Lubica Pospíšilová, CSc."
+      "content": "Course supervisor: Ing. Vítězslav Vlček, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -509,7 +509,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Jana Plisková (instructor)doc. RNDr. Lubica Pospíšilová, CSc. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: doc. RNDr. Lubica Pospíšilová, CSc. (examiner, instructor, lecturer)Ing. Jakub Prudil (instructor)Ing. Luboš Sedlák (instructor)Ing. Vítězslav Vlček, Ph.D. (supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -517,11 +517,11 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday13.00-14.50C21L. Pospíšilová, J. PliskováSeminarEvery week15Thursday15.00-16.50C21L. PospíšilováLectureEvery week15"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday7.00-8.50C21L. PospíšilováLectureEvery week20Thursday9.00-10.50C21L. PospíšilováSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The study aim is to introduce students to detailed soil classification of the Czech Republic, and the international classification of IUSS Working Group WRB (2022) World Reference Base for Soil Resources. Selected special methods of soil properties determination (e.g. capacity method, penetrometric methods, permeability) are included. These help students better understand problem of protection of agricultural soil resources. Legislature and improvement of degraded and devastated soils will be studied. The main aim is to introduce the new findings of agricultural land resources development."
+      "content": "The study aim is to introduce students to detailed soil classification of Czech republic, and the internationaly used soil classification FAO. Included in the course are Methods of soil exploration and soil research, and finding out about soil information system of Czech republic. Students are introduced to problems regarding conserving agricultural soil resources. Options regarding soil sanitation, and improving degraded and devastated soil. The next point of this course is to introduce the students to new findings in the development of agricultural soil resources and its transformation, especially in connection with admission of Czech republic to EU."
     },
     {
       "label": "[section] Course content:",
@@ -529,11 +529,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture24 hpractice6 hlaboratory work6 hfield work6 hprofessional educational excursion6 hpreparation for exam50 hpreparation for regular assessment32 helaboration of reports10 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture24 hpractice6 hlaboratory work6 hfield work6 hprofessional educational excursion6 hpreparation for exam50 hpreparation for regular assessment32 helaboration of reports10 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Preparation of the seminar paper and its presentation Credit written test Oral and written exam"
+      "content": "oral exam"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -541,25 +541,25 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:NĚMEČEK, Jan et al. 2011. Taxonomický klasifikační systém půd České republiky. 2nd ed. Praha: Česká zemědělská univerzita, 94 p. ISBN 978-80-213-2155-7.VLČEK, Vítězslav; POSPÍŠILOVÁ, Lubica; ŠIMEČKOVÁ, Jana; DVOŘÁČKOVÁ, Helena; JANDÁK, Jiří. 2020. Půdoznalství. 1st ed. Brno: Mendelova univerzita v Brně, 135 p. ISBN 978-80-7509-738-5.PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 p. ISBN 80-7157-746-4.VÁCHA, Radim. 2019. Půda: naše bohatství. 1st ed. Praha: Vydavatelství Profi Press s.r.o., 228 p. ISBN 978-80-88306-00-9.Recommended: PAVLŮ, Lenka. Základy pedologie a ochrany půdy. V Praze: Česká zemědělská univerzita, 2019. ISBN 978-80-213-2952-2. ŠARAPATKA, Bořivoj. Vybrané kapitoly z pedologie a ochrany půdy. Skripta. Olomouc: Univerzita Palackého v Olomouci, 2013. ISBN 978-80-244-3476-6. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps. 4th edition. International Union of Soil Sciences (IUSS), Vienna, Austria."
+      "content": "Basic:PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 p. ISBN 80-7157-746-4.JANDÁK, Jiří; POKORNÝ, Eduard; PRAX, Alois. 2010. Půdoznalství. 3rd ed. Brno: Mendelova univerzita v Brně, 143 p. ISBN 978-80-7375-445-7.JANDÁK, Jiří et al. 2003. Cvičení z půdoznalství. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 92 p. ISBN 978-80-7157-733-12009.Recommended:Jonáš, F., Zúrodnění půd, Praha: VŠZ, 1988Míchal, I., Ekologická stabilita, Brno: NŽPČR a Veronika, 1994Němeček, J. et al., Pedologie a paleopedologie, Praha: Academia, 1990Pelíšek, J., Výšková půdní pásmitost střední Evropy, Praha: Academia, 1966"
     },
     {
       "label": "[section] Basic:",
-      "content": "NĚMEČEK, Jan et al. 2011. Taxonomický klasifikační systém půd České republiky. 2nd ed. Praha: Česká zemědělská univerzita, 94 p. ISBN 978-80-213-2155-7.VLČEK, Vítězslav; POSPÍŠILOVÁ, Lubica; ŠIMEČKOVÁ, Jana; DVOŘÁČKOVÁ, Helena; JANDÁK, Jiří. 2020. Půdoznalství. 1st ed. Brno: Mendelova univerzita v Brně, 135 p. ISBN 978-80-7509-738-5.PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 p. ISBN 80-7157-746-4.VÁCHA, Radim. 2019. Půda: naše bohatství. 1st ed. Praha: Vydavatelství Profi Press s.r.o., 228 p. ISBN 978-80-88306-00-9."
+      "content": "PRAX, Alois; POKORNÝ, Eduard. 2004. Klasifikace a ochrana půd. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 175 p. ISBN 80-7157-746-4.JANDÁK, Jiří; POKORNÝ, Eduard; PRAX, Alois. 2010. Půdoznalství. 3rd ed. Brno: Mendelova univerzita v Brně, 143 p. ISBN 978-80-7375-445-7.JANDÁK, Jiří et al. 2003. Cvičení z půdoznalství. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 92 p. ISBN 978-80-7157-733-12009."
     },
     {
       "label": "[section] Recommended:",
-      "content": "PAVLŮ, Lenka. Základy pedologie a ochrany půdy. V Praze: Česká zemědělská univerzita, 2019. ISBN 978-80-213-2952-2. ŠARAPATKA, Bořivoj. Vybrané kapitoly z pedologie a ochrany půdy. Skripta. Olomouc: Univerzita Palackého v Olomouci, 2013. ISBN 978-80-244-3476-6. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps. 4th edition. International Union of Soil Sciences (IUSS), Vienna, Austria."
+      "content": "Jonáš, F., Zúrodnění půd, Praha: VŠZ, 1988Míchal, I., Ekologická stabilita, Brno: NŽPČR a Veronika, 1994Němeček, J. et al., Pedologie a paleopedologie, Praha: Academia, 1990Pelíšek, J., Výšková půdní pásmitost střední Evropy, Praha: Academia, 1966"
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track SBPUOP Land Consolidation and Soil Protection, full-time form, initial period WS 2024/2025"
+      "content": "Track SBPUOP Land Consolidation and Soil Protection, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:19:11",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:31:59",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -5,7 +5,9 @@
   "nameEn": "Wood Anatomy",
   "predmetId": "159521",
   "facultyId": 38,
-  "aliases": [],
+  "aliases": [
+    "SDR"
+  ],
   "teachers": [
     "doc. Ing. Hanuš Vavrčík, Ph.D.",
     "prof. Ing. Vladimír Gryc, Ph.D."
@@ -85,7 +87,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153505;lang=cz",
       "totalPass": 105,
-      "totalFail": 24,
+      "totalFail": 27,
       "terms": [
         {
           "term": "1. opravný",
@@ -123,11 +125,11 @@
             "C": 25,
             "D": 30,
             "E": 31,
-            "F": 24,
+            "F": 27,
             "FN": 0
           },
           "pass": 105,
-          "fail": 24
+          "fail": 27
         },
         {
           "term": "Řádný termín",
@@ -372,5 +374,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

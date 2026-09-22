@@ -3,7 +3,7 @@
   "name": "Bakalářský seminář",
   "nameCs": "Bakalářský seminář",
   "nameEn": "Bachelor Seminar",
-  "predmetId": "160371",
+  "predmetId": "162685",
   "facultyId": 23,
   "aliases": [
     "BCSE",
@@ -11,32 +11,58 @@
     "EBC-BS"
   ],
   "teachers": [
-    "Beatrice-Elena Chromková Manea, M.A., Ph.D.",
-    "Ing. Adam Janošec, MBA",
-    "Ing. Alice Kozumplíková, Ph.D.",
-    "Ing. Amar Khairi, Ph.D.",
-    "Ing. Barbora Daňková, Ph.D.",
-    "Ing. Ivo Zdráhal, Ph.D.",
-    "Ing. Jan Pivoda",
-    "Ing. Lenka Hromková",
-    "Ing. Radka Redlichová, Ph.D.",
-    "Ing. Simona Miškolci, Ph.D.",
-    "Ing. Tadeáš Hrušovský",
-    "Ing. Vojtěch Tamáš, Ph.D.",
-    "Mgr. Ing. Richard Turcsányi, Ph.D.",
-    "Mgr. Lenka Zouhar Ludvíková, Ph.D.",
-    "Mgr. Martin Hrabálek, Ph.D.",
-    "Mgr. Petr Klusáček, Ph.D.",
-    "Mgr. RNDr. Pavel Ptáček, Ph.D.",
-    "PhDr. Martin Petlach, Ph.D.",
-    "doc. Ing. Kristina Somerlíková, Ph.D.",
-    "doc. Ing. Veronika Večeřová, Ph.D.",
-    "doc. PhDr. Mgr. Josef Smolík, Ph.D., MBA, LL.M.",
-    "prof. Bc. Ing. Otakar Holuša, Ph.D. et Ph.D.",
-    "prof. Ing. Tomáš Lošák, Ph.D.",
     "prof. MVDr. Ivo Pavlík, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162685;lang=cz",
+      "totalPass": 131,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 131,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 131,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 131,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 131,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -596,5 +622,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -1,13 +1,52 @@
 {
   "courseCode": "FJZ2A",
   "name": "Světový jazyk - francouzština začátečníci 2 v AJ",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "151458",
+  "nameCs": "Světový jazyk - francouzština začátečníci 2 v AJ",
+  "nameEn": "World Language - French in English Beginner Course 2",
+  "predmetId": "163103",
   "facultyId": 23,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163103;lang=cz",
+      "totalPass": 3,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 3,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 3,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2023/2024 - FRRMS",
       "semesterId": "757",
@@ -190,5 +229,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

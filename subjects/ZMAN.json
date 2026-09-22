@@ -3,11 +3,53 @@
   "name": "Základy regionálního managementu",
   "nameCs": "Základy regionálního managementu",
   "nameEn": "Fundamentals of Regional Management",
-  "predmetId": "157809",
+  "predmetId": "163012",
   "facultyId": 23,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Ing. Eliška Svobodová, Ph.D.",
+    "doc. Ing. Veronika Večeřová, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163012;lang=cz",
+      "totalPass": 39,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 14,
+            "C": 11,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 39,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 14,
+            "C": 11,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 39,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -260,5 +302,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

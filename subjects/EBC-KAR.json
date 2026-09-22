@@ -3,15 +3,83 @@
   "name": "Kvantitativní analýza rizika",
   "nameCs": "Kvantitativní analýza rizika",
   "nameEn": "Quantitative Risk Analysis",
-  "predmetId": "159863",
+  "predmetId": "162940",
   "facultyId": 2,
   "aliases": [
     "KAR"
   ],
   "teachers": [
+    "RNDr. Lenka Viskotová, Ph.D.",
     "prof. Mgr. David Hampel, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162940;lang=cz",
+      "totalPass": 13,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 5,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 7,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 2,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 4,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 4,
+            "D": 1,
+            "E": 7,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 13,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 10,
+            "FN": 3
+          },
+          "pass": 2,
+          "fail": 13
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -225,5 +293,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

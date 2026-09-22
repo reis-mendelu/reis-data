@@ -3,17 +3,69 @@
   "name": "Kybernetická bezpečnost v AJ",
   "nameCs": "Kybernetická bezpečnost v AJ",
   "nameEn": "Cyber Security",
-  "predmetId": "152270",
+  "predmetId": "160780",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Andrej Juríčka",
     "Ing. Jiří Balej, Ph.D.",
-    "Ing. Ludmila Kunderová",
     "doc. RNDr. Tomáš Sochor, CSc.",
     "prof. RNDr. Tomáš Pitner, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160780;lang=cz",
+      "totalPass": 20,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 6,
+            "C": 6,
+            "D": 3,
+            "E": 2,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 20,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 6,
+            "C": 5,
+            "D": 2,
+            "E": 2,
+            "F": 3,
+            "FN": 1
+          },
+          "pass": 18,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -227,5 +279,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

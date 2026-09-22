@@ -3,14 +3,54 @@
   "name": "Půdoznalství AE",
   "nameCs": "Půdoznalství AE",
   "nameEn": "Soil Science",
-  "predmetId": "157164",
+  "predmetId": "162001",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
     "Ing. Anna Hammerová, Ph.D.",
+    "Ing. Jana Plisková",
     "doc. RNDr. Lubica Pospíšilová, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162001;lang=cz",
+      "totalPass": 27,
+      "totalFail": 9,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 10,
+            "C": 7,
+            "D": 7,
+            "E": 1,
+            "F": 0,
+            "FN": 9
+          },
+          "pass": 27,
+          "fail": 9
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 10,
+            "C": 7,
+            "D": 7,
+            "E": 1,
+            "F": 0,
+            "FN": 9
+          },
+          "pass": 27,
+          "fail": 9
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -285,5 +325,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

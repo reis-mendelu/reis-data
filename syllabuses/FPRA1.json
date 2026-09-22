@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2023/2024"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět je možné studovat během zahraniční mobility po individuální domluvě s garantem předmětu za předpokladu splnění všech požadavků vyžadovaných k ukončení předmětu. Pro ukončení předmětu je nutné dodat prezentaci o průběhu studia daného předmětu v zahraničí zahrnující dokumentaci praktické floristické činnosti studenta v navštívené zemi."
+      "content": "Není umožněno."
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Miloš Jurica, Ph.D. (cvičící)doc. Ing. Jiří Martinek, Ph.D. (cvičící, garant, zkoušející)Bc. Tamás Vígh (cvičící)"
+      "content": "Ing. Miloš Jurica, Ph.D. (cvičící, zkoušející)doc. Ing. Jiří Martinek, Ph.D. (cvičící, garant, zkoušející)Mgr. Tamás Vígh (cvičící, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -151,23 +151,27 @@
     },
     {
       "label": "6.",
-      "content": "Zařazení realizovaného projektu do portfolia prací studenta. (dotace 0/2)"
+      "content": "Prezentace realizovaného projektu. (dotace 0/2)"
     },
     {
       "label": "a.",
-      "content": "Úprava fotodokumentace."
+      "content": "Finalizace projektové dokumentace."
     },
     {
       "label": "b.",
-      "content": "Vložení do portfolia."
+      "content": "Vytvoření prezentace a její odevzdání."
     },
     {
       "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "40 %"
+      "content": "80 %"
     },
     {
       "label": "Vypracování semestrální práce",
-      "content": "60 %"
+      "content": "10 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
     },
     {
       "label": "Celkem",
@@ -175,7 +179,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -191,7 +195,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2023/2024"
     },
     {
       "label": "[section] Semestr:",
@@ -219,7 +223,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility po individuální domluvě s garantem předmětu za předpokladu splnění všech požadavků vyžadovaných k ukončení předmětu. Pro ukončení předmětu je nutné dodat prezentaci o průběhu studia daného předmětu v zahraničí zahrnující dokumentaci praktické floristické činnosti studenta v navštívené zemi."
+      "content": "Možnost studia předmětu během zahraniční mobility: Není umožněno."
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -239,7 +243,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Miloš Jurica, Ph.D. (cvičící)doc. Ing. Jiří Martinek, Ph.D. (cvičící, garant, zkoušející)Bc. Tamás Vígh (cvičící)"
+      "content": "Vyučující: Ing. Miloš Jurica, Ph.D. (cvičící, zkoušející)doc. Ing. Jiří Martinek, Ph.D. (cvičící, garant, zkoušející)Mgr. Tamás Vígh (cvičící, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -247,7 +251,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí17.00-18.50ZFSK2 (Led)J. Martinek, M. Jurica, T. VíghCvičeníKaždý týden16"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPoznámkaPátek13.00-16.50ZFSK2 (Led)J. Martinek, M. Jurica, T. VíghCvičeníLichý týden20Výuka probíhá v jiné místnosti a jiné dny dle potřeb!Pátek13.00-16.50ZFSK2 (Led)J. Martinek, M. Jurica, T. VíghCvičeníLichý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -255,7 +259,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do problematiky. (dotace 0/2) a.Seznámení studentů s aktuálními trendy ve floristice.b.Představení modelových objektů ke zpracování.c.Seznámení studentů s akcemi, které proběhly v minulých letech.d.Rozdělení studentů do skupin k vybraným tématům.2.Fáze tvorby dokumentace. (dotace 0/8) a.Námět a komunikace se zadavatelem.b.Libreto k akci.c.Studie proveditelnosti.d.Projektová dokumentace k realizaci.3.Fáze rozpočtová. (dotace 0/4) a.Průzkum trhu s floristickým zbožímb.Zpracování přehledu potřebných materiálů.c.Sestavení rámcového rozpočtu.4.Fáze realizační. (dotace 0/10) a.Získání materiálu k práci.b.Předpřipravení částí květinových dekorací na ZF MENDELU.c.Finalizace a příprava na převoz předpřipravených dekorací na místo realizace.d.Realizace květinových dekorací v místě konání akce.e.Závěrečné dokončení a ošetření květinových dekorací v místě konání akce.5.Pořízení fotodokumentace výsledků závěrečných prací pro prezentaci výstupů zadaných modelových témat. (dotace 0/2)6.Zařazení realizovaného projektu do portfolia prací studenta. (dotace 0/2) a.Úprava fotodokumentace.b.Vložení do portfolia."
+      "content": "1.Úvod do problematiky. (dotace 0/2) a.Seznámení studentů s aktuálními trendy ve floristice.b.Představení modelových objektů ke zpracování.c.Seznámení studentů s akcemi, které proběhly v minulých letech.d.Rozdělení studentů do skupin k vybraným tématům.2.Fáze tvorby dokumentace. (dotace 0/8) a.Námět a komunikace se zadavatelem.b.Libreto k akci.c.Studie proveditelnosti.d.Projektová dokumentace k realizaci.3.Fáze rozpočtová. (dotace 0/4) a.Průzkum trhu s floristickým zbožímb.Zpracování přehledu potřebných materiálů.c.Sestavení rámcového rozpočtu.4.Fáze realizační. (dotace 0/10) a.Získání materiálu k práci.b.Předpřipravení částí květinových dekorací na ZF MENDELU.c.Finalizace a příprava na převoz předpřipravených dekorací na místo realizace.d.Realizace květinových dekorací v místě konání akce.e.Závěrečné dokončení a ošetření květinových dekorací v místě konání akce.5.Pořízení fotodokumentace výsledků závěrečných prací pro prezentaci výstupů zadaných modelových témat. (dotace 0/2)6.Prezentace realizovaného projektu. (dotace 0/2) a.Finalizace projektové dokumentace.b.Vytvoření prezentace a její odevzdání."
     },
     {
       "label": "[section] 1.",
@@ -291,27 +295,27 @@
     },
     {
       "label": "[section] 5.",
-      "content": "6.Zařazení realizovaného projektu do portfolia prací studenta. (dotace 0/2)"
+      "content": "6.Prezentace realizovaného projektu. (dotace 0/2)"
     },
     {
       "label": "[section] 6.",
-      "content": "a.Úprava fotodokumentace.b.Vložení do portfolia."
+      "content": "a.Finalizace projektové dokumentace.b.Vytvoření prezentace a její odevzdání."
     },
     {
-      "label": "[section] Zařazení realizovaného projektu do portfolia prací studenta.",
-      "content": "a.Úprava fotodokumentace.b.Vložení do portfolia."
+      "label": "[section] Prezentace realizovaného projektu.",
+      "content": "a.Finalizace projektové dokumentace.b.Vytvoření prezentace a její odevzdání."
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení24 hpráce v terénu22 hkonzultace6 hprojektová práce4 hCelkem56 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumcvičení24 hpráce v terénu10 hkonzultace6 hprojektová práce4 hzpracování protokolů6 hzpracování projektů6 hCelkem56 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Pro úspěšné ukončení předmětu je požadována 100% účast na cvičeních a realizace vybraného projektu ve stanovené podobě."
+      "content": "Udělení zápočtu je podmíněno 100% docházkou ve cvičeních, realizace vlastního projektu ve stanovené podobě a odevzdání prezentace v programu MS PowerPoint se záznamem realizace projektu (stručný popis, fotodokumentace, problémy při řešení atd.)."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích40 %Vypracování semestrální práce60 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích80 %Vypracování semestrální práce10 %Prezentace nebo obhajoba10 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -323,7 +327,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-FLT Floristická tvorba, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Program B-FLT Floristická tvorba, prezenční forma, počáteční období ZS 2022/2023"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -345,7 +349,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2023/2024"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -369,7 +373,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "It is possible to study the course during a mobility abroad after individual agreement with the course supervisor, provided that all the requirements for the completion of the course are met. In order to complete the course, it is necessary to provide a presentation on the course of studying the course abroad, including documentation of the student's practical floristry activities in the visited country."
+      "content": "Not allowed."
     },
     {
       "label": "Language of instruction:",
@@ -389,7 +393,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Miloš Jurica, Ph.D. (instructor)doc. Ing. Jiří Martinek, Ph.D. (examiner, instructor, supervisor)Bc. Tamás Vígh (instructor)"
+      "content": "Ing. Miloš Jurica, Ph.D. (examiner, instructor)doc. Ing. Jiří Martinek, Ph.D. (examiner, instructor, supervisor)Mgr. Tamás Vígh (examiner, instructor)"
     },
     {
       "label": "Prerequisites:",
@@ -421,11 +425,11 @@
     },
     {
       "label": "a.",
-      "content": "Case study libretto."
+      "content": "Main motive creation and communication with the client."
     },
     {
       "label": "b.",
-      "content": "Main motive creation and communication with the client."
+      "content": "Case study libretto."
     },
     {
       "label": "c.",
@@ -469,11 +473,11 @@
     },
     {
       "label": "d.",
-      "content": "Final completion and treatment of flower decorations at the venue."
+      "content": "Completion of the floral decorations at the venue."
     },
     {
       "label": "e.",
-      "content": "Completion of the floral decorations at the venue."
+      "content": "Final completion and treatment of flower decorations at the venue."
     },
     {
       "label": "5.",
@@ -481,23 +485,27 @@
     },
     {
       "label": "6.",
-      "content": "Inclusion of the completed project in the student's portfolio of work. (allowance 0/2)"
+      "content": "Presentation of the case study result. (allowance 0/2)"
     },
     {
       "label": "a.",
-      "content": "Editing of photo documentation."
+      "content": "Finalization of project documentation."
     },
     {
       "label": "b.",
-      "content": "Insert into portfolio."
+      "content": "Creating of MS PowerPoint presentation and its submition."
     },
     {
       "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "40 %"
+      "content": "80 %"
     },
     {
       "label": "Term paper",
-      "content": "60 %"
+      "content": "10 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
     },
     {
       "label": "Total",
@@ -505,7 +513,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -521,7 +529,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2023/2024"
     },
     {
       "label": "[section] Semester:",
@@ -549,7 +557,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: It is possible to study the course during a mobility abroad after individual agreement with the course supervisor, provided that all the requirements for the completion of the course are met. In order to complete the course, it is necessary to provide a presentation on the course of studying the course abroad, including documentation of the student's practical floristry activities in the visited country."
+      "content": "Mode of delivery for our mobility students abroad: Not allowed."
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -569,7 +577,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Miloš Jurica, Ph.D. (instructor)doc. Ing. Jiří Martinek, Ph.D. (examiner, instructor, supervisor)Bc. Tamás Vígh (instructor)"
+      "content": "Teachers: Ing. Miloš Jurica, Ph.D. (examiner, instructor)doc. Ing. Jiří Martinek, Ph.D. (examiner, instructor, supervisor)Mgr. Tamás Vígh (examiner, instructor)"
     },
     {
       "label": "[section] Teachers:",
@@ -577,15 +585,15 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday17.00-18.50ZFSK2 (Led)J. Martinek, M. Jurica, T. VíghSeminarEvery week16"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityNoteFriday13.00-16.50ZFSK2 (Led)J. Martinek, M. Jurica, T. VíghSeminarOdd week20 Friday13.00-16.50ZFSK2 (Led)J. Martinek, M. Jurica, T. VíghSeminarOdd week20Výuka probíhá v jiné místnosti a jiné dny dle potřeb!"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The main aim of this course is to deepen the rules and principles of creating large floristry pieces through practical examples required by floristry practice. The student will personally experience the realisation of a particular large floristry piece, will be introduced to all phases of his work - from the libretto (inspiration) through the design activities (drawing details, material specifications and budget) to the actual implementation of the design (binding and arranging the flowers). By the end of the course, the student will have gained practical experience in working on real objects, preferably in collaboration with practising florists outside the FH MENDELU."
+      "content": "The main goal of this course is to deepen the rules and principles of creating large floristry pieces on practical examples required by floristry practice. The student will personally experience the realization of particular large floristry piece, will be introduced with all phases of its work - from libretto (inspiration) through the design activities (drawing details, material specifications and budget) up to the actual implementation of the design (binding and arranging of flowers). By completing of this course, the student will gain practical experience in working on real objects, preferably in coopetation with practicing florist outside the FH MENDELU."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Introduction into the course. (allowance 0/2) a.Presentation of new trends in floral design.b.Presentation of case study projects for the course.c.Acquaintance with events that were implemented in previous years.d.Assignment of students into groups (teams) according to selected case study.2.Phase of the documentation development. (allowance 0/8) a.Case study libretto.b.Main motive creation and communication with the client.c.Feasibility study.d.Project documentation for implementation.3.Budgeting phase. (allowance 0/4) a.Exploration of market with floristic goods.b.Material overview.c.Drawing up the budget framework.4.Implementation phase. (allowance 0/10) a.Materials collection and harvesting necessary for the work.b.Making of prepartion works of floral decorations parts at Faculty of Horticulture.c.Finalization, packaging and transportation of realized pieces into the venue.d.Final completion and treatment of flower decorations at the venue.e.Completion of the floral decorations at the venue.5.Acquisition of photo documentation of case study results for the final presentation. (allowance 0/2)6.Inclusion of the completed project in the student's portfolio of work. (allowance 0/2) a.Editing of photo documentation.b.Insert into portfolio."
+      "content": "1.Introduction into the course. (allowance 0/2) a.Presentation of new trends in floral design.b.Presentation of case study projects for the course.c.Acquaintance with events that were implemented in previous years.d.Assignment of students into groups (teams) according to selected case study.2.Phase of the documentation development. (allowance 0/8) a.Main motive creation and communication with the client.b.Case study libretto.c.Feasibility study.d.Project documentation for implementation.3.Budgeting phase. (allowance 0/4) a.Exploration of market with floristic goods.b.Material overview.c.Drawing up the budget framework.4.Implementation phase. (allowance 0/10) a.Materials collection and harvesting necessary for the work.b.Making of prepartion works of floral decorations parts at Faculty of Horticulture.c.Finalization, packaging and transportation of realized pieces into the venue.d.Completion of the floral decorations at the venue.e.Final completion and treatment of flower decorations at the venue.5.Acquisition of photo documentation of case study results for the final presentation. (allowance 0/2)6.Presentation of the case study result. (allowance 0/2) a.Finalization of project documentation.b.Creating of MS PowerPoint presentation and its submition."
     },
     {
       "label": "[section] 1.",
@@ -597,11 +605,11 @@
     },
     {
       "label": "[section] 2.",
-      "content": "a.Case study libretto.b.Main motive creation and communication with the client.c.Feasibility study.d.Project documentation for implementation."
+      "content": "a.Main motive creation and communication with the client.b.Case study libretto.c.Feasibility study.d.Project documentation for implementation."
     },
     {
       "label": "[section] Phase of the documentation development.",
-      "content": "a.Case study libretto.b.Main motive creation and communication with the client.c.Feasibility study.d.Project documentation for implementation."
+      "content": "a.Main motive creation and communication with the client.b.Case study libretto.c.Feasibility study.d.Project documentation for implementation."
     },
     {
       "label": "[section] 3.",
@@ -613,39 +621,39 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.Materials collection and harvesting necessary for the work.b.Making of prepartion works of floral decorations parts at Faculty of Horticulture.c.Finalization, packaging and transportation of realized pieces into the venue.d.Final completion and treatment of flower decorations at the venue.e.Completion of the floral decorations at the venue."
+      "content": "a.Materials collection and harvesting necessary for the work.b.Making of prepartion works of floral decorations parts at Faculty of Horticulture.c.Finalization, packaging and transportation of realized pieces into the venue.d.Completion of the floral decorations at the venue.e.Final completion and treatment of flower decorations at the venue."
     },
     {
       "label": "[section] Implementation phase.",
-      "content": "a.Materials collection and harvesting necessary for the work.b.Making of prepartion works of floral decorations parts at Faculty of Horticulture.c.Finalization, packaging and transportation of realized pieces into the venue.d.Final completion and treatment of flower decorations at the venue.e.Completion of the floral decorations at the venue."
+      "content": "a.Materials collection and harvesting necessary for the work.b.Making of prepartion works of floral decorations parts at Faculty of Horticulture.c.Finalization, packaging and transportation of realized pieces into the venue.d.Completion of the floral decorations at the venue.e.Final completion and treatment of flower decorations at the venue."
     },
     {
       "label": "[section] 5.",
-      "content": "6.Inclusion of the completed project in the student's portfolio of work. (allowance 0/2)"
+      "content": "6.Presentation of the case study result. (allowance 0/2)"
     },
     {
       "label": "[section] Acquisition of photo documentation of case study results for the final presentation.",
-      "content": "6.Inclusion of the completed project in the student's portfolio of work. (allowance 0/2)"
+      "content": "6.Presentation of the case study result. (allowance 0/2)"
     },
     {
       "label": "[section] 6.",
-      "content": "a.Editing of photo documentation.b.Insert into portfolio."
+      "content": "a.Finalization of project documentation.b.Creating of MS PowerPoint presentation and its submition."
     },
     {
-      "label": "[section] Inclusion of the completed project in the student's portfolio of work.",
-      "content": "a.Editing of photo documentation.b.Insert into portfolio."
+      "label": "[section] Presentation of the case study result.",
+      "content": "a.Finalization of project documentation.b.Creating of MS PowerPoint presentation and its submition."
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice24 hfield work22 hconsultation6 hproject work4 hTotal56 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancepractice24 hfield work10 hconsultation6 hproject work4 helaboration of reports6 helaboration and execution of projects6 hTotal56 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "100% participation in the exercises and completion of the project in the specified form is required for credit to be awarded."
+      "content": "Credit is determined by 100% attendance at seminars, implementation of its own project within the prescribed form and submission of MS PowerPoint presentation as the record of project implementation (a brief description, photo documentation, faced problems etc.)."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation40 %Term paper60 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation80 %Term paper10 %Presentation or defence10 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -657,13 +665,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-FLD Floral design, full-time form, initial period WS 2023/2024"
+      "content": "Programme B-FLD Floral design, full-time form, initial period WS 2022/2023"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 08:09:16",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:24:09",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

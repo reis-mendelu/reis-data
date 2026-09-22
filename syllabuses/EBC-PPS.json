@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Jiří Balej, Ph.D. (garant, přednášející, zkoušející)Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)Ing. Petr Hemerka (cvičící, zkoušející)"
+      "content": "Ing. Jiří Balej, Ph.D. (cvičící, garant, přednášející)Ing. Vlastimil Slaný, Ph.D. (cvičící, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a ne (Počítačové sítě nebo nyní Počítačové sítě)"
+      "content": "ne Státní bakalářská zkouška"
     },
     {
       "label": "1.",
@@ -271,7 +271,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021 (a starší)"
+      "content": "LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -287,7 +287,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -335,19 +335,19 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (garant, přednášející, zkoušející)Ing. Igor Grellneth, Ph.D. (cvičící, přednášející, zkoušející)Ing. Petr Hemerka (cvičící, zkoušející)"
+      "content": "Vyučující: Ing. Jiří Balej, Ph.D. (cvičící, garant, přednášející)Ing. Vlastimil Slaný, Ph.D. (cvičící, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne (Počítačové sítě nebo nyní Počítačové sítě)"
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý15.00-17.50Q01.48B-AIIP. HemerkaCvičeníKaždý týden20Středa11.00-12.50Q15B-AIIJ. BalejPřednáškaKaždý týden48Pátek9.00-12.50Q-LCNAB-AIII. Grellneth, J. BalejPřednáškaNepravidelně20Pátek9.00-11.50Q01.48B-AIII. GrellnethCvičeníKaždý týden20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý7.00-8.50Q32B-AIIJ. BalejPřednáškaKaždý týden58Úterý11.00-13.50Q01.48B-AIIJ. BalejCvičeníKaždý týden16Čtvrtek8.00-10.50Q01.48B-AIIV. SlanýCvičeníKaždý týden16Čtvrtek12.00-12.50Q15B-AIIJ. BalejPřednáškaNepravidelně22"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Předmět obsahuje úvod do problematiky počítačových sítí a je zde detailně popsána architektura protokolů podle jednotlivých vrstev referenčních modelů. Zároveň je prvním ze tří kurzů připravujících na složení certikace CCNA."
+      "content": "Předmět obsahuje úvod do problematiky počítačových sítí a je zde detailně popsána architektura protokolů podle jednotlivých vrstev referenčních modelů."
     },
     {
       "label": "[section] Obsah předmětu:",
@@ -443,23 +443,23 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení42 h0 hkonzultace0 h54 hpříprava na zkoušku42 h42 hpříprava na průběžný test28 h28 hzpracování protokolů28 h28 hCelkem168 h168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení42 h0 hkonzultace0 h54 hpříprava na zkoušku42 h42 hpříprava na průběžný test28 h28 hzpracování protokolů28 h28 hCelkem168 h168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Hodnocení 10 testů na začátku cvičení, každý test bude hodnocen max. 2mi body. Kombinovaná forma bude mít zadáno 10 korespondenčních úkolů, jejichž výstup bude hodnocen max. 3mi body. Celkem je nutné získat alespoň bodů (50 %) z průběžných testů/korespondenčních úkolů. Praktický domácí úkol pro prezenční formu studia za 10 bodů, nutné získat alespoň 5 bodů (50 %). Dalším hodnocením s nepovinnou části jsou elektronické testy a to průběžné – 6 po 1 bodu a závěrečný za max 4 body. Tyto testy nemají dané minimum. Závěrečná zkouška má dvě části – praktickou a teoretickou část, každou je nutné splnit nad 60 %. Neúspěšnou část je možné 2x opakovat. Každá část se na celkovém hodnocení podílí ze 30 %. Celkové hodnocení je dáno součtem bodů z jednotlivých částí (10x průběžných testů, elektronické testy z portálu netacad, teoretická a praktická část zkoušky). Známka: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
+      "content": "Hodnocení průběžných úloh ze cvičení (korespondenčních úkolů), bude zadáno 11 hodnocencýh cvičení jejichž výstup bude hodnocen max. 2mi body. Celkem je nutné získat alespoň 12 bodů (60 %) z průběžných testů. Dalším hodnocením s nepovinnou části jsou elektronické testy a to průběžné – 6 po max. 2 bodech a závěrečný za max 8 bodů. Tyto testy nemají dané minimum. Závěrečná zkouška má dvě části – praktickou a teoretickou část, každou je nutné splnit nad 60 %. Neúspěšnou část je možné 2x opakovat. Každá část se na celkovém hodnocení podílí ze 30 %. Celkové hodnocení je dáno součtem bodů z jednotlivých částí (6x průběžných testů, teoretická a praktická část zkoušky). Známka: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů)."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %0 %Vypracování semestrální práce10 %30 %Absolvování průběžného testu (testů)10 %10 %Absolvování závěrečné ústní zkoušky30 %30 %Absolvování závěrečné praktické zkoušky30 %30 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %20 %Absolvování průběžného testu (testů)20 %20 %Absolvování závěrečné ústní zkoušky30 %30 %Absolvování závěrečné praktické zkoušky30 %30 %Celkem100 %100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 s. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com.Doporučená:ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 s. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 s. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 s. ISBN 978-80-251-2236-5."
+      "content": "Základní:BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 s. ISBN 978-80-7509-580-0.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com.Doporučená:ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 s. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 s. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 s. ISBN 978-80-251-2236-5."
     },
     {
       "label": "[section] Základní:",
-      "content": "BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 s. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com."
+      "content": "BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 s. ISBN 978-80-7509-580-0.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com."
     },
     {
       "label": "[section] Doporučená:",
@@ -467,7 +467,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025"
+      "content": "Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2021/2022Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -489,7 +489,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -533,11 +533,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Jiří Balej, Ph.D. (examiner, lecturer, supervisor)Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)Ing. Petr Hemerka (examiner, instructor)"
+      "content": "Ing. Jiří Balej, Ph.D. (instructor, lecturer, supervisor)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and not (Computer Networks or now Computer Networks)"
+      "content": "not Final Bachelor Exam"
     },
     {
       "label": "1.",
@@ -745,7 +745,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021 (and older)"
+      "content": "SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -761,7 +761,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -809,19 +809,19 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Jiří Balej, Ph.D. (examiner, lecturer, supervisor)Ing. Igor Grellneth, Ph.D. (examiner, instructor, lecturer)Ing. Petr Hemerka (examiner, instructor)"
+      "content": "Teachers: Ing. Jiří Balej, Ph.D. (instructor, lecturer, supervisor)Ing. Vlastimil Slaný, Ph.D. (examiner, instructor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and not (Computer Networks or now Computer Networks)"
+      "content": "Prerequisites: not Final Bachelor Exam"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday15.00-17.50Q01.48B-AIIP. HemerkaSeminarEvery week20Wednesday11.00-12.50Q15B-AIIJ. BalejLectureEvery week48Friday9.00-11.50Q01.48B-AIII. GrellnethSeminarEvery week20Friday9.00-12.50Q-LCNAB-AIII. Grellneth, J. BalejLectureOccasionally20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday7.00-8.50Q32B-AIIJ. BalejLectureEvery week58Tuesday11.00-13.50Q01.48B-AIIJ. BalejSeminarEvery week16Thursday8.00-10.50Q01.48B-AIIV. SlanýSeminarEvery week16Thursday12.00-12.50Q15B-AIIJ. BalejLectureOccasionally22"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "Course provides introduction to computer networks and in detail describes protocol architecture according to individual reference model layers. Also it is the first of three courses preparing for CCNA certification."
+      "content": "Course provides introduction to computer networks and in detail describes protocol architecture according to individual reference model layers."
     },
     {
       "label": "[section] Course content:",
@@ -917,23 +917,23 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice42 h0 hconsultation0 h54 hpreparation for exam42 h42 hpreparation for regular testing28 h28 helaboration of reports28 h28 hTotal168 h168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice42 h0 hconsultation0 h54 hpreparation for exam42 h42 hpreparation for regular testing28 h28 helaboration of reports28 h28 hTotal168 h168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "There will be 10 tests at the beginning of the seminars, each test for max. 2 points. The students of part-time form will get 10 corresponding tasks and each submitted solution will be evaluated for max 3 points. In total, it is necessary to obtain at least 12 points (60%) from continuous tests/corresponding tasks. Practical homework given for regular students for 10 points, necessary to get 5 points (50 %). Another evaluation with an optional part are electronic tests, continuous - 6 for 1 point each and final for max. 4 points. These tests do not have a given minimum. The final exam includes two parts - the practical and theoretical part, each part has the passing minimum 60 %. The unsuccessful part can be repeated twice. Each part is 30 % of final evaluation. The total score is given by the sum of the points from the individual parts (10x continuous test/coresponding task, electronic tests from netacad portal, theoretical and practical final exam). Evaluation: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
+      "content": "Evaluation of continuous tasks from exercises (correspondence tasks), 11 exercises which will be assigned, the output of which will be evaluated with a maximum of 2 points. In total, it is necessary to obtain at least 12 points (60%) from continuous tests. Another evaluation with an optional part are electronic tests, continuous - 6 for max. 2 points and final for max. 8 points. These tests do not have a given minimum. The final exam includes two parts - the practical and theoretical part, each part has the passing minimum 60%. The unsuccessful part can be repeated twice. Each part is 30 % of final evaluation. The total score is given by the sum of the points from the individual parts (6x continuous test, theoretical and practical final exam). Evaluation: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points)."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %0 %Term paper10 %30 %Mid-term test(s)10 %10 %Final oral exam30 %30 %Passing practical final exam30 %30 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %20 %Mid-term test(s)20 %20 %Final oral exam30 %30 %Passing practical final exam30 %30 %Total100 %100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 p. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com.Recommended:ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 p. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 p. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 p. ISBN 978-80-251-2236-5."
+      "content": "Basic:BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 p. ISBN 978-80-7509-580-0.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com.Recommended:ODOM, Wendell; WILKINS, Sean. 2017. CCNA Routing and Switching 200-125 Official Cert Guide Library and Pearson Ucertify Network Simulator Academic Edition Bundle (1st ed.). Indianapolis, Indiana: Cisco Press, 1600 p. ISBN 978-1-58720-673-3.LAMMLE, Todd. 2016. CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (2nd ed.). Alameda, CA, USA: SYBEX Inc., 1136 p. ISBN 978-1-11928-828-2.DOSTÁLEK, Libor; KABELOVÁ, Alena. 2012. Velký průvodce protokoly TCP/IP a systémem DNS. : Computer Press, 488 p. ISBN 978-80-251-2236-5."
     },
     {
       "label": "[section] Basic:",
-      "content": "BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 p. ISBN 978-80-7509-580-0. Global NetAcad Instance - Networking Academy: Introduction to Networks v7.02 (ITN). 2023. https://www.netacad.com."
+      "content": "BALEJ, Jiří. 2018. Protokoly počítačových sítí. Brno: Mendelova univerzita v Brně, 72 p. ISBN 978-80-7509-580-0.CISCO, Inc. 2019. Cisco Networking Academy. CCNA R&S: Introduction to Networks. http://www.netacad.com."
     },
     {
       "label": "[section] Recommended:",
@@ -941,13 +941,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025"
+      "content": "Programme B-AII Administration IS/ICT, part-time form, initial period WS 2021/2022Programme B-AII Administration IS/ICT, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:43:54",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:57:59",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

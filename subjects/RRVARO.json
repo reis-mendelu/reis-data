@@ -3,11 +3,80 @@
   "name": "Vybrané aspekty rozvoje obcí",
   "nameCs": "Vybrané aspekty rozvoje obcí",
   "nameEn": "Selected Aspects of Community Development",
-  "predmetId": "157801",
+  "predmetId": "163036",
   "facultyId": 23,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Mgr. Petr Klusáček, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163036;lang=cz",
+      "totalPass": 24,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 1,
+            "D": 1,
+            "E": 2,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 6,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 4,
+            "C": 6,
+            "D": 6,
+            "E": 7,
+            "F": 0,
+            "FN": 3
+          },
+          "pass": 24,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 4,
+            "D": 5,
+            "E": 5,
+            "F": 9,
+            "FN": 2
+          },
+          "pass": 16,
+          "fail": 11
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -15,7 +84,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157801;lang=cz",
       "totalPass": 9,
-      "totalFail": 0,
+      "totalFail": 1,
       "terms": [
         {
           "term": "1. opravný",
@@ -40,10 +109,10 @@
             "D": 4,
             "E": 0,
             "F": 0,
-            "FN": 0
+            "FN": 1
           },
           "pass": 9,
-          "fail": 0
+          "fail": 1
         },
         {
           "term": "Řádný termín",
@@ -341,5 +410,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

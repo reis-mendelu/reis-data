@@ -1,0 +1,681 @@
+{
+  "courseCode": "MEMM",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "MEMM"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Metrologie a management měření"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Metrology and Measurement Management"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (4 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Na základě individuální domluvy."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Mgr. Milan Geršl, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Agronomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Mgr. Milan Geršl, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "žádné"
+    },
+    {
+      "label": "1.",
+      "content": "Základní pojmy metrologie. (dotace 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Jednoduchá měření – množství, délka, čas, hmotnost. (dotace 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "Historický vývoj metrologie. (dotace 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Příklady metrologie v praxi. (dotace 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Získávání dat a práce s nimi. (dotace 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Základy statistického vyhodnocení dat. (dotace 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Vyhodnocení dat pomocí programového vybavení. (dotace 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Nejistoty měření – teorie. (dotace 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Nejistoty měření – praxe. (dotace 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Management kvality měření v podniku. (dotace 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Metrologie fyzikálních veličin SI. (dotace 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Metrologie pro management odpadů. (dotace 2/2)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "15 %"
+    },
+    {
+      "label": "Hodnocené průběžné úkoly",
+      "content": "15 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "50 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "(a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Metrologie a management měření"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Metrology and Measurement Management"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (4 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (4 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Na základě individuální domluvy."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Mgr. Milan Geršl, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zemědělské, potravinářské a environmentální techniky (AF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Agronomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Mgr. Milan Geršl, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: žádné"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek14.00-15.50Q17M. GeršlPřednáškaKaždý týden30Čtvrtek16.00-17.50Q18M. GeršlCvičeníKaždý týden30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "S procesem měření se setkáváme každý den, a to v odborné praxi i v běžném životě. Cílem předmětu je seznámení studentů s principy metrologie a s jejími přístupy a nástroji. V rámci předmětu jsou probírány základy legální metrologie a metrologie jednotlivých veličin. Student je postupně proveden kapitolami týkajících se soustavy SI, normalizace, jednoduchých měření, přes metrologii v praxi, procesy získávání dat a práce s nimi až po management kvality. Každé téma je pojato od jeho historie po moderní přístupy v oblasti metrologické praxe. Cvičení jsou zaměřena na laboratorní úlohy z praktické metrologie, kalibrace a měření probíraných veličin, ale i na práci s daty, statistické vyhodnocení dat a tvorbu dokumentace."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Základní pojmy metrologie. (dotace 2/2)2.Jednoduchá měření – množství, délka, čas, hmotnost. (dotace 2/2)3.Historický vývoj metrologie. (dotace 2/2)4.Příklady metrologie v praxi. (dotace 2/2)5.Získávání dat a práce s nimi. (dotace 2/2)6.Základy statistického vyhodnocení dat. (dotace 2/2)7.Vyhodnocení dat pomocí programového vybavení. (dotace 2/2)8.Nejistoty měření – teorie. (dotace 2/2)9.Nejistoty měření – praxe. (dotace 2/2)10.Management kvality měření v podniku. (dotace 2/2)11.Metrologie fyzikálních veličin SI. (dotace 2/2)12.Metrologie pro management odpadů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Jednoduchá měření – množství, délka, čas, hmotnost. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Základní pojmy metrologie.",
+      "content": "2.Jednoduchá měření – množství, délka, čas, hmotnost. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Historický vývoj metrologie. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Jednoduchá měření – množství, délka, čas, hmotnost.",
+      "content": "3.Historický vývoj metrologie. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Příklady metrologie v praxi. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Historický vývoj metrologie.",
+      "content": "4.Příklady metrologie v praxi. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Získávání dat a práce s nimi. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Příklady metrologie v praxi.",
+      "content": "5.Získávání dat a práce s nimi. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Základy statistického vyhodnocení dat. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Získávání dat a práce s nimi.",
+      "content": "6.Základy statistického vyhodnocení dat. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Vyhodnocení dat pomocí programového vybavení. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Základy statistického vyhodnocení dat.",
+      "content": "7.Vyhodnocení dat pomocí programového vybavení. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Nejistoty měření – teorie. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Vyhodnocení dat pomocí programového vybavení.",
+      "content": "8.Nejistoty měření – teorie. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Nejistoty měření – praxe. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Nejistoty měření – teorie.",
+      "content": "9.Nejistoty měření – praxe. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Management kvality měření v podniku. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Nejistoty měření – praxe.",
+      "content": "10.Management kvality měření v podniku. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Metrologie fyzikálních veličin SI. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Management kvality měření v podniku.",
+      "content": "11.Metrologie fyzikálních veličin SI. (dotace 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Metrologie pro management odpadů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Metrologie fyzikálních veličin SI.",
+      "content": "12.Metrologie pro management odpadů. (dotace 2/2)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška24 hcvičení24 hveřejná prezentace (ústní)2 hpříprava na zkoušku19 hpříprava na průběžné hodnocení10 hpříprava na průběžný test9 hpříprava prezentace8 hzpracování protokolů18 hCelkem114 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Kombinace písemné a ústní zkoušky, přičemž po úspěšném splnění písemné části následuje ústní část. Podmínkou účasti je získání zápočtu. Studenti průběžně odevzdávají úkoly ze cvičení do odevzdávárny v UIS a samostatně zpracovávají a odevzdávají průběžnou a závěrečnou prezentaci. Ve cvičeních je nutno absolvovat 3 průběžné testy, obhájit 3 měření formou lab. protokolů a příprava průběžné a závěrečné prezezentace zaměřené na problematiku metrologie a managementu měření."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Prezentace nebo obhajoba10 %Absolvování průběžného testu (testů)15 %Hodnocené průběžné úkoly15 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: ČSN EN ISO 1101 (014120) A Geometrické specifikace produktu (GPS) - Geometrické tolerování - Tolerance tvaru, orientace, umístění a házení = Geometrical product specifications (GPS) - Geometrical tolerancing - Tolerances of form, orientation, location and run-out. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 162 s.KUMBÁR, Vojtěch; BARTOŇ, Stanislav; KŘIVÁNEK, Ivo. 2015. Fyzikální praktikum. Brno: Mendelova univerzita v Brně, 110 s. ISBN 978-80-7509-335-6. ČSN EN ISO 1660 (013139) A Geometrické specifikace produktu (GPS) - Geometrické tolerance - Tolerování profilu = Geometrical product specifications (GPS) - Geometrical tolerancing - Profile tolerancing. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 60 s.KUBÁČEK, Lubomír; KUBÁČKOVÁ, Ludmila. 2000. Statistika a metrologie. 1. vyd. Olomouc: Univerzita Palackého, Přírodovědecká fakulta, 307 s. ISBN 80-244-0093-6.TOŠENOVSKÝ, Josef; NOSKIEVIČOVÁ, Darja. 2000. Statistické metody pro zlepšování jakosti. Ostrava: Montanex, 362 s. ISBN 80-7225-040-X.PERNIKÁŘ, Jiří; TYKAL, Miroslav; VAČKÁŘ, Josef. 2001. Jakost a metrologie : Metrologie. Brno: CERM, 151 s. Učební texty vysokých škol. ISBN 80-214-1997-0.ŠINDELÁŘ, Václav. 1976. Metrologie a zavedení soustavy jednotek SI: (převodní vztahy a tabulky). Praha: SNTL - nakladatelství technické literatury, 588 s.Věstník Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví. ISSN 1210-6283."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ČSN EN ISO 1101 (014120) A Geometrické specifikace produktu (GPS) - Geometrické tolerování - Tolerance tvaru, orientace, umístění a házení = Geometrical product specifications (GPS) - Geometrical tolerancing - Tolerances of form, orientation, location and run-out. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 162 s.KUMBÁR, Vojtěch; BARTOŇ, Stanislav; KŘIVÁNEK, Ivo. 2015. Fyzikální praktikum. Brno: Mendelova univerzita v Brně, 110 s. ISBN 978-80-7509-335-6. ČSN EN ISO 1660 (013139) A Geometrické specifikace produktu (GPS) - Geometrické tolerance - Tolerování profilu = Geometrical product specifications (GPS) - Geometrical tolerancing - Profile tolerancing. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 60 s.KUBÁČEK, Lubomír; KUBÁČKOVÁ, Ludmila. 2000. Statistika a metrologie. 1. vyd. Olomouc: Univerzita Palackého, Přírodovědecká fakulta, 307 s. ISBN 80-244-0093-6.TOŠENOVSKÝ, Josef; NOSKIEVIČOVÁ, Darja. 2000. Statistické metody pro zlepšování jakosti. Ostrava: Montanex, 362 s. ISBN 80-7225-040-X.PERNIKÁŘ, Jiří; TYKAL, Miroslav; VAČKÁŘ, Josef. 2001. Jakost a metrologie : Metrologie. Brno: CERM, 151 s. Učební texty vysokých škol. ISBN 80-214-1997-0.ŠINDELÁŘ, Václav. 1976. Metrologie a zavedení soustavy jednotek SI: (převodní vztahy a tabulky). Praha: SNTL - nakladatelství technické literatury, 588 s.Věstník Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví. ISSN 1210-6283."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-EMO Ekotoxikologie a management odpadů, prezenční forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "MEMM"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Metrologie a management měření"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Metrology and Measurement Management"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (4 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "By individual agreement."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Mgr. Milan Geršl, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of AgriSciences"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Mgr. Milan Geršl, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "none"
+    },
+    {
+      "label": "1.",
+      "content": "Fundamental concepts of metrology. (allowance 2/2)"
+    },
+    {
+      "label": "2.",
+      "content": "Simple measurements – quantity, length, time, weight. (allowance 2/2)"
+    },
+    {
+      "label": "3.",
+      "content": "History of metrology. (allowance 2/2)"
+    },
+    {
+      "label": "4.",
+      "content": "Practical examples of metrology. (allowance 2/2)"
+    },
+    {
+      "label": "5.",
+      "content": "Data acquisition and processing. (allowance 2/2)"
+    },
+    {
+      "label": "6.",
+      "content": "Fundamentals of statistical data evaluation. (allowance 2/2)"
+    },
+    {
+      "label": "7.",
+      "content": "Data analysis using software. (allowance 2/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Uncertainty of measurement – theory. (allowance 2/2)"
+    },
+    {
+      "label": "9.",
+      "content": "ncertainties of measurement – practice. (allowance 2/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Measurement quality management in a company. (allowance 2/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Metrology of physical quantities in the SI system. (allowance 2/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Metrology for waste management. (allowance 2/2)"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "10 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "15 %"
+    },
+    {
+      "label": "Marked assignments",
+      "content": "15 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "50 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "(and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Metrologie a management měření"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Metrology and Measurement Management"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (4 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (4 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: -- item not defined --"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: By individual agreement."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Mgr. Milan Geršl, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Agricultural, Food and Environmental Engineering (FA)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of AgriSciences"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Mgr. Milan Geršl, Ph.D. (examiner, instructor, lecturer, supervisor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: none"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday14.00-15.50Q17M. GeršlLectureEvery week30Thursday16.00-17.50Q18M. GeršlSeminarEvery week30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "We encounter the measurement process every day, both in professional practice and in everyday life. The aim of the course is to familiarize students with the principles of metrology and its approaches and tools. The course covers the basics of legal metrology and metrology of individual quantities. The student is gradually guided through chapters on the SI system, standardization, simple measurements, metrology in practice, data acquisition processes and work with them, and quality management. Each topic is covered from its history to modern approaches in the field of metrological practice. The exercises focus on laboratory tasks from practical metrology, calibration and measurement of the quantities discussed, but also on working with data, statistical evaluation of data and creation of documentation."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Fundamental concepts of metrology. (allowance 2/2)2.Simple measurements – quantity, length, time, weight. (allowance 2/2)3.History of metrology. (allowance 2/2)4.Practical examples of metrology. (allowance 2/2)5.Data acquisition and processing. (allowance 2/2)6.Fundamentals of statistical data evaluation. (allowance 2/2)7.Data analysis using software. (allowance 2/2)8.Uncertainty of measurement – theory. (allowance 2/2)9.ncertainties of measurement – practice. (allowance 2/2)10.Measurement quality management in a company. (allowance 2/2)11.Metrology of physical quantities in the SI system. (allowance 2/2)12.Metrology for waste management. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Simple measurements – quantity, length, time, weight. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Fundamental concepts of metrology.",
+      "content": "2.Simple measurements – quantity, length, time, weight. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.History of metrology. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Simple measurements – quantity, length, time, weight.",
+      "content": "3.History of metrology. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Practical examples of metrology. (allowance 2/2)"
+    },
+    {
+      "label": "[section] History of metrology.",
+      "content": "4.Practical examples of metrology. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Data acquisition and processing. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Practical examples of metrology.",
+      "content": "5.Data acquisition and processing. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Fundamentals of statistical data evaluation. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Data acquisition and processing.",
+      "content": "6.Fundamentals of statistical data evaluation. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Data analysis using software. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Fundamentals of statistical data evaluation.",
+      "content": "7.Data analysis using software. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Uncertainty of measurement – theory. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Data analysis using software.",
+      "content": "8.Uncertainty of measurement – theory. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.ncertainties of measurement – practice. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Uncertainty of measurement – theory.",
+      "content": "9.ncertainties of measurement – practice. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Measurement quality management in a company. (allowance 2/2)"
+    },
+    {
+      "label": "[section] ncertainties of measurement – practice.",
+      "content": "10.Measurement quality management in a company. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Metrology of physical quantities in the SI system. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Measurement quality management in a company.",
+      "content": "11.Metrology of physical quantities in the SI system. (allowance 2/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Metrology for waste management. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Metrology of physical quantities in the SI system.",
+      "content": "12.Metrology for waste management. (allowance 2/2)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture24 hpractice24 hpublic presentation (oral)2 hpreparation for exam19 hpreparation for regular assessment10 hpreparation for regular testing9 hpreparation of presentation8 helaboration of reports18 hTotal114 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "A combination of written and oral exams, with the oral part following after the written part has been successfully completed. The condition for participation is to obtain a credit. Students continuously submit assignments from the exercises to the submission office at the UIS and independently process and submit an ongoing and final presentation. In the exercises, it is necessary to complete 3 ongoing tests, defend 3 measurements in the form of lab protocols and prepare an ongoing and final presentation focused on the issues of metrology and measurement management."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Presentation or defence10 %Mid-term test(s)15 %Marked assignments15 %Final oral exam50 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: ČSN EN ISO 1101 (014120) A Geometrické specifikace produktu (GPS) - Geometrické tolerování - Tolerance tvaru, orientace, umístění a házení = Geometrical product specifications (GPS) - Geometrical tolerancing - Tolerances of form, orientation, location and run-out. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 162 p.KUMBÁR, Vojtěch; BARTOŇ, Stanislav; KŘIVÁNEK, Ivo. 2015. Fyzikální praktikum. Brno: Mendelova univerzita v Brně, 110 p. ISBN 978-80-7509-335-6. ČSN EN ISO 1660 (013139) A Geometrické specifikace produktu (GPS) - Geometrické tolerance - Tolerování profilu = Geometrical product specifications (GPS) - Geometrical tolerancing - Profile tolerancing. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 60 p.KUBÁČEK, Lubomír; KUBÁČKOVÁ, Ludmila. 2000. Statistika a metrologie. 1st ed. Olomouc: Univerzita Palackého, Přírodovědecká fakulta, 307 p. ISBN 80-244-0093-6.TOŠENOVSKÝ, Josef; NOSKIEVIČOVÁ, Darja. 2000. Statistické metody pro zlepšování jakosti. Ostrava: Montanex, 362 p. ISBN 80-7225-040-X.PERNIKÁŘ, Jiří; TYKAL, Miroslav; VAČKÁŘ, Josef. 2001. Jakost a metrologie : Metrologie. Brno: CERM, 151 p. Učební texty vysokých škol. ISBN 80-214-1997-0.ŠINDELÁŘ, Václav. 1976. Metrologie a zavedení soustavy jednotek SI: (převodní vztahy a tabulky). Praha: SNTL - nakladatelství technické literatury, 588 p.Věstník Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví. ISSN 1210-6283."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ČSN EN ISO 1101 (014120) A Geometrické specifikace produktu (GPS) - Geometrické tolerování - Tolerance tvaru, orientace, umístění a házení = Geometrical product specifications (GPS) - Geometrical tolerancing - Tolerances of form, orientation, location and run-out. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 162 p.KUMBÁR, Vojtěch; BARTOŇ, Stanislav; KŘIVÁNEK, Ivo. 2015. Fyzikální praktikum. Brno: Mendelova univerzita v Brně, 110 p. ISBN 978-80-7509-335-6. ČSN EN ISO 1660 (013139) A Geometrické specifikace produktu (GPS) - Geometrické tolerance - Tolerování profilu = Geometrical product specifications (GPS) - Geometrical tolerancing - Profile tolerancing. 2017. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví, 60 p.KUBÁČEK, Lubomír; KUBÁČKOVÁ, Ludmila. 2000. Statistika a metrologie. 1st ed. Olomouc: Univerzita Palackého, Přírodovědecká fakulta, 307 p. ISBN 80-244-0093-6.TOŠENOVSKÝ, Josef; NOSKIEVIČOVÁ, Darja. 2000. Statistické metody pro zlepšování jakosti. Ostrava: Montanex, 362 p. ISBN 80-7225-040-X.PERNIKÁŘ, Jiří; TYKAL, Miroslav; VAČKÁŘ, Josef. 2001. Jakost a metrologie : Metrologie. Brno: CERM, 151 p. Učební texty vysokých škol. ISBN 80-214-1997-0.ŠINDELÁŘ, Václav. 1976. Metrologie a zavedení soustavy jednotek SI: (převodní vztahy a tabulky). Praha: SNTL - nakladatelství technické literatury, 588 p.Věstník Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví. Praha: Úřad pro technickou normalizaci, metrologii a státní zkušebnictví. ISSN 1210-6283."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-EMO Ekotoxikologie a management odpadů, full-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:38:51",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

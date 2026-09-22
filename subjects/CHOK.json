@@ -3,7 +3,7 @@
   "name": "Chov ovcí a koz",
   "nameCs": "Chov ovcí a koz",
   "nameEn": "Sheep and Goat Husbandry",
-  "predmetId": "157310",
+  "predmetId": "162761",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "prof. Dr. Ing. Jan Kuchtík"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162761;lang=cz",
+      "totalPass": 89,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 2,
+            "C": 2,
+            "D": 7,
+            "E": 5,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 10,
+            "C": 13,
+            "D": 30,
+            "E": 26,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 89,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 8,
+            "C": 10,
+            "D": 22,
+            "E": 20,
+            "F": 23,
+            "FN": 0
+          },
+          "pass": 68,
+          "fail": 23
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -207,5 +274,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,13 +3,66 @@
   "name": "Obchodní právo 1 v AJ",
   "nameCs": "Obchodní právo 1 v AJ",
   "nameEn": "Business Law 1",
-  "predmetId": "152294",
+  "predmetId": "160802",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Mgr. Bc. Ondřej Pavelek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160802;lang=cz",
+      "totalPass": 17,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 5,
+            "C": 4,
+            "D": 1,
+            "E": 1,
+            "F": 0,
+            "FN": 3
+          },
+          "pass": 17,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 5,
+            "C": 4,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 4
+          },
+          "pass": 16,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -304,5 +357,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

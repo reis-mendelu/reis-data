@@ -15,15 +15,15 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
-      "content": "zkouška (3 kredity)"
+      "content": "zkouška (2 kredity)"
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět není možné studovat během zahraniční mobility."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Eva Sobotková, Ph.D."
+      "content": "doc. Ing. Iva Jiskrová, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Eva Sobotková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Ing. Michaela Brudňáková (cvičící, přednášející)doc. Ing. Iva Jiskrová, Ph.D. (garant)Ing. Eva Sobotková, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "žádné"
+      "content": "Chov koní - specializace"
     },
     {
       "label": "1.",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2021/2022, ZS 2020/2021, ZS 2019/2020 (a starší)"
+      "content": "LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022, ZS 2020/2021, ZS 2019/2020 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -119,19 +119,19 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
-      "content": "Způsob ukončení a počet kreditů: zkouška (3 kredity)"
+      "content": "Způsob ukončení a počet kreditů: zkouška (2 kredity)"
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
-      "label": "[section] zkouška (3 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "label": "[section] zkouška (2 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -147,7 +147,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraniční mobility."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -155,7 +155,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Eva Sobotková, Ph.D."
+      "content": "Garant předmětu: doc. Ing. Iva Jiskrová, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -167,15 +167,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Eva Sobotková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Michaela Brudňáková (cvičící, přednášející)doc. Ing. Iva Jiskrová, Ph.D. (garant)Ing. Eva Sobotková, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: žádné"
+      "content": "Prerekvizity: Chov koní - specializace"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek13.00-14.50A43E. SobotkováCvičeníKaždý týden18"
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý15.00-16.50A43E. Sobotková, M. BrudňákováCvičeníLichý týden18"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -243,7 +243,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení12 hpříprava na zkoušku44 hCelkem56 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumcvičení12 hpříprava na zkoušku44 hCelkem56 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -255,15 +255,15 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4. vyd. Hannover: Schlütersche, 135 s. ISBN 3-89993-003-7.Kol. 1989. Nutrient requirements of horses. 5. vyd. Washington: National Academy Press, 100 s. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 s. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 s. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 s. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 s. ISBN 0-85199-429-6.ORAVCOVÁ, Ivana; SOBOTKOVÁ, Eva. 2014. Anglická terminologie v chovu koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2282.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Horse Husbandry. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=487. The horse conformation handbook. North Adams: Storey Publishing, 387 s. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 s. ISBN 0-632-05137-X."
+      "content": "Základní:BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4. vyd. Hannover: Schlütersche, 135 s. ISBN 3-89993-003-7.Kol. 1989. Nutrient requirements of horses. 5. vyd. Washington: National Academy Press, 100 s. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 s. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 s. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 s. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 s. ISBN 0-85199-429-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704. The horse conformation handbook. North Adams: Storey Publishing, 387 s. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 s. ISBN 0-632-05137-X."
     },
     {
       "label": "[section] Základní:",
-      "content": "BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4. vyd. Hannover: Schlütersche, 135 s. ISBN 3-89993-003-7.Kol. 1989. Nutrient requirements of horses. 5. vyd. Washington: National Academy Press, 100 s. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 s. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 s. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 s. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 s. ISBN 0-85199-429-6.ORAVCOVÁ, Ivana; SOBOTKOVÁ, Eva. 2014. Anglická terminologie v chovu koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2282.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Horse Husbandry. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=487. The horse conformation handbook. North Adams: Storey Publishing, 387 s. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 s. ISBN 0-632-05137-X."
+      "content": "BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4. vyd. Hannover: Schlütersche, 135 s. ISBN 3-89993-003-7.Kol. 1989. Nutrient requirements of horses. 5. vyd. Washington: National Academy Press, 100 s. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 s. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 s. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 s. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 s. ISBN 0-85199-429-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 s. ISBN 1855010704. The horse conformation handbook. North Adams: Storey Publishing, 387 s. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 s. ISBN 0-632-05137-X."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace SNCHKA Chov koní a agroturistika, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Obor N-ZOO-CHK Chov koní a agroturistika, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -285,15 +285,15 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
-      "content": "Exam (3 credits)"
+      "content": "Exam (2 credits)"
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -309,7 +309,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The course cannot be studied during foreign mobility."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -317,7 +317,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Eva Sobotková, Ph.D."
+      "content": "doc. Ing. Iva Jiskrová, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -329,11 +329,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Ing. Michaela Brudňáková (instructor, lecturer)doc. Ing. Iva Jiskrová, Ph.D. (supervisor)Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "none"
+      "content": "Horse Husbandry - specialization"
     },
     {
       "label": "1.",
@@ -373,7 +373,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2021/2022, WS 2020/2021, WS 2019/2020 (and older)"
+      "content": "SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022, WS 2020/2021, WS 2019/2020 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -389,19 +389,19 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
-      "content": "Mode of completion and number of credits: Exam (3 credits)"
+      "content": "Mode of completion and number of credits: Exam (2 credits)"
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] Exam (3 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "label": "[section] Exam (2 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/1 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -417,7 +417,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during foreign mobility."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -425,7 +425,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Eva Sobotková, Ph.D."
+      "content": "Course supervisor: doc. Ing. Iva Jiskrová, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -437,15 +437,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: Ing. Michaela Brudňáková (instructor, lecturer)doc. Ing. Iva Jiskrová, Ph.D. (supervisor)Ing. Eva Sobotková, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: none"
+      "content": "Prerequisites: Horse Husbandry - specialization"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday13.00-14.50A43E. SobotkováSeminarEvery week18"
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday15.00-16.50A43E. Sobotková, M. BrudňákováSeminarOdd week18"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -513,7 +513,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice12 hpreparation for exam44 hTotal56 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancepractice12 hpreparation for exam44 hTotal56 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -525,21 +525,21 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4th ed. Hannover: Schlütersche, 135 p. ISBN 3-89993-003-7.Col. 1989. Nutrient requirements of horses. 5th ed. Washington: National Academy Press, 100 p. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 p. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 p. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 p. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 p. ISBN 0-85199-429-6.ORAVCOVÁ, Ivana; SOBOTKOVÁ, Eva. 2014. Anglická terminologie v chovu koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2282.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Horse Husbandry. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=487. The horse conformation handbook. North Adams: Storey Publishing, 387 p. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 p. ISBN 0-632-05137-X."
+      "content": "Basic:BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4th ed. Hannover: Schlütersche, 135 p. ISBN 3-89993-003-7.Col. 1989. Nutrient requirements of horses. 5th ed. Washington: National Academy Press, 100 p. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 p. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 p. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 p. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 p. ISBN 0-85199-429-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704. The horse conformation handbook. North Adams: Storey Publishing, 387 p. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 p. ISBN 0-632-05137-X."
     },
     {
       "label": "[section] Basic:",
-      "content": "BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4th ed. Hannover: Schlütersche, 135 p. ISBN 3-89993-003-7.Col. 1989. Nutrient requirements of horses. 5th ed. Washington: National Academy Press, 100 p. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 p. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 p. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 p. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 p. ISBN 0-85199-429-6.ORAVCOVÁ, Ivana; SOBOTKOVÁ, Eva. 2014. Anglická terminologie v chovu koní. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=2282.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704.SOBOTKOVÁ, Eva; ORAVCOVÁ, Ivana. 2014. Horse Husbandry. http://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?kod=487. The horse conformation handbook. North Adams: Storey Publishing, 387 p. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 p. ISBN 0-632-05137-X."
+      "content": "BUDRAS, Klaus-Dieter. 2003. Anatomy of the horse: an illustrated text. 4th ed. Hannover: Schlütersche, 135 p. ISBN 3-89993-003-7.Col. 1989. Nutrient requirements of horses. 5th ed. Washington: National Academy Press, 100 p. ISBN 0-309-03989-4. Nutritional physiology of the horse. 2005. Nottingham: Nottingham University Press, 361 p. ISBN 1-897676-46-8. Performance diagnosis of horses. 1997. Wageningen: Wageningen Press, 96 p. The domestic horse: the origins, developments, and management of its behaviour. 2005. Cambridge, UK [u.a.: Cambridge Univ. Press, 249 p. ISBN 0-521-81414-6.RUVINSKY, Anatoly. 2000. The genetics of the horse. Wallingford: CABI Publishing, 527 p. ISBN 0-85199-429-6.KIDD, Jane. 1990. The Horse : The Complete guide to horse breeds and breeding. London: Tiger Books International, 208 p. ISBN 1855010704. The horse conformation handbook. North Adams: Storey Publishing, 387 p. ISBN 1-58017-558-9. The horse in motion. 2002. Oxford, UK: Blackwell Science, 197 p. ISBN 0-632-05137-X."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track SNCHKA Horse Breeding and Agrotourism, full-time form, initial period WS 2024/2025"
+      "content": "Field of study C-AP-HHA Horse Breeding and Rural Tourism, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:41:38",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:48:53",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

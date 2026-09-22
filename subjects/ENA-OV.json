@@ -3,7 +3,7 @@
   "name": "Operační výzkum v AJ",
   "nameCs": "Operační výzkum v AJ",
   "nameEn": "Operations Research",
-  "predmetId": "152287",
+  "predmetId": "160795",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "prof. Ing. Mgr. Jitka Janová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160795;lang=cz",
+      "totalPass": 25,
+      "totalFail": 36,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 2,
+            "E": 4,
+            "F": 21,
+            "FN": 1
+          },
+          "pass": 7,
+          "fail": 22
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 1,
+            "F": 16,
+            "FN": 1
+          },
+          "pass": 2,
+          "fail": 17
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 4,
+            "D": 5,
+            "E": 13,
+            "F": 19,
+            "FN": 17
+          },
+          "pass": 25,
+          "fail": 36
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 3,
+            "D": 2,
+            "E": 8,
+            "F": 30,
+            "FN": 15
+          },
+          "pass": 16,
+          "fail": 45
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -414,5 +481,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

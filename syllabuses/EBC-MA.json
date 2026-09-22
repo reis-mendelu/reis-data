@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -31,11 +31,11 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "volitelný"
+      "content": "povinný"
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Mgr. Ing. Pavlína Komosná, Ph.D. (zkoušející)Ing. Michal Mádr, Ph.D. (zkoušející)Ing. Radek Náplava, Ph.D. (zkoušející)doc. Ing. Petr Rozmahel, Ph.D. (garant)"
+      "content": "Ing. Aleš Franc, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Petr Rozmahel, Ph.D. (garant)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,39 +67,39 @@
     },
     {
       "label": "1.",
-      "content": "Úvod do makroekonomie a měření výkonu ekonomiky (dotace 2/2)"
+      "content": "Úvod do makroekonomie a výkon ekonomiky (dotace 8/6)"
     },
     {
       "label": "a.",
-      "content": "Úvod do makroekonomie"
+      "content": "Úvod do makroekonomie. Role státu v ekonomice."
     },
     {
       "label": "b.",
       "content": "Výkon ekonomiky a jeho měření"
     },
     {
+      "label": "c.",
+      "content": "Spotřeba, investice a rovnovážný výstup"
+    },
+    {
       "label": "2.",
-      "content": "Chování ekonomiky v modelu AS-AD (dotace 6/6)"
+      "content": "Rovnováha ekonomiky a ekonomický růst (dotace 4/6)"
     },
     {
       "label": "a.",
-      "content": "Agregátní poptávka"
+      "content": "Model AS-AD"
     },
     {
       "label": "b.",
-      "content": "Krátkodobá a dlouhodobá agregátní nabídka"
+      "content": "Rovnováha a ekonomický růst"
     },
     {
       "label": "c.",
-      "content": "Rovnováha ekonomiky v modelu AS-AD"
-    },
-    {
-      "label": "d.",
-      "content": "Ekonomický růst a hospodářské cykly"
+      "content": "Hospodářské cykly"
     },
     {
       "label": "3.",
-      "content": "Peníze a jejich význam v ekonomice (dotace 4/4)"
+      "content": "Peníze a trh peněz (dotace 4/4)"
     },
     {
       "label": "a.",
@@ -114,56 +114,24 @@
       "content": "Bankovní soustava a nabídka peněz"
     },
     {
-      "label": "d.",
-      "content": "Inflace a její důsledky v ekonomice"
-    },
-    {
       "label": "4.",
-      "content": "Ekonomika a cíle hospodářské politiky (dotace 6/6)"
+      "content": "Inflace a nezaměstnanost (dotace 6/6)"
     },
     {
       "label": "a.",
-      "content": "Příčiny státního intervencionismu"
+      "content": "Inflace"
     },
     {
       "label": "b.",
-      "content": "Cíle hospodářské politiky a vztah mezi nimi"
-    },
-    {
-      "label": "c.",
       "content": "Trh práce a nezaměstnanost"
     },
     {
-      "label": "d.",
-      "content": "Phillipsova křivka"
-    },
-    {
-      "label": "e.",
-      "content": "Efekty důchodové politiky"
+      "label": "c.",
+      "content": "Vztah inflace a nezaměstnanosti, Phillipsova křivka"
     },
     {
       "label": "5.",
-      "content": "Chování státu v tržním systému (dotace 4/4)"
-    },
-    {
-      "label": "a.",
-      "content": "Fiskální politika"
-    },
-    {
-      "label": "b.",
-      "content": "Efekty fiskální politiky"
-    },
-    {
-      "label": "c.",
-      "content": "Měnová politika centrální banky"
-    },
-    {
-      "label": "d.",
-      "content": "Efekty měnové politiky"
-    },
-    {
-      "label": "6.",
-      "content": "Otevřená ekonomika (dotace 6/6)"
+      "content": "Otevřená ekonomika (dotace 2/2)"
     },
     {
       "label": "a.",
@@ -175,11 +143,43 @@
     },
     {
       "label": "c.",
-      "content": "Vliv otevřenosti ekonomiky na výkonnost a stabilitu"
+      "content": "Platební bilance"
+    },
+    {
+      "label": "6.",
+      "content": "Chování státu v tržním systému (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Veřejné rozpočty a daně"
+    },
+    {
+      "label": "b.",
+      "content": "Fiskální politika, státní rozpočet a efekty státních výdajů"
+    },
+    {
+      "label": "c.",
+      "content": "Měnová politika centrální banky"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "10 %"
+    },
+    {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "30 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "60 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -195,7 +195,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -203,11 +203,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (8 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -215,11 +215,11 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "content": "Typ předmětu: povinný"
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -243,7 +243,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Mgr. Ing. Pavlína Komosná, Ph.D. (zkoušející)Ing. Michal Mádr, Ph.D. (zkoušející)Ing. Radek Náplava, Ph.D. (zkoušející)doc. Ing. Petr Rozmahel, Ph.D. (garant)"
+      "content": "Vyučující: Ing. Aleš Franc, Ph.D. (cvičící, přednášející, zkoušející)doc. Ing. Petr Rozmahel, Ph.D. (garant)"
     },
     {
       "label": "[section] Vyučující:",
@@ -251,7 +251,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý13.00-14.50Q32A. FrancCvičeníKaždý týden43Čtvrtek15.00-16.50Q22A. FrancPřednáškaKaždý týden74"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -259,71 +259,71 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do makroekonomie a měření výkonu ekonomiky (dotace 2/2) a.Úvod do makroekonomieb.Výkon ekonomiky a jeho měření2.Chování ekonomiky v modelu AS-AD (dotace 6/6) a.Agregátní poptávkab.Krátkodobá a dlouhodobá agregátní nabídkac.Rovnováha ekonomiky v modelu AS-ADd.Ekonomický růst a hospodářské cykly3.Peníze a jejich význam v ekonomice (dotace 4/4) a.Vznik, vývoj a funkce peněz v ekonomiceb.Poptávka po penězíchc.Bankovní soustava a nabídka penězd.Inflace a její důsledky v ekonomice4.Ekonomika a cíle hospodářské politiky (dotace 6/6) a.Příčiny státního intervencionismub.Cíle hospodářské politiky a vztah mezi nimic.Trh práce a nezaměstnanostd.Phillipsova křivkae.Efekty důchodové politiky5.Chování státu v tržním systému (dotace 4/4) a.Fiskální politikab.Efekty fiskální politikyc.Měnová politika centrální bankyd.Efekty měnové politiky6.Otevřená ekonomika (dotace 6/6) a.Mezinárodní obchod a kapitálové tokyb.Měnové kurzyc.Vliv otevřenosti ekonomiky na výkonnost a stabilitu"
+      "content": "1.Úvod do makroekonomie a výkon ekonomiky (dotace 8/6) a.Úvod do makroekonomie. Role státu v ekonomice.b.Výkon ekonomiky a jeho měřeníc.Spotřeba, investice a rovnovážný výstup2.Rovnováha ekonomiky a ekonomický růst (dotace 4/6) a.Model AS-ADb.Rovnováha a ekonomický růstc.Hospodářské cykly3.Peníze a trh peněz (dotace 4/4) a.Vznik, vývoj a funkce peněz v ekonomiceb.Poptávka po penězíchc.Bankovní soustava a nabídka peněz4.Inflace a nezaměstnanost (dotace 6/6) a.Inflaceb.Trh práce a nezaměstnanostc.Vztah inflace a nezaměstnanosti, Phillipsova křivka5.Otevřená ekonomika (dotace 2/2) a.Mezinárodní obchod a kapitálové tokyb.Měnové kurzyc.Platební bilance6.Chování státu v tržním systému (dotace 4/4) a.Veřejné rozpočty a daněb.Fiskální politika, státní rozpočet a efekty státních výdajůc.Měnová politika centrální banky"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Úvod do makroekonomieb.Výkon ekonomiky a jeho měření"
+      "content": "a.Úvod do makroekonomie. Role státu v ekonomice.b.Výkon ekonomiky a jeho měřeníc.Spotřeba, investice a rovnovážný výstup"
     },
     {
-      "label": "[section] Úvod do makroekonomie a měření výkonu ekonomiky",
-      "content": "a.Úvod do makroekonomieb.Výkon ekonomiky a jeho měření"
+      "label": "[section] Úvod do makroekonomie a výkon ekonomiky",
+      "content": "a.Úvod do makroekonomie. Role státu v ekonomice.b.Výkon ekonomiky a jeho měřeníc.Spotřeba, investice a rovnovážný výstup"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Agregátní poptávkab.Krátkodobá a dlouhodobá agregátní nabídkac.Rovnováha ekonomiky v modelu AS-ADd.Ekonomický růst a hospodářské cykly"
+      "content": "a.Model AS-ADb.Rovnováha a ekonomický růstc.Hospodářské cykly"
     },
     {
-      "label": "[section] Chování ekonomiky v modelu AS-AD",
-      "content": "a.Agregátní poptávkab.Krátkodobá a dlouhodobá agregátní nabídkac.Rovnováha ekonomiky v modelu AS-ADd.Ekonomický růst a hospodářské cykly"
+      "label": "[section] Rovnováha ekonomiky a ekonomický růst",
+      "content": "a.Model AS-ADb.Rovnováha a ekonomický růstc.Hospodářské cykly"
     },
     {
       "label": "[section] 3.",
-      "content": "a.Vznik, vývoj a funkce peněz v ekonomiceb.Poptávka po penězíchc.Bankovní soustava a nabídka penězd.Inflace a její důsledky v ekonomice"
+      "content": "a.Vznik, vývoj a funkce peněz v ekonomiceb.Poptávka po penězíchc.Bankovní soustava a nabídka peněz"
     },
     {
-      "label": "[section] Peníze a jejich význam v ekonomice",
-      "content": "a.Vznik, vývoj a funkce peněz v ekonomiceb.Poptávka po penězíchc.Bankovní soustava a nabídka penězd.Inflace a její důsledky v ekonomice"
+      "label": "[section] Peníze a trh peněz",
+      "content": "a.Vznik, vývoj a funkce peněz v ekonomiceb.Poptávka po penězíchc.Bankovní soustava a nabídka peněz"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Příčiny státního intervencionismub.Cíle hospodářské politiky a vztah mezi nimic.Trh práce a nezaměstnanostd.Phillipsova křivkae.Efekty důchodové politiky"
+      "content": "a.Inflaceb.Trh práce a nezaměstnanostc.Vztah inflace a nezaměstnanosti, Phillipsova křivka"
     },
     {
-      "label": "[section] Ekonomika a cíle hospodářské politiky",
-      "content": "a.Příčiny státního intervencionismub.Cíle hospodářské politiky a vztah mezi nimic.Trh práce a nezaměstnanostd.Phillipsova křivkae.Efekty důchodové politiky"
+      "label": "[section] Inflace a nezaměstnanost",
+      "content": "a.Inflaceb.Trh práce a nezaměstnanostc.Vztah inflace a nezaměstnanosti, Phillipsova křivka"
     },
     {
       "label": "[section] 5.",
-      "content": "a.Fiskální politikab.Efekty fiskální politikyc.Měnová politika centrální bankyd.Efekty měnové politiky"
-    },
-    {
-      "label": "[section] Chování státu v tržním systému",
-      "content": "a.Fiskální politikab.Efekty fiskální politikyc.Měnová politika centrální bankyd.Efekty měnové politiky"
-    },
-    {
-      "label": "[section] 6.",
-      "content": "a.Mezinárodní obchod a kapitálové tokyb.Měnové kurzyc.Vliv otevřenosti ekonomiky na výkonnost a stabilitu"
+      "content": "a.Mezinárodní obchod a kapitálové tokyb.Měnové kurzyc.Platební bilance"
     },
     {
       "label": "[section] Otevřená ekonomika",
-      "content": "a.Mezinárodní obchod a kapitálové tokyb.Měnové kurzyc.Vliv otevřenosti ekonomiky na výkonnost a stabilitu"
+      "content": "a.Mezinárodní obchod a kapitálové tokyb.Měnové kurzyc.Platební bilance"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Veřejné rozpočty a daněb.Fiskální politika, státní rozpočet a efekty státních výdajůc.Měnová politika centrální banky"
+    },
+    {
+      "label": "[section] Chování státu v tržním systému",
+      "content": "a.Veřejné rozpočty a daněb.Fiskální politika, státní rozpočet a efekty státních výdajůc.Měnová politika centrální banky"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení28 h0 hkonzultace0 h16 hpříprava na zkoušku90 h130 hpříprava na průběžné hodnocení30 h0 hpříprava na průběžný test48 h78 hCelkem224 h224 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace0 hpříprava na zkoušku90 hpříprava na průběžné hodnocení28 hpříprava na průběžný test50 hCelkem224 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Předmět je ukončen zkouškou. Podmínkou připuštění ke zkoušce je získání zápočtu. Zápočet student obdrží, pokud získá alespoň 60 % bodů ze dvou zápočtových písemek. Závěrečná zkouška má písemnou formu. Úspěšné ukončení předmětu vyžaduje získat alespoň 60 % bodů ze závěrečného zkouškového testu a 60 % bodů ze součtu bodů ze dvou zápočtových písemek a ze zkouškového testu. Známka je stanovena podle celkového počtu bodů na základě celofakultní bodovací škály. V průběhu semestru mohou studenti získat až deset bodů za aktivitu. Tyto body nemají vliv na získání zápočtu, ale přičítají se až k výslednému počtu bodů, pokud student získal alespoň 60 % bodů ze zkouškového testu."
+      "content": "Předmět je ukončen zkouškou. Podmínkou možnosti absolvovat zkoušku je získání zápočtu za dosažení potřebného počtu bodů z 2 průběžných zápočtových testů a na základě aktivity v seminářích. Závěrečná zkouška je písemná. Známka je výsledkem celkového součtu bodů ze seminářů a ze zkoušky, bodové hranice jsou stanoveny v souladu s fakultními pravidly. Podmínky složení zkoušky se shodují pro prezenční i kombinované studenty."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)50 %50 %Absolvování závěrečného testu50 %50 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích10 %Absolvování průběžného testu (testů)30 %Absolvování závěrečného testu60 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:JUREČKA, Václav. 2017. Makroekonomie. 3. vyd. Praha: Grada Publishing, 368 s. Expert. ISBN 978-80-271-0251-8.HOLMAN, Robert. 2016. Ekonomie. 6. vyd. V Praze: C.H. Beck, 696 s. Beckovy ekonomické učebnice. ISBN 978-80-7400-278-6.Doporučená:KRUGMAN, Paul R.; WELLS, Robin. 2021. Macroeconomics. 6. vyd. New York, NY: Worth Publishers, 656 s. ISBN 978-1-3192-4526-9."
+      "content": "Základní:JUREČKA, Václav. 2017. Makroekonomie. 3. vyd. Praha: Grada Publishing, 368 s. Expert. ISBN 978-80-271-0251-8.HOLMAN, Robert. 2016. Ekonomie. 6. vyd. V Praze: C.H. Beck, 696 s. Beckovy ekonomické učebnice. ISBN 978-80-7400-278-6.Doporučená:KRUGMAN, Paul R.; WELLS, Robin. 2018. Economics. 5. vyd. New York: Wort Publishers, 1168 s. ISBN 978-1-319-18194-9.MANKIW, N. Gregory. 2000. Zásady ekonomie. 1. vyd. Praha: Grada Publishing, 763 s. ISBN 80-7169-891-1."
     },
     {
       "label": "[section] Základní:",
@@ -331,11 +331,11 @@
     },
     {
       "label": "[section] Doporučená:",
-      "content": "KRUGMAN, Paul R.; WELLS, Robin. 2021. Macroeconomics. 6. vyd. New York, NY: Worth Publishers, 656 s. ISBN 978-1-3192-4526-9."
+      "content": "KRUGMAN, Paul R.; WELLS, Robin. 2018. Economics. 5. vyd. New York: Wort Publishers, 1168 s. ISBN 978-1-319-18194-9.MANKIW, N. Gregory. 2000. Zásady ekonomie. 1. vyd. Praha: Grada Publishing, 763 s. ISBN 80-7169-891-1."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "Program B-EAM Ekonomika a management, prezenční forma, počáteční období LS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -357,7 +357,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -365,7 +365,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -373,11 +373,11 @@
     },
     {
       "label": "Course type:",
-      "content": "optional"
+      "content": "required"
     },
     {
       "label": "Type of delivery:",
-      "content": "consulting"
+      "content": "usual"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
@@ -401,7 +401,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Mgr. Ing. Pavlína Komosná, Ph.D. (examiner)Ing. Michal Mádr, Ph.D. (examiner)Ing. Radek Náplava, Ph.D. (examiner)doc. Ing. Petr Rozmahel, Ph.D. (supervisor)"
+      "content": "Ing. Aleš Franc, Ph.D. (examiner, instructor, lecturer)doc. Ing. Petr Rozmahel, Ph.D. (supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -409,43 +409,43 @@
     },
     {
       "label": "1.",
-      "content": "Introduction to macroeconomics and economic output (allowance 2/2)"
+      "content": "Introduction to Macroeconomics and economic output (allowance 8/6)"
     },
     {
       "label": "a.",
-      "content": "Introduction to macroeconomics"
+      "content": "The role of the state in the economy."
     },
     {
       "label": "b.",
       "content": "Economic output and its measurement"
     },
     {
+      "label": "c.",
+      "content": "Consumption, investment, and equilibrum output"
+    },
+    {
       "label": "2.",
-      "content": "Behaviour of the economy in the AS-AD model (allowance 6/6)"
+      "content": "Equilibrium of the economy and economic growth (allowance 4/6)"
     },
     {
       "label": "a.",
-      "content": "Aggregate demand"
+      "content": "AS-AD Model"
     },
     {
       "label": "b.",
-      "content": "Short-run and long-run aggregate supply"
+      "content": "Equilibrium and economic growth"
     },
     {
       "label": "c.",
-      "content": "Equilibrium in the AS-AD model"
-    },
-    {
-      "label": "d.",
-      "content": "Economic growth and business cycles"
+      "content": "Business cycles"
     },
     {
       "label": "3.",
-      "content": "Money and its importance in the economy (allowance 4/4)"
+      "content": "Money and the money market (allowance 4/4)"
     },
     {
       "label": "a.",
-      "content": "The origin, development and function of money in the economy"
+      "content": "Origin, development and function of money in the economy"
     },
     {
       "label": "b.",
@@ -456,56 +456,24 @@
       "content": "Banking system and money supply"
     },
     {
-      "label": "d.",
-      "content": "Inflation and its consequences in the economy"
-    },
-    {
       "label": "4.",
-      "content": "Economy and economic policy objectives (allowance 6/6)"
+      "content": "Inflation and unemployment (allowance 6/6)"
     },
     {
       "label": "a.",
-      "content": "Causes of state interventionism"
+      "content": "Inflation"
     },
     {
       "label": "b.",
-      "content": "Economic policy objectives and the relationship between them"
+      "content": "Labor market and unemployment"
     },
     {
       "label": "c.",
-      "content": "Labour market and unemployment"
-    },
-    {
-      "label": "d.",
-      "content": "Phillips curve"
-    },
-    {
-      "label": "e.",
-      "content": "Effects of income policy"
+      "content": "Relationship between inflation and unemployment, Phillips curve"
     },
     {
       "label": "5.",
-      "content": "Role of the state in the market system (allowance 4/4)"
-    },
-    {
-      "label": "a.",
-      "content": "Fiscal policy"
-    },
-    {
-      "label": "b.",
-      "content": "Effects of fiscal policy"
-    },
-    {
-      "label": "c.",
-      "content": "Monetary policy"
-    },
-    {
-      "label": "d.",
-      "content": "Effects of monetary policy"
-    },
-    {
-      "label": "6.",
-      "content": "Open economy (allowance 6/6)"
+      "content": "Open economy (allowance 2/2)"
     },
     {
       "label": "a.",
@@ -517,11 +485,43 @@
     },
     {
       "label": "c.",
-      "content": "The impact of economic openness on performance and stability"
+      "content": "Balance of payments"
+    },
+    {
+      "label": "6.",
+      "content": "Role of the state in the market system (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Public budgets and taxes"
+    },
+    {
+      "label": "b.",
+      "content": "Fiscal policy, state budget and effects of state expenditures"
+    },
+    {
+      "label": "c.",
+      "content": "Monetary policy of the central bank"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "10 %"
+    },
+    {
+      "label": "Mid-term test(s)",
+      "content": "30 %"
+    },
+    {
+      "label": "Final test",
+      "content": "60 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -537,7 +537,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -545,11 +545,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (8 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -557,11 +557,11 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: optional"
+      "content": "Course type: required"
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: consulting"
+      "content": "Type of delivery: usual"
     },
     {
       "label": "[section] Type of delivery:",
@@ -585,7 +585,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Mgr. Ing. Pavlína Komosná, Ph.D. (examiner)Ing. Michal Mádr, Ph.D. (examiner)Ing. Radek Náplava, Ph.D. (examiner)doc. Ing. Petr Rozmahel, Ph.D. (supervisor)"
+      "content": "Teachers: Ing. Aleš Franc, Ph.D. (examiner, instructor, lecturer)doc. Ing. Petr Rozmahel, Ph.D. (supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -593,7 +593,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "-- item not defined --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday13.00-14.50Q32A. FrancSeminarEvery week43Thursday15.00-16.50Q22A. FrancLectureEvery week74"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -601,71 +601,71 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Introduction to macroeconomics and economic output (allowance 2/2) a.Introduction to macroeconomicsb.Economic output and its measurement2.Behaviour of the economy in the AS-AD model (allowance 6/6) a.Aggregate demandb.Short-run and long-run aggregate supplyc.Equilibrium in the AS-AD modeld.Economic growth and business cycles3.Money and its importance in the economy (allowance 4/4) a.The origin, development and function of money in the economyb.Demand for moneyc.Banking system and money supplyd.Inflation and its consequences in the economy4.Economy and economic policy objectives (allowance 6/6) a.Causes of state interventionismb.Economic policy objectives and the relationship between themc.Labour market and unemploymentd.Phillips curvee.Effects of income policy5.Role of the state in the market system (allowance 4/4) a.Fiscal policyb.Effects of fiscal policyc.Monetary policyd.Effects of monetary policy6.Open economy (allowance 6/6) a.International trade and capital flowsb.Exchange ratesc.The impact of economic openness on performance and stability"
+      "content": "1.Introduction to Macroeconomics and economic output (allowance 8/6) a.The role of the state in the economy.b.Economic output and its measurementc.Consumption, investment, and equilibrum output2.Equilibrium of the economy and economic growth (allowance 4/6) a.AS-AD Modelb.Equilibrium and economic growthc.Business cycles3.Money and the money market (allowance 4/4) a.Origin, development and function of money in the economyb.Demand for moneyc.Banking system and money supply4.Inflation and unemployment (allowance 6/6) a.Inflationb.Labor market and unemploymentc.Relationship between inflation and unemployment, Phillips curve5.Open economy (allowance 2/2) a.International trade and capital flowsb.Exchange ratesc.Balance of payments6.Role of the state in the market system (allowance 4/4) a.Public budgets and taxesb.Fiscal policy, state budget and effects of state expendituresc.Monetary policy of the central bank"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Introduction to macroeconomicsb.Economic output and its measurement"
+      "content": "a.The role of the state in the economy.b.Economic output and its measurementc.Consumption, investment, and equilibrum output"
     },
     {
-      "label": "[section] Introduction to macroeconomics and economic output",
-      "content": "a.Introduction to macroeconomicsb.Economic output and its measurement"
+      "label": "[section] Introduction to Macroeconomics and economic output",
+      "content": "a.The role of the state in the economy.b.Economic output and its measurementc.Consumption, investment, and equilibrum output"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Aggregate demandb.Short-run and long-run aggregate supplyc.Equilibrium in the AS-AD modeld.Economic growth and business cycles"
+      "content": "a.AS-AD Modelb.Equilibrium and economic growthc.Business cycles"
     },
     {
-      "label": "[section] Behaviour of the economy in the AS-AD model",
-      "content": "a.Aggregate demandb.Short-run and long-run aggregate supplyc.Equilibrium in the AS-AD modeld.Economic growth and business cycles"
+      "label": "[section] Equilibrium of the economy and economic growth",
+      "content": "a.AS-AD Modelb.Equilibrium and economic growthc.Business cycles"
     },
     {
       "label": "[section] 3.",
-      "content": "a.The origin, development and function of money in the economyb.Demand for moneyc.Banking system and money supplyd.Inflation and its consequences in the economy"
+      "content": "a.Origin, development and function of money in the economyb.Demand for moneyc.Banking system and money supply"
     },
     {
-      "label": "[section] Money and its importance in the economy",
-      "content": "a.The origin, development and function of money in the economyb.Demand for moneyc.Banking system and money supplyd.Inflation and its consequences in the economy"
+      "label": "[section] Money and the money market",
+      "content": "a.Origin, development and function of money in the economyb.Demand for moneyc.Banking system and money supply"
     },
     {
       "label": "[section] 4.",
-      "content": "a.Causes of state interventionismb.Economic policy objectives and the relationship between themc.Labour market and unemploymentd.Phillips curvee.Effects of income policy"
+      "content": "a.Inflationb.Labor market and unemploymentc.Relationship between inflation and unemployment, Phillips curve"
     },
     {
-      "label": "[section] Economy and economic policy objectives",
-      "content": "a.Causes of state interventionismb.Economic policy objectives and the relationship between themc.Labour market and unemploymentd.Phillips curvee.Effects of income policy"
+      "label": "[section] Inflation and unemployment",
+      "content": "a.Inflationb.Labor market and unemploymentc.Relationship between inflation and unemployment, Phillips curve"
     },
     {
       "label": "[section] 5.",
-      "content": "a.Fiscal policyb.Effects of fiscal policyc.Monetary policyd.Effects of monetary policy"
-    },
-    {
-      "label": "[section] Role of the state in the market system",
-      "content": "a.Fiscal policyb.Effects of fiscal policyc.Monetary policyd.Effects of monetary policy"
-    },
-    {
-      "label": "[section] 6.",
-      "content": "a.International trade and capital flowsb.Exchange ratesc.The impact of economic openness on performance and stability"
+      "content": "a.International trade and capital flowsb.Exchange ratesc.Balance of payments"
     },
     {
       "label": "[section] Open economy",
-      "content": "a.International trade and capital flowsb.Exchange ratesc.The impact of economic openness on performance and stability"
+      "content": "a.International trade and capital flowsb.Exchange ratesc.Balance of payments"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Public budgets and taxesb.Fiscal policy, state budget and effects of state expendituresc.Monetary policy of the central bank"
+    },
+    {
+      "label": "[section] Role of the state in the market system",
+      "content": "a.Public budgets and taxesb.Fiscal policy, state budget and effects of state expendituresc.Monetary policy of the central bank"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice28 h0 hconsultation0 h16 hpreparation for exam90 h130 hpreparation for regular assessment30 h0 hpreparation for regular testing48 h78 hTotal224 h224 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation0 hpreparation for exam90 hpreparation for regular assessment28 hpreparation for regular testing50 hTotal224 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The course is finished by the exam. To be admitted to the exam, the student has to obtain a credit. The student receives a credit if he gets at least 60 % of two mid-term tests. The final exam has a written form. Successful course completion requires obtaining at least 60 % of the maximum from the final exam test and 60 % of the points from the total sum of points. The final grade is determined according to the total number of points based on the faculty-wide scoring scale. Students can earn up to ten points per activity during the semester. These points do not affect the credit but are added to the final score if the student scores at least 60% of the points from the exam test."
+      "content": "To pass the credit test, student is obliged to achieve the required number of points from 2 continuous credit tests and on the basis of activity in seminars. The final exam is written. The grade is the result of the total sum of points from the seminars and the exam, the point limits are set in accordance with the faculty rules. The conditions of final examinations are identical for the external as well as internal students."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)50 %50 %Final test50 %50 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation10 %Mid-term test(s)30 %Final test60 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:JUREČKA, Václav. 2017. Makroekonomie. 3rd ed. Praha: Grada Publishing, 368 p. Expert. ISBN 978-80-271-0251-8.HOLMAN, Robert. 2016. Ekonomie. 6th ed. V Praze: C.H. Beck, 696 p. Beckovy ekonomické učebnice. ISBN 978-80-7400-278-6.Recommended:KRUGMAN, Paul R.; WELLS, Robin. 2021. Macroeconomics. 6. vyd. New York, NY: Worth Publishers, 656 s. ISBN 978-1-3192-4526-9."
+      "content": "Basic:JUREČKA, Václav. 2017. Makroekonomie. 3rd ed. Praha: Grada Publishing, 368 p. Expert. ISBN 978-80-271-0251-8.HOLMAN, Robert. 2016. Ekonomie. 6th ed. V Praze: C.H. Beck, 696 p. Beckovy ekonomické učebnice. ISBN 978-80-7400-278-6.Recommended:KRUGMAN, Paul R.; WELLS, Robin. 2018. Economics. 5th ed. New York: Wort Publishers, 1168 p. ISBN 978-1-319-18194-9.MANKIW, N. Gregory. 2000. Zásady ekonomie. 1st ed. Praha: Grada Publishing, 763 p. ISBN 80-7169-891-1."
     },
     {
       "label": "[section] Basic:",
@@ -673,17 +673,17 @@
     },
     {
       "label": "[section] Recommended:",
-      "content": "KRUGMAN, Paul R.; WELLS, Robin. 2021. Macroeconomics. 6. vyd. New York, NY: Worth Publishers, 656 s. ISBN 978-1-3192-4526-9."
+      "content": "KRUGMAN, Paul R.; WELLS, Robin. 2018. Economics. 5th ed. New York: Wort Publishers, 1168 p. ISBN 978-1-319-18194-9.MANKIW, N. Gregory. 2000. Zásady ekonomie. 1st ed. Praha: Grada Publishing, 763 p. ISBN 80-7169-891-1."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "-- item not defined --"
+      "content": "Programme B-EAM Economics and Management, full-time form, initial period SS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:41:14",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:54:46",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

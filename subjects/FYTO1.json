@@ -3,9 +3,11 @@
   "name": "Fytopatologie I",
   "nameCs": "Fytopatologie I",
   "nameEn": "Phytopathology I",
-  "predmetId": "157465",
+  "predmetId": "162349",
   "facultyId": 60,
-  "aliases": [],
+  "aliases": [
+    "FPI"
+  ],
   "teachers": [
     "Ing. Martina Bernatová",
     "Ing. Ondřej Košulič, Ph.D.",
@@ -13,6 +15,93 @@
     "prof. Dr. Ing. Libor Jankovský"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162349;lang=cz",
+      "totalPass": 26,
+      "totalFail": 14,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 14,
+          "fail": 9,
+          "creditGrades": {
+            "zap": 14,
+            "nezap": 9,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 8,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 26,
+          "fail": 14,
+          "creditGrades": {
+            "zap": 26,
+            "nezap": 14,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 36,
+          "creditGrades": {
+            "zap": 4,
+            "nezap": 36,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -316,5 +405,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

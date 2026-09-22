@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "prof. RNDr. Tomáš Pitner, Ph.D."
+      "content": "prof. Ing. Cyril Klimeš, CSc."
     },
     {
       "label": "Garantující ústav:",
@@ -59,147 +59,175 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (cvičící, přednášející, tutor, zkoušející)prof. RNDr. Tomáš Pitner, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Jiří Třináctý (cvičící, zkoušející)"
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D. (tutor, zkoušející)Ing. Petr Jedlička, Ph.D. (cvičící, přednášející, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (garant, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška"
+      "content": "ne Státní bakalářská zkouška a ne Výpočetní technika II"
     },
     {
       "label": "1.",
-      "content": "1. týden (dotace 2/1)"
+      "content": "1. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie."
+      "content": "PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů."
     },
     {
       "label": "b.",
-      "content": "CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+      "content": "CVIČENÍ: Seznámení s Arduino IDE a s jazykem (knihovnou) Wiring."
     },
     {
       "label": "2.",
-      "content": "2. týden (dotace 2/1)"
+      "content": "2. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)"
+      "content": "PŘEDNÁŠKA: Struktura počítače, historický vývoj výpočetní techniky (generace počítačů, principy J. von Neumanna)."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Základní struktury jazyka Wiring."
     },
     {
       "label": "3.",
-      "content": "3. týden (dotace 2/1)"
+      "content": "3. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody."
+      "content": "PŘEDNÁŠKA: Logické obvody."
     },
     {
       "label": "b.",
-      "content": "CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+      "content": "CVIČENÍ: Pokročilejší struktury jazyka Wiring."
     },
     {
       "label": "4.",
-      "content": "4. týden (dotace 2/1)"
+      "content": "4. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače)."
+      "content": "PŘEDNÁŠKA: Procesory – struktura, instrukce, instrukční cyklus, registry, měření výkonu."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Knihovní a uživatelsky definované funkce jazyka Wiring."
     },
     {
       "label": "5.",
-      "content": "5. týden (dotace 2/1)"
+      "content": "5. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache)."
+      "content": "PŘEDNÁŠKA: Techniky zvyšování výpočetního výkonu počítačů, paralelizace výpočtů."
     },
     {
       "label": "b.",
-      "content": "CVIČENÍ: Logické obvody."
+      "content": "CVIČENÍ: Arduino – sériová komunikace a cykly."
     },
     {
       "label": "6.",
-      "content": "6. týden (dotace 2/1)"
+      "content": "6. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)"
+      "content": "PŘEDNÁŠKA: Aktuální procesory serverů, osobních počítačů a přenosných zařízení (Intel, AMD, IBM, ARM, …), očekávaný vývoj."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Arduino – grafický výstup."
     },
     {
       "label": "7.",
-      "content": "7. týden (dotace 2/1)"
+      "content": "7. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat."
+      "content": "PŘEDNÁŠKA: Principy drátových datových přenosů."
     },
     {
       "label": "b.",
-      "content": "CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+      "content": "CVIČENÍ: Arduino – práce s pamětí (FLASH, SRAM, EEPROM)."
     },
     {
       "label": "8.",
-      "content": "8. týden (dotace 2/1)"
+      "content": "8. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)"
-    },
-    {
-      "label": "9.",
-      "content": "9. týden (dotace 2/1)"
-    },
-    {
-      "label": "a.",
-      "content": "PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení."
+      "content": "PŘEDNÁŠKA: Principy bezdrátových datových přenosů."
     },
     {
       "label": "b.",
-      "content": "CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+      "content": "CVIČENÍ: Arduino – komunikace a periférie."
+    },
+    {
+      "label": "9.",
+      "content": "9. týden (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Současné sběrnice a rozhraní počítačů, základní desky, čipové sady."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Arduino – měření napětí."
     },
     {
       "label": "10.",
-      "content": "10. týden (dotace 2/1)"
+      "content": "10. týden (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Paměti – paměťová hierarchie počítače, typy a technologie pamětí, kvalitativní a kvantitativní parametry pamětí."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Logické obvody (simulace v simulačním softwaru)."
+    },
+    {
+      "label": "11.",
+      "content": "11. týden (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Vstupní zařízení počítače."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Hardware osobního počítače."
+    },
+    {
+      "label": "12.",
+      "content": "12. týden (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "PŘEDNÁŠKA: Výstupní zařízení počítače."
+    },
+    {
+      "label": "b.",
+      "content": "CVIČENÍ: Obhajoby semestrálních prací."
+    },
+    {
+      "label": "13.",
+      "content": "13. týden (dotace 2/2)"
     },
     {
       "label": "a.",
       "content": "PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU."
     },
     {
-      "label": "11.",
-      "content": "11. týden (dotace 2/1)"
+      "label": "14.",
+      "content": "14. týden (dotace 2/2)"
     },
     {
       "label": "a.",
-      "content": "PŘEDNÁŠKA: Vnější zařízení počítače (periferie)."
-    },
-    {
-      "label": "b.",
-      "content": "CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
-    },
-    {
-      "label": "12.",
-      "content": "12. týden (dotace 2/1)"
-    },
-    {
-      "label": "a.",
-      "content": "PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů."
-    },
-    {
-      "label": "13.",
-      "content": "13. týden (dotace 2/1)"
-    },
-    {
-      "label": "a.",
-      "content": "PŘEDNÁŠKA: Souhrn problematiky. Opakování."
-    },
-    {
-      "label": "b.",
-      "content": "CVIČENÍ: Arduino – ovládání servomotoru."
+      "content": "PŘEDNÁŠKA: Hardware mainframů, datových center a superpočítačů."
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, LS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, LS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -215,7 +243,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -223,11 +251,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zkouška (5 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -251,7 +279,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: prof. RNDr. Tomáš Pitner, Ph.D."
+      "content": "Garant předmětu: prof. Ing. Cyril Klimeš, CSc."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -263,15 +291,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (cvičící, přednášející, tutor, zkoušející)prof. RNDr. Tomáš Pitner, Ph.D. (garant, přednášející, tutor, zkoušející)Ing. Jiří Třináctý (cvičící, zkoušející)"
+      "content": "Vyučující: Ing. Mgr. Jana Dannhoferová, Ph.D. (tutor, zkoušející)Ing. Petr Jedlička, Ph.D. (cvičící, přednášející, tutor, zkoušející)prof. Ing. Cyril Klimeš, CSc. (garant, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Výpočetní technika II"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q02B-AIIB-OI 1123 T. Pitner, C. KlimešPřednáškaKaždý týden200Pondělí11.00-12.50Q26B-OI 1233 J. TřináctýCvičeníSudý týden23Pondělí11.00-12.50Q26B-OI 1236 J. TřináctýCvičeníLichý týden23Pondělí13.00-14.50Q26B-OI 1232 J. TřináctýCvičeníLichý týden22Pondělí13.00-14.50Q26B-OI 1235 J. TřináctýCvičeníSudý týden22Pondělí15.00-16.50Q26B-OI 1234 J. TřináctýCvičeníSudý týden22Pondělí15.00-16.50Q26B-AII 1232 J. TřináctýCvičeníLichý týden22Úterý9.00-10.50Q09B-OI 1237 J. TřináctýCvičeníLichý týden22Úterý11.00-12.50Q09B-OI 1231 J. TřináctýCvičeníLichý týden23Úterý11.00-12.50Q09B-AII 1231 J. TřináctýCvičeníSudý týden22Sobota9.00-12.50Q16B-AIIB-AII1 51 C. KlimešPřednáškaNepravidelně50"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q02B-AIIB-OI 1112 P. Jedlička, C. KlimešPřednáškaKaždý týden200Úterý11.00-12.50Q26B-OI 1126 P. JedličkaCvičeníKaždý týden22Úterý13.00-14.50Q26B-OI 1122 P. JedličkaCvičeníKaždý týden22Středa9.00-10.50Q26B-AII 1121 P. JedličkaCvičeníKaždý týden22Středa11.00-12.50Q26B-AII 1122 P. JedličkaCvičeníKaždý týden22Středa13.00-14.50Q26B-OI 1123 P. JedličkaCvičeníKaždý týden22Čtvrtek16.00-16.50Q2.32B-AII 1251 P. JedličkaPřednáškaNepravidelně22Čtvrtek17.00-18.50Q26B-OI 1121 P. JedličkaCvičeníKaždý týden23Pátek9.00-10.50Q26B-OI 1125 P. JedličkaCvičeníKaždý týden22Pátek11.00-12.50Q26B-OI 1124 P. JedličkaCvičeníKaždý týden22"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -279,123 +307,131 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.1. týden (dotace 2/1) a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie.b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy.2.2. týden (dotace 2/1) a.PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy.3.3. týden (dotace 2/1) a.PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody.b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot.4.4. týden (dotace 2/1) a.PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače).b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot.5.5. týden (dotace 2/1) a.PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache).b.CVIČENÍ: Logické obvody.6.6. týden (dotace 2/1) a.PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)b.CVIČENÍ: Logické obvody.7.7. týden (dotace 2/1) a.PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat.b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů.8.8. týden (dotace 2/1) a.PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů.9.9. týden (dotace 2/1) a.PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí.10.10. týden (dotace 2/1) a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí.11.11. týden (dotace 2/1) a.PŘEDNÁŠKA: Vnější zařízení počítače (periferie).b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup.12.12. týden (dotace 2/1) a.PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů.b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup.13.13. týden (dotace 2/1) a.PŘEDNÁŠKA: Souhrn problematiky. Opakování.b.CVIČENÍ: Arduino – ovládání servomotoru."
+      "content": "1.1. týden (dotace 2/2) a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů.b.CVIČENÍ: Seznámení s Arduino IDE a s jazykem (knihovnou) Wiring.2.2. týden (dotace 2/2) a.PŘEDNÁŠKA: Struktura počítače, historický vývoj výpočetní techniky (generace počítačů, principy J. von Neumanna).b.CVIČENÍ: Základní struktury jazyka Wiring.3.3. týden (dotace 2/2) a.PŘEDNÁŠKA: Logické obvody.b.CVIČENÍ: Pokročilejší struktury jazyka Wiring.4.4. týden (dotace 2/2) a.PŘEDNÁŠKA: Procesory – struktura, instrukce, instrukční cyklus, registry, měření výkonu.b.CVIČENÍ: Knihovní a uživatelsky definované funkce jazyka Wiring.5.5. týden (dotace 2/2) a.PŘEDNÁŠKA: Techniky zvyšování výpočetního výkonu počítačů, paralelizace výpočtů.b.CVIČENÍ: Arduino – sériová komunikace a cykly.6.6. týden (dotace 2/2) a.PŘEDNÁŠKA: Aktuální procesory serverů, osobních počítačů a přenosných zařízení (Intel, AMD, IBM, ARM, …), očekávaný vývoj.b.CVIČENÍ: Arduino – grafický výstup.7.7. týden (dotace 2/2) a.PŘEDNÁŠKA: Principy drátových datových přenosů.b.CVIČENÍ: Arduino – práce s pamětí (FLASH, SRAM, EEPROM).8.8. týden (dotace 2/2) a.PŘEDNÁŠKA: Principy bezdrátových datových přenosů.b.CVIČENÍ: Arduino – komunikace a periférie.9.9. týden (dotace 2/2) a.PŘEDNÁŠKA: Současné sběrnice a rozhraní počítačů, základní desky, čipové sady.b.CVIČENÍ: Arduino – měření napětí.10.10. týden (dotace 2/2) a.PŘEDNÁŠKA: Paměti – paměťová hierarchie počítače, typy a technologie pamětí, kvalitativní a kvantitativní parametry pamětí.b.CVIČENÍ: Logické obvody (simulace v simulačním softwaru).11.11. týden (dotace 2/2) a.PŘEDNÁŠKA: Vstupní zařízení počítače.b.CVIČENÍ: Hardware osobního počítače.12.12. týden (dotace 2/2) a.PŘEDNÁŠKA: Výstupní zařízení počítače.b.CVIČENÍ: Obhajoby semestrálních prací.13.13. týden (dotace 2/2) a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Obhajoby semestrálních prací.14.14. týden (dotace 2/2) a.PŘEDNÁŠKA: Hardware mainframů, datových center a superpočítačů.b.CVIČENÍ: Obhajoby semestrálních prací."
     },
     {
       "label": "[section] 1.",
-      "content": "a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie.b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+      "content": "a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů.b.CVIČENÍ: Seznámení s Arduino IDE a s jazykem (knihovnou) Wiring."
     },
     {
       "label": "[section] 1. týden",
-      "content": "a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů. Úvod do architektury počítačů, historie.b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+      "content": "a.PŘEDNÁŠKA: Motivace (cíl předmětu), organizace výuky a podmínky ukončení, smysl a cíl semestrální práce, požadavky na semestrální práci (obsahové, formální), pravidla typografie a citování zdrojů.b.CVIČENÍ: Seznámení s Arduino IDE a s jazykem (knihovnou) Wiring."
     },
     {
       "label": "[section] 2.",
-      "content": "a.PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+      "content": "a.PŘEDNÁŠKA: Struktura počítače, historický vývoj výpočetní techniky (generace počítačů, principy J. von Neumanna).b.CVIČENÍ: Základní struktury jazyka Wiring."
     },
     {
       "label": "[section] 2. týden",
-      "content": "a.PŘEDNÁŠKA: Teorie architektury počítačů. Struktura počítače, historický vývoj výpočetní techniky. (Přednášející: prof. Klimeš)b.CVIČENÍ: Seznámení s platformou Arduino, digitální vstupy a výstupy."
+      "content": "a.PŘEDNÁŠKA: Struktura počítače, historický vývoj výpočetní techniky (generace počítačů, principy J. von Neumanna).b.CVIČENÍ: Základní struktury jazyka Wiring."
     },
     {
       "label": "[section] 3.",
-      "content": "a.PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody.b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+      "content": "a.PŘEDNÁŠKA: Logické obvody.b.CVIČENÍ: Pokročilejší struktury jazyka Wiring."
     },
     {
       "label": "[section] 3. týden",
-      "content": "a.PŘEDNÁŠKA: Elektronické principy digitálních počítačů, spínací prvky, Booleova algebra. Kombinační logické obvody.b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+      "content": "a.PŘEDNÁŠKA: Logické obvody.b.CVIČENÍ: Pokročilejší struktury jazyka Wiring."
     },
     {
       "label": "[section] 4.",
-      "content": "a.PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače).b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+      "content": "a.PŘEDNÁŠKA: Procesory – struktura, instrukce, instrukční cyklus, registry, měření výkonu.b.CVIČENÍ: Knihovní a uživatelsky definované funkce jazyka Wiring."
     },
     {
       "label": "[section] 4. týden",
-      "content": "a.PŘEDNÁŠKA: Sekvenční logické obvody (klopné obvody, čítače).b.CVIČENÍ: Arduino – sériová komunikace a čtení analogových hodnot."
+      "content": "a.PŘEDNÁŠKA: Procesory – struktura, instrukce, instrukční cyklus, registry, měření výkonu.b.CVIČENÍ: Knihovní a uživatelsky definované funkce jazyka Wiring."
     },
     {
       "label": "[section] 5.",
-      "content": "a.PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache).b.CVIČENÍ: Logické obvody."
+      "content": "a.PŘEDNÁŠKA: Techniky zvyšování výpočetního výkonu počítačů, paralelizace výpočtů.b.CVIČENÍ: Arduino – sériová komunikace a cykly."
     },
     {
       "label": "[section] 5. týden",
-      "content": "a.PŘEDNÁŠKA: Procesory (vnitřní architektura, instrukce a instrukční cyklus, registry, cache).b.CVIČENÍ: Logické obvody."
+      "content": "a.PŘEDNÁŠKA: Techniky zvyšování výpočetního výkonu počítačů, paralelizace výpočtů.b.CVIČENÍ: Arduino – sériová komunikace a cykly."
     },
     {
       "label": "[section] 6.",
-      "content": "a.PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)b.CVIČENÍ: Logické obvody."
+      "content": "a.PŘEDNÁŠKA: Aktuální procesory serverů, osobních počítačů a přenosných zařízení (Intel, AMD, IBM, ARM, …), očekávaný vývoj.b.CVIČENÍ: Arduino – grafický výstup."
     },
     {
       "label": "[section] 6. týden",
-      "content": "a.PŘEDNÁŠKA: Programování na úrovni procesoru, assembler. (Přednášející prof. Klimeš)b.CVIČENÍ: Logické obvody."
+      "content": "a.PŘEDNÁŠKA: Aktuální procesory serverů, osobních počítačů a přenosných zařízení (Intel, AMD, IBM, ARM, …), očekávaný vývoj.b.CVIČENÍ: Arduino – grafický výstup."
     },
     {
       "label": "[section] 7.",
-      "content": "a.PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat.b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+      "content": "a.PŘEDNÁŠKA: Principy drátových datových přenosů.b.CVIČENÍ: Arduino – práce s pamětí (FLASH, SRAM, EEPROM)."
     },
     {
       "label": "[section] 7. týden",
-      "content": "a.PŘEDNÁŠKA: Paměti, funkce, principy, technologické realizace. Vnitřní paměti (varianty ROM, SRAM/DRAM, cache). Paměťová média (pevná, výměnná). Technologie ukládání a archivace dat.b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+      "content": "a.PŘEDNÁŠKA: Principy drátových datových přenosů.b.CVIČENÍ: Arduino – práce s pamětí (FLASH, SRAM, EEPROM)."
     },
     {
       "label": "[section] 8.",
-      "content": "a.PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+      "content": "a.PŘEDNÁŠKA: Principy bezdrátových datových přenosů.b.CVIČENÍ: Arduino – komunikace a periférie."
     },
     {
       "label": "[section] 8. týden",
-      "content": "a.PŘEDNÁŠKA: Pokročilé architektury počítačů. (Přednášející prof. Klimeš)b.CVIČENÍ: Arduino – tranzistor jako spínač, sestavení prvků AND a OR z tranzistorů."
+      "content": "a.PŘEDNÁŠKA: Principy bezdrátových datových přenosů.b.CVIČENÍ: Arduino – komunikace a periférie."
     },
     {
       "label": "[section] 9.",
-      "content": "a.PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+      "content": "a.PŘEDNÁŠKA: Současné sběrnice a rozhraní počítačů, základní desky, čipové sady.b.CVIČENÍ: Arduino – měření napětí."
     },
     {
       "label": "[section] 9. týden",
-      "content": "a.PŘEDNÁŠKA: Sběrnice. Rozhraní periferních zařízení.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+      "content": "a.PŘEDNÁŠKA: Současné sběrnice a rozhraní počítačů, základní desky, čipové sady.b.CVIČENÍ: Arduino – měření napětí."
     },
     {
       "label": "[section] 10.",
-      "content": "a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+      "content": "a.PŘEDNÁŠKA: Paměti – paměťová hierarchie počítače, typy a technologie pamětí, kvalitativní a kvantitativní parametry pamětí.b.CVIČENÍ: Logické obvody (simulace v simulačním softwaru)."
     },
     {
       "label": "[section] 10. týden",
-      "content": "a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Arduino – přerušení a asynchronní obsluha událostí."
+      "content": "a.PŘEDNÁŠKA: Paměti – paměťová hierarchie počítače, typy a technologie pamětí, kvalitativní a kvantitativní parametry pamětí.b.CVIČENÍ: Logické obvody (simulace v simulačním softwaru)."
     },
     {
       "label": "[section] 11.",
-      "content": "a.PŘEDNÁŠKA: Vnější zařízení počítače (periferie).b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+      "content": "a.PŘEDNÁŠKA: Vstupní zařízení počítače.b.CVIČENÍ: Hardware osobního počítače."
     },
     {
       "label": "[section] 11. týden",
-      "content": "a.PŘEDNÁŠKA: Vnější zařízení počítače (periferie).b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+      "content": "a.PŘEDNÁŠKA: Vstupní zařízení počítače.b.CVIČENÍ: Hardware osobního počítače."
     },
     {
       "label": "[section] 12.",
-      "content": "a.PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů.b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+      "content": "a.PŘEDNÁŠKA: Výstupní zařízení počítače.b.CVIČENÍ: Obhajoby semestrálních prací."
     },
     {
       "label": "[section] 12. týden",
-      "content": "a.PŘEDNÁŠKA: Počítače a kontroléry pro řízení technologických procesů.b.CVIČENÍ: Arduino – měření množství světla a vzdálenosti, detekce pohybu, zvukový výstup."
+      "content": "a.PŘEDNÁŠKA: Výstupní zařízení počítače.b.CVIČENÍ: Obhajoby semestrálních prací."
     },
     {
       "label": "[section] 13.",
-      "content": "a.PŘEDNÁŠKA: Souhrn problematiky. Opakování.b.CVIČENÍ: Arduino – ovládání servomotoru."
+      "content": "a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Obhajoby semestrálních prací."
     },
     {
       "label": "[section] 13. týden",
-      "content": "a.PŘEDNÁŠKA: Souhrn problematiky. Opakování.b.CVIČENÍ: Arduino – ovládání servomotoru."
+      "content": "a.PŘEDNÁŠKA: Grafické adaptéry, zobrazovací jednotky, GPGPU.b.CVIČENÍ: Obhajoby semestrálních prací."
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.PŘEDNÁŠKA: Hardware mainframů, datových center a superpočítačů.b.CVIČENÍ: Obhajoby semestrálních prací."
+    },
+    {
+      "label": "[section] 14. týden",
+      "content": "a.PŘEDNÁŠKA: Hardware mainframů, datových center a superpočítačů.b.CVIČENÍ: Obhajoby semestrálních prací."
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení14 h0 hkonzultace0 h10 hpříprava na zkoušku48 h48 hpříprava na průběžné hodnocení30 h30 hpříprava na průběžný test20 h20 hzpracování protokolů0 h16 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h10 hveřejná prezentace (ústní)2 h2 hpříprava na zkoušku44 h54 hpříprava prezentace8 h8 hzpracování protokolů0 h20 hzpracování seminární práce30 h30 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "U prezenční formy studia je vyžadována aktivní účast na cvičeních (min. 6 bodů, max. 10 bodů), vypracování průběžných testů (min. 6 bodů, max. 10 bodů) a splnění písemného znalostního testu (min. 48 bodů, max 80 bodů). V součtu je ke složení zkoušky třeba získat v součtu alespoň 60 bodů ze 100. U kombinované formy studia je vyžadováno vypracování a odevzdání tří korespondenčních úkolů (min. 12 bodů, max. 20 bodů) a splnění písemného znalostního testu (min. 48 bodů, max 80 bodů). V součtu je ke složení zkoušky třeba získat v součtu alespoň 60 bodů ze 100."
+      "content": "K ukončení předmětu je vyžadováno vypracování a obhajoba semestrální práce (je třeba získat alespoň 20 bodů z 30) a splnění písemného znalostního testu (je třeba získat alespoň 40 bodů ze 70). V semestrální práci studenti vybírají optimální HW, SW nebo službu pro určenou cílovou skupinu (např. tiskárnu pro malou firmu, notebook pro studenta apod.). Semestrální práce má dva opravné pokusy. Zkouškový test obsahuje přibližně 30 otázek a úkolů. V součtu je ke složení zkoušky třeba získat alespoň 60 bodů. Podmínkou připuštění ke zkoušce je získání tzv. malého zápočtu. Malý zápočet se uděluje v případě studentů prezenční formy za účast alespoň na 6 cvičeních v prvních 10 týdnech semestru a v případě studentů kombinované formy za vypracování a odevzdání tří korespondenčních úkolů. V době, kdy ja zakázána osobní účast studentů ve škole, platí pro prezenční formu studia stejné podmínky udělení malého zápočtu jako pro studenty kombinované formy (3 korespondenční úkoly)."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích10 %0 %Absolvování průběžného testu (testů)10 %0 %Hodnocené průběžné úkoly0 %20 %Absolvování závěrečného testu80 %80 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce20 %20 %Prezentace nebo obhajoba10 %10 %Absolvování závěrečného testu70 %70 %Celkem100 %100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -411,7 +447,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2025/2026Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2025/2026Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2025/2026"
+      "content": "Obor B-SI-EI Ekonomická informatika, prezenční forma, počáteční období LS 2020/2021Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2021/2022Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2021/2022Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -433,7 +469,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -441,7 +477,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -457,7 +493,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The course can also be studied during a study stay abroad."
+      "content": "The course can also be studied during a trip abroad."
     },
     {
       "label": "Language of instruction:",
@@ -465,7 +501,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "prof. RNDr. Tomáš Pitner, Ph.D."
+      "content": "prof. Ing. Cyril Klimeš, CSc."
     },
     {
       "label": "Course supervising department:",
@@ -477,11 +513,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, tutor)prof. RNDr. Tomáš Pitner, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Jiří Třináctý (examiner, instructor)"
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D. (examiner, tutor)Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, lecturer, supervisor, tutor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam"
+      "content": "not Final Bachelor Exam and not Computer Technology II"
     },
     {
       "label": "1.",
@@ -645,7 +681,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, SS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, SS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -661,7 +697,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -669,11 +705,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Exam (5 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -689,7 +725,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The course can also be studied during a study stay abroad."
+      "content": "Mode of delivery for our mobility students abroad: The course can also be studied during a trip abroad."
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -697,7 +733,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: prof. RNDr. Tomáš Pitner, Ph.D."
+      "content": "Course supervisor: prof. Ing. Cyril Klimeš, CSc."
     },
     {
       "label": "[section] Course supervisor:",
@@ -709,15 +745,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Petr Jedlička, Ph.D. (tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, instructor, lecturer, tutor)prof. RNDr. Tomáš Pitner, Ph.D. (examiner, lecturer, supervisor, tutor)Ing. Jiří Třináctý (examiner, instructor)"
+      "content": "Teachers: Ing. Mgr. Jana Dannhoferová, Ph.D. (examiner, tutor)Ing. Petr Jedlička, Ph.D. (examiner, instructor, lecturer, tutor)prof. Ing. Cyril Klimeš, CSc. (examiner, lecturer, supervisor, tutor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam"
+      "content": "Prerequisites: not Final Bachelor Exam and not Computer Technology II"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday9.00-10.50Q02B-AIIB-OI 1123 T. Pitner, C. KlimešLectureEvery week200Monday11.00-12.50Q26B-OI 1236 J. TřináctýSeminarOdd week23Monday11.00-12.50Q26B-OI 1233 J. TřináctýSeminarEven week23Monday13.00-14.50Q26B-OI 1235 J. TřináctýSeminarEven week22Monday13.00-14.50Q26B-OI 1232 J. TřináctýSeminarOdd week22Monday15.00-16.50Q26B-AII 1232 J. TřináctýSeminarOdd week22Monday15.00-16.50Q26B-OI 1234 J. TřináctýSeminarEven week22Tuesday9.00-10.50Q09B-OI 1237 J. TřináctýSeminarOdd week22Tuesday11.00-12.50Q09B-AII 1231 J. TřináctýSeminarEven week22Tuesday11.00-12.50Q09B-OI 1231 J. TřináctýSeminarOdd week23Saturday9.00-12.50Q16B-AIIB-AII1 51 C. KlimešLectureOccasionally50"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday9.00-10.50Q02B-AIIB-OI 1112 P. Jedlička, C. KlimešLectureEvery week200Tuesday11.00-12.50Q26B-OI 1126 P. JedličkaSeminarEvery week22Tuesday13.00-14.50Q26B-OI 1122 P. JedličkaSeminarEvery week22Wednesday9.00-10.50Q26B-AII 1121 P. JedličkaSeminarEvery week22Wednesday11.00-12.50Q26B-AII 1122 P. JedličkaSeminarEvery week22Wednesday13.00-14.50Q26B-OI 1123 P. JedličkaSeminarEvery week22Thursday16.00-16.50Q2.32B-AII 1251 P. JedličkaLectureOccasionally22Thursday17.00-18.50Q26B-OI 1121 P. JedličkaSeminarEvery week23Friday9.00-10.50Q26B-OI 1125 P. JedličkaSeminarEvery week22Friday11.00-12.50Q26B-OI 1124 P. JedličkaSeminarEvery week22"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -841,15 +877,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice14 h0 hconsultation0 h10 hpreparation for exam48 h48 hpreparation for regular assessment30 h30 hpreparation for regular testing20 h20 helaboration of reports0 h16 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h10 hpublic presentation (oral)2 h2 hpreparation for exam44 h54 hpreparation of presentation8 h8 helaboration of reports0 h20 hwriting of seminar paper30 h30 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "For the full-time form of study, active participation in seminars (min. 6 points, max. 10 points), completion of continuous tests (min. 6 points, max. 10 points) and completion of a written knowledge test (min. 48 points, max. 80 points) are required. In total, to pass the exam, it is necessary to obtain a total of at least 60 points out of 100. For the combined form of study, it is required to prepare and submit three correspondence assignments (min. 12 points, max. 20 points) and completion of a written knowledge test (min. 48 points, max. 80 points). In total, to pass the exam, it is necessary to obtain a total of at least 60 points out of 100."
+      "content": "Written knowledge test (min 40 points of 70) and presentation of the essay (min 20 points of 30) are required. In the essay, students select the optimal HW, SW or service for a specific target group (e.g. printer for small business, notebook for a student, etc.). The essay has two corrective options. The exam consists of approx. 30 questions and tasks. The condition for admission to the exam is to obtain a so-called small credit. A small credit is awarded in the case of full-time students for participation in at least 6 seminars in the first 10 weeks of the semester and in the case of combined students for the elaboration and submission of three correspondence tasks. At the time when the personal participation of students in school is prohibited, the same conditions for granting a small credit apply to the full-time form of study as to students of the combined form (3 correspondence tasks)."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation10 %0 %Mid-term test(s)10 %0 %Marked assignments0 %20 %Final test80 %80 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTerm paper20 %20 %Presentation or defence10 %10 %Final test70 %70 %Total100 %100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -865,13 +901,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2025/2026Programme B-OI Open Informatics, full-time form, initial period WS 2025/2026Programme B-AII Administration IS/ICT, part-time form, initial period WS 2025/2026"
+      "content": "Field of study B-SE-EI Economic informatics, full-time form, initial period SS 2020/2021Programme B-OI Open Informatics, full-time form, initial period WS 2021/2022Programme B-AII Administration IS/ICT, part-time form, initial period WS 2021/2022Programme B-AII Administration IS/ICT, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:38:12",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:50:53",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

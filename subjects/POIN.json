@@ -3,16 +3,69 @@
   "name": "Potravinářské inženýrství",
   "nameCs": "Potravinářské inženýrství",
   "nameEn": "Food Engineering",
-  "predmetId": "158945",
+  "predmetId": "162447",
   "facultyId": 14,
   "aliases": [
+    "PIN",
     "POTIN"
   ],
   "teachers": [
-    "Ing. Josef Los, Ph.D.",
-    "Ing. Tomáš Koutný, Ph.D."
+    "Ing. Josef Los, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162447;lang=cz",
+      "totalPass": 31,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 14,
+            "B": 4,
+            "C": 4,
+            "D": 8,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 14,
+            "B": 4,
+            "C": 3,
+            "D": 7,
+            "E": 1,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 29,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -315,5 +368,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

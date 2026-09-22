@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -31,7 +31,7 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "povinný"
+      "content": "volitelný"
     },
     {
       "label": "Typ výuky předmětu:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Ing. Milan Gaff, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Petr Pacas (cvičící, přednášející, zkoušející)"
+      "content": "doc. Ing. Milan Gaff, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Adam Kořený, Ph.D. (cvičící, přednášející)Ing. Zdeněk Kořínek (cvičící, přednášející)"
     },
     {
       "label": "Prerekvizity:",
@@ -103,7 +103,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022, LS 2020/2021, LS 2019/2020 (a starší)"
+      "content": "LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2020/2021, LS 2019/2020 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -119,7 +119,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -139,7 +139,7 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: povinný"
+      "content": "Typ předmětu: volitelný"
     },
     {
       "label": "[section] Typ předmětu:",
@@ -167,7 +167,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Ing. Milan Gaff, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Petr Pacas (cvičící, přednášející, zkoušející)"
+      "content": "Vyučující: doc. Ing. Milan Gaff, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Adam Kořený, Ph.D. (cvičící, přednášející)Ing. Zdeněk Kořínek (cvičící, přednášející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -179,7 +179,7 @@
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Předmět je zaměřen na rozšíření poznatků získaných v aplikacích systému 2D CAD s použitím nejčastěji používaných operací v 3D systémech (SolidWorks), tvorba modelů pro reálné zobrazení objektů, řezy těles ve tvaru modelu, ekvidistanty. Tvorba splinových 2D a 3D otevřených a uzavřených křivek, síťová simulace a tvorba povrchů těles včetně jejich úprav. Množinové operace při vytváření složitějších tvarů těles. Průniky těles s dynamickým zaoblováním průnikových hran. Import a export vytvářených objektů."
+      "content": "Předmět je zaměřen na rozšíření poznatků získaných v aplikacích systému 2D CAD s použitím nejčastěji používaných operrací v 3D systémech, tvorba modelů pro reálné zobrazení objektů, řezy těles ve tvaru modelu, ekvidistanty. Tvorba splinových 2D a 3D otevřených a uzavřených křivek, síťová simulace a tvorba povrchů těles včetně jejich úprav. Množinové operace při vytváření složitějších tvarů těles. Průniky těles s dynamickým zaoblováním průnikových hran. Import a export vytvářených objektů."
     },
     {
       "label": "[section] Obsah předmětu:",
@@ -227,11 +227,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení28 hprojektová práce14 hveřejná prezentace (ústní)1 hpříprava na průběžné hodnocení34 hpříprava prezentace7 hCelkem84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumcvičení28 hprojektová práce14 hveřejná prezentace (ústní)1 hpříprava na průběžné hodnocení34 hpříprava prezentace7 hCelkem84 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Zápočet bude udělen po splnění průběžných úkolů k probíraným tématům (plnění odevzdáváren) a odevzdání závěrečné práce (3D sestava se základní výkresovou dokumentací)."
+      "content": "Vyřešení zadaného úkolu a prezentace řešení výsledků. K ukončení je požadována minimálně 75% úspěšnost."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -239,15 +239,15 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:PAGÁČ, Marek. 2017. Učebnice SolidWorks. Brno: Nová média, ISBN 978-80-270-0918-3.HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1. vyd. Brno: Computer Press, 217 s. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2. vyd. Harlow: Addison Wesley Longman, 665 s. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1. vyd. Brno: Computer Press, 283 s. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 s. ISBN 978-80-251-4154-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 s. ISBN 978-80-251-3728-4.DASSAULT, Systemes. 2022. Solidworks. https://help.solidworks.com.VISION SRO, Solid. 2022. mujsolidworks.cz. https://www.mujsolidworks.cz/forum.PAUL, Tran. 2016. SOLIDWORKS 2017 Basic Tools. Kansas: SDC Publications, ISBN 978-1-63-057058-3."
+      "content": "Základní:HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1. vyd. Brno: Computer Press, 217 s. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2. vyd. Harlow: Addison Wesley Longman, 665 s. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1. vyd. Brno: Computer Press, 283 s. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 s. ISBN 978-80-251-3728-4.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 s. ISBN 978-80-251-4154-0."
     },
     {
       "label": "[section] Základní:",
-      "content": "PAGÁČ, Marek. 2017. Učebnice SolidWorks. Brno: Nová média, ISBN 978-80-270-0918-3.HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1. vyd. Brno: Computer Press, 217 s. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2. vyd. Harlow: Addison Wesley Longman, 665 s. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1. vyd. Brno: Computer Press, 283 s. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 s. ISBN 978-80-251-4154-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 s. ISBN 978-80-251-3728-4.DASSAULT, Systemes. 2022. Solidworks. https://help.solidworks.com.VISION SRO, Solid. 2022. mujsolidworks.cz. https://www.mujsolidworks.cz/forum.PAUL, Tran. 2016. SOLIDWORKS 2017 Basic Tools. Kansas: SDC Publications, ISBN 978-1-63-057058-3."
+      "content": "HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1. vyd. Brno: Computer Press, 217 s. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2. vyd. Harlow: Addison Wesley Longman, 665 s. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1. vyd. Brno: Computer Press, 283 s. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 s. ISBN 978-80-251-3728-4.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 s. ISBN 978-80-251-4154-0."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace B-TVN-VYR Výroba nábytku, prezenční forma, počáteční období ZS 2023/2024Program B-DESGN Design nábytku, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Specializace B-TVN-VYR Výroba nábytku, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -269,7 +269,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -285,7 +285,7 @@
     },
     {
       "label": "Course type:",
-      "content": "required"
+      "content": "optional"
     },
     {
       "label": "Type of delivery:",
@@ -313,7 +313,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Ing. Milan Gaff, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Petr Pacas (examiner, instructor, lecturer)"
+      "content": "doc. Ing. Milan Gaff, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Adam Kořený, Ph.D. (instructor, lecturer)Ing. Zdeněk Kořínek (instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -357,7 +357,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022, SS 2020/2021, SS 2019/2020 (and older)"
+      "content": "SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2020/2021, SS 2019/2020 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -373,7 +373,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -393,7 +393,7 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: required"
+      "content": "Course type: optional"
     },
     {
       "label": "[section] Course type:",
@@ -421,7 +421,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Ing. Milan Gaff, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Petr Pacas (examiner, instructor, lecturer)"
+      "content": "Teachers: doc. Ing. Milan Gaff, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Adam Kořený, Ph.D. (instructor, lecturer)Ing. Zdeněk Kořínek (instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -433,7 +433,7 @@
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The course is aimed at extending the knowledge acquired in the 2D CAD system applications using the most frequently used operations in 3D systems (SolidWorks), creating models for realistic display of objects, body sections. Creation of 2D and 3D spline open and closed curves, net simulation and development of bodies, including their surface modification. Boolean operations to create complex shapes of bodies. Intersections of solids with dynamic rounding of intersecting edges. Import and export of generated objects."
+      "content": "The course is aimed at extending the knowledge acquired in the 2D CAD system applications using the most frequently used operations in 3D systems, creating models for realistic display of objects, body sections. Creation of 2D and 3D spline open and closed curves, net simulation and development of bodies, including their surface modification. Boolean operations to create complex shapes of bodies. Intersections of solids with dynamic rounding of intersecting edges. Import and export of generated objects."
     },
     {
       "label": "[section] Course content:",
@@ -481,11 +481,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice28 hproject work14 hpublic presentation (oral)1 hpreparation for regular assessment34 hpreparation of presentation7 hTotal84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancepractice28 hproject work14 hpublic presentation (oral)1 hpreparation for regular assessment34 hpreparation of presentation7 hTotal84 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Credit will be awarded after completion of the interim assignments for the topics (completion of the hand-in sheets) and submission of the final thesis (3D assembly with basic drawing documentation)."
+      "content": "Credit on the base of 3D design knowledge. The termination is required at least a 75% success rate."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -493,21 +493,21 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:PAGÁČ, Marek. 2017. Učebnice SolidWorks. Brno: Nová média, ISBN 978-80-270-0918-3.HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1st ed. Brno: Computer Press, 217 p. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2nd ed. Harlow: Addison Wesley Longman, 665 p. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1st ed. Brno: Computer Press, 283 p. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 p. ISBN 978-80-251-4154-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 p. ISBN 978-80-251-3728-4.DASSAULT, Systemes. 2022. Solidworks. https://help.solidworks.com.VISION SRO, Solid. 2022. mujsolidworks.cz. https://www.mujsolidworks.cz/forum.PAUL, Tran. 2016. SOLIDWORKS 2017 Basic Tools. Kansas: SDC Publications, ISBN 978-1-63-057058-3."
+      "content": "Basic:HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1st ed. Brno: Computer Press, 217 p. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2nd ed. Harlow: Addison Wesley Longman, 665 p. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1st ed. Brno: Computer Press, 283 p. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 p. ISBN 978-80-251-3728-4.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 p. ISBN 978-80-251-4154-0."
     },
     {
       "label": "[section] Basic:",
-      "content": "PAGÁČ, Marek. 2017. Učebnice SolidWorks. Brno: Nová média, ISBN 978-80-270-0918-3.HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1st ed. Brno: Computer Press, 217 p. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2nd ed. Harlow: Addison Wesley Longman, 665 p. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1st ed. Brno: Computer Press, 283 p. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 p. ISBN 978-80-251-4154-0.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 p. ISBN 978-80-251-3728-4.DASSAULT, Systemes. 2022. Solidworks. https://help.solidworks.com.VISION SRO, Solid. 2022. mujsolidworks.cz. https://www.mujsolidworks.cz/forum.PAUL, Tran. 2016. SOLIDWORKS 2017 Basic Tools. Kansas: SDC Publications, ISBN 978-1-63-057058-3."
+      "content": "HOROVÁ, Iva. 2006. AutoCAD a AutoCAD LT pro architekty a stavební projektanty. 1st ed. Brno: Computer Press, 217 p. ISBN 80-251-1227-6. CADCAM: principles, practice, and manufacturing management. 1998. 2nd ed. Harlow: Addison Wesley Longman, 665 p. ISBN 0-201-17819-2.FOŘT, Petr; KLETEČKA, Jaroslav. 2004. Autodesk Inventor: adaptivní modelování v průmyslové praxi. 1st ed. Brno: Computer Press, 283 p. ISBN 80-251-0389-7.FOŘT, Petr; KLETEČKA, Jaroslav. 2012. Autodesk Inventor Tvorba digitálních prototypů. Brno: Computer Press, 314 p. ISBN 978-80-251-3728-4.FOŘT, Petr; KLETEČKA, Jaroslav. 2014. AutoCAD 2014: Učebnice. Brno: Computer Press, 400 p. ISBN 978-80-251-4154-0."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track B-TVN-FPD Furniture Production, full-time form, initial period WS 2023/2024Programme B-DESGN Furniture Design, full-time form, initial period WS 2024/2025"
+      "content": "Track B-TVN-FPD Furniture Production, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:21:57",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:31:49",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

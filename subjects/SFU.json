@@ -2,21 +2,67 @@
   "courseCode": "SFU",
   "name": "Smart farming a udržitelné zemědělství",
   "nameCs": "Smart farming a udržitelné zemědělství",
-  "nameEn": "Course syllabus SFU - Smart farming and sustainable agriculture (FA - SS 2024/2025)",
-  "predmetId": "156655",
-  "facultyId": 14,
+  "nameEn": "Smart farming and sustainable agriculture",
+  "predmetId": "162460",
+  "facultyId": 2,
   "aliases": [],
   "teachers": [
-    "Ing. Jakub Elbl, Ph.D.",
-    "Ing. Kateřina Schilhabová",
-    "Ing. Lubomír Neudert, Ph.D.",
-    "Ing. Tomáš Kaplánek",
-    "Ing. Vojtěch Slezák",
-    "Ing. et Ing. Jiří Mezera, Ph.D.",
-    "doc. Ing. Vladimír Smutný, Ph.D.",
     "doc. Ing. Vojtěch Lukas, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162460;lang=cz",
+      "totalPass": 37,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 6,
+            "C": 11,
+            "D": 4,
+            "E": 6,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 37,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 6,
+            "C": 10,
+            "D": 3,
+            "E": 6,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -57,5 +103,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,15 +3,82 @@
   "name": "Seminář mezinárodního leadershipu v AJ",
   "nameCs": "Seminář mezinárodního leadershipu v AJ",
   "nameEn": "International Leadership Seminar",
-  "predmetId": "152280",
+  "predmetId": "160790",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Mgr. Eva Šerá, Ph.D.",
-    "Mgr. Ondřej Klíma, Ph.D.",
     "doc. PhDr. Martina Rašticová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160790;lang=cz",
+      "totalPass": 29,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 7,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 7
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 29,
+          "fail": 7,
+          "creditGrades": {
+            "zap": 29,
+            "nezap": 0,
+            "zapNedost": 7
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 27,
+          "fail": 9,
+          "creditGrades": {
+            "zap": 27,
+            "nezap": 9,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -19,7 +86,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152280;lang=cz",
       "totalPass": 24,
-      "totalFail": 3,
+      "totalFail": 4,
       "terms": [
         {
           "term": "1. opravný",
@@ -71,10 +138,10 @@
             "FN": 0
           },
           "pass": 24,
-          "fail": 3,
+          "fail": 4,
           "creditGrades": {
             "zap": 24,
-            "nezap": 3,
+            "nezap": 4,
             "zapNedost": 0
           }
         },
@@ -323,5 +390,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

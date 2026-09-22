@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 14/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Studium předmětu je možné za předpokladu, že je předmět ukončen zkouškou v některém z vyhlášených termínů řádného zkouškového období z tohoto předmětu."
+      "content": "ne"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. Petr Šnurkovič, Ph.D., DiS."
+      "content": "Dr. Ing. Anna Němcová"
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Petr Šnurkovič, Ph.D., DiS. (garant, přednášející, zkoušející)"
+      "content": "Dr. Ing. Anna Němcová (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,55 +67,223 @@
     },
     {
       "label": "1.",
-      "content": "Historická perspektiva a principy konzervačních postupů (dotace 1/0)"
+      "content": "Historická perspektiva a principy konzervačních postupů (dotace 2/0)"
     },
     {
       "label": "2.",
-      "content": "Aktivita vody a její vliv na neúdržnost potravin (dotace 1/0)"
+      "content": "Nežádoucí změny sklizených plodů I. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "a. Spontánní reakce živých a neporušených pletiv I."
+    },
+    {
+      "label": "b.",
+      "content": "b. Změny sacharidů, organických kyselin"
+    },
+    {
+      "label": "c.",
+      "content": "c. Vliv kyselosti na technologickou hodnotu"
     },
     {
       "label": "3.",
-      "content": "Maillardova reakce enzymového a neenzymového hnědnutí (dotace 1/0)"
+      "content": "Nežádoucí změny sklizených plodů II. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Změny tuků, stěpení ve fázi stárnutí, vybrané druhy"
+    },
+    {
+      "label": "b.",
+      "content": "Změny barevnosti, obsahu barviv, barviva dusíkatá"
+    },
+    {
+      "label": "c.",
+      "content": "Technologické přeměny a jejich vliv na jakost"
     },
     {
       "label": "4.",
-      "content": "Rozdělení a charakteristika enzymů, význam enzymů při výrobě a zpracování potravin (dotace 2/0)"
+      "content": "Reakce látkových složek s látkami z prostředí (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Oxidační změny"
+    },
+    {
+      "label": "b.",
+      "content": "Vliv kovů na oxidační změny"
+    },
+    {
+      "label": "c.",
+      "content": "Ochrana před působením"
     },
     {
       "label": "5.",
-      "content": "Metabolismus sacharidů a jejich význam při konzervaci potravin (dotace 2/0)"
+      "content": "Mikrobiální činitelé rozkladu (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Technologické skupiny mikrobů"
+    },
+    {
+      "label": "b.",
+      "content": "Bakterie a jejich vlastnosti, ovlivnění technologie"
+    },
+    {
+      "label": "c.",
+      "content": "Plísně, rozmožování, jejich reakce na potravinu"
+    },
+    {
+      "label": "d.",
+      "content": "Kvasinky, technologické skupiny"
     },
     {
       "label": "6.",
-      "content": "Oxidace a žluknutí tuků (dotace 2/0)"
+      "content": "Formy mikrobiálního rozkladu (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Kvasné procesy, plynuprosté přeměny"
+    },
+    {
+      "label": "b.",
+      "content": "Látková přeměna zásobních látek"
+    },
+    {
+      "label": "c.",
+      "content": "Identifikace procesů"
     },
     {
       "label": "7.",
-      "content": "Kyselost prostředí a její vliv na způsob konzervace (dotace 2/0)"
+      "content": "Ochrana proti nežádoucím změnám I. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Uchování zahradnických produktů po sklizni"
+    },
+    {
+      "label": "b.",
+      "content": "Způsoby obrany proti vnějším podmínkám"
+    },
+    {
+      "label": "c.",
+      "content": "Opatření pro nízkou kontaminaci epifitní mikroflorou"
     },
     {
       "label": "8.",
-      "content": "Potravinářsky významné mikroorganismy - bakterie, kvasinky, plísně (dotace 2/0)"
+      "content": "Ochrana proti nežádoucím změnám II. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vylučování mikrobů z prostředí"
+    },
+    {
+      "label": "b.",
+      "content": "Snížení kontaminace okolního prostředí"
+    },
+    {
+      "label": "c.",
+      "content": "Mikrobiální filtrace"
     },
     {
       "label": "9.",
-      "content": "Rozdělení a charakteristika konzervačních metod (dotace 4/0)"
+      "content": "Ochrana proti nežádoucím změnám III. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Přímá inaktivace mikrobů"
+    },
+    {
+      "label": "b.",
+      "content": "Fyzikální účinky na mikroby"
+    },
+    {
+      "label": "c.",
+      "content": "Chemické účinky na mikroby"
     },
     {
       "label": "10.",
-      "content": "Vliv způsobu konzervace na stabilitu kyseliny askorbové (dotace 2/0)"
+      "content": "Ochrana proti nežádoucím změnám IV. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Fyzikálně chemické změny odstraňováním vody"
+    },
+    {
+      "label": "b.",
+      "content": "Sušení, evaporační zahušťování"
+    },
+    {
+      "label": "c.",
+      "content": "Reverzní osmoza"
+    },
+    {
+      "label": "d.",
+      "content": "Přídavek osmoticky aktivních látek"
     },
     {
       "label": "11.",
-      "content": "Vliv času a prostředí na enzymovou aktivitu (dotace 1/0)"
+      "content": "Ochrana proti nežádoucím změnám V. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Snižování teploty nad bod mrznutí pletivového roztoku"
+    },
+    {
+      "label": "b.",
+      "content": "Odnímání kyslíku z okolí potraviny"
+    },
+    {
+      "label": "c.",
+      "content": "Úprava prostředí přídavkem jiných plynů"
     },
     {
       "label": "12.",
-      "content": "Technologické výpočty v konzervárenských technologiích (dotace 4/0)"
+      "content": "Ochrana proti nežádoucím změnám VI. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Úprava prosředí chemickými prostředky"
+    },
+    {
+      "label": "b.",
+      "content": "Přídavek látek obsažených v rostlinách"
+    },
+    {
+      "label": "c.",
+      "content": "Úprava prostředí pomocí antibiotik"
+    },
+    {
+      "label": "13.",
+      "content": "Ochrana proti nežádoucím změnám VII. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Výpočet konzervačních dávek"
+    },
+    {
+      "label": "b.",
+      "content": "Stanovení obsahových látek fyzikálně chemickými metodami"
+    },
+    {
+      "label": "14.",
+      "content": "Ochrana proti nežádoucím změnám VIII. (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Úchova prostřednictvím zvýšení koncentrace látkových metabolitů"
+    },
+    {
+      "label": "b.",
+      "content": "Chemismus konzervace alkoholovým kvašením"
+    },
+    {
+      "label": "c.",
+      "content": "Mléčné kvašení, konzervační účinnost"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -131,7 +299,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -139,11 +307,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 14/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zkouška (4 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 14/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/0 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -159,7 +327,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu je možné za předpokladu, že je předmět ukončen zkouškou v některém z vyhlášených termínů řádného zkouškového období z tohoto předmětu."
+      "content": "Možnost studia předmětu během zahraniční mobility: ne"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -167,7 +335,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. Petr Šnurkovič, Ph.D., DiS."
+      "content": "Garant předmětu: Dr. Ing. Anna Němcová"
     },
     {
       "label": "[section] Garant předmětu:",
@@ -179,7 +347,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Petr Šnurkovič, Ph.D., DiS. (garant, přednášející, zkoušející)"
+      "content": "Vyučující: Dr. Ing. Anna Němcová (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -187,7 +355,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí8.00-11.50ZFAA1 (Led)P. ŠnurkovičPřednáškaLichý týden42Sobota8.00-11.50ZFAC2 (Led)P. ŠnurkovičPřednáškaNepravidelně30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý8.00-9.50ZFAC2 (Led)A. NěmcováPřednáškaKaždý týden64Pátek8.00-16.50ZFAB2 (Led)A. NěmcováPřednáškaNepravidelně42"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -195,123 +363,143 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Historická perspektiva a principy konzervačních postupů (dotace 1/0)2.Aktivita vody a její vliv na neúdržnost potravin (dotace 1/0)3.Maillardova reakce enzymového a neenzymového hnědnutí (dotace 1/0)4.Rozdělení a charakteristika enzymů, význam enzymů při výrobě a zpracování potravin (dotace 2/0)5.Metabolismus sacharidů a jejich význam při konzervaci potravin (dotace 2/0)6.Oxidace a žluknutí tuků (dotace 2/0)7.Kyselost prostředí a její vliv na způsob konzervace (dotace 2/0)8.Potravinářsky významné mikroorganismy - bakterie, kvasinky, plísně (dotace 2/0)9.Rozdělení a charakteristika konzervačních metod (dotace 4/0)10.Vliv způsobu konzervace na stabilitu kyseliny askorbové (dotace 2/0)11.Vliv času a prostředí na enzymovou aktivitu (dotace 1/0)12.Technologické výpočty v konzervárenských technologiích (dotace 4/0)"
+      "content": "1.Historická perspektiva a principy konzervačních postupů (dotace 2/0)2.Nežádoucí změny sklizených plodů I. (dotace 2/0) a.a. Spontánní reakce živých a neporušených pletiv I.b.b. Změny sacharidů, organických kyselinc.c. Vliv kyselosti na technologickou hodnotu3.Nežádoucí změny sklizených plodů II. (dotace 2/0) a.Změny tuků, stěpení ve fázi stárnutí, vybrané druhyb.Změny barevnosti, obsahu barviv, barviva dusíkatác.Technologické přeměny a jejich vliv na jakost4.Reakce látkových složek s látkami z prostředí (dotace 2/0) a.Oxidační změnyb.Vliv kovů na oxidační změnyc.Ochrana před působením5.Mikrobiální činitelé rozkladu (dotace 2/0) a.Technologické skupiny mikrobůb.Bakterie a jejich vlastnosti, ovlivnění technologiec.Plísně, rozmožování, jejich reakce na potravinud.Kvasinky, technologické skupiny6.Formy mikrobiálního rozkladu (dotace 2/0) a.Kvasné procesy, plynuprosté přeměnyb.Látková přeměna zásobních látekc.Identifikace procesů7.Ochrana proti nežádoucím změnám I. (dotace 2/0) a.Uchování zahradnických produktů po skliznib.Způsoby obrany proti vnějším podmínkámc.Opatření pro nízkou kontaminaci epifitní mikroflorou8.Ochrana proti nežádoucím změnám II. (dotace 2/0) a.Vylučování mikrobů z prostředíb.Snížení kontaminace okolního prostředíc.Mikrobiální filtrace9.Ochrana proti nežádoucím změnám III. (dotace 2/0) a.Přímá inaktivace mikrobůb.Fyzikální účinky na mikrobyc.Chemické účinky na mikroby10.Ochrana proti nežádoucím změnám IV. (dotace 2/0) a.Fyzikálně chemické změny odstraňováním vodyb.Sušení, evaporační zahušťováníc.Reverzní osmozad.Přídavek osmoticky aktivních látek11.Ochrana proti nežádoucím změnám V. (dotace 2/0) a.Snižování teploty nad bod mrznutí pletivového roztokub.Odnímání kyslíku z okolí potravinyc.Úprava prostředí přídavkem jiných plynů12.Ochrana proti nežádoucím změnám VI. (dotace 2/0) a.Úprava prosředí chemickými prostředkyb.Přídavek látek obsažených v rostlináchc.Úprava prostředí pomocí antibiotik13.Ochrana proti nežádoucím změnám VII. (dotace 2/0) a.Výpočet konzervačních dávekb.Stanovení obsahových látek fyzikálně chemickými metodami14.Ochrana proti nežádoucím změnám VIII. (dotace 2/0) a.Úchova prostřednictvím zvýšení koncentrace látkových metabolitůb.Chemismus konzervace alkoholovým kvašenímc.Mléčné kvašení, konzervační účinnost"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Aktivita vody a její vliv na neúdržnost potravin (dotace 1/0)"
+      "content": "2.Nežádoucí změny sklizených plodů I. (dotace 2/0)"
     },
     {
       "label": "[section] Historická perspektiva a principy konzervačních postupů",
-      "content": "2.Aktivita vody a její vliv na neúdržnost potravin (dotace 1/0)"
+      "content": "2.Nežádoucí změny sklizených plodů I. (dotace 2/0)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Maillardova reakce enzymového a neenzymového hnědnutí (dotace 1/0)"
+      "content": "a.a. Spontánní reakce živých a neporušených pletiv I.b.b. Změny sacharidů, organických kyselinc.c. Vliv kyselosti na technologickou hodnotu"
     },
     {
-      "label": "[section] Aktivita vody a její vliv na neúdržnost potravin",
-      "content": "3.Maillardova reakce enzymového a neenzymového hnědnutí (dotace 1/0)"
+      "label": "[section] Nežádoucí změny sklizených plodů I.",
+      "content": "a.a. Spontánní reakce živých a neporušených pletiv I.b.b. Změny sacharidů, organických kyselinc.c. Vliv kyselosti na technologickou hodnotu"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Rozdělení a charakteristika enzymů, význam enzymů při výrobě a zpracování potravin (dotace 2/0)"
+      "content": "a.Změny tuků, stěpení ve fázi stárnutí, vybrané druhyb.Změny barevnosti, obsahu barviv, barviva dusíkatác.Technologické přeměny a jejich vliv na jakost"
     },
     {
-      "label": "[section] Maillardova reakce enzymového a neenzymového hnědnutí",
-      "content": "4.Rozdělení a charakteristika enzymů, význam enzymů při výrobě a zpracování potravin (dotace 2/0)"
+      "label": "[section] Nežádoucí změny sklizených plodů II.",
+      "content": "a.Změny tuků, stěpení ve fázi stárnutí, vybrané druhyb.Změny barevnosti, obsahu barviv, barviva dusíkatác.Technologické přeměny a jejich vliv na jakost"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Metabolismus sacharidů a jejich význam při konzervaci potravin (dotace 2/0)"
+      "content": "a.Oxidační změnyb.Vliv kovů na oxidační změnyc.Ochrana před působením"
     },
     {
-      "label": "[section] Rozdělení a charakteristika enzymů, význam enzymů při výrobě a zpracování potravin",
-      "content": "5.Metabolismus sacharidů a jejich význam při konzervaci potravin (dotace 2/0)"
+      "label": "[section] Reakce látkových složek s látkami z prostředí",
+      "content": "a.Oxidační změnyb.Vliv kovů na oxidační změnyc.Ochrana před působením"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Oxidace a žluknutí tuků (dotace 2/0)"
+      "content": "a.Technologické skupiny mikrobůb.Bakterie a jejich vlastnosti, ovlivnění technologiec.Plísně, rozmožování, jejich reakce na potravinud.Kvasinky, technologické skupiny"
     },
     {
-      "label": "[section] Metabolismus sacharidů a jejich význam při konzervaci potravin",
-      "content": "6.Oxidace a žluknutí tuků (dotace 2/0)"
+      "label": "[section] Mikrobiální činitelé rozkladu",
+      "content": "a.Technologické skupiny mikrobůb.Bakterie a jejich vlastnosti, ovlivnění technologiec.Plísně, rozmožování, jejich reakce na potravinud.Kvasinky, technologické skupiny"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Kyselost prostředí a její vliv na způsob konzervace (dotace 2/0)"
+      "content": "a.Kvasné procesy, plynuprosté přeměnyb.Látková přeměna zásobních látekc.Identifikace procesů"
     },
     {
-      "label": "[section] Oxidace a žluknutí tuků",
-      "content": "7.Kyselost prostředí a její vliv na způsob konzervace (dotace 2/0)"
+      "label": "[section] Formy mikrobiálního rozkladu",
+      "content": "a.Kvasné procesy, plynuprosté přeměnyb.Látková přeměna zásobních látekc.Identifikace procesů"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Potravinářsky významné mikroorganismy - bakterie, kvasinky, plísně (dotace 2/0)"
+      "content": "a.Uchování zahradnických produktů po skliznib.Způsoby obrany proti vnějším podmínkámc.Opatření pro nízkou kontaminaci epifitní mikroflorou"
     },
     {
-      "label": "[section] Kyselost prostředí a její vliv na způsob konzervace",
-      "content": "8.Potravinářsky významné mikroorganismy - bakterie, kvasinky, plísně (dotace 2/0)"
+      "label": "[section] Ochrana proti nežádoucím změnám I.",
+      "content": "a.Uchování zahradnických produktů po skliznib.Způsoby obrany proti vnějším podmínkámc.Opatření pro nízkou kontaminaci epifitní mikroflorou"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Rozdělení a charakteristika konzervačních metod (dotace 4/0)"
+      "content": "a.Vylučování mikrobů z prostředíb.Snížení kontaminace okolního prostředíc.Mikrobiální filtrace"
     },
     {
-      "label": "[section] Potravinářsky významné mikroorganismy - bakterie, kvasinky, plísně",
-      "content": "9.Rozdělení a charakteristika konzervačních metod (dotace 4/0)"
+      "label": "[section] Ochrana proti nežádoucím změnám II.",
+      "content": "a.Vylučování mikrobů z prostředíb.Snížení kontaminace okolního prostředíc.Mikrobiální filtrace"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Vliv způsobu konzervace na stabilitu kyseliny askorbové (dotace 2/0)"
+      "content": "a.Přímá inaktivace mikrobůb.Fyzikální účinky na mikrobyc.Chemické účinky na mikroby"
     },
     {
-      "label": "[section] Rozdělení a charakteristika konzervačních metod",
-      "content": "10.Vliv způsobu konzervace na stabilitu kyseliny askorbové (dotace 2/0)"
+      "label": "[section] Ochrana proti nežádoucím změnám III.",
+      "content": "a.Přímá inaktivace mikrobůb.Fyzikální účinky na mikrobyc.Chemické účinky na mikroby"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Vliv času a prostředí na enzymovou aktivitu (dotace 1/0)"
+      "content": "a.Fyzikálně chemické změny odstraňováním vodyb.Sušení, evaporační zahušťováníc.Reverzní osmozad.Přídavek osmoticky aktivních látek"
     },
     {
-      "label": "[section] Vliv způsobu konzervace na stabilitu kyseliny askorbové",
-      "content": "11.Vliv času a prostředí na enzymovou aktivitu (dotace 1/0)"
+      "label": "[section] Ochrana proti nežádoucím změnám IV.",
+      "content": "a.Fyzikálně chemické změny odstraňováním vodyb.Sušení, evaporační zahušťováníc.Reverzní osmozad.Přídavek osmoticky aktivních látek"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Technologické výpočty v konzervárenských technologiích (dotace 4/0)"
+      "content": "a.Snižování teploty nad bod mrznutí pletivového roztokub.Odnímání kyslíku z okolí potravinyc.Úprava prostředí přídavkem jiných plynů"
     },
     {
-      "label": "[section] Vliv času a prostředí na enzymovou aktivitu",
-      "content": "12.Technologické výpočty v konzervárenských technologiích (dotace 4/0)"
+      "label": "[section] Ochrana proti nežádoucím změnám V.",
+      "content": "a.Snižování teploty nad bod mrznutí pletivového roztokub.Odnímání kyslíku z okolí potravinyc.Úprava prostředí přídavkem jiných plynů"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Úprava prosředí chemickými prostředkyb.Přídavek látek obsažených v rostlináchc.Úprava prostředí pomocí antibiotik"
+    },
+    {
+      "label": "[section] Ochrana proti nežádoucím změnám VI.",
+      "content": "a.Úprava prosředí chemickými prostředkyb.Přídavek látek obsažených v rostlináchc.Úprava prostředí pomocí antibiotik"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Výpočet konzervačních dávekb.Stanovení obsahových látek fyzikálně chemickými metodami"
+    },
+    {
+      "label": "[section] Ochrana proti nežádoucím změnám VII.",
+      "content": "a.Výpočet konzervačních dávekb.Stanovení obsahových látek fyzikálně chemickými metodami"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Úchova prostřednictvím zvýšení koncentrace látkových metabolitůb.Chemismus konzervace alkoholovým kvašenímc.Mléčné kvašení, konzervační účinnost"
+    },
+    {
+      "label": "[section] Ochrana proti nežádoucím změnám VIII.",
+      "content": "a.Úchova prostřednictvím zvýšení koncentrace látkových metabolitůb.Chemismus konzervace alkoholovým kvašenímc.Mléčné kvašení, konzervační účinnost"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h14 hkonzultace14 h24 hpříprava na zkoušku74 h74 hCelkem112 h112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h18 hodborná exkurze5 h0 hodborná praxe5 h0 hkonzultace0 h20 hpříprava na zkoušku74 h74 hCelkem112 h112 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Ústní zkouška - 2 teoretické otázky + 2 příklady Minimální požadavky na splnění zkoušky: A: 90-100% (správných odpovědí) B: 80-90% C: 70-80% D: 60-70% E: 50-60%"
+      "content": "zkouška (součástí je písemný test) Písemný test - 50 minut test(musíte obdržet minimálně 62,5% bodů z maxima 100). 8 otázek = 8 bodů A 8,0 – 7,4 b 92,5% B 7,3 – 6,7 b 85% C 6,6 – 6,0 b 77,5% D 5,9 – 5,3 b 70% E 5,2 – 4,6 b 62,5% F < 4,6 b < 62,5%"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAbsolvování závěrečné ústní zkoušky100 %100 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:INGR, Ivo. 2007. Základy konzervace potravin. 3. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 s. ISBN 978-80-7375-110-4.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 s. ISBN 80-7157-520-8.KONTOMINAS, Michael G. 2012. Food analysis and preservation : current research topics. Oakville, Ont. , Boca Raton. ISBN 978-1-926895-07-9, 9781466560055. http://dx.doi.org/10.1201/b13118.GUTIERREZ-LOPEZ, Gustavo F; BARBOSA-CÁNOVAS, Gustavo V. 2003. Food science and food biotechnology. Boca Raton, FL. ISBN 978-1-56676-892-4, 978-0-203-00953-6. http://dx.doi.org/10.1201/9780203009536.KALHOTKA, Libor. 2014. Potravinářská mikrobiologie pro Zahradnickou fakultu. Díl 2. Speciální část. Brno: Mendelova univerzita v Brně, 164 s. ISBN 978-80-7509-016-4.KADLEC, Pavel; MELZOCH, Karel; VOLDŘICH, Michal a kol. 2012. Přehled tradičních potravinářských výrob: technologie potravin. 1. vyd. Ostrava: Key Publishing, 569 s. Monografie. ISBN 978-80-7418-145-0.ROP, Otakar; VALÁŠEK, Pavel; HOZA, Ignác. 2005. Teoretické principy konzervace potravin I. 1. vyd. Zlín: Univerzita Tomáše Bati, 130 s. Učební texty vysokých škol. ISBN 80-7318-339-0.Doporučená:KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1. vyd. Praha: SNTL - Nakladatelství technické literatury, 511 s.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
+      "content": "Základní:INGR, Ivo. 2007. Základy konzervace potravin. 3. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 s. ISBN 978-80-7375-110-4.KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1. vyd. Praha: SNTL - Nakladatelství technické literatury, 511 s. Konzervovanie potravín. 2004. 1. vyd. Nitra: Slovenská pol'nohospodarska univerzita, 158 s. ISBN 80-8069-341-2.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 s. ISBN 80-7157-520-8.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
     },
     {
       "label": "[section] Základní:",
-      "content": "INGR, Ivo. 2007. Základy konzervace potravin. 3. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 s. ISBN 978-80-7375-110-4.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 s. ISBN 80-7157-520-8.KONTOMINAS, Michael G. 2012. Food analysis and preservation : current research topics. Oakville, Ont. , Boca Raton. ISBN 978-1-926895-07-9, 9781466560055. http://dx.doi.org/10.1201/b13118.GUTIERREZ-LOPEZ, Gustavo F; BARBOSA-CÁNOVAS, Gustavo V. 2003. Food science and food biotechnology. Boca Raton, FL. ISBN 978-1-56676-892-4, 978-0-203-00953-6. http://dx.doi.org/10.1201/9780203009536.KALHOTKA, Libor. 2014. Potravinářská mikrobiologie pro Zahradnickou fakultu. Díl 2. Speciální část. Brno: Mendelova univerzita v Brně, 164 s. ISBN 978-80-7509-016-4.KADLEC, Pavel; MELZOCH, Karel; VOLDŘICH, Michal a kol. 2012. Přehled tradičních potravinářských výrob: technologie potravin. 1. vyd. Ostrava: Key Publishing, 569 s. Monografie. ISBN 978-80-7418-145-0.ROP, Otakar; VALÁŠEK, Pavel; HOZA, Ignác. 2005. Teoretické principy konzervace potravin I. 1. vyd. Zlín: Univerzita Tomáše Bati, 130 s. Učební texty vysokých škol. ISBN 80-7318-339-0."
-    },
-    {
-      "label": "[section] Doporučená:",
-      "content": "KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1. vyd. Praha: SNTL - Nakladatelství technické literatury, 511 s.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
+      "content": "INGR, Ivo. 2007. Základy konzervace potravin. 3. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 s. ISBN 978-80-7375-110-4.KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1. vyd. Praha: SNTL - Nakladatelství technické literatury, 511 s. Konzervovanie potravín. 2004. 1. vyd. Nitra: Slovenská pol'nohospodarska univerzita, 158 s. ISBN 80-8069-341-2.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 s. ISBN 80-7157-520-8.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace ZTKP Zpracovatelské technologie a kvalita potravin, prezenční forma, počáteční období ZS 2023/2024Specializace ZTKP Zpracovatelské technologie a kvalita potravin, kombinovaná forma, počáteční období ZS 2023/2024"
+      "content": "Specializace ZTKP Zpracovatelské technologie a kvalita potravin, prezenční forma, počáteční období ZS 2019/2020"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -333,7 +521,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -341,7 +529,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/0 (hours of lectures per week / hours of seminars per week)part-time, 14/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/0 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -357,7 +545,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The study of the subject is possible provided that the subject is completed by an examination in one of the announced dates of the regular examination period for this subject."
+      "content": "no"
     },
     {
       "label": "Language of instruction:",
@@ -365,7 +553,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. Petr Šnurkovič, Ph.D., DiS."
+      "content": "Dr. Ing. Anna Němcová"
     },
     {
       "label": "Course supervising department:",
@@ -377,7 +565,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Petr Šnurkovič, Ph.D., DiS. (examiner, lecturer, supervisor)"
+      "content": "Dr. Ing. Anna Němcová (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -385,55 +573,223 @@
     },
     {
       "label": "1.",
-      "content": "Historical perspective and principles of preservative procedures (allowance 1/0)"
+      "content": "Historical perspective and principles of preservative procedures (allowance 2/0)"
     },
     {
       "label": "2.",
-      "content": "Water activity and its influence on food unsustainability (allowance 1/0)"
+      "content": "Undesirable changes of harvested growths I. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Autonomic reactions of living and undamaged tissues"
+    },
+    {
+      "label": "b.",
+      "content": "Changes of saccharides, organic acids"
+    },
+    {
+      "label": "c.",
+      "content": "Influence of acidity on technological quality"
     },
     {
       "label": "3.",
-      "content": "Maillard reaction of enzymatic and non-enzymatic browning (allowance 1/0)"
+      "content": "Undesirable changes of harvested growths II. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Changes of lipides, splitting in ageing period, chosen varieties"
+    },
+    {
+      "label": "b.",
+      "content": "Color changes, content of dyes, nitrogen dyes"
+    },
+    {
+      "label": "c.",
+      "content": "Technological changes and their influence on quality"
     },
     {
       "label": "4.",
-      "content": "Classification and characteristics of enzymes, the importance of enzymes in food production and processing (allowance 2/0)"
+      "content": "Reactions of material components with ambient components (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Oxidizing changes"
+    },
+    {
+      "label": "b.",
+      "content": "Influence of metals on oxidizing changes"
+    },
+    {
+      "label": "c.",
+      "content": "Protection against incidence"
     },
     {
       "label": "5.",
-      "content": "Metabolismus sacharidů a jejich význam při konzervaci potravin (allowance 2/0)"
+      "content": "Microbial agents of decomposition (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Technologic groups of microbes"
+    },
+    {
+      "label": "b.",
+      "content": "Bacteria and their characteristic, technology affecting"
+    },
+    {
+      "label": "c.",
+      "content": "Fungi, reproduction, their reaction to food"
+    },
+    {
+      "label": "d.",
+      "content": "Yeast, technologic groups"
     },
     {
       "label": "6.",
-      "content": "Oxidation and rancidity of fats (allowance 2/0)"
+      "content": "Forms of microbial decomposition (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Fermentation, non-gaseous transformations"
+    },
+    {
+      "label": "b.",
+      "content": "Metabolism of storage material"
+    },
+    {
+      "label": "c.",
+      "content": "Identification of procedures"
     },
     {
       "label": "7.",
-      "content": "Acidity of the environment and its effect on the preservation method (allowance 2/0)"
+      "content": "Protection against undesirable changes I. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Storage of horticultural products after harvest"
+    },
+    {
+      "label": "b.",
+      "content": "Ways of protections against external conditions"
+    },
+    {
+      "label": "c.",
+      "content": "Proceeding for low contamination by epiphytal microflora"
     },
     {
       "label": "8.",
-      "content": "Food-related microorganisms - bacteria, yeasts, molds (allowance 2/0)"
+      "content": "Protection against undesirable changes II. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Expulsion microbes from ambient"
+    },
+    {
+      "label": "b.",
+      "content": "Reduction of ambient contamination"
+    },
+    {
+      "label": "c.",
+      "content": "Microbial filtration"
     },
     {
       "label": "9.",
-      "content": "Distribution and characteristics of conservation methods (allowance 4/0)"
+      "content": "Protection against undesirable changes III. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Direct inactivation of microbes"
+    },
+    {
+      "label": "b.",
+      "content": "Physical effects on microbes"
+    },
+    {
+      "label": "c.",
+      "content": "Chemical effects on microbes"
     },
     {
       "label": "10.",
-      "content": "Effect of preservation on the stability of ascorbic acid (allowance 2/0)"
+      "content": "Protection against undesirable changes IV. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Physico-chemical changes by water removing"
+    },
+    {
+      "label": "b.",
+      "content": "Drying, evaporate thickening"
+    },
+    {
+      "label": "c.",
+      "content": "Reversing osmose"
+    },
+    {
+      "label": "d.",
+      "content": "Addition of osmotic active compounds"
     },
     {
       "label": "11.",
-      "content": "Effect of time and environment on enzyme activity (allowance 1/0)"
+      "content": "Protection against undesirable changes V. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Lowering of temperature above freezing point of tissue solution"
+    },
+    {
+      "label": "b.",
+      "content": "Removing of oxygen from food ambient"
+    },
+    {
+      "label": "c.",
+      "content": "Ambient conditioning by addition other gases"
     },
     {
       "label": "12.",
-      "content": "Technological calculations in canning technologies (allowance 4/0)"
+      "content": "Protection against undesirable changes VI. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Ambient conditioning by chemical agents"
+    },
+    {
+      "label": "b.",
+      "content": "Addition of substances contained in plants"
+    },
+    {
+      "label": "c.",
+      "content": "Ambient conditioning using antibiotics"
+    },
+    {
+      "label": "13.",
+      "content": "Protection against undesirable changes VII. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Preservative dosages calculation"
+    },
+    {
+      "label": "b.",
+      "content": "Determination of content substances by physico-chemical methods"
+    },
+    {
+      "label": "14.",
+      "content": "Protection against undesirable changes VIII. (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Storage by concentration of metabolites increasing"
+    },
+    {
+      "label": "b.",
+      "content": "Chemistry of presevation by alcohol fermentation"
+    },
+    {
+      "label": "c.",
+      "content": "Lactic fermentation, presrvative effectivity"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -449,7 +805,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -457,11 +813,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/0 (hours of lectures per week / hours of seminars per week)part-time, 14/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/0 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Exam (4 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/0 (hours of lectures per week / hours of seminars per week)part-time, 14/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/0 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -477,7 +833,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The study of the subject is possible provided that the subject is completed by an examination in one of the announced dates of the regular examination period for this subject."
+      "content": "Mode of delivery for our mobility students abroad: no"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -485,7 +841,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. Petr Šnurkovič, Ph.D., DiS."
+      "content": "Course supervisor: Dr. Ing. Anna Němcová"
     },
     {
       "label": "[section] Course supervisor:",
@@ -497,7 +853,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Petr Šnurkovič, Ph.D., DiS. (examiner, lecturer, supervisor)"
+      "content": "Teachers: Dr. Ing. Anna Němcová (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -505,7 +861,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday8.00-11.50ZFAA1 (Led)P. ŠnurkovičLectureOdd week42Saturday8.00-11.50ZFAC2 (Led)P. ŠnurkovičLectureOccasionally30"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday8.00-9.50ZFAC2 (Led)A. NěmcováLectureEvery week64Friday8.00-16.50ZFAB2 (Led)A. NěmcováLectureOccasionally42"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -513,125 +869,149 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Historical perspective and principles of preservative procedures (allowance 1/0)2.Water activity and its influence on food unsustainability (allowance 1/0)3.Maillard reaction of enzymatic and non-enzymatic browning (allowance 1/0)4.Classification and characteristics of enzymes, the importance of enzymes in food production and processing (allowance 2/0)5.Metabolismus sacharidů a jejich význam při konzervaci potravin (allowance 2/0)6.Oxidation and rancidity of fats (allowance 2/0)7.Acidity of the environment and its effect on the preservation method (allowance 2/0)8.Food-related microorganisms - bacteria, yeasts, molds (allowance 2/0)9.Distribution and characteristics of conservation methods (allowance 4/0)10.Effect of preservation on the stability of ascorbic acid (allowance 2/0)11.Effect of time and environment on enzyme activity (allowance 1/0)12.Technological calculations in canning technologies (allowance 4/0)"
+      "content": "1.Historical perspective and principles of preservative procedures (allowance 2/0)2.Undesirable changes of harvested growths I. (allowance 2/0) a.Autonomic reactions of living and undamaged tissuesb.Changes of saccharides, organic acidsc.Influence of acidity on technological quality3.Undesirable changes of harvested growths II. (allowance 2/0) a.Changes of lipides, splitting in ageing period, chosen varietiesb.Color changes, content of dyes, nitrogen dyesc.Technological changes and their influence on quality4.Reactions of material components with ambient components (allowance 2/0) a.Oxidizing changesb.Influence of metals on oxidizing changesc.Protection against incidence5.Microbial agents of decomposition (allowance 2/0) a.Technologic groups of microbesb.Bacteria and their characteristic, technology affectingc.Fungi, reproduction, their reaction to foodd.Yeast, technologic groups6.Forms of microbial decomposition (allowance 2/0) a.Fermentation, non-gaseous transformationsb.Metabolism of storage materialc.Identification of procedures7.Protection against undesirable changes I. (allowance 2/0) a.Storage of horticultural products after harvestb.Ways of protections against external conditionsc.Proceeding for low contamination by epiphytal microflora8.Protection against undesirable changes II. (allowance 2/0) a.Expulsion microbes from ambientb.Reduction of ambient contaminationc.Microbial filtration9.Protection against undesirable changes III. (allowance 2/0) a.Direct inactivation of microbesb.Physical effects on microbesc.Chemical effects on microbes10.Protection against undesirable changes IV. (allowance 2/0) a.Physico-chemical changes by water removingb.Drying, evaporate thickeningc.Reversing osmosed.Addition of osmotic active compounds11.Protection against undesirable changes V. (allowance 2/0) a.Lowering of temperature above freezing point of tissue solutionb.Removing of oxygen from food ambientc.Ambient conditioning by addition other gases12.Protection against undesirable changes VI. (allowance 2/0) a.Ambient conditioning by chemical agentsb.Addition of substances contained in plantsc.Ambient conditioning using antibiotics13.Protection against undesirable changes VII. (allowance 2/0) a.Preservative dosages calculationb.Determination of content substances by physico-chemical methods14.Protection against undesirable changes VIII. (allowance 2/0) a.Storage by concentration of metabolites increasingb.Chemistry of presevation by alcohol fermentationc.Lactic fermentation, presrvative effectivity"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Water activity and its influence on food unsustainability (allowance 1/0)"
+      "content": "2.Undesirable changes of harvested growths I. (allowance 2/0)"
     },
     {
       "label": "[section] Historical perspective and principles of preservative procedures",
-      "content": "2.Water activity and its influence on food unsustainability (allowance 1/0)"
+      "content": "2.Undesirable changes of harvested growths I. (allowance 2/0)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Maillard reaction of enzymatic and non-enzymatic browning (allowance 1/0)"
+      "content": "a.Autonomic reactions of living and undamaged tissuesb.Changes of saccharides, organic acidsc.Influence of acidity on technological quality"
     },
     {
-      "label": "[section] Water activity and its influence on food unsustainability",
-      "content": "3.Maillard reaction of enzymatic and non-enzymatic browning (allowance 1/0)"
+      "label": "[section] Undesirable changes of harvested growths I.",
+      "content": "a.Autonomic reactions of living and undamaged tissuesb.Changes of saccharides, organic acidsc.Influence of acidity on technological quality"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Classification and characteristics of enzymes, the importance of enzymes in food production and processing (allowance 2/0)"
+      "content": "a.Changes of lipides, splitting in ageing period, chosen varietiesb.Color changes, content of dyes, nitrogen dyesc.Technological changes and their influence on quality"
     },
     {
-      "label": "[section] Maillard reaction of enzymatic and non-enzymatic browning",
-      "content": "4.Classification and characteristics of enzymes, the importance of enzymes in food production and processing (allowance 2/0)"
+      "label": "[section] Undesirable changes of harvested growths II.",
+      "content": "a.Changes of lipides, splitting in ageing period, chosen varietiesb.Color changes, content of dyes, nitrogen dyesc.Technological changes and their influence on quality"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Metabolismus sacharidů a jejich význam při konzervaci potravin (allowance 2/0)"
+      "content": "a.Oxidizing changesb.Influence of metals on oxidizing changesc.Protection against incidence"
+    },
+    {
+      "label": "[section] Reactions of material components with ambient components",
+      "content": "a.Oxidizing changesb.Influence of metals on oxidizing changesc.Protection against incidence"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Oxidation and rancidity of fats (allowance 2/0)"
+      "content": "a.Technologic groups of microbesb.Bacteria and their characteristic, technology affectingc.Fungi, reproduction, their reaction to foodd.Yeast, technologic groups"
     },
     {
-      "label": "[section] Metabolismus sacharidů a jejich význam při konzervaci potravin",
-      "content": "6.Oxidation and rancidity of fats (allowance 2/0)"
+      "label": "[section] Microbial agents of decomposition",
+      "content": "a.Technologic groups of microbesb.Bacteria and their characteristic, technology affectingc.Fungi, reproduction, their reaction to foodd.Yeast, technologic groups"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Acidity of the environment and its effect on the preservation method (allowance 2/0)"
+      "content": "a.Fermentation, non-gaseous transformationsb.Metabolism of storage materialc.Identification of procedures"
     },
     {
-      "label": "[section] Oxidation and rancidity of fats",
-      "content": "7.Acidity of the environment and its effect on the preservation method (allowance 2/0)"
+      "label": "[section] Forms of microbial decomposition",
+      "content": "a.Fermentation, non-gaseous transformationsb.Metabolism of storage materialc.Identification of procedures"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Food-related microorganisms - bacteria, yeasts, molds (allowance 2/0)"
+      "content": "a.Storage of horticultural products after harvestb.Ways of protections against external conditionsc.Proceeding for low contamination by epiphytal microflora"
     },
     {
-      "label": "[section] Acidity of the environment and its effect on the preservation method",
-      "content": "8.Food-related microorganisms - bacteria, yeasts, molds (allowance 2/0)"
+      "label": "[section] Protection against undesirable changes I.",
+      "content": "a.Storage of horticultural products after harvestb.Ways of protections against external conditionsc.Proceeding for low contamination by epiphytal microflora"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Distribution and characteristics of conservation methods (allowance 4/0)"
+      "content": "a.Expulsion microbes from ambientb.Reduction of ambient contaminationc.Microbial filtration"
     },
     {
-      "label": "[section] Food-related microorganisms - bacteria, yeasts, molds",
-      "content": "9.Distribution and characteristics of conservation methods (allowance 4/0)"
+      "label": "[section] Protection against undesirable changes II.",
+      "content": "a.Expulsion microbes from ambientb.Reduction of ambient contaminationc.Microbial filtration"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Effect of preservation on the stability of ascorbic acid (allowance 2/0)"
+      "content": "a.Direct inactivation of microbesb.Physical effects on microbesc.Chemical effects on microbes"
     },
     {
-      "label": "[section] Distribution and characteristics of conservation methods",
-      "content": "10.Effect of preservation on the stability of ascorbic acid (allowance 2/0)"
+      "label": "[section] Protection against undesirable changes III.",
+      "content": "a.Direct inactivation of microbesb.Physical effects on microbesc.Chemical effects on microbes"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Effect of time and environment on enzyme activity (allowance 1/0)"
+      "content": "a.Physico-chemical changes by water removingb.Drying, evaporate thickeningc.Reversing osmosed.Addition of osmotic active compounds"
     },
     {
-      "label": "[section] Effect of preservation on the stability of ascorbic acid",
-      "content": "11.Effect of time and environment on enzyme activity (allowance 1/0)"
+      "label": "[section] Protection against undesirable changes IV.",
+      "content": "a.Physico-chemical changes by water removingb.Drying, evaporate thickeningc.Reversing osmosed.Addition of osmotic active compounds"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Technological calculations in canning technologies (allowance 4/0)"
+      "content": "a.Lowering of temperature above freezing point of tissue solutionb.Removing of oxygen from food ambientc.Ambient conditioning by addition other gases"
     },
     {
-      "label": "[section] Effect of time and environment on enzyme activity",
-      "content": "12.Technological calculations in canning technologies (allowance 4/0)"
+      "label": "[section] Protection against undesirable changes V.",
+      "content": "a.Lowering of temperature above freezing point of tissue solutionb.Removing of oxygen from food ambientc.Ambient conditioning by addition other gases"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Ambient conditioning by chemical agentsb.Addition of substances contained in plantsc.Ambient conditioning using antibiotics"
+    },
+    {
+      "label": "[section] Protection against undesirable changes VI.",
+      "content": "a.Ambient conditioning by chemical agentsb.Addition of substances contained in plantsc.Ambient conditioning using antibiotics"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.Preservative dosages calculationb.Determination of content substances by physico-chemical methods"
+    },
+    {
+      "label": "[section] Protection against undesirable changes VII.",
+      "content": "a.Preservative dosages calculationb.Determination of content substances by physico-chemical methods"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.Storage by concentration of metabolites increasingb.Chemistry of presevation by alcohol fermentationc.Lactic fermentation, presrvative effectivity"
+    },
+    {
+      "label": "[section] Protection against undesirable changes VIII.",
+      "content": "a.Storage by concentration of metabolites increasingb.Chemistry of presevation by alcohol fermentationc.Lactic fermentation, presrvative effectivity"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h14 hconsultation14 h24 hpreparation for exam74 h74 hTotal112 h112 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h18 hprofessional educational excursion5 h0 hpractical training5 h0 hconsultation0 h20 hpreparation for exam74 h74 hTotal112 h112 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Oral exam. 2 theoretical questions + 2 examples Minimum requirements for passing the test: A: 90-100% (correct answers) B: 80-90% C: 70-80% D: 60-70% E: 50-60%"
+      "content": "exam (written test is a part of the examination) Written test - 50 minutes written tests (you have to receive minimum 62,5% points from maxim 100). 8 otázek = 8 bodů A 8,0 – 7,4 b 92,5% B 7,3 – 6,7 b 85% C 6,6 – 6,0 b 77,5% D 5,9 – 5,3 b 70% E 5,2 – 4,6 b 62,5% F < 4,6 b < 62,5%"
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formFinal oral exam100 %100 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:INGR, Ivo. 2007. Základy konzervace potravin. 3rd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 p. ISBN 978-80-7375-110-4.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 p. ISBN 80-7157-520-8.KONTOMINAS, Michael G. 2012. Food analysis and preservation : current research topics. Oakville, Ont. , Boca Raton. ISBN 978-1-926895-07-9, 9781466560055. http://dx.doi.org/10.1201/b13118.GUTIERREZ-LOPEZ, Gustavo F; BARBOSA-CÁNOVAS, Gustavo V. 2003. Food science and food biotechnology. Boca Raton, FL. ISBN 978-1-56676-892-4, 978-0-203-00953-6. http://dx.doi.org/10.1201/9780203009536.KALHOTKA, Libor. 2014. Potravinářská mikrobiologie pro Zahradnickou fakultu. Díl 2. Speciální část. Brno: Mendelova univerzita v Brně, 164 p. ISBN 978-80-7509-016-4.KADLEC, Pavel; MELZOCH, Karel; VOLDŘICH, Michal et al. 2012. Přehled tradičních potravinářských výrob: technologie potravin. 1st ed. Ostrava: Key Publishing, 569 p. Monografie. ISBN 978-80-7418-145-0.ROP, Otakar; VALÁŠEK, Pavel; HOZA, Ignác. 2005. Teoretické principy konzervace potravin I. 1st ed. Zlín: Univerzita Tomáše Bati, 130 p. Učební texty vysokých škol. ISBN 80-7318-339-0.Recommended:KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1st ed. Praha: SNTL - Nakladatelství technické literatury, 511 p.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
+      "content": "Basic:INGR, Ivo. 2007. Základy konzervace potravin. 3rd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 p. ISBN 978-80-7375-110-4.KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1st ed. Praha: SNTL - Nakladatelství technické literatury, 511 p. Konzervovanie potravín. 2004. 1st ed. Nitra: Slovenská pol'nohospodarska univerzita, 158 p. ISBN 80-8069-341-2.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 p. ISBN 80-7157-520-8.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
     },
     {
       "label": "[section] Basic:",
-      "content": "INGR, Ivo. 2007. Základy konzervace potravin. 3rd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 p. ISBN 978-80-7375-110-4.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 p. ISBN 80-7157-520-8.KONTOMINAS, Michael G. 2012. Food analysis and preservation : current research topics. Oakville, Ont. , Boca Raton. ISBN 978-1-926895-07-9, 9781466560055. http://dx.doi.org/10.1201/b13118.GUTIERREZ-LOPEZ, Gustavo F; BARBOSA-CÁNOVAS, Gustavo V. 2003. Food science and food biotechnology. Boca Raton, FL. ISBN 978-1-56676-892-4, 978-0-203-00953-6. http://dx.doi.org/10.1201/9780203009536.KALHOTKA, Libor. 2014. Potravinářská mikrobiologie pro Zahradnickou fakultu. Díl 2. Speciální část. Brno: Mendelova univerzita v Brně, 164 p. ISBN 978-80-7509-016-4.KADLEC, Pavel; MELZOCH, Karel; VOLDŘICH, Michal et al. 2012. Přehled tradičních potravinářských výrob: technologie potravin. 1st ed. Ostrava: Key Publishing, 569 p. Monografie. ISBN 978-80-7418-145-0.ROP, Otakar; VALÁŠEK, Pavel; HOZA, Ignác. 2005. Teoretické principy konzervace potravin I. 1st ed. Zlín: Univerzita Tomáše Bati, 130 p. Učební texty vysokých škol. ISBN 80-7318-339-0."
-    },
-    {
-      "label": "[section] Recommended:",
-      "content": "KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1st ed. Praha: SNTL - Nakladatelství technické literatury, 511 p.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
+      "content": "INGR, Ivo. 2007. Základy konzervace potravin. 3rd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 119 p. ISBN 978-80-7375-110-4.KYZLINK, Vladimír. 1988. Teoretické základy konzervace potravin. 1st ed. Praha: SNTL - Nakladatelství technické literatury, 511 p. Konzervovanie potravín. 2004. 1st ed. Nitra: Slovenská pol'nohospodarska univerzita, 158 p. ISBN 80-8069-341-2.INGR, Ivo. 2001. Zpracování zemědělských produktů. Brna: Mendelova zemědělská a lesnická univerzita, 249 p. ISBN 80-7157-520-8.NĚMCOVÁ, Anna. 2018. Konzervační metody . https://web2.mendelu.cz/af_291_projekty2/vseo/stranka.php?prez=311."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track PHTFQ Post-harvest technologies and food quality, full-time form, initial period WS 2023/2024Track PHTFQ Post-harvest technologies and food quality, part-time form, initial period WS 2023/2024"
+      "content": "Track PHTFQ Post-harvest technologies and food quality, full-time form, initial period WS 2019/2020"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 08:20:46",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:33:05",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

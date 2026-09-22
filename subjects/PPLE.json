@@ -3,18 +3,57 @@
   "name": "Polyfunkční pěstění lesů",
   "nameCs": "Polyfunkční pěstění lesů",
   "nameEn": "Multifunctional Silviculture",
-  "predmetId": "159569",
+  "predmetId": "163957",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=163957;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
       "year": 2025,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159569;lang=cz",
-      "totalPass": 84,
+      "totalPass": 83,
       "totalFail": 2,
       "terms": [
         {
@@ -36,13 +75,13 @@
           "grades": {
             "A": 17,
             "B": 12,
-            "C": 29,
+            "C": 28,
             "D": 18,
             "E": 8,
             "F": 1,
             "FN": 1
           },
-          "pass": 84,
+          "pass": 83,
           "fail": 2
         },
         {
@@ -511,5 +550,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

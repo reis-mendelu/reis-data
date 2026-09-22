@@ -3,7 +3,7 @@
   "name": "Ekonomická geografie",
   "nameCs": "Ekonomická geografie",
   "nameEn": "Economic Geography",
-  "predmetId": "157615",
+  "predmetId": "162687",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -14,6 +14,73 @@
     "Mgr. Ondřej Konečný, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162687;lang=cz",
+      "totalPass": 115,
+      "totalFail": 10,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 8,
+            "D": 12,
+            "E": 4,
+            "F": 14,
+            "FN": 1
+          },
+          "pass": 27,
+          "fail": 15
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 4,
+            "D": 2,
+            "E": 0,
+            "F": 5,
+            "FN": 2
+          },
+          "pass": 7,
+          "fail": 7
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 22,
+            "B": 26,
+            "C": 23,
+            "D": 32,
+            "E": 12,
+            "F": 7,
+            "FN": 3
+          },
+          "pass": 115,
+          "fail": 10
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 22,
+            "B": 22,
+            "C": 11,
+            "D": 18,
+            "E": 8,
+            "F": 41,
+            "FN": 3
+          },
+          "pass": 81,
+          "fail": 44
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -350,5 +417,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,11 +3,98 @@
   "name": "Světový jazyk - němčina - začátečníci 1",
   "nameCs": "Světový jazyk - němčina - začátečníci 1",
   "nameEn": "World Language - German Beginner Course 1",
-  "predmetId": "159327",
+  "predmetId": "163062",
   "facultyId": 23,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163062;lang=cz",
+      "totalPass": 63,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 5,
+          "creditGrades": {
+            "zap": 8,
+            "nezap": 5,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 5,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 63,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 63,
+            "nezap": 0,
+            "zapNedost": 1
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 50,
+          "fail": 14,
+          "creditGrades": {
+            "zap": 50,
+            "nezap": 13,
+            "zapNedost": 1
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -276,7 +363,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151459;lang=cz",
       "totalPass": 56,
-      "totalFail": 1,
+      "totalFail": 2,
       "terms": [
         {
           "term": "1. opravný",
@@ -328,10 +415,10 @@
             "FN": 0
           },
           "pass": 56,
-          "fail": 1,
+          "fail": 2,
           "creditGrades": {
             "zap": 56,
-            "nezap": 0,
+            "nezap": 1,
             "zapNedost": 1
           }
         },
@@ -852,5 +939,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

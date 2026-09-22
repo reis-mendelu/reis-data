@@ -3,11 +3,80 @@
   "name": "Botanika II",
   "nameCs": "Botanika II",
   "nameEn": "General Botany II",
-  "predmetId": "157464",
+  "predmetId": "162362",
   "facultyId": 60,
-  "aliases": [],
+  "aliases": [
+    "BO2"
+  ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162362;lang=cz",
+      "totalPass": 28,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 3,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 1,
+            "FN": 2
+          },
+          "pass": 6,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 4,
+            "C": 7,
+            "D": 6,
+            "E": 1,
+            "F": 0,
+            "FN": 5
+          },
+          "pass": 28,
+          "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 1,
+            "C": 6,
+            "D": 5,
+            "E": 0,
+            "F": 7,
+            "FN": 5
+          },
+          "pass": 21,
+          "fail": 12
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -274,5 +343,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

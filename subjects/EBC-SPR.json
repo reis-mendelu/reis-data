@@ -3,7 +3,7 @@
   "name": "Systémy na podporu rozhodování",
   "nameCs": "Systémy na podporu rozhodování",
   "nameEn": "Decision Support Systems",
-  "predmetId": "156546",
+  "predmetId": "162545",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "prof. Ing. Mgr. Jitka Janová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162545;lang=cz",
+      "totalPass": 166,
+      "totalFail": 6,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 9,
+            "E": 11,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 10,
+            "B": 25,
+            "C": 41,
+            "D": 46,
+            "E": 44,
+            "F": 1,
+            "FN": 5
+          },
+          "pass": 166,
+          "fail": 6
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 25,
+            "C": 38,
+            "D": 36,
+            "E": 31,
+            "F": 26,
+            "FN": 6
+          },
+          "pass": 140,
+          "fail": 32
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -292,5 +359,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,14 +3,80 @@
   "name": "Chemie potravin",
   "nameCs": "Chemie potravin",
   "nameEn": "Food Chemistry",
-  "predmetId": "157156",
+  "predmetId": "162403",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
-    "Ing. Andrea Ridošková, Ph.D.",
-    "RNDr. Lenka Vaňková, Ph.D."
+    "Ing. Andrea Ridošková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162403;lang=cz",
+      "totalPass": 33,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 2,
+            "E": 4,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 3
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 7,
+            "C": 6,
+            "D": 8,
+            "E": 6,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 6,
+            "C": 3,
+            "D": 6,
+            "E": 2,
+            "F": 9,
+            "FN": 2
+          },
+          "pass": 23,
+          "fail": 11
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -319,5 +385,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

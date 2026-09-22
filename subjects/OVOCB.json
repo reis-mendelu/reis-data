@@ -3,13 +3,80 @@
   "name": "Ovocnictví (bc.)",
   "nameCs": "Ovocnictví (bc.)",
   "nameEn": "Fruit growing",
-  "predmetId": "157438",
+  "predmetId": "162290",
   "facultyId": 60,
   "aliases": [
     "OB1"
   ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162290;lang=cz",
+      "totalPass": 51,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 8,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 20,
+            "B": 11,
+            "C": 11,
+            "D": 4,
+            "E": 5,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 51,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 17,
+            "B": 10,
+            "C": 7,
+            "D": 4,
+            "E": 5,
+            "F": 7,
+            "FN": 3
+          },
+          "pass": 43,
+          "fail": 10
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -304,5 +371,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

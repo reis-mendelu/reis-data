@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -31,7 +31,7 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "povinný"
+      "content": "volitelný"
     },
     {
       "label": "Typ výuky předmětu:",
@@ -67,7 +67,7 @@
     },
     {
       "label": "1.",
-      "content": "Úvod do problematiky (dotace 2/2)"
+      "content": "Úvod do problematiky (dotace 2/3)"
     },
     {
       "label": "a.",
@@ -87,7 +87,7 @@
     },
     {
       "label": "2.",
-      "content": "Dimenzionální modelování (dotace 4/4)"
+      "content": "Dimenzionální modelování (dotace 4/6)"
     },
     {
       "label": "a.",
@@ -103,7 +103,7 @@
     },
     {
       "label": "3.",
-      "content": "Systém ETL (dotace 6/6)"
+      "content": "Systém ETL (dotace 6/9)"
     },
     {
       "label": "a.",
@@ -119,7 +119,7 @@
     },
     {
       "label": "4.",
-      "content": "Prezentace dat (dotace 6/6)"
+      "content": "Prezentace dat (dotace 6/9)"
     },
     {
       "label": "a.",
@@ -135,7 +135,7 @@
     },
     {
       "label": "5.",
-      "content": "Microsoft Power BI (dotace 2/2)"
+      "content": "Microsoft Power BI (dotace 2/6)"
     },
     {
       "label": "a.",
@@ -151,7 +151,7 @@
     },
     {
       "label": "6.",
-      "content": "Provoz a plánování datového skladu (dotace 4/2)"
+      "content": "Provoz a plánování datového skladu (dotace 4/3)"
     },
     {
       "label": "a.",
@@ -183,7 +183,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -199,7 +199,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -207,11 +207,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (6 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -219,7 +219,7 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: povinný"
+      "content": "Typ předmětu: volitelný"
     },
     {
       "label": "[section] Typ předmětu:",
@@ -255,7 +255,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q15J. Přichystal, O. Faldík, P. TurčínekPřednáškaKaždý týden40Středa13.00-14.50Q08J. Přichystal, O. Faldík, P. TurčínekCvičeníKaždý týden20Středa15.00-16.50Q08J. Přichystal, O. Faldík, P. TurčínekCvičeníKaždý týden20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek11.00-12.50Q15J. Přichystal, O. Faldík, P. TurčínekPřednáškaKaždý týden48Čtvrtek13.00-15.50Q08J. Přichystal, O. Faldík, P. TurčínekCvičeníKaždý týden20Čtvrtek16.00-18.50Q08J. Přichystal, O. Faldík, P. TurčínekCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -263,7 +263,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do problematiky (dotace 2/2) a.Metody, terminologie, nástrojeb.Rozdíly OLTP vs OLAPc.Analýza zdrojových dat pro datový skladd.Případy užití datových skladů v praxi2.Dimenzionální modelování (dotace 4/4) a.Multidimenzionální modelování, techniky a postupyb.Identifikace dimenzí a faktů, časová dimenze, slowly changing dimensionc.Nástroje pro tvorbu datového skladu3.Systém ETL (dotace 6/6) a.Extrakce, transformace a načítání datb.Používané techniky a nástrojec.Optimalizace ETL4.Prezentace dat (dotace 6/6) a.Reporty, dashboardy, prezentační nástrojeb.Metody tvorby reportůc.Jazyk MDX5.Microsoft Power BI (dotace 2/2) a.Nástroje a funkceb.Integrace dat z různých zdrojůc.Datové schéma6.Provoz a plánování datového skladu (dotace 4/2) a.Návrh kontrolních mechanismůb.Testováníc.Dokumentace7.Optimalizace, tipy a triky (dotace 4/6)"
+      "content": "1.Úvod do problematiky (dotace 2/3) a.Metody, terminologie, nástrojeb.Rozdíly OLTP vs OLAPc.Analýza zdrojových dat pro datový skladd.Případy užití datových skladů v praxi2.Dimenzionální modelování (dotace 4/6) a.Multidimenzionální modelování, techniky a postupyb.Identifikace dimenzí a faktů, časová dimenze, slowly changing dimensionc.Nástroje pro tvorbu datového skladu3.Systém ETL (dotace 6/9) a.Extrakce, transformace a načítání datb.Používané techniky a nástrojec.Optimalizace ETL4.Prezentace dat (dotace 6/9) a.Reporty, dashboardy, prezentační nástrojeb.Metody tvorby reportůc.Jazyk MDX5.Microsoft Power BI (dotace 2/6) a.Nástroje a funkceb.Integrace dat z různých zdrojůc.Datové schéma6.Provoz a plánování datového skladu (dotace 4/3) a.Návrh kontrolních mechanismůb.Testováníc.Dokumentace7.Optimalizace, tipy a triky (dotace 4/6)"
     },
     {
       "label": "[section] 1.",
@@ -315,7 +315,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku28 hzpracování projektů64 hzpracování seminární práce20 hCelkem168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení42 hpříprava na zkoušku28 hzpracování projektů50 hzpracování seminární práce20 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -339,7 +339,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období LS 2023/2024Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období LS 2024/2025Zaměření ZNDASU Datová analýza a stroj. učení, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -361,7 +361,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -369,7 +369,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -377,7 +377,7 @@
     },
     {
       "label": "Course type:",
-      "content": "required"
+      "content": "optional"
     },
     {
       "label": "Type of delivery:",
@@ -529,7 +529,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -545,7 +545,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -553,11 +553,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (6 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -565,7 +565,7 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: required"
+      "content": "Course type: optional"
     },
     {
       "label": "[section] Course type:",
@@ -601,7 +601,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50Q15J. Přichystal, O. Faldík, P. TurčínekLectureEvery week40Wednesday13.00-14.50Q08J. Přichystal, O. Faldík, P. TurčínekSeminarEvery week20Wednesday15.00-16.50Q08J. Přichystal, O. Faldík, P. TurčínekSeminarEvery week20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday11.00-12.50Q15J. Přichystal, O. Faldík, P. TurčínekLectureEvery week48Thursday13.00-15.50Q08J. Přichystal, O. Faldík, P. TurčínekSeminarEvery week20Thursday16.00-18.50Q08J. Přichystal, O. Faldík, P. TurčínekSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -661,7 +661,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam28 helaboration and execution of projects64 hwriting of seminar paper20 hTotal168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice42 hpreparation for exam28 helaboration and execution of projects50 hwriting of seminar paper20 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -685,13 +685,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period SS 2023/2024Scope ZNOI Scope for Open Informatics, full-time form, initial period SS 2024/2025Scope ZNDASU Datová analýza a stroj. učení, full-time form, initial period WS 2025/2026"
+      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:55:30",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:11:44",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

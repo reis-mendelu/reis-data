@@ -1,8 +1,8 @@
 {
   "courseCode": "ZPWPN",
   "name": "Pathology of Woody Plants",
-  "nameCs": "Pathology of Woody Plants, Diseases of Trees",
-  "nameEn": "Pathology of Woody Plants, Diseases of Trees",
+  "nameCs": "Pathology of Woody Plants",
+  "nameEn": "Pathology of Woody Plants",
   "predmetId": "159802",
   "facultyId": 79,
   "aliases": [],
@@ -338,38 +338,29 @@
       "semesterName": "ZS 2008/2009 - REK",
       "semesterId": "159",
       "year": 2008,
-      "type": "exam",
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=159;predmet=41631;lang=cz",
-      "totalPass": 14,
+      "totalPass": 1,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 5,
-            "B": 3,
-            "C": 6,
+            "A": 0,
+            "B": 0,
+            "C": 0,
             "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 14,
-          "fail": 0
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 5,
-            "B": 3,
-            "C": 6,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 14,
-          "fail": 0
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -452,5 +443,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

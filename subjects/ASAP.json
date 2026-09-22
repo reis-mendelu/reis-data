@@ -3,11 +3,50 @@
   "name": "Aplikovaná psychologie",
   "nameCs": "Aplikovaná psychologie",
   "nameEn": "Applied Psychology",
-  "predmetId": "157914",
+  "predmetId": "162957",
   "facultyId": 220,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ICV",
+      "semesterId": "819",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=220;obdobi=819;predmet=162957;lang=cz",
+      "totalPass": 47,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 19,
+            "B": 14,
+            "C": 8,
+            "D": 6,
+            "E": 0,
+            "F": 0,
+            "FN": 4
+          },
+          "pass": 47,
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 19,
+            "B": 14,
+            "C": 8,
+            "D": 6,
+            "E": 0,
+            "F": 0,
+            "FN": 4
+          },
+          "pass": 47,
+          "fail": 4
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ICV",
       "semesterId": "781",
@@ -207,5 +246,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,16 +3,85 @@
   "name": "Základy objektového návrhu",
   "nameCs": "Základy objektového návrhu",
   "nameEn": "Basics of Object Oriented Design",
-  "predmetId": "159414",
+  "predmetId": "162526",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Bc. Michal Matonoha",
     "Ing. Andrej Gono",
     "Ing. David Procházka, Ph.D.",
-    "Ing. Eliška Chylíková"
+    "Ing. Eliška Chylíková",
+    "Ing. Tomáš Jakúbek",
+    "Ing. Šimon Bilík, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162526;lang=cz",
+      "totalPass": 45,
+      "totalFail": 16,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 3,
+            "D": 5,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 9,
+            "C": 11,
+            "D": 14,
+            "E": 3,
+            "F": 1,
+            "FN": 15
+          },
+          "pass": 45,
+          "fail": 16
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 6,
+            "C": 8,
+            "D": 8,
+            "E": 3,
+            "F": 13,
+            "FN": 15
+          },
+          "pass": 33,
+          "fail": 28
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -681,5 +750,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

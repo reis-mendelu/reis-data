@@ -12,69 +12,32 @@
       "semesterName": "LS 2020/2021 - PEF",
       "semesterId": "610",
       "year": 2020,
-      "type": "exam",
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=127476;lang=cz",
-      "totalPass": 9,
-      "totalFail": 2,
+      "totalPass": 4,
+      "totalFail": 0,
       "terms": [
-        {
-          "term": "1. opravný",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 2,
-            "D": 1,
-            "E": 0,
-            "F": 2,
-            "FN": 0
-          },
-          "pass": 3,
-          "fail": 2
-        },
-        {
-          "term": "2. opravný",
-          "grades": {
-            "A": 0,
-            "B": 0,
-            "C": 0,
-            "D": 1,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 2,
-          "fail": 0
-        },
         {
           "term": "Všechny termíny",
           "grades": {
             "A": 0,
-            "B": 1,
-            "C": 3,
-            "D": 4,
-            "E": 1,
-            "F": 0,
-            "FN": 2
-          },
-          "pass": 9,
-          "fail": 2
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 0,
-            "B": 1,
-            "C": 1,
-            "D": 2,
+            "B": 0,
+            "C": 0,
+            "D": 0,
             "E": 0,
-            "F": 5,
-            "FN": 2
+            "F": 0,
+            "FN": 0
           },
           "pass": 4,
-          "fail": 7
+          "fail": 0,
+          "creditGrades": {
+            "zap": 4,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

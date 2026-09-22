@@ -15,7 +15,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=146887;lang=cz",
       "totalPass": 259,
-      "totalFail": 47,
+      "totalFail": 48,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -29,10 +29,10 @@
             "FN": 0
           },
           "pass": 259,
-          "fail": 47,
+          "fail": 48,
           "creditGrades": {
             "zap": 259,
-            "nezap": 47,
+            "nezap": 48,
             "zapNedost": 0
           }
         },
@@ -64,7 +64,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=138186;lang=cz",
       "totalPass": 253,
-      "totalFail": 36,
+      "totalFail": 37,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -78,10 +78,10 @@
             "FN": 0
           },
           "pass": 253,
-          "fail": 36,
+          "fail": 37,
           "creditGrades": {
             "zap": 253,
-            "nezap": 36,
+            "nezap": 37,
             "zapNedost": 0
           }
         },
@@ -156,5 +156,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

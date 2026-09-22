@@ -3,7 +3,7 @@
   "name": "Anatomie a histologie zvířat ZOO",
   "nameCs": "Anatomie a histologie zvířat ZOO",
   "nameEn": "Anatomy and Histology of Animals",
-  "predmetId": "158742",
+  "predmetId": "163863",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "prof. MVDr. Zbyšek Sládek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=163863;lang=cz",
+      "totalPass": 23,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 4,
+            "D": 1,
+            "E": 3,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 7,
+            "D": 5,
+            "E": 8,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 23,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 2,
+            "D": 3,
+            "E": 5,
+            "F": 13,
+            "FN": 0
+          },
+          "pass": 12,
+          "fail": 13
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -694,5 +761,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

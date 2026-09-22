@@ -3,11 +3,64 @@
   "name": "Hospodářská úprava lesů (B-LESN)",
   "nameCs": "Hospodářská úprava lesů (B-LESN)",
   "nameEn": "Forest Management",
-  "predmetId": "156890",
+  "predmetId": "161910",
   "facultyId": 38,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161910;lang=cz",
+      "totalPass": 57,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 18,
+            "C": 13,
+            "D": 11,
+            "E": 14,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 57,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 18,
+            "C": 13,
+            "D": 11,
+            "E": 13,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 56,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -196,5 +249,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

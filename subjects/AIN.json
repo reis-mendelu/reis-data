@@ -1,12 +1,14 @@
 {
   "courseCode": "AIN",
-  "name": "Ateliér interiéru (modul O, D)",
+  "name": "Ateliér interiéru",
   "nameCs": "Ateliér interiéru",
   "nameEn": "Studio of Interior",
   "predmetId": "156966",
   "facultyId": 38,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "doc. Ing. arch. Boris Hála, Ph.D."
+  ],
   "stats": [
     {
       "semesterName": "LS 2024/2025 - LDF",
@@ -273,5 +275,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

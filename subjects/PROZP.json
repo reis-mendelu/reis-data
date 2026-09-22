@@ -3,7 +3,7 @@
   "name": "Protierozní opatření na zemědělské půdě",
   "nameCs": "Protierozní opatření na zemědělské půdě",
   "nameEn": "Soil erosion measures on agricultural land",
-  "predmetId": "157214",
+  "predmetId": "162904",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -13,6 +13,59 @@
     "doc. Ing. Jana Podhrázská, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162904;lang=cz",
+      "totalPass": 31,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 7,
+            "C": 6,
+            "D": 4,
+            "E": 8,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 7,
+            "C": 6,
+            "D": 4,
+            "E": 7,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -145,5 +198,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

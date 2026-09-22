@@ -3,7 +3,7 @@
   "name": "Regionální ekonomika",
   "nameCs": "Regionální ekonomika",
   "nameEn": "Regional Economics",
-  "predmetId": "160446",
+  "predmetId": "162681",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "Ing. Radka Redlichová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162681;lang=cz",
+      "totalPass": 69,
+      "totalFail": 10,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 3,
+            "C": 2,
+            "D": 9,
+            "E": 7,
+            "F": 13,
+            "FN": 3
+          },
+          "pass": 22,
+          "fail": 16
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 6,
+            "F": 4,
+            "FN": 1
+          },
+          "pass": 6,
+          "fail": 5
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 9,
+            "C": 9,
+            "D": 19,
+            "E": 28,
+            "F": 8,
+            "FN": 2
+          },
+          "pass": 69,
+          "fail": 10
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 6,
+            "C": 7,
+            "D": 10,
+            "E": 15,
+            "F": 35,
+            "FN": 3
+          },
+          "pass": 41,
+          "fail": 38
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -85,7 +152,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157611;lang=cz",
       "totalPass": 68,
-      "totalFail": 14,
+      "totalFail": 15,
       "terms": [
         {
           "term": "1. opravný",
@@ -124,10 +191,10 @@
             "D": 30,
             "E": 14,
             "F": 8,
-            "FN": 6
+            "FN": 7
           },
           "pass": 68,
-          "fail": 14
+          "fail": 15
         },
         {
           "term": "Řádný termín",
@@ -219,7 +286,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=757;predmet=151308;lang=cz",
       "totalPass": 78,
-      "totalFail": 9,
+      "totalFail": 10,
       "terms": [
         {
           "term": "1. opravný",
@@ -257,11 +324,11 @@
             "C": 11,
             "D": 20,
             "E": 38,
-            "F": 6,
+            "F": 7,
             "FN": 3
           },
           "pass": 78,
-          "fail": 9
+          "fail": 10
         },
         {
           "term": "Řádný termín",
@@ -640,5 +707,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -1,19 +1,58 @@
 {
   "courseCode": "EBC-SBZ",
-  "name": "Státní bakalářská zkouška",
+  "name": "Státní závěrečná zkouška",
   "nameCs": "Státní bakalářská zkouška",
   "nameEn": "Bachelor's State Exam",
-  "predmetId": "159830",
+  "predmetId": "159853",
   "facultyId": 2,
   "aliases": [
-    "RRBSZ",
-    "SBZ",
-    "STBAZK"
+    "ENC-SMZ",
+    "STAZZK",
+    "SZZ"
   ],
   "teachers": [
     "Ing. Petr Jedlička, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=159853;lang=cz",
+      "totalPass": 323,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 70,
+            "B": 99,
+            "C": 92,
+            "D": 48,
+            "E": 14,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 323,
+          "fail": 7
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 70,
+            "B": 99,
+            "C": 92,
+            "D": 48,
+            "E": 14,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 323,
+          "fail": 7
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -341,5 +380,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,15 +3,70 @@
   "name": "Podnikové finance v AJ",
   "nameCs": "Podnikové finance v AJ",
   "nameEn": "Business Finance",
-  "predmetId": "152303",
+  "predmetId": "160811",
   "facultyId": 2,
-  "aliases": [],
+  "aliases": [
+    "PNFA",
+    "RRPNFA"
+  ],
   "teachers": [
-    "Bravo Muchuu",
     "Ing. Petr Polák, Ph.D.",
     "doc. Ing. Bc. Petr Suchánek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160811;lang=cz",
+      "totalPass": 48,
+      "totalFail": 6,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 23,
+            "C": 9,
+            "D": 6,
+            "E": 1,
+            "F": 0,
+            "FN": 6
+          },
+          "pass": 48,
+          "fail": 6
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 7,
+            "B": 22,
+            "C": 8,
+            "D": 6,
+            "E": 0,
+            "F": 5,
+            "FN": 6
+          },
+          "pass": 43,
+          "fail": 11
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -278,5 +333,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

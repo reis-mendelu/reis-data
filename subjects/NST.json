@@ -3,11 +3,80 @@
   "name": "Nábytkářské stroje a nástroje (modul V)",
   "nameCs": "Nábytkářské stroje a nástroje (modul V)",
   "nameEn": "Furniture Machines and Tools",
-  "predmetId": "156828",
+  "predmetId": "161856",
   "facultyId": 38,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Ing. Josef Hlavatý, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161856;lang=cz",
+      "totalPass": 28,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 3,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 5,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 6,
+            "B": 2,
+            "C": 7,
+            "D": 2,
+            "E": 11,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 28,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 1,
+            "C": 7,
+            "D": 2,
+            "E": 7,
+            "F": 5,
+            "FN": 2
+          },
+          "pass": 22,
+          "fail": 7
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -218,5 +287,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

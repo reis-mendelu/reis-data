@@ -3,13 +3,66 @@
   "name": "Sociální právo EU a ČR v AJ",
   "nameCs": "Sociální právo EU a ČR v AJ",
   "nameEn": "Social Law of the EU and Czechia",
-  "predmetId": "152279",
+  "predmetId": "160789",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Mgr. Bc. Ondřej Pavelek, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160789;lang=cz",
+      "totalPass": 24,
+      "totalFail": 13,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 11,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 13
+          },
+          "pass": 24,
+          "fail": 13
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 9,
+            "B": 10,
+            "C": 4,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 13
+          },
+          "pass": 23,
+          "fail": 14
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -195,5 +248,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

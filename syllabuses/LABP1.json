@@ -1,0 +1,617 @@
+{
+  "courseCode": "LABP1",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "LABP1"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Laboratorní projekt I. Materiály a technologie"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Laboratory Project I: Materials and Technologies"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zápočet (3 kredity)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Studium předmětu není možné během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Jan Baar, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Jan Baar, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Martin Brabec, Ph.D. (cvičící)Ing. David Děcký, Ph.D. (cvičící, přednášející, zkoušející)Ing. et Ing. Tomáš Pipíška, Ph.D. (cvičící)doc. RNDr. Jozef Ráheľ, PhD. (cvičící)Ing. Radim Rousek (cvičící)prof. Dr. Rupert Wimmer (přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu – bezpečnost práce, chemické látky a směsi, chemický zákon, zadání semestrální práce (dotace 0/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Definice vlastností vyvíjeného materiálu (dotace 0/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Prezentace záměru – metodika experimentu, očekávané výstupy (dotace 0/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Laboratorní experiment I. – výběr a charakterizace vstupního materiálu (vlhkost, hustota, pórovitost) (dotace 0/0)"
+    },
+    {
+      "label": "5.",
+      "content": "Laboratorní experiment II. – příprava vstupního materiálu pro kompozitní materiály (desintegrace, úprava vlhkosti, sušení, modifikace) (dotace 0/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Laboratorní experiment III. – tvorba a finalizace souboru (příprava a nanášení lepicí směsi, vrstvení kompozitního koberce, skládání vrstveného souboru) (dotace 0/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Laboratorní experiment IV. – proces agregace (lisování, 3D tisk) (dotace 0/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Laboratorní experiment V. – stanovení fyzikálních vlastností (hustota/hustotní profil, vlhkost, sesychání, tepelně-vlhkostní charakteristiky) (dotace 0/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Laboratorní experiment VI. – stanovení mechanických vlastností (pevnostní a elastické charakteristiky, dynamické vlastnosti) (dotace 0/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Konzultace semestrální práce – statistická analýza naměřených dat, interpretace výsledků (dotace 0/0)"
+    },
+    {
+      "label": "11.",
+      "content": "Prezentace semestrálních prací (dotace 0/0)"
+    },
+    {
+      "label": "12.",
+      "content": "Prezentace semestrálních prací (dotace 0/0)"
+    },
+    {
+      "label": "Aktivita na přednáškách/cvičeních/seminářích",
+      "content": "40 %"
+    },
+    {
+      "label": "Vypracování semestrální práce",
+      "content": "30 %"
+    },
+    {
+      "label": "Prezentace nebo obhajoba",
+      "content": "30 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "(a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Laboratorní projekt I. Materiály a technologie"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Laboratory Project I: Materials and Technologies"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Studium předmětu není možné během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Jan Baar, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav nauky o dřevě a dřevařských technologií (LDF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Lesnická a dřevařská fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Jan Baar, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Martin Brabec, Ph.D. (cvičící)Ing. David Děcký, Ph.D. (cvičící, přednášející, zkoušející)Ing. et Ing. Tomáš Pipíška, Ph.D. (cvičící)doc. RNDr. Jozef Ráheľ, PhD. (cvičící)Ing. Radim Rousek (cvičící)prof. Dr. Rupert Wimmer (přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí15.00-18.50B51není určenCvičeníKaždý týden20"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět Laboratorní projekt I. Materiály a technologie je zaměřen na osvojení si praktických principů vývoje a využití nových typů materiálů/technologií. Studenti aplikují teoretické znalosti při návrhu a optimalizaci nového materiálu/technologie. Nedílnou součásti je realizace navrženého materiálu/technologie včetně experimentálního zjištění klíčových fyzikálních a mechanických vlastností navrženého materiálu či produktu z navržené technologie. Praktické výstupy projektu jsou zpracovány ve formě seminární práce, která je na konci semestru prezentována."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu – bezpečnost práce, chemické látky a směsi, chemický zákon, zadání semestrální práce (dotace 0/0)2.Definice vlastností vyvíjeného materiálu (dotace 0/0)3.Prezentace záměru – metodika experimentu, očekávané výstupy (dotace 0/0)4.Laboratorní experiment I. – výběr a charakterizace vstupního materiálu (vlhkost, hustota, pórovitost) (dotace 0/0)5.Laboratorní experiment II. – příprava vstupního materiálu pro kompozitní materiály (desintegrace, úprava vlhkosti, sušení, modifikace) (dotace 0/0)6.Laboratorní experiment III. – tvorba a finalizace souboru (příprava a nanášení lepicí směsi, vrstvení kompozitního koberce, skládání vrstveného souboru) (dotace 0/0)7.Laboratorní experiment IV. – proces agregace (lisování, 3D tisk) (dotace 0/0)8.Laboratorní experiment V. – stanovení fyzikálních vlastností (hustota/hustotní profil, vlhkost, sesychání, tepelně-vlhkostní charakteristiky) (dotace 0/0)9.Laboratorní experiment VI. – stanovení mechanických vlastností (pevnostní a elastické charakteristiky, dynamické vlastnosti) (dotace 0/0)10.Konzultace semestrální práce – statistická analýza naměřených dat, interpretace výsledků (dotace 0/0)11.Prezentace semestrálních prací (dotace 0/0)12.Prezentace semestrálních prací (dotace 0/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Definice vlastností vyvíjeného materiálu (dotace 0/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Prezentace záměru – metodika experimentu, očekávané výstupy (dotace 0/0)"
+    },
+    {
+      "label": "[section] Definice vlastností vyvíjeného materiálu",
+      "content": "3.Prezentace záměru – metodika experimentu, očekávané výstupy (dotace 0/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Laboratorní experiment I. – výběr a charakterizace vstupního materiálu (vlhkost, hustota, pórovitost) (dotace 0/0)"
+    },
+    {
+      "label": "[section] Prezentace záměru – metodika experimentu, očekávané výstupy",
+      "content": "4.Laboratorní experiment I. – výběr a charakterizace vstupního materiálu (vlhkost, hustota, pórovitost) (dotace 0/0)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Laboratorní experiment II. – příprava vstupního materiálu pro kompozitní materiály (desintegrace, úprava vlhkosti, sušení, modifikace) (dotace 0/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Laboratorní experiment III. – tvorba a finalizace souboru (příprava a nanášení lepicí směsi, vrstvení kompozitního koberce, skládání vrstveného souboru) (dotace 0/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Laboratorní experiment IV. – proces agregace (lisování, 3D tisk) (dotace 0/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Laboratorní experiment V. – stanovení fyzikálních vlastností (hustota/hustotní profil, vlhkost, sesychání, tepelně-vlhkostní charakteristiky) (dotace 0/0)"
+    },
+    {
+      "label": "[section] Laboratorní experiment IV. – proces agregace (lisování, 3D tisk)",
+      "content": "8.Laboratorní experiment V. – stanovení fyzikálních vlastností (hustota/hustotní profil, vlhkost, sesychání, tepelně-vlhkostní charakteristiky) (dotace 0/0)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Laboratorní experiment VI. – stanovení mechanických vlastností (pevnostní a elastické charakteristiky, dynamické vlastnosti) (dotace 0/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Konzultace semestrální práce – statistická analýza naměřených dat, interpretace výsledků (dotace 0/0)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Prezentace semestrálních prací (dotace 0/0)"
+    },
+    {
+      "label": "[section] Konzultace semestrální práce – statistická analýza naměřených dat, interpretace výsledků",
+      "content": "11.Prezentace semestrálních prací (dotace 0/0)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Prezentace semestrálních prací (dotace 0/0)"
+    },
+    {
+      "label": "[section] Prezentace semestrálních prací",
+      "content": "12.Prezentace semestrálních prací (dotace 0/0)"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumlaboratorní práce56 hpříprava prezentace10 hzpracování seminární práce20 hCelkem86 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet: aktivní účast během laboratorních prací, vypracování semestrální práce, prezentace a obhajoba semestrální práce"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích40 %Vypracování semestrální práce30 %Prezentace nebo obhajoba30 %Celkem100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:PTÁČEK, Luděk a kol. Nauka o materiálu I. 2. vyd. Brno: CERM, 516 s. ISBN 80-7204-283-1.PTÁČEK, Luděk a kol. Nauka o materiálu II. 2. vyd. Brno: CERM, 392 s. ISBN 80-7204-248-3.ASHBY, M. F.; CEBON, David. 2010. Materials: engineering, science, processing and design. 2. vyd. Amsterdam [u.a.: Elsevier/Butterworth-Heinemann, 525 s. ISBN 978-1-85617-895-2. Databáze Scopus. Databáze Web of Science. Dostupné na http://portal.isiknowledge.com/. [online]. EHRENSTEIN, Gottfried W. 2009. Polymerní kompozitní materiály. 1. vyd. Praha: Scientia, 351 s. ISBN 978-80-86960-29-6."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "PTÁČEK, Luděk a kol. Nauka o materiálu I. 2. vyd. Brno: CERM, 516 s. ISBN 80-7204-283-1.PTÁČEK, Luděk a kol. Nauka o materiálu II. 2. vyd. Brno: CERM, 392 s. ISBN 80-7204-248-3.ASHBY, M. F.; CEBON, David. 2010. Materials: engineering, science, processing and design. 2. vyd. Amsterdam [u.a.: Elsevier/Butterworth-Heinemann, 525 s. ISBN 978-1-85617-895-2. Databáze Scopus. Databáze Web of Science. Dostupné na http://portal.isiknowledge.com/. [online]. EHRENSTEIN, Gottfried W. 2009. Polymerní kompozitní materiály. 1. vyd. Praha: Scientia, 351 s. ISBN 978-80-86960-29-6."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-BMT Biomateriály, prezenční forma, počáteční období ZS 2024/2025"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "LABP1"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Laboratorní projekt I. Materiály a technologie"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Laboratory Project I: Materials and Technologies"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Pass credit (3 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Studying the subject is not possible during foreign mobility."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Jan Baar, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Jan Baar, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Martin Brabec, Ph.D. (instructor)Ing. David Děcký, Ph.D. (examiner, instructor, lecturer)Ing. et Ing. Tomáš Pipíška, Ph.D. (instructor)doc. RNDr. Jozef Ráheľ, PhD. (instructor)Ing. Radim Rousek (instructor)prof. Dr. Rupert Wimmer (lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not State Bachelor Examination"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the subject - work safety, chemical substances and mixtures, chemical law, assignment of seminar paper (allowance 0/0)"
+    },
+    {
+      "label": "2.",
+      "content": "Definition of properties of the developed material (allowance 0/0)"
+    },
+    {
+      "label": "3.",
+      "content": "Presentation of the plan – methodology of the experiment, expected outputs (allowance 0/0)"
+    },
+    {
+      "label": "4.",
+      "content": "Laboratory experiment I. – selection and characterization of input material (moisture, density, porosity) (allowance 0/0)"
+    },
+    {
+      "label": "5.",
+      "content": "Laboratory experiment II. – preparation of input material for composite materials (disintegration, drying, modification) (allowance 0/0)"
+    },
+    {
+      "label": "6.",
+      "content": "Laboratory experiment III. – creation and finalization of the set (preparation and application of the adhesive mixture, layering composite carpet, folding a layered file) (allowance 0/0)"
+    },
+    {
+      "label": "7.",
+      "content": "Laboratory experiment IV. – aggregation process (pressing, 3D printing) (allowance 0/0)"
+    },
+    {
+      "label": "8.",
+      "content": "Laboratory experiment V. – determination of physical properties (density/density profile, moisture content, thermal characteristics) (allowance 0/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Laboratory experiment VI. – determination of mechanical properties (strength and elastic characteristics, dynamic properties) (allowance 0/0)"
+    },
+    {
+      "label": "10.",
+      "content": "Consultation of semester work - statistical analysis of measured data, results interpretation (allowance 0/0)"
+    },
+    {
+      "label": "11.",
+      "content": "Presentation of seminar papers (allowance 0/0)"
+    },
+    {
+      "label": "12.",
+      "content": "Presentation of seminar papers (allowance 0/0)"
+    },
+    {
+      "label": "Active lecture/seminar/workshop/tutorial participation",
+      "content": "40 %"
+    },
+    {
+      "label": "Term paper",
+      "content": "30 %"
+    },
+    {
+      "label": "Presentation or defence",
+      "content": "30 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "(and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Laboratorní projekt I. Materiály a technologie"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Laboratory Project I: Materials and Technologies"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/4 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Studying the subject is not possible during foreign mobility."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Jan Baar, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Wood Science and Technology (FFWT)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Forestry and Wood Technology"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Jan Baar, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Martin Brabec, Ph.D. (instructor)Ing. David Děcký, Ph.D. (examiner, instructor, lecturer)Ing. et Ing. Tomáš Pipíška, Ph.D. (instructor)doc. RNDr. Jozef Ráheľ, PhD. (instructor)Ing. Radim Rousek (instructor)prof. Dr. Rupert Wimmer (lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not State Bachelor Examination"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday15.00-18.50B51not setSeminarEvery week20"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The subject Laboratory project I. Materials and technologies is aimed at learning the practical principles of development and use of new types of materials/technologies. Students apply theoretical knowledge in the design and optimization of new material/technology. An integral part is the realization of the proposed material/technology, including the experimental determination of the key physical and mechanical properties of the designed material or product of designed technology. The practical outputs of the project are processed in the form of a seminar paper, which is presented at the end of the semester."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the subject - work safety, chemical substances and mixtures, chemical law, assignment of seminar paper (allowance 0/0)2.Definition of properties of the developed material (allowance 0/0)3.Presentation of the plan – methodology of the experiment, expected outputs (allowance 0/0)4.Laboratory experiment I. – selection and characterization of input material (moisture, density, porosity) (allowance 0/0)5.Laboratory experiment II. – preparation of input material for composite materials (disintegration, drying, modification) (allowance 0/0)6.Laboratory experiment III. – creation and finalization of the set (preparation and application of the adhesive mixture, layering composite carpet, folding a layered file) (allowance 0/0)7.Laboratory experiment IV. – aggregation process (pressing, 3D printing) (allowance 0/0)8.Laboratory experiment V. – determination of physical properties (density/density profile, moisture content, thermal characteristics) (allowance 0/0)9.Laboratory experiment VI. – determination of mechanical properties (strength and elastic characteristics, dynamic properties) (allowance 0/0)10.Consultation of semester work - statistical analysis of measured data, results interpretation (allowance 0/0)11.Presentation of seminar papers (allowance 0/0)12.Presentation of seminar papers (allowance 0/0)"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "2.Definition of properties of the developed material (allowance 0/0)"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "3.Presentation of the plan – methodology of the experiment, expected outputs (allowance 0/0)"
+    },
+    {
+      "label": "[section] Definition of properties of the developed material",
+      "content": "3.Presentation of the plan – methodology of the experiment, expected outputs (allowance 0/0)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "4.Laboratory experiment I. – selection and characterization of input material (moisture, density, porosity) (allowance 0/0)"
+    },
+    {
+      "label": "[section] Presentation of the plan – methodology of the experiment, expected outputs",
+      "content": "4.Laboratory experiment I. – selection and characterization of input material (moisture, density, porosity) (allowance 0/0)"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "5.Laboratory experiment II. – preparation of input material for composite materials (disintegration, drying, modification) (allowance 0/0)"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "6.Laboratory experiment III. – creation and finalization of the set (preparation and application of the adhesive mixture, layering composite carpet, folding a layered file) (allowance 0/0)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.Laboratory experiment IV. – aggregation process (pressing, 3D printing) (allowance 0/0)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Laboratory experiment V. – determination of physical properties (density/density profile, moisture content, thermal characteristics) (allowance 0/0)"
+    },
+    {
+      "label": "[section] Laboratory experiment IV. – aggregation process (pressing, 3D printing)",
+      "content": "8.Laboratory experiment V. – determination of physical properties (density/density profile, moisture content, thermal characteristics) (allowance 0/0)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Laboratory experiment VI. – determination of mechanical properties (strength and elastic characteristics, dynamic properties) (allowance 0/0)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Consultation of semester work - statistical analysis of measured data, results interpretation (allowance 0/0)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Presentation of seminar papers (allowance 0/0)"
+    },
+    {
+      "label": "[section] Consultation of semester work - statistical analysis of measured data, results interpretation",
+      "content": "11.Presentation of seminar papers (allowance 0/0)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Presentation of seminar papers (allowance 0/0)"
+    },
+    {
+      "label": "[section] Presentation of seminar papers",
+      "content": "12.Presentation of seminar papers (allowance 0/0)"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancelaboratory work56 hpreparation of presentation10 hwriting of seminar paper20 hTotal86 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Credit: active participation during laboratory work, preparation of seminar paper, presentation and defense of seminar paper"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation40 %Term paper30 %Presentation or defence30 %Total100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:PTÁČEK, Luděk et al. Nauka o materiálu I. 2nd ed. Brno: CERM, 516 p. ISBN 80-7204-283-1.PTÁČEK, Luděk et al. Nauka o materiálu II. 2nd ed. Brno: CERM, 392 p. ISBN 80-7204-248-3.ASHBY, M. F.; CEBON, David. 2010. Materials: engineering, science, processing and design. 2nd ed. Amsterdam [u.a.: Elsevier/Butterworth-Heinemann, 525 p. ISBN 978-1-85617-895-2. Databáze Scopus. Databáze Web of Science. Dostupné na http://portal.isiknowledge.com/. [online]. EHRENSTEIN, Gottfried W. 2009. Polymerní kompozitní materiály. 1st ed. Praha: Scientia, 351 p. ISBN 978-80-86960-29-6."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "PTÁČEK, Luděk et al. Nauka o materiálu I. 2nd ed. Brno: CERM, 516 p. ISBN 80-7204-283-1.PTÁČEK, Luděk et al. Nauka o materiálu II. 2nd ed. Brno: CERM, 392 p. ISBN 80-7204-248-3.ASHBY, M. F.; CEBON, David. 2010. Materials: engineering, science, processing and design. 2nd ed. Amsterdam [u.a.: Elsevier/Butterworth-Heinemann, 525 p. ISBN 978-1-85617-895-2. Databáze Scopus. Databáze Web of Science. Dostupné na http://portal.isiknowledge.com/. [online]. EHRENSTEIN, Gottfried W. 2009. Polymerní kompozitní materiály. 1st ed. Praha: Scientia, 351 p. ISBN 978-80-86960-29-6."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-BMT Biomaterials, full-time form, initial period WS 2024/2025"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:35:13",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

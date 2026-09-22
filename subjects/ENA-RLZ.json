@@ -5,7 +5,9 @@
   "nameEn": "Human Resource Management",
   "predmetId": "158197",
   "facultyId": 2,
-  "aliases": [],
+  "aliases": [
+    "RLZA"
+  ],
   "teachers": [
     "doc. Ing. Hana Stojanová, Ph.D."
   ],
@@ -83,7 +85,7 @@
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152059;lang=cz",
-      "totalPass": 53,
+      "totalPass": 54,
       "totalFail": 5,
       "terms": [
         {
@@ -120,12 +122,12 @@
             "A": 9,
             "B": 4,
             "C": 18,
-            "D": 6,
+            "D": 7,
             "E": 16,
             "F": 0,
             "FN": 5
           },
-          "pass": 53,
+          "pass": 54,
           "fail": 5
         },
         {
@@ -346,5 +348,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

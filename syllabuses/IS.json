@@ -1,0 +1,769 @@
+{
+  "courseCode": "IS",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "IS"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "IS podniku"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Information Systems"
+    },
+    {
+      "label": "Semestr:",
+      "content": "ZS 2021/2022"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "magisterský navazující"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, tutor)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Vývojové tendence a trendy v oblasti informačních a komunikačních technologií (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní pojmy"
+    },
+    {
+      "label": "b.",
+      "content": "Trendy v oblasti IS/IT"
+    },
+    {
+      "label": "c.",
+      "content": "Základní přehled současných ERP"
+    },
+    {
+      "label": "2.",
+      "content": "Systémová integrace (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy, vývoj a podstata systémove integrace"
+    },
+    {
+      "label": "b.",
+      "content": "Složky a úrovně systémové integrace."
+    },
+    {
+      "label": "c.",
+      "content": "Systémový integrátor a jeho funkce."
+    },
+    {
+      "label": "3.",
+      "content": "Přístupy k realizaci IS (dotace 6/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Životní cyklus projektu IS."
+    },
+    {
+      "label": "b.",
+      "content": "Přístupy k implementaci IS v podnikovém prostředí."
+    },
+    {
+      "label": "c.",
+      "content": "Manažerský pohled na rízení IS v podniku."
+    },
+    {
+      "label": "d.",
+      "content": "Faktory ovlivňující tvorbu a využití IS, kritéria volby typového ASW"
+    },
+    {
+      "label": "4.",
+      "content": "Ekonomické vyhodnocení projektu IS (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Přínosy a náklady IS."
+    },
+    {
+      "label": "b.",
+      "content": "Návratnost investic do IS."
+    },
+    {
+      "label": "c.",
+      "content": "Efektivnost nasazení IS."
+    },
+    {
+      "label": "5.",
+      "content": "Architektura IS (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Globální architektura. Dílčí architektury strukturované a objektové analýzy"
+    },
+    {
+      "label": "6.",
+      "content": "Nástroje analýzy a projektování (CASE) (dotace 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj, současný stav a vlastnosti."
+    },
+    {
+      "label": "b.",
+      "content": "Prototypování IS, podstata a význam."
+    },
+    {
+      "label": "7.",
+      "content": "Expertní systémy a neuronové sítě (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Vývoj znalostních systémů, klasifikace, tvorba a využití"
+    },
+    {
+      "label": "b.",
+      "content": "Neuronové sítě, struktura, využití"
+    },
+    {
+      "label": "8.",
+      "content": "Právní aspekty tvorby a využití IS software, ochrana dat (dotace 2/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Prezentace seminární práce (dotace 0/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Integrované informační systémy Microsoft Dynamic Nav, Vema, Helios and QI (dotace 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Práce a konfigurace s Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "b.",
+      "content": "Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "2022/2023 - doktorská studia, 2021/2022 - doktorská studia, LS 2020/2021, 2020/2021 - doktorská studia, ZS 2020/2021, LS 2019/2020 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: IS podniku"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Information Systems"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: ZS 2021/2022"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: magisterský navazující"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraniční mobility."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: doc. Ing. Ivana Rábová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, tutor)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí17.00-18.50Q15I. RábováPřednáškaKaždý týden48Úterý13.00-14.50Q06O. TrenzCvičeníKaždý týden20Pátek14.00-17.50Q15I. RábováPřednáškaNepravidelně48"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je získání nových znalostí z oboru informačních systémů, poznatky budou prohloubeny o principy architektury těchto systémů, jejich tvorby a implementace z manažerského hlediska. Studenti se seznámí s reálnými ERP systémy, se systémovou integrací a jejím vlivem na podnikové prostředí. Studenti si dále procvičí a upevní dovednosti související s praktickým ovládáním a prací s těmito systémy. Bude pojednáno také o systémech podnikové inteligenci s důrazem na přínosy a problémy při jejich realizaci a o bezpečnostní politice v podniku. V rámci výuky je prezentován základní právní rámec pro vývoj a provoz informačních systémů."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Vývojové tendence a trendy v oblasti informačních a komunikačních technologií (dotace 4/4) a.Základní pojmyb.Trendy v oblasti IS/ITc.Základní přehled současných ERP2.Systémová integrace (dotace 2/0) a.Principy, vývoj a podstata systémove integraceb.Složky a úrovně systémové integrace.c.Systémový integrátor a jeho funkce.3.Přístupy k realizaci IS (dotace 6/0) a.Životní cyklus projektu IS.b.Přístupy k implementaci IS v podnikovém prostředí.c.Manažerský pohled na rízení IS v podniku.d.Faktory ovlivňující tvorbu a využití IS, kritéria volby typového ASW4.Ekonomické vyhodnocení projektu IS (dotace 2/2) a.Přínosy a náklady IS.b.Návratnost investic do IS.c.Efektivnost nasazení IS.5.Architektura IS (dotace 4/6) a.Globální architektura. Dílčí architektury strukturované a objektové analýzy6.Nástroje analýzy a projektování (CASE) (dotace 2/6) a.Vývoj, současný stav a vlastnosti.b.Prototypování IS, podstata a význam.7.Expertní systémy a neuronové sítě (dotace 4/4) a.Vývoj znalostních systémů, klasifikace, tvorba a využitíb.Neuronové sítě, struktura, využití8.Právní aspekty tvorby a využití IS software, ochrana dat (dotace 2/0)9.Prezentace seminární práce (dotace 0/2)10.Integrované informační systémy Microsoft Dynamic Nav, Vema, Helios and QI (dotace 2/4) a.Práce a konfigurace s Microsoft Dynamic Nav, Vema, Helios and QIb.Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní pojmyb.Trendy v oblasti IS/ITc.Základní přehled současných ERP"
+    },
+    {
+      "label": "[section] Vývojové tendence a trendy v oblasti informačních a komunikačních technologií",
+      "content": "a.Základní pojmyb.Trendy v oblasti IS/ITc.Základní přehled současných ERP"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Principy, vývoj a podstata systémove integraceb.Složky a úrovně systémové integrace.c.Systémový integrátor a jeho funkce."
+    },
+    {
+      "label": "[section] Systémová integrace",
+      "content": "a.Principy, vývoj a podstata systémove integraceb.Složky a úrovně systémové integrace.c.Systémový integrátor a jeho funkce."
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Životní cyklus projektu IS.b.Přístupy k implementaci IS v podnikovém prostředí.c.Manažerský pohled na rízení IS v podniku.d.Faktory ovlivňující tvorbu a využití IS, kritéria volby typového ASW"
+    },
+    {
+      "label": "[section] Přístupy k realizaci IS",
+      "content": "a.Životní cyklus projektu IS.b.Přístupy k implementaci IS v podnikovém prostředí.c.Manažerský pohled na rízení IS v podniku.d.Faktory ovlivňující tvorbu a využití IS, kritéria volby typového ASW"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Přínosy a náklady IS.b.Návratnost investic do IS.c.Efektivnost nasazení IS."
+    },
+    {
+      "label": "[section] Ekonomické vyhodnocení projektu IS",
+      "content": "a.Přínosy a náklady IS.b.Návratnost investic do IS.c.Efektivnost nasazení IS."
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Globální architektura. Dílčí architektury strukturované a objektové analýzy"
+    },
+    {
+      "label": "[section] Architektura IS",
+      "content": "a.Globální architektura. Dílčí architektury strukturované a objektové analýzy"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Vývoj, současný stav a vlastnosti.b.Prototypování IS, podstata a význam."
+    },
+    {
+      "label": "[section] Nástroje analýzy a projektování (CASE)",
+      "content": "a.Vývoj, současný stav a vlastnosti.b.Prototypování IS, podstata a význam."
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Vývoj znalostních systémů, klasifikace, tvorba a využitíb.Neuronové sítě, struktura, využití"
+    },
+    {
+      "label": "[section] Expertní systémy a neuronové sítě",
+      "content": "a.Vývoj znalostních systémů, klasifikace, tvorba a využitíb.Neuronové sítě, struktura, využití"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Prezentace seminární práce (dotace 0/2)"
+    },
+    {
+      "label": "[section] Právní aspekty tvorby a využití IS software, ochrana dat",
+      "content": "9.Prezentace seminární práce (dotace 0/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Integrované informační systémy Microsoft Dynamic Nav, Vema, Helios and QI (dotace 2/4)"
+    },
+    {
+      "label": "[section] Prezentace seminární práce",
+      "content": "10.Integrované informační systémy Microsoft Dynamic Nav, Vema, Helios and QI (dotace 2/4)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Práce a konfigurace s Microsoft Dynamic Nav, Vema, Helios and QIb.Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "[section] Integrované informační systémy Microsoft Dynamic Nav, Vema, Helios and QI",
+      "content": "a.Práce a konfigurace s Microsoft Dynamic Nav, Vema, Helios and QIb.Funkce, data a konfigurační parametry v IS Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hpříprava na zkoušku50 h110 hpříprava na průběžné hodnocení15 h0 hpříprava na průběžný test15 h0 hpříprava prezentace5 h0 hzpracování seminární práce27 h42 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Zápočet: Studenti napíšou seminární práci na libovolné téma související s problematikou a svou práci odprezentují (30 bodů). Povinný zápočtový test je v rozsahu výuky ze cvičení (25 bodů - 5 otevřených otázek po 5 bodech). Podmínkou pro udělení zápočtu je získání 30 bodů celkem. Zkouška: Podmínkou je udělení zápočtu. Písemná zkouška je v rozsahu 8 komplexních otázek po 5 bodech a jednoho příkladu za 10 bodů s časovým limitem 45 minut (ke splnění minimálních požadavků je třeba získat alespoň 30 bodů). Otázky jsou průřezem přednášek i poznatků, získaných v rámci cvičení. Konečné hodnocení: A 90 a více B 83 až 89 C 75 až 82 D 68 až 74 E 60 až 67 F 59 a méně."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích5 %5 %Vypracování semestrální práce20 %45 %Prezentace nebo obhajoba5 %0 %Absolvování průběžného testu (testů)25 %0 %Absolvování závěrečného testu45 %50 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3. vyd. Praha: Grada, 323 s. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1. vyd. Brno: Akademické nakladatelství CERM, 340 s. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1. vyd. Brno: Tribun EU, 139 s. ISBN 978-80-7399-599-7.Doporučená:CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2. vyd. Brno: Computer Press, 501 s. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1. vyd. Brno: Computer Press, 373 s. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3. vyd. Praha: Grada, 323 s. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1. vyd. Brno: Akademické nakladatelství CERM, 340 s. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1. vyd. Brno: Tribun EU, 139 s. ISBN 978-80-7399-599-7."
+    },
+    {
+      "label": "[section] Doporučená:",
+      "content": "CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2. vyd. Brno: Computer Press, 501 s. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1. vyd. Brno: Computer Press, 373 s. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Obor N-EKMAN-ME Manažersko-ekonomický, prezenční forma, počáteční období LS 2019/2020Obor N-EKMAN-ME Manažersko-ekonomický, kombinovaná forma, počáteční období LS 2019/2020"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "IS"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "IS podniku"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Information Systems"
+    },
+    {
+      "label": "Semester:",
+      "content": "WS 2021/2022"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "master continuing"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "The course is possible to study during exchange mobility."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (instructor, tutor)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "Final Bachelor Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Development tendencies and trends in information and communication area (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Basic concepts"
+    },
+    {
+      "label": "b.",
+      "content": "Trends in IS/IT area"
+    },
+    {
+      "label": "c.",
+      "content": "Basic review of actual ERP"
+    },
+    {
+      "label": "2.",
+      "content": "System integration (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Principles, development and fundamental of system integration"
+    },
+    {
+      "label": "b.",
+      "content": "Components and levels of system integration"
+    },
+    {
+      "label": "c.",
+      "content": "System integrator and his functions"
+    },
+    {
+      "label": "3.",
+      "content": "Approaches to the realization of IS (allowance 6/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Life cycle of IS project"
+    },
+    {
+      "label": "b.",
+      "content": "Approaches to IS implementation in enterprise"
+    },
+    {
+      "label": "c.",
+      "content": "Management view and administration of IS in enterprise"
+    },
+    {
+      "label": "d.",
+      "content": "Factors in creation and using IS, criteria of typa ASW choice"
+    },
+    {
+      "label": "4.",
+      "content": "Economic evaluation of IS project (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Costs and gains of IS"
+    },
+    {
+      "label": "b.",
+      "content": "Returns of IS investments"
+    },
+    {
+      "label": "c.",
+      "content": "IS efficiency"
+    },
+    {
+      "label": "5.",
+      "content": "Architecture of IS (allowance 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Global architecture, partial architectures of structured and object analysis"
+    },
+    {
+      "label": "6.",
+      "content": "Tools of analysis and projecting (CASE) (allowance 2/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Developement, current state, characteristics"
+    },
+    {
+      "label": "b.",
+      "content": "Prototyping IS, fundamental and importance"
+    },
+    {
+      "label": "7.",
+      "content": "Expert systems and neuron nets (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Knowledge systems development, classification, creation and using"
+    },
+    {
+      "label": "b.",
+      "content": "Neuron nets, structure and using"
+    },
+    {
+      "label": "8.",
+      "content": "Legal aspects of creation and usage of software, protection of data (allowance 2/0)"
+    },
+    {
+      "label": "9.",
+      "content": "Prezentation of seminar work (allowance 0/2)"
+    },
+    {
+      "label": "10.",
+      "content": "Integrated information systems Microsoft Dynamic Nav, Vema, Helios and QI (allowance 2/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Work with IS Microsoft Dynamic Nav, Vema, Helios and QI, configuration and operating"
+    },
+    {
+      "label": "b.",
+      "content": "Functions, data and configuration parameters of Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "2022/2023 - post-graduate studies, 2021/2022 - post-graduate studies, SS 2020/2021, 2020/2021 - post-graduate studies, WS 2020/2021, SS 2019/2020 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: IS podniku"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Information Systems"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: WS 2021/2022"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: master continuing"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: The course is possible to study during exchange mobility."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: doc. Ing. Ivana Rábová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: doc. Ing. Ivana Rábová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (instructor, tutor)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: Final Bachelor Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday17.00-18.50Q15I. RábováLectureEvery week48Tuesday13.00-14.50Q06O. TrenzSeminarEvery week20Friday14.00-17.50Q15I. RábováLectureOccasionally48"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The goal of subject is to gain of knowledge and the global overview at relationship informatics and business global strategy and knowledge about ERP systems. Students elaborate their knowledge about architecture of information systems and life cycle of IS development. Students learn the methods of structured and object approach in development of software applications and with technologies of management and working ERP systems. Business intelligence and security in IS are significant topics. There is presented also the law framework for IS/IT development and working."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Development tendencies and trends in information and communication area (allowance 4/4) a.Basic conceptsb.Trends in IS/IT areac.Basic review of actual ERP2.System integration (allowance 2/0) a.Principles, development and fundamental of system integrationb.Components and levels of system integrationc.System integrator and his functions3.Approaches to the realization of IS (allowance 6/0) a.Life cycle of IS projectb.Approaches to IS implementation in enterprisec.Management view and administration of IS in enterprised.Factors in creation and using IS, criteria of typa ASW choice4.Economic evaluation of IS project (allowance 2/2) a.Costs and gains of ISb.Returns of IS investmentsc.IS efficiency5.Architecture of IS (allowance 4/6) a.Global architecture, partial architectures of structured and object analysis6.Tools of analysis and projecting (CASE) (allowance 2/6) a.Developement, current state, characteristicsb.Prototyping IS, fundamental and importance7.Expert systems and neuron nets (allowance 4/4) a.Knowledge systems development, classification, creation and usingb.Neuron nets, structure and using8.Legal aspects of creation and usage of software, protection of data (allowance 2/0)9.Prezentation of seminar work (allowance 0/2)10.Integrated information systems Microsoft Dynamic Nav, Vema, Helios and QI (allowance 2/4) a.Work with IS Microsoft Dynamic Nav, Vema, Helios and QI, configuration and operatingb.Functions, data and configuration parameters of Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Basic conceptsb.Trends in IS/IT areac.Basic review of actual ERP"
+    },
+    {
+      "label": "[section] Development tendencies and trends in information and communication area",
+      "content": "a.Basic conceptsb.Trends in IS/IT areac.Basic review of actual ERP"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Principles, development and fundamental of system integrationb.Components and levels of system integrationc.System integrator and his functions"
+    },
+    {
+      "label": "[section] System integration",
+      "content": "a.Principles, development and fundamental of system integrationb.Components and levels of system integrationc.System integrator and his functions"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Life cycle of IS projectb.Approaches to IS implementation in enterprisec.Management view and administration of IS in enterprised.Factors in creation and using IS, criteria of typa ASW choice"
+    },
+    {
+      "label": "[section] Approaches to the realization of IS",
+      "content": "a.Life cycle of IS projectb.Approaches to IS implementation in enterprisec.Management view and administration of IS in enterprised.Factors in creation and using IS, criteria of typa ASW choice"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Costs and gains of ISb.Returns of IS investmentsc.IS efficiency"
+    },
+    {
+      "label": "[section] Economic evaluation of IS project",
+      "content": "a.Costs and gains of ISb.Returns of IS investmentsc.IS efficiency"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Global architecture, partial architectures of structured and object analysis"
+    },
+    {
+      "label": "[section] Architecture of IS",
+      "content": "a.Global architecture, partial architectures of structured and object analysis"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Developement, current state, characteristicsb.Prototyping IS, fundamental and importance"
+    },
+    {
+      "label": "[section] Tools of analysis and projecting (CASE)",
+      "content": "a.Developement, current state, characteristicsb.Prototyping IS, fundamental and importance"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Knowledge systems development, classification, creation and usingb.Neuron nets, structure and using"
+    },
+    {
+      "label": "[section] Expert systems and neuron nets",
+      "content": "a.Knowledge systems development, classification, creation and usingb.Neuron nets, structure and using"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Prezentation of seminar work (allowance 0/2)"
+    },
+    {
+      "label": "[section] Legal aspects of creation and usage of software, protection of data",
+      "content": "9.Prezentation of seminar work (allowance 0/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.Integrated information systems Microsoft Dynamic Nav, Vema, Helios and QI (allowance 2/4)"
+    },
+    {
+      "label": "[section] Prezentation of seminar work",
+      "content": "10.Integrated information systems Microsoft Dynamic Nav, Vema, Helios and QI (allowance 2/4)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Work with IS Microsoft Dynamic Nav, Vema, Helios and QI, configuration and operatingb.Functions, data and configuration parameters of Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "[section] Integrated information systems Microsoft Dynamic Nav, Vema, Helios and QI",
+      "content": "a.Work with IS Microsoft Dynamic Nav, Vema, Helios and QI, configuration and operatingb.Functions, data and configuration parameters of Microsoft Dynamic Nav, Vema, Helios and QI"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hpreparation for exam50 h110 hpreparation for regular assessment15 h0 hpreparation for regular testing15 h0 hpreparation of presentation5 h0 hwriting of seminar paper27 h42 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "Lectures, practices: Students write essay (elaboration of seminar work about one of IS/IT issue), discussions and presentation of essay (30 points). Mandatory written test (25 points - 5 points per question). Exam is in written form (8 complex question (5 points) and 1 example (10 points) with time limit of 45 minutes (the minimum are 30 points from total sum of points 50). Questions are from lectures and also from seminars. Final classification: A 90 and more B 83 to 89 C 75 to 82 D 68 to 74 E 60 to 67 F 59 and less."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation5 %5 %Term paper20 %45 %Presentation or defence5 %0 %Mid-term test(s)25 %0 %Final test45 %50 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3rd ed. Praha: Grada, 323 p. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1st ed. Brno: Akademické nakladatelství CERM, 340 p. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1st ed. Brno: Tribun EU, 139 p. ISBN 978-80-7399-599-7.Recommended:CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2nd ed. Brno: Computer Press, 501 p. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1st ed. Brno: Computer Press, 373 p. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "BASL, Josef; BLAŽÍČEK, Roman. 2012. Podnikové informační systémy: podnik v informační společnosti. 3rd ed. Praha: Grada, 323 p. Management v informační společnosti. ISBN 978-80-247-4307-3.DOSTÁL, Petr. 2008. Pokročilé metody analýz a modelování v podnikatelství a veřejné správě. 1st ed. Brno: Akademické nakladatelství CERM, 340 p. ISBN 978-80-7204-605-8.RÁBOVÁ, Ivana. 2008. Podnikové informační systémy a technologie jejich vývoje. 1st ed. Brno: Tribun EU, 139 p. ISBN 978-80-7399-599-7."
+    },
+    {
+      "label": "[section] Recommended:",
+      "content": "CUMMINGS, Maeve; HAAG, Stephen. 2009. Management Information Systems for the Information Age. New York: McGraw-Hill/Irwin.SODOMKA, Petr; KLČOVÁ, Hana. 2010. Informační systémy v podnikové praxi. 2nd ed. Brno: Computer Press, 501 p. ISBN 978-80-251-2878-7.LUSZCZAK, Andreas; SINGER, Robert. 2011. Microsoft Dynamics NAV: výukový kurz. 1st ed. Brno: Computer Press, 373 p. ISBN 978-80-251-2851-0.Zákon 101/1999 o ochraně osobních údajů, ze dne 4.4.2000 http://www.sagit.cz/Sbirka/ksbdefault.htmZákon 106/1999 o svobodném přístupu k informacím, ze dne 11.5.1999 http://www.sagit.cz/Sbirka/ksbdefault.htm"
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Field of study N-EKMAN-ME Business Economics and Management, full-time form, initial period SS 2019/2020Field of study N-EKMAN-ME Business Economics and Management, part-time form, initial period SS 2019/2020"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 08:30:58",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

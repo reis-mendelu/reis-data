@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2022/2023"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -63,7 +63,7 @@
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "Základy objektového návrhu a ne Státní bakalářská zkouška a ne (Webové aplikace nebo nyní Webové aplikace)"
     },
     {
       "label": "1.",
@@ -199,7 +199,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -215,7 +215,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2022/2023"
     },
     {
       "label": "[section] Semestr:",
@@ -267,11 +267,11 @@
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "Prerekvizity: Základy objektového návrhu a ne Státní bakalářská zkouška a ne (Webové aplikace nebo nyní Webové aplikace)"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí9.00-10.50Q16B-OII. PisařovicPřednáškaLichý týden80Pondělí15.00-16.50Q06B-OII. PisařovicCvičeníKaždý týden21Pondělí17.00-18.50Q06B-OII. PisařovicCvičeníKaždý týden21Pátek7.00-8.50Q08B-OIT. JakúbekCvičeníKaždý týden21"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý7.00-8.50Q07T. JakúbekCvičeníKaždý týden20Úterý11.00-12.50Q05T. JakúbekCvičeníKaždý týden20Čtvrtek9.00-10.50Q06I. PisařovicCvičeníKaždý týden20Čtvrtek15.00-16.50Q03I. PisařovicPřednáškaLichý týden170"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -331,11 +331,11 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku20 hzpracování projektů78 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška14 hcvičení28 hpříprava na zkoušku20 hzpracování projektů78 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "# Aktivita na cvičeních - 10 bodů, min. 0 - Docházka je dobrovolná. - Je možné získat až 10 bonusových bodů za aktivitu na cvičeních. # Projekt - 60 bodů, min. 30 - Implementace komplexní webové aplikace. - Implementuje se frontend napojený na existující službu. Backend není součástí projektu. - Projekt se vypracovává v týmech. - Na projektu se pracuje průběžně, to je prokázáno commity v git repozitáři. - Součástí musí být i sada automatických testů. - Obhajoby projektu se účastní celý tým v jednom termínu naráz. - Obhajoba projektu může být až po zkoušce. # Zkouška - 40 bodů, min. 20 - Ústní zkouška. - Ověřování pochopení principů vývoje frontendu a teoretických znalostí z přednášek. Výsledná známka je součtem bodů ze zkoušky, projektu a aktivity na cvičeních. Celkově lze získat maximálně 100 bodů. Pro úspěšné ukončení je třeba získat minimálně 60 bodů. A 90 - 100 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 67 F 0 - 59"
+      "content": "Předmět je ukončen ústní zkouškou, která ověřuje pochopení principů vývoje frontendu. Dále je nutné obhájit semestrální týmový projekt. V rámci projektu studenti vypracovávají vlastní webovou aplikaci napojenou na existující zdroj dat. Projekt je týmový, musí být vypracováván průběžně a ukládán do git repozitáře. Zkouška je bodována 40 body. Obhajoba projektu je hodnocena 60 body. Pro ukončení předmětu je nutné dosáhnout alespoň 60 bodů celkem. Projekt musí být obhájen před zkouškou. Docházka je dobrovolná. Je však možné získat až 10 bodů za aktivitu na cvičeních. Tyto body se počítají k dobru u zkoušky. Výsledná známka je součtem bodů ze zkoušky a projektu: A 100 - 90 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 69 F 0 - 59"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -351,7 +351,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Zaměření ZBOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -373,7 +373,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2022/2023"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -421,7 +421,7 @@
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "Basics of Object Oriented Design and not Final Bachelor Exam and not (Web Applications or now Web Applications)"
     },
     {
       "label": "1.",
@@ -557,7 +557,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -573,7 +573,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2022/2023"
     },
     {
       "label": "[section] Semester:",
@@ -625,11 +625,11 @@
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "Prerequisites: Basics of Object Oriented Design and not Final Bachelor Exam and not (Web Applications or now Web Applications)"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday9.00-10.50Q16B-OII. PisařovicLectureOdd week80Monday15.00-16.50Q06B-OII. PisařovicSeminarEvery week21Monday17.00-18.50Q06B-OII. PisařovicSeminarEvery week21Friday7.00-8.50Q08B-OIT. JakúbekSeminarEvery week21"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday7.00-8.50Q07T. JakúbekSeminarEvery week20Tuesday11.00-12.50Q05T. JakúbekSeminarEvery week20Thursday9.00-10.50Q06I. PisařovicSeminarEvery week20Thursday15.00-16.50Q03I. PisařovicLectureOdd week170"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -689,11 +689,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam20 helaboration and execution of projects78 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture14 hpractice28 hpreparation for exam20 helaboration and execution of projects78 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "# Activity during seminars - 10 points, min. 0 - Attendance is voluntary. - It is possible to earn up to 10 bonus points for activity during seminars. # Project - 60 points, min. 30 - Implementation of a complex web application. - Implementing a frontend app connected to an existing service. Backend is not part of the project. - The project is developed in teams. - Students must work on the project continuously, this is demonstrated by commits in the git repository. - A set of automated tests must be included. - The entire team participates in the project defense in one term. - The project defense may be after the exam. # Exam - 40 points, min. 20 - Oral exam. - Verification of understanding the principles of frontend development and theoretical knowledge from lectures. The final grade is the sum of the points from the exam, the project and the activity in the seminars. A maximum of 100 points can be obtained in total. A minimum of 60 points is required for successful completion. A 90 - 100 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 67 F 0 - 59"
+      "content": "This course is completed with an oral exam where students should demonstrate their understanding of frontend development principles. Furthermore, students must defend their team projects. The project consists of a custom web application connected to an existing data source. Students must work on the project in teams, and they must continuously submit pieces to a git repository. Maximum score for the exam is 40 points. Maximum score for the project defence is 60 points. Students must collect at least 60 points in total. The project must be defended before the exam. Attendance is voluntary. However, it is possible to earn up to 10 points for activity during seminars. These points are counted as exam points. The final grade is determined based on the sum of points for the exam and project: A 100 - 90 B 83 - 89 C 75 - 82 D 68 - 74 E 60 - 69 F 0 - 59"
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -709,13 +709,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2023/2024"
+      "content": "Scope ZBOI Scope for Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:46:55",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:02:08",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

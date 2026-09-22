@@ -7,23 +7,23 @@
     },
     {
       "label": "Název předmětu česky:",
-      "content": "Geoinformační systémy"
+      "content": "Systémy GIS"
     },
     {
       "label": "Název předmětu anglicky:",
-      "content": "Geoinformation Systems"
+      "content": "GIS Systems"
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2020/2021"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
-      "content": "zkouška (5 kreditů)"
+      "content": "zápočet (3 kredity)"
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -31,7 +31,7 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "povinný"
+      "content": "volitelný"
     },
     {
       "label": "Typ výuky předmětu:",
@@ -47,159 +47,175 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. Ing. Martin Klimánek, Ph.D."
+      "content": "Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "Garantující ústav:",
-      "content": "Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+      "content": "Ústav zahradnické techniky (ZF)"
     },
     {
       "label": "Fakulta:",
-      "content": "Lesnická a dřevařská fakulta"
+      "content": "Zahradnická fakulta"
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Stanislav Herber (cvičící)doc. Ing. Martin Klimánek, Ph.D. (garant, přednášející, zkoušející)Ing. Dominika Krausková (cvičící)Ing. Petr Vahalík, Ph.D. (cvičící, přednášející)Ing. Nikola Žižlavská (cvičící)"
+      "content": "Ing. Jaromír Skoupil, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška nebo nyní Státní bakalářská zkouška"
+      "content": "žádné"
     },
     {
       "label": "1.",
-      "content": "Prostorová data (dotace 2/2)"
+      "content": "Uživatelské rozhraní Topolu. (dotace 0/2)"
     },
     {
       "label": "a.",
-      "content": "definice a základní pojmy"
+      "content": "Základní pojmy."
     },
     {
       "label": "b.",
-      "content": "datové modely"
+      "content": "Předmět zájmu, blok, rastr."
     },
     {
       "label": "c.",
-      "content": "struktura prostorových dat"
-    },
-    {
-      "label": "2.",
-      "content": "Analogová a digitální data a jejich integrace do GIS (dotace 4/2)"
-    },
-    {
-      "label": "a.",
-      "content": "datové zdroje v ČR a v zahraničí"
-    },
-    {
-      "label": "b.",
-      "content": "kvalita dat a jejich obsahová náplň, zdroje chyb"
-    },
-    {
-      "label": "c.",
-      "content": "kartografická zobrazení a souřadnicové systémy"
-    },
-    {
-      "label": "3.",
-      "content": "Technologie pořizování dat (dotace 6/12)"
-    },
-    {
-      "label": "a.",
-      "content": "globální navigační satelitní systémy, senzorové sítě"
-    },
-    {
-      "label": "b.",
-      "content": "dálkový průzkum Země -- multispektrální snímky a laserové skenování"
-    },
-    {
-      "label": "c.",
-      "content": "digitalizace, georeferencování, využití analogových dat"
+      "content": "Zobrazení kladů mapových listů a grafických dat."
     },
     {
       "label": "d.",
-      "content": "digitální modely terénu a topografické analýzy"
+      "content": "Textové styly, písmo."
     },
     {
       "label": "e.",
-      "content": "atributová data a jejich integrace do GIS, geodatabáze, dotazy"
+      "content": "Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (PEJCHAL,ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)"
     },
     {
-      "label": "4.",
-      "content": "Prostorové operace (dotace 6/6)"
+      "label": "2.",
+      "content": "Příprava projektu. (dotace 0/8)"
     },
     {
       "label": "a.",
-      "content": "prohledávání a měření, překryty"
+      "content": "Práce s rastry - transformace, připojení."
     },
     {
       "label": "b.",
-      "content": "operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchy"
+      "content": "Režimy uchopování, lupa."
     },
     {
       "label": "c.",
-      "content": "multikriteriální prostorové analýzy"
-    },
-    {
-      "label": "5.",
-      "content": "Prezentace výstupů z GIS (dotace 2/2)"
-    },
-    {
-      "label": "a.",
-      "content": "tvorba mapových kompozic"
-    },
-    {
-      "label": "b.",
-      "content": "zásady (tematické) kartografie, metody vizualizace"
-    },
-    {
-      "label": "6.",
-      "content": "Aplikace GIS (dotace 8/4)"
-    },
-    {
-      "label": "a.",
-      "content": "management GIS projektů, participativní a kolaborativní mapování"
-    },
-    {
-      "label": "b.",
-      "content": "mobilní GIS, webové mapové servery a služby, geoportály"
-    },
-    {
-      "label": "c.",
-      "content": "precizní lesnictví, precizní zemědělství"
+      "content": "Vektorizace - snímání linií a bodů."
     },
     {
       "label": "d.",
-      "content": "management přírodních zdrojů a rizik, mapování změn krajiny"
+      "content": "Plochování, editace ploch."
+    },
+    {
+      "label": "e.",
+      "content": "Editor knihovny značek."
+    },
+    {
+      "label": "3.",
+      "content": "Databáze. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Vytvoření popisové databáze ke grafickým objektům."
+    },
+    {
+      "label": "b.",
+      "content": "Editace databází."
+    },
+    {
+      "label": "c.",
+      "content": "Práce s databázovými daty - dotazy, filtry, spojování, aktualizace."
+    },
+    {
+      "label": "d.",
+      "content": "Vzájemné ovlivňování výběrů grafických a databázových dat."
+    },
+    {
+      "label": "4.",
+      "content": "Tvorba legendy. (dotace 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Tvorba a úpravy souboru legendy."
+    },
+    {
+      "label": "b.",
+      "content": "Zobrazování podle zvolených kritérií."
+    },
+    {
+      "label": "c.",
+      "content": "Nastavení zobrazení."
+    },
+    {
+      "label": "5.",
+      "content": "Konstrukční úlohy. (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Kopírování objektů mezi bloky."
+    },
+    {
+      "label": "b.",
+      "content": "Přenášení atributů."
+    },
+    {
+      "label": "6.",
+      "content": "Příprava a tisk tématické mapy. (dotace 0/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Inventarizace stromů LParku. (PEJCHAL, ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)"
+    },
+    {
+      "label": "b.",
+      "content": "Anotační vrstvy, popisky."
+    },
+    {
+      "label": "c.",
+      "content": "Vytvoření šablony tisku."
+    },
+    {
+      "label": "d.",
+      "content": "Měřítko a tisk."
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "ZS 2020/2021, LS 2019/2020, ZS 2019/2020, ZS 2018/2019, LS 2016/2017, ZS 2016/2017 (a starší)"
     },
     {
       "label": "Místo výuky:",
-      "content": "Brno"
+      "content": "Lednice"
     },
     {
       "label": "[section] Kód předmětu:",
-      "content": "Název předmětu česky: Geoinformační systémy"
+      "content": "Název předmětu česky: Systémy GIS"
     },
     {
       "label": "[section] Název předmětu česky:",
-      "content": "Název předmětu anglicky: Geoinformation Systems"
+      "content": "Název předmětu anglicky: GIS Systems"
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2020/2021"
     },
     {
       "label": "[section] Semestr:",
-      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
-      "label": "[section] zkouška (5 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "label": "[section] zápočet (3 kredity)",
+      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -207,7 +223,7 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: povinný"
+      "content": "Typ předmětu: volitelný"
     },
     {
       "label": "[section] Typ předmětu:",
@@ -223,115 +239,115 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. Ing. Martin Klimánek, Ph.D."
+      "content": "Garant předmětu: Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
-      "content": "Garantující ústav: Ústav hospodářské úpravy lesů a aplikované geoinformatiky (LDF)"
+      "content": "Garantující ústav: Ústav zahradnické techniky (ZF)"
     },
     {
       "label": "[section] Garantující ústav:",
-      "content": "Fakulta: Lesnická a dřevařská fakulta"
+      "content": "Fakulta: Zahradnická fakulta"
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Stanislav Herber (cvičící)doc. Ing. Martin Klimánek, Ph.D. (garant, přednášející, zkoušející)Ing. Dominika Krausková (cvičící)Ing. Petr Vahalík, Ph.D. (cvičící, přednášející)Ing. Nikola Žižlavská (cvičící)"
+      "content": "Vyučující: Ing. Jaromír Skoupil, Ph.D. (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška nebo nyní Státní bakalářská zkouška"
+      "content": "Prerekvizity: žádné"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPoznámkaPondělí11.00-12.50B03S. HerberCvičeníKaždý týden20 Pondělí15.00-16.50B03N. ŽižlavskáCvičeníKaždý týden20 Pondělí17.00-18.50B03N. ŽižlavskáCvičeníKaždý týden20 Úterý11.00-12.50B03D. KrauskováCvičeníKaždý týden20 Úterý13.00-14.50B03D. KrauskováCvičeníKaždý týden20 Úterý17.00-18.50B03P. VahalíkCvičeníKaždý týden20opakujícíStředa8.00-11.50B03B-ARBOB-LESN32není určenPřednáškaNepravidelně26 Čtvrtek11.00-12.50B03S. HerberCvičeníKaždý týden20 Čtvrtek13.00-14.50B03S. HerberCvičeníKaždý týden20 Čtvrtek15.00-16.50B32M. KlimánekPřednáškaKaždý týden120"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Podat posluchačům základní informaci o prostorových datech (geodatech), geografických informačních systémech (GIS) a nejdůležitějších funkčních a analytických operacích používaných v GIS. Naučit je nejdůležitějším praktickým úlohám GIS."
+      "content": "Seznámit s programem TOPOL a jeho nástroji pro pořizování, údržbu a vyhodnocování geografických dat. Vytvářet projekty. Využít získaných poznatků v odborných předmětech (ateliéry, krajinné plánování, krajinná ekologie, atd.)"
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Prostorová data (dotace 2/2) a.definice a základní pojmyb.datové modelyc.struktura prostorových dat2.Analogová a digitální data a jejich integrace do GIS (dotace 4/2) a.datové zdroje v ČR a v zahraničíb.kvalita dat a jejich obsahová náplň, zdroje chybc.kartografická zobrazení a souřadnicové systémy3.Technologie pořizování dat (dotace 6/12) a.globální navigační satelitní systémy, senzorové sítěb.dálkový průzkum Země -- multispektrální snímky a laserové skenováníc.digitalizace, georeferencování, využití analogových datd.digitální modely terénu a topografické analýzye.atributová data a jejich integrace do GIS, geodatabáze, dotazy4.Prostorové operace (dotace 6/6) a.prohledávání a měření, překrytyb.operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchyc.multikriteriální prostorové analýzy5.Prezentace výstupů z GIS (dotace 2/2) a.tvorba mapových kompozicb.zásady (tematické) kartografie, metody vizualizace6.Aplikace GIS (dotace 8/4) a.management GIS projektů, participativní a kolaborativní mapováníb.mobilní GIS, webové mapové servery a služby, geoportályc.precizní lesnictví, precizní zemědělstvíd.management přírodních zdrojů a rizik, mapování změn krajiny"
+      "content": "1.Uživatelské rozhraní Topolu. (dotace 0/2) a.Základní pojmy.b.Předmět zájmu, blok, rastr.c.Zobrazení kladů mapových listů a grafických dat.d.Textové styly, písmo.e.Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (PEJCHAL,ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)2.Příprava projektu. (dotace 0/8) a.Práce s rastry - transformace, připojení.b.Režimy uchopování, lupa.c.Vektorizace - snímání linií a bodů.d.Plochování, editace ploch.e.Editor knihovny značek.3.Databáze. (dotace 0/4) a.Vytvoření popisové databáze ke grafickým objektům.b.Editace databází.c.Práce s databázovými daty - dotazy, filtry, spojování, aktualizace.d.Vzájemné ovlivňování výběrů grafických a databázových dat.4.Tvorba legendy. (dotace 0/4) a.Tvorba a úpravy souboru legendy.b.Zobrazování podle zvolených kritérií.c.Nastavení zobrazení.5.Konstrukční úlohy. (dotace 0/2) a.Kopírování objektů mezi bloky.b.Přenášení atributů.6.Příprava a tisk tématické mapy. (dotace 0/8) a.Inventarizace stromů LParku. (PEJCHAL, ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)b.Anotační vrstvy, popisky.c.Vytvoření šablony tisku.d.Měřítko a tisk."
     },
     {
       "label": "[section] 1.",
-      "content": "a.definice a základní pojmyb.datové modelyc.struktura prostorových dat"
+      "content": "a.Základní pojmy.b.Předmět zájmu, blok, rastr.c.Zobrazení kladů mapových listů a grafických dat.d.Textové styly, písmo.e.Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (PEJCHAL,ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)"
     },
     {
-      "label": "[section] Prostorová data",
-      "content": "a.definice a základní pojmyb.datové modelyc.struktura prostorových dat"
+      "label": "[section] Uživatelské rozhraní Topolu.",
+      "content": "a.Základní pojmy.b.Předmět zájmu, blok, rastr.c.Zobrazení kladů mapových listů a grafických dat.d.Textové styly, písmo.e.Seznámení s digitálními dokumenty pořízených v rámci projektu OPVK. (PEJCHAL,ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)"
     },
     {
       "label": "[section] 2.",
-      "content": "a.datové zdroje v ČR a v zahraničíb.kvalita dat a jejich obsahová náplň, zdroje chybc.kartografická zobrazení a souřadnicové systémy"
+      "content": "a.Práce s rastry - transformace, připojení.b.Režimy uchopování, lupa.c.Vektorizace - snímání linií a bodů.d.Plochování, editace ploch.e.Editor knihovny značek."
     },
     {
-      "label": "[section] Analogová a digitální data a jejich integrace do GIS",
-      "content": "a.datové zdroje v ČR a v zahraničíb.kvalita dat a jejich obsahová náplň, zdroje chybc.kartografická zobrazení a souřadnicové systémy"
+      "label": "[section] Příprava projektu.",
+      "content": "a.Práce s rastry - transformace, připojení.b.Režimy uchopování, lupa.c.Vektorizace - snímání linií a bodů.d.Plochování, editace ploch.e.Editor knihovny značek."
     },
     {
       "label": "[section] 3.",
-      "content": "a.globální navigační satelitní systémy, senzorové sítěb.dálkový průzkum Země -- multispektrální snímky a laserové skenováníc.digitalizace, georeferencování, využití analogových datd.digitální modely terénu a topografické analýzye.atributová data a jejich integrace do GIS, geodatabáze, dotazy"
+      "content": "a.Vytvoření popisové databáze ke grafickým objektům.b.Editace databází.c.Práce s databázovými daty - dotazy, filtry, spojování, aktualizace.d.Vzájemné ovlivňování výběrů grafických a databázových dat."
     },
     {
-      "label": "[section] Technologie pořizování dat",
-      "content": "a.globální navigační satelitní systémy, senzorové sítěb.dálkový průzkum Země -- multispektrální snímky a laserové skenováníc.digitalizace, georeferencování, využití analogových datd.digitální modely terénu a topografické analýzye.atributová data a jejich integrace do GIS, geodatabáze, dotazy"
+      "label": "[section] Databáze.",
+      "content": "a.Vytvoření popisové databáze ke grafickým objektům.b.Editace databází.c.Práce s databázovými daty - dotazy, filtry, spojování, aktualizace.d.Vzájemné ovlivňování výběrů grafických a databázových dat."
     },
     {
       "label": "[section] 4.",
-      "content": "a.prohledávání a měření, překrytyb.operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchyc.multikriteriální prostorové analýzy"
+      "content": "a.Tvorba a úpravy souboru legendy.b.Zobrazování podle zvolených kritérií.c.Nastavení zobrazení."
     },
     {
-      "label": "[section] Prostorové operace",
-      "content": "a.prohledávání a měření, překrytyb.operace s okolím -- analýza kontextu, spojitosti a síťové analýzy, frikční povrchyc.multikriteriální prostorové analýzy"
+      "label": "[section] Tvorba legendy.",
+      "content": "a.Tvorba a úpravy souboru legendy.b.Zobrazování podle zvolených kritérií.c.Nastavení zobrazení."
     },
     {
       "label": "[section] 5.",
-      "content": "a.tvorba mapových kompozicb.zásady (tematické) kartografie, metody vizualizace"
+      "content": "a.Kopírování objektů mezi bloky.b.Přenášení atributů."
     },
     {
-      "label": "[section] Prezentace výstupů z GIS",
-      "content": "a.tvorba mapových kompozicb.zásady (tematické) kartografie, metody vizualizace"
+      "label": "[section] Konstrukční úlohy.",
+      "content": "a.Kopírování objektů mezi bloky.b.Přenášení atributů."
     },
     {
       "label": "[section] 6.",
-      "content": "a.management GIS projektů, participativní a kolaborativní mapováníb.mobilní GIS, webové mapové servery a služby, geoportályc.precizní lesnictví, precizní zemědělstvíd.management přírodních zdrojů a rizik, mapování změn krajiny"
+      "content": "a.Inventarizace stromů LParku. (PEJCHAL, ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)b.Anotační vrstvy, popisky.c.Vytvoření šablony tisku.d.Měřítko a tisk."
     },
     {
-      "label": "[section] Aplikace GIS",
-      "content": "a.management GIS projektů, participativní a kolaborativní mapováníb.mobilní GIS, webové mapové servery a služby, geoportályc.precizní lesnictví, precizní zemědělstvíd.management přírodních zdrojů a rizik, mapování změn krajiny"
+      "label": "[section] Příprava a tisk tématické mapy.",
+      "content": "a.Inventarizace stromů LParku. (PEJCHAL, ŠIMEK, 2013, Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084)b.Anotační vrstvy, popisky.c.Vytvoření šablony tisku.d.Měřítko a tisk."
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení28 h20 hkonzultace16 h40 hpříprava na zkoušku50 h62 hpříprava na průběžné hodnocení8 h8 hpříprava na průběžný test10 h10 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumcvičení28 hpříprava na průběžné hodnocení28 hzpracování projektů28 hCelkem84 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Zápočet: splnění všech průběžných úkolů zadávaných na cvičení a zpracování finální zápočtové úlohy (samostatná práce multikriteriální analýzy) či individuální semestrální práce. Při flexibilní výuce studenti průběžně odevzdávají úkoly z jednotlivých cvičení do odevzdávárny v UIS a samostatně zpracují a odevzdají i finální/semestrální zápočtovou úlohu. Zkouška: Časově omezený elektronický test z přednášených okruhů v e-learningovém prostředí UIS. U každé otázky je zobrazen nápovědný text, jak ji vyplnit (kolik má správných odpovědí). Minimální hranice úspěšnosti je 50 % a všechny klasifikační stupně jsou rovnoměrně procenticky odstupňovány od minimální úspěšnosti (po 10 %)."
+      "content": "Zápočet. Návrh a vypracování GIS dle zadaní (digitalizace a transformace mapy, plochy zeleně, databáze, tisk tématické mapy v zadaném měřítku)."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
+      "content": "DruhPrezenční studiumCelkem0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 s. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6. vyd. Ann Arbor: XanEdu, 764 s. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 s. Springer geography. ISBN 978-3-030-16828-5.Doporučená:KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 s. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1. vyd. Brno: Mendelova univerzita v Brně, 150 s. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2. vyd. New York: W. H. Freeman and company, 512 s. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 s. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 s. Data in the wild series. ISBN 978-1-78427-212-8."
+      "content": "Základní: Topol pro Windows: Referenční příručka programu. 1996. Praha: Help service - Mapping, 381 s.Doporučená:TOPOL, Pro. 1996. Referenční příručka programu Topol verze 3.5. 1. vyd. Praha: HELP SERVICE-Education s.r.o, 322 s.ŽÍDEK, Vladimír a kol. 1996. Práce s digitálními prostorovými daty: návody ke cvičením s geoinformačním systémem IDRISI s úvodem do programu TOPOL. 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita, 199 s. ISBN 80-7157-190-3.ŽÍDEK, Vladimír. 1999. Základy praktické práce v GIS: návody ke cvičením v prostředí geoinformačního systému IDRISI pro Windows. 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita, 191 s. ISBN 80-7157-391-4.Lattenberg L. Georeferencování map z Google Maps v ArchMap 10. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. Geosystém plný dat - datové zdroje pro práci v GIS. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. S čím pomůe ArcGis. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.PEJCHAL, Miloš a Pavel ŠIMEK. Vyhodnocení dendrologického potenciálu v zámeckém parku v Lednici na Moravě: hodnocení jednotlivých oddělení : číslo mapy 1-38 : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 2. vyd. Brno: Legia, 2013."
     },
     {
       "label": "[section] Základní:",
-      "content": "GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 s. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6. vyd. Ann Arbor: XanEdu, 764 s. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 s. Springer geography. ISBN 978-3-030-16828-5."
+      "content": "Topol pro Windows: Referenční příručka programu. 1996. Praha: Help service - Mapping, 381 s."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 s. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1. vyd. Brno: Mendelova univerzita v Brně, 150 s. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2. vyd. New York: W. H. Freeman and company, 512 s. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 s. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 s. Data in the wild series. ISBN 978-1-78427-212-8."
+      "content": "TOPOL, Pro. 1996. Referenční příručka programu Topol verze 3.5. 1. vyd. Praha: HELP SERVICE-Education s.r.o, 322 s.ŽÍDEK, Vladimír a kol. 1996. Práce s digitálními prostorovými daty: návody ke cvičením s geoinformačním systémem IDRISI s úvodem do programu TOPOL. 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita, 199 s. ISBN 80-7157-190-3.ŽÍDEK, Vladimír. 1999. Základy praktické práce v GIS: návody ke cvičením v prostředí geoinformačního systému IDRISI pro Windows. 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita, 191 s. ISBN 80-7157-391-4.Lattenberg L. Georeferencování map z Google Maps v ArchMap 10. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. Geosystém plný dat - datové zdroje pro práci v GIS. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. S čím pomůe ArcGis. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.PEJCHAL, Miloš a Pavel ŠIMEK. Vyhodnocení dendrologického potenciálu v zámeckém parku v Lednici na Moravě: hodnocení jednotlivých oddělení : číslo mapy 1-38 : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 2. vyd. Brno: Legia, 2013."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-ARBO Arboristika, kombinovaná forma, počáteční období ZS 2023/2024Program B-ARBO Arboristika, prezenční forma, počáteční období ZS 2023/2024Program B-KRAJN Krajinářství, prezenční forma, počáteční období ZS 2024/2025Specializace B-LESN-TROP Lesnictví tropů a subtropů, prezenční forma, počáteční období ZS 2024/2025Specializace B-LESN-LES Lesnictví, prezenční forma, počáteční období ZS 2024/2025Specializace B-LESN-LES Lesnictví, kombinovaná forma, počáteční období ZS 2024/2025"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
-      "content": "Místo výuky: Brno"
+      "content": "Místo výuky: Lednice"
     }
   ],
   "en": [
@@ -341,23 +357,23 @@
     },
     {
       "label": "Course title in Czech:",
-      "content": "Geoinformační systémy"
+      "content": "Systémy GIS"
     },
     {
       "label": "Course title in English:",
-      "content": "Geoinformation Systems"
+      "content": "GIS Systems"
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2020/2021"
     },
     {
       "label": "Mode of completion and number of credits:",
-      "content": "Exam (5 credits)"
+      "content": "Pass credit (3 credits)"
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -365,7 +381,7 @@
     },
     {
       "label": "Course type:",
-      "content": "required"
+      "content": "optional"
     },
     {
       "label": "Type of delivery:",
@@ -381,159 +397,167 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. Ing. Martin Klimánek, Ph.D."
+      "content": "Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "Course supervising department:",
-      "content": "Department of Forest Management and Applied Geoinformatics (FFWT)"
+      "content": "Department of Horticultural Machinery (FH)"
     },
     {
       "label": "Faculty:",
-      "content": "Faculty of Forestry and Wood Technology"
+      "content": "Faculty of Horticulture"
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Stanislav Herber (instructor)doc. Ing. Martin Klimánek, Ph.D. (examiner, lecturer, supervisor)Ing. Dominika Krausková (instructor)Ing. Petr Vahalík, Ph.D. (instructor, lecturer)Ing. Nikola Žižlavská (instructor)"
+      "content": "Ing. Jaromír Skoupil, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not State Bachelor Examination or now State Bachelor Examination"
+      "content": "none"
     },
     {
       "label": "1.",
-      "content": "Spatial data (allowance 2/2)"
+      "content": "Topol user interface . (allowance 0/2)"
     },
     {
       "label": "a.",
-      "content": "definitions and terminology"
+      "content": "Basic terms."
     },
     {
       "label": "b.",
-      "content": "data models"
+      "content": "Object of interest, block grid."
     },
     {
       "label": "c.",
-      "content": "spatial data infrastructure"
+      "content": "Map sheets and graphical data."
+    },
+    {
+      "label": "d.",
+      "content": "Text styles, fonts."
     },
     {
       "label": "2.",
-      "content": "Geospatial data and its integration to GIS (allowance 4/2)"
+      "content": "Project preparation. (allowance 0/8)"
     },
     {
       "label": "a.",
-      "content": "data sets in Czechia and abroad"
+      "content": "Working with raster data - transformation."
     },
     {
       "label": "b.",
-      "content": "data quality and error propagation"
+      "content": "Snapping modes, zoom."
     },
     {
       "label": "c.",
-      "content": "cartographic projections and coordinate systems"
-    },
-    {
-      "label": "3.",
-      "content": "Geodata input (allowance 6/12)"
-    },
-    {
-      "label": "a.",
-      "content": "global navigation satellite systems, sensor networks"
-    },
-    {
-      "label": "b.",
-      "content": "Remote Sensing - multispectral images and laser scanning"
-    },
-    {
-      "label": "c.",
-      "content": "digitalization, georeferencing, analogue data usage"
+      "content": "Vectorization - scanning lines and points."
     },
     {
       "label": "d.",
-      "content": "digital elevation models and topographical modeling"
+      "content": "Polygon editing."
     },
     {
       "label": "e.",
-      "content": "attribute data and its integration, geodatabase and queries"
+      "content": "Symbol library editor."
+    },
+    {
+      "label": "3.",
+      "content": "Database. (allowance 0/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Creating database."
+    },
+    {
+      "label": "b.",
+      "content": "Editing database. Queries, filters, joins, updates."
+    },
+    {
+      "label": "c.",
+      "content": "Graphic and database data interaction."
     },
     {
       "label": "4.",
-      "content": "Spatial operations (allowance 6/6)"
+      "content": "Creating Legend. (allowance 0/4)"
     },
     {
       "label": "a.",
-      "content": "location and measurement of distances, areas and perimeters, buffering"
+      "content": "Creating and editing legend."
     },
     {
       "label": "b.",
-      "content": "neighbourhood operations, spread functions, friction surfaces and networking"
+      "content": "Display according to selected criterias."
     },
     {
       "label": "c.",
-      "content": "multicriterial spatial evaluation"
+      "content": "Display setting."
     },
     {
       "label": "5.",
-      "content": "GIS outputs (allowance 2/2)"
+      "content": "Construction tasks. (allowance 0/2)"
     },
     {
       "label": "a.",
-      "content": "map producing and compositions"
+      "content": "Copying objects between the blocks."
     },
     {
       "label": "b.",
-      "content": "thematical cartography, visualization"
+      "content": "Transferring attributes."
     },
     {
       "label": "6.",
-      "content": "GIS applications (allowance 8/4)"
+      "content": "Preparation and printing maps. (allowance 0/8)"
     },
     {
       "label": "a.",
-      "content": "management of GIS projects, participative and collaborative mapping"
+      "content": "Inventory of trees of LPark (Pejchal 2013)"
     },
     {
       "label": "b.",
-      "content": "GIS for mobile devices, geoweb, geoportals"
+      "content": "Annotation layer, labels."
     },
     {
       "label": "c.",
-      "content": "precision forestry and agriculture"
+      "content": "Templates."
     },
     {
       "label": "d.",
-      "content": "management of natural resources, landscape formation and protection"
+      "content": "Scale and print."
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "WS 2020/2021, SS 2019/2020, WS 2019/2020, WS 2018/2019, SS 2016/2017, WS 2016/2017 (and older)"
     },
     {
       "label": "Teaching place:",
-      "content": "Brno"
+      "content": "Lednice"
     },
     {
       "label": "[section] Course code:",
-      "content": "Course title in Czech: Geoinformační systémy"
+      "content": "Course title in Czech: Systémy GIS"
     },
     {
       "label": "[section] Course title in Czech:",
-      "content": "Course title in English: Geoinformation Systems"
+      "content": "Course title in English: GIS Systems"
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2020/2021"
     },
     {
       "label": "[section] Semester:",
-      "content": "Mode of completion and number of credits: Exam (5 credits)"
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] Exam (5 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
+      "label": "[section] Pass credit (3 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -541,7 +565,7 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: required"
+      "content": "Course type: optional"
     },
     {
       "label": "[section] Course type:",
@@ -557,117 +581,117 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. Ing. Martin Klimánek, Ph.D."
+      "content": "Course supervisor: Ing. Jaromír Skoupil, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
-      "content": "Course supervising department: Department of Forest Management and Applied Geoinformatics (FFWT)"
+      "content": "Course supervising department: Department of Horticultural Machinery (FH)"
     },
     {
       "label": "[section] Course supervising department:",
-      "content": "Faculty: Faculty of Forestry and Wood Technology"
+      "content": "Faculty: Faculty of Horticulture"
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Stanislav Herber (instructor)doc. Ing. Martin Klimánek, Ph.D. (examiner, lecturer, supervisor)Ing. Dominika Krausková (instructor)Ing. Petr Vahalík, Ph.D. (instructor, lecturer)Ing. Nikola Žižlavská (instructor)"
+      "content": "Teachers: Ing. Jaromír Skoupil, Ph.D. (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not State Bachelor Examination or now State Bachelor Examination"
+      "content": "Prerequisites: none"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityNoteMonday11.00-12.50B03S. HerberSeminarEvery week20 Monday15.00-16.50B03N. ŽižlavskáSeminarEvery week20 Monday17.00-18.50B03N. ŽižlavskáSeminarEvery week20 Tuesday11.00-12.50B03D. KrauskováSeminarEvery week20 Tuesday13.00-14.50B03D. KrauskováSeminarEvery week20 Tuesday17.00-18.50B03P. VahalíkSeminarEvery week20opakujícíWednesday8.00-11.50B03B-ARBOB-LESN32not setLectureOccasionally26 Thursday11.00-12.50B03S. HerberSeminarEvery week20 Thursday13.00-14.50B03S. HerberSeminarEvery week20 Thursday15.00-16.50B32M. KlimánekLectureEvery week120"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "Students will get the basic information about spatial data (geodata), geographical information systems (GIS) and main functions and analytical operations using in GIS; learn students the most important practical GIS skills."
+      "content": "Introduction to GIS application TOPOL. and tools for acquisition, maintenance and evaluation of geographic datas. Create projects. To use learned knowledgesin academic courses (studios, landscape planning, landscape ecology, etc.)"
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Spatial data (allowance 2/2) a.definitions and terminologyb.data modelsc.spatial data infrastructure2.Geospatial data and its integration to GIS (allowance 4/2) a.data sets in Czechia and abroadb.data quality and error propagationc.cartographic projections and coordinate systems3.Geodata input (allowance 6/12) a.global navigation satellite systems, sensor networksb.Remote Sensing - multispectral images and laser scanningc.digitalization, georeferencing, analogue data usaged.digital elevation models and topographical modelinge.attribute data and its integration, geodatabase and queries4.Spatial operations (allowance 6/6) a.location and measurement of distances, areas and perimeters, bufferingb.neighbourhood operations, spread functions, friction surfaces and networkingc.multicriterial spatial evaluation5.GIS outputs (allowance 2/2) a.map producing and compositionsb.thematical cartography, visualization6.GIS applications (allowance 8/4) a.management of GIS projects, participative and collaborative mappingb.GIS for mobile devices, geoweb, geoportalsc.precision forestry and agricultured.management of natural resources, landscape formation and protection"
+      "content": "1.Topol user interface . (allowance 0/2) a.Basic terms.b.Object of interest, block grid.c.Map sheets and graphical data.d.Text styles, fonts.2.Project preparation. (allowance 0/8) a.Working with raster data - transformation.b.Snapping modes, zoom.c.Vectorization - scanning lines and points.d.Polygon editing.e.Symbol library editor.3.Database. (allowance 0/4) a.Creating database.b.Editing database. Queries, filters, joins, updates.c.Graphic and database data interaction.4.Creating Legend. (allowance 0/4) a.Creating and editing legend.b.Display according to selected criterias.c.Display setting.5.Construction tasks. (allowance 0/2) a.Copying objects between the blocks.b.Transferring attributes.6.Preparation and printing maps. (allowance 0/8) a.Inventory of trees of LPark (Pejchal 2013)b.Annotation layer, labels.c.Templates.d.Scale and print."
     },
     {
       "label": "[section] 1.",
-      "content": "a.definitions and terminologyb.data modelsc.spatial data infrastructure"
+      "content": "a.Basic terms.b.Object of interest, block grid.c.Map sheets and graphical data.d.Text styles, fonts."
     },
     {
-      "label": "[section] Spatial data",
-      "content": "a.definitions and terminologyb.data modelsc.spatial data infrastructure"
+      "label": "[section] Topol user interface .",
+      "content": "a.Basic terms.b.Object of interest, block grid.c.Map sheets and graphical data.d.Text styles, fonts."
     },
     {
       "label": "[section] 2.",
-      "content": "a.data sets in Czechia and abroadb.data quality and error propagationc.cartographic projections and coordinate systems"
+      "content": "a.Working with raster data - transformation.b.Snapping modes, zoom.c.Vectorization - scanning lines and points.d.Polygon editing.e.Symbol library editor."
     },
     {
-      "label": "[section] Geospatial data and its integration to GIS",
-      "content": "a.data sets in Czechia and abroadb.data quality and error propagationc.cartographic projections and coordinate systems"
+      "label": "[section] Project preparation.",
+      "content": "a.Working with raster data - transformation.b.Snapping modes, zoom.c.Vectorization - scanning lines and points.d.Polygon editing.e.Symbol library editor."
     },
     {
       "label": "[section] 3.",
-      "content": "a.global navigation satellite systems, sensor networksb.Remote Sensing - multispectral images and laser scanningc.digitalization, georeferencing, analogue data usaged.digital elevation models and topographical modelinge.attribute data and its integration, geodatabase and queries"
+      "content": "a.Creating database.b.Editing database. Queries, filters, joins, updates.c.Graphic and database data interaction."
     },
     {
-      "label": "[section] Geodata input",
-      "content": "a.global navigation satellite systems, sensor networksb.Remote Sensing - multispectral images and laser scanningc.digitalization, georeferencing, analogue data usaged.digital elevation models and topographical modelinge.attribute data and its integration, geodatabase and queries"
+      "label": "[section] Database.",
+      "content": "a.Creating database.b.Editing database. Queries, filters, joins, updates.c.Graphic and database data interaction."
     },
     {
       "label": "[section] 4.",
-      "content": "a.location and measurement of distances, areas and perimeters, bufferingb.neighbourhood operations, spread functions, friction surfaces and networkingc.multicriterial spatial evaluation"
+      "content": "a.Creating and editing legend.b.Display according to selected criterias.c.Display setting."
     },
     {
-      "label": "[section] Spatial operations",
-      "content": "a.location and measurement of distances, areas and perimeters, bufferingb.neighbourhood operations, spread functions, friction surfaces and networkingc.multicriterial spatial evaluation"
+      "label": "[section] Creating Legend.",
+      "content": "a.Creating and editing legend.b.Display according to selected criterias.c.Display setting."
     },
     {
       "label": "[section] 5.",
-      "content": "a.map producing and compositionsb.thematical cartography, visualization"
+      "content": "a.Copying objects between the blocks.b.Transferring attributes."
     },
     {
-      "label": "[section] GIS outputs",
-      "content": "a.map producing and compositionsb.thematical cartography, visualization"
+      "label": "[section] Construction tasks.",
+      "content": "a.Copying objects between the blocks.b.Transferring attributes."
     },
     {
       "label": "[section] 6.",
-      "content": "a.management of GIS projects, participative and collaborative mappingb.GIS for mobile devices, geoweb, geoportalsc.precision forestry and agricultured.management of natural resources, landscape formation and protection"
+      "content": "a.Inventory of trees of LPark (Pejchal 2013)b.Annotation layer, labels.c.Templates.d.Scale and print."
     },
     {
-      "label": "[section] GIS applications",
-      "content": "a.management of GIS projects, participative and collaborative mappingb.GIS for mobile devices, geoweb, geoportalsc.precision forestry and agricultured.management of natural resources, landscape formation and protection"
+      "label": "[section] Preparation and printing maps.",
+      "content": "a.Inventory of trees of LPark (Pejchal 2013)b.Annotation layer, labels.c.Templates.d.Scale and print."
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice28 h20 hconsultation16 h40 hpreparation for exam50 h62 hpreparation for regular assessment8 h8 hpreparation for regular testing10 h10 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancepractice28 hpreparation for regular assessment28 helaboration and execution of projects28 hTotal84 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Pre-exam credit: fulfillment of all training tasks and defense of final credit task (individual work on multi-criteria analysis) or individual semester project. In case of flexible learning methods, students work continuously on individual tasks and submit the results into UIS Coursework submissions application, as well as the final course credit work. Exam: Time-limited electronic test from lectured topics in the UIS e-learning environment. For each question, a help text is displayed on how to complete it (how many correct answers it has). The minimum success threshold is 50 % and all classification levels are evenly graded in percentage from the minimum success (10 % each)."
+      "content": "Credit. Designing and working out own GIS according to the task (map digitisation and transformation, database, map printing in specific scale etc.)."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
+      "content": "Requirement typeDaily attendanceTotal0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 p. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6th ed. Ann Arbor: XanEdu, 764 p. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 p. Springer geography. ISBN 978-3-030-16828-5.Recommended:KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 p. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1st ed. Brno: Mendelova univerzita v Brně, 150 p. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2nd ed. New York: W. H. Freeman and company, 512 p. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 p. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 p. Data in the wild series. ISBN 978-1-78427-212-8."
+      "content": "Basic: Topol pro Windows: Referenční příručka programu. 1996. Praha: Help service - Mapping, 381 p.Recommended:TOPOL, Pro. 1996. Referenční příručka programu Topol verze 3.5. 1st ed. Praha: HELP SERVICE-Education s.r.o, 322 p.ŽÍDEK, Vladimír et al. 1996. Práce s digitálními prostorovými daty: návody ke cvičením s geoinformačním systémem IDRISI s úvodem do programu TOPOL. 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita, 199 p. ISBN 80-7157-190-3.ŽÍDEK, Vladimír. 1999. Základy praktické práce v GIS: návody ke cvičením v prostředí geoinformačního systému IDRISI pro Windows. 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita, 191 p. ISBN 80-7157-391-4.Lattenberg L. Georeferencování map z Google Maps v ArchMap 10. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. Geosystém plný dat - datové zdroje pro práci v GIS. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. S čím pomůe ArcGis. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.PEJCHAL, Miloš a Pavel ŠIMEK. Vyhodnocení dendrologického potenciálu v zámeckém parku v Lednici na Moravě: hodnocení jednotlivých oddělení : číslo mapy 1-38 : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 2. vyd. Brno: Legia, 2013."
     },
     {
       "label": "[section] Basic:",
-      "content": "GAO, Jay. 2022. Fundamentals of spatial analysis and modelling. New York: CRC Press, 348 p. ISBN 978-1-032-11575-7. GIS Fundamentals: a first text on geographic information systems. 2019. 6th ed. Ann Arbor: XanEdu, 764 p. ISBN 978-1-59399-552-2. The philosophy of GIS. 2019. Cham: Springer Nature Switzerland AG, 268 p. Springer geography. ISBN 978-3-030-16828-5."
+      "content": "Topol pro Windows: Referenční příručka programu. 1996. Praha: Help service - Mapping, 381 p."
     },
     {
       "label": "[section] Recommended:",
-      "content": "KLIMÁNEK, Martin. 2006. Digitální modely terénu. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 85 p. ISBN 80-7157-982-3. Základy práce s ArcGIS 10. 2012. 1st ed. Brno: Mendelova univerzita v Brně, 150 p. ISBN 978-80-7375-595-9. Introduction to geospatial technologies. 2014. 2nd ed. New York: W. H. Freeman and company, 512 p. ISBN 978-1-4641-3345-9.HUANG, Qunying. 2024. Open GIS. Cham. ISBN 978-3-031-41748-1. https://doi.org/10.1007/978-3-031-41748-1.PETERSON, Gretchen N. 2021. GIS cartography: a guide to effective map design. Boca Raton: CRC Press, 318 p. ISBN 978-0-367-85794-3.WEGMANN, Martin; DECH, Stefan. 2020. Introduction to spatial data analysis: remote sensing and GIS with open source software. Exeter: Pelagic Publishing, 216 p. Data in the wild series. ISBN 978-1-78427-212-8."
+      "content": "TOPOL, Pro. 1996. Referenční příručka programu Topol verze 3.5. 1st ed. Praha: HELP SERVICE-Education s.r.o, 322 p.ŽÍDEK, Vladimír et al. 1996. Práce s digitálními prostorovými daty: návody ke cvičením s geoinformačním systémem IDRISI s úvodem do programu TOPOL. 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita, 199 p. ISBN 80-7157-190-3.ŽÍDEK, Vladimír. 1999. Základy praktické práce v GIS: návody ke cvičením v prostředí geoinformačního systému IDRISI pro Windows. 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita, 191 p. ISBN 80-7157-391-4.Lattenberg L. Georeferencování map z Google Maps v ArchMap 10. Mendelova univerzita: Brno 2013. Poster digitální. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. Geosystém plný dat - datové zdroje pro práci v GIS. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.Matějka D. S čím pomůe ArcGis. Mendelova univerzita: Brno 2013. Poster. Financováno z: Projekt OP VK Nonverbální a jiné inovativní formy podpory ve výuce na Zahradnické fakultě v Lednici, reg. číslo: CZ.1.07/2.2.00/15.0084.PEJCHAL, Miloš a Pavel ŠIMEK. Vyhodnocení dendrologického potenciálu v zámeckém parku v Lednici na Moravě: hodnocení jednotlivých oddělení : číslo mapy 1-38 : [Investice do rozvoje vzdělávání, reg.č.: CZ1.07/2.2.00/15.0084]. 2. vyd. Brno: Legia, 2013."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-ARBO Arboristics, part-time form, initial period WS 2023/2024Programme B-ARBO Arboristics, full-time form, initial period WS 2023/2024Programme B-KRAJN Landscaping, full-time form, initial period WS 2024/2025Track B-LESN-TROP Forestry of Tropics and Subtropics, full-time form, initial period WS 2024/2025Track B-LESN-FOR Forestry, full-time form, initial period WS 2024/2025Track B-LESN-FOR Forestry, part-time form, initial period WS 2024/2025"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Course listed in previous semesters:",
-      "content": "Teaching place: Brno"
+      "content": "Teaching place: Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 08:13:20",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:27:10",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

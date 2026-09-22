@@ -1,13 +1,52 @@
 {
   "courseCode": "ENPRZ",
   "name": "Energetika a přírodní zdroje",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "150458",
+  "nameCs": "Energetika a přírodní zdroje",
+  "nameEn": "Energy and Natural Resources",
+  "predmetId": "161954",
   "facultyId": 14,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=161954;lang=cz",
+      "totalPass": 21,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 4,
+            "D": 8,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 4,
+            "D": 8,
+            "E": 5,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 21,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2023/2024 - AF",
       "semesterId": "752",
@@ -126,5 +165,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

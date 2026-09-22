@@ -3,14 +3,68 @@
   "name": "Internet věcí",
   "nameCs": "Internet věcí",
   "nameEn": "Internet of Things",
-  "predmetId": "156577",
+  "predmetId": "162571",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Jiří Gallus",
-    "doc. Dr. Ing. Vladimír Kebo"
+    "doc. Dr. Ing. Vladimír Kebo",
+    "doc. Ing. Oldřich Trenz, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162571;lang=cz",
+      "totalPass": 102,
+      "totalFail": 14,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 3,
+            "B": 5,
+            "C": 4,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 13,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 32,
+            "B": 44,
+            "C": 22,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 14
+          },
+          "pass": 102,
+          "fail": 14
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 29,
+            "B": 39,
+            "C": 18,
+            "D": 3,
+            "E": 0,
+            "F": 6,
+            "FN": 21
+          },
+          "pass": 89,
+          "fail": 27
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -280,5 +334,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

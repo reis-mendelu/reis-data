@@ -51,38 +51,29 @@
       "semesterName": "ZS 2009/2010 - REK",
       "semesterId": "198",
       "year": 2009,
-      "type": "exam",
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=198;predmet=45929;lang=cz",
-      "totalPass": 17,
+      "totalPass": 1,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 4,
-            "B": 6,
-            "C": 6,
+            "A": 0,
+            "B": 0,
+            "C": 0,
             "D": 0,
-            "E": 1,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 17,
-          "fail": 0
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 4,
-            "B": 6,
-            "C": 6,
-            "D": 0,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 17,
-          "fail": 0
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -207,38 +198,29 @@
       "semesterName": "ZS 2007/2008 - REK",
       "semesterId": "534",
       "year": 2007,
-      "type": "exam",
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=534;predmet=34510;lang=cz",
-      "totalPass": 11,
+      "totalPass": 1,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 2,
-            "B": 2,
-            "C": 5,
-            "D": 1,
-            "E": 1,
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 11,
-          "fail": 0
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 2,
-            "B": 2,
-            "C": 5,
-            "D": 1,
-            "E": 1,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 11,
-          "fail": 0
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -282,5 +264,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

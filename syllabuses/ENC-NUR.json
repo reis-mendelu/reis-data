@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -31,7 +31,7 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "povinný"
+      "content": "volitelný"
     },
     {
       "label": "Typ výuky předmětu:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Bc. Jan Vavřina (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Mgr. Jakub Dubrovský (cvičící, přednášející, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -119,19 +119,23 @@
     },
     {
       "label": "4.",
-      "content": "Digitální asistenti (dotace 8/4)"
+      "content": "Virtuální a rozšířená realita, digitální asistenti (dotace 8/4)"
     },
     {
       "label": "a.",
-      "content": "Konverzační uživatelská rozhraní a návrhové vzory pro jejich implementaci"
+      "content": "stereoskopické projekce, Head Mounted Displays"
     },
     {
       "label": "b.",
-      "content": "Osobnost chatbota"
+      "content": "trackery pohybu, speciální vstupní zařízení (Phantomy, ...)"
     },
     {
       "label": "c.",
-      "content": "Technologická omezení konverzačních rozhraní"
+      "content": "současné aplikace VR a AR"
+    },
+    {
+      "label": "d.",
+      "content": "digitální asistenti"
     },
     {
       "label": "Prezentace nebo obhajoba",
@@ -147,7 +151,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -163,7 +167,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -183,7 +187,7 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: povinný"
+      "content": "Typ předmětu: volitelný"
     },
     {
       "label": "[section] Typ předmětu:",
@@ -211,7 +215,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Bc. Jan Vavřina (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Mgr. Jakub Dubrovský (cvičící, přednášející, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -219,7 +223,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q12N-OID. Procházka, J. VavřinaCvičeníKaždý týden19Úterý11.00-12.50Q12N-OID. Procházka, J. VavřinaCvičeníKaždý týden19Čtvrtek9.00-10.50Q15N-OID. Procházka, J. VavřinaPřednáškaKaždý týden38"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý7.00-8.50Q15D. Procházka, J. DubrovskýPřednáškaKaždý týden48Úterý11.00-12.50Q12D. Procházka, J. DubrovskýCvičeníKaždý týden19Úterý13.00-14.50Q12D. Procházka, J. DubrovskýCvičeníKaždý týden19"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -227,7 +231,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Možnosti komunikace mezi uživatelem a počítačem (dotace 4/4) a.komunikační kanály, metody, standardyb.psychologické a sociální aspekty komunikacec.návrh rozhraní aplikací s ohledem na použitelnostd.testování použitelnosti2.Tvorba uživatelsky přívětivých grafických aplikací (dotace 10/14) a.strukturální vzory pro aplikace (návrh s ohledem na platformu a cílovou skupinu uživatelů)b.navigace uživatele v aplikaci (identifikace pozice v aplikaci, přechod mezi stavy)c.provádění operací (vkládání textových a netextových hodnot, výběr z možností, speciální případy)3.Mobilní a průmyslová zařízení (dotace 6/6) a.dotykové obrazovky a jiné vstupní/výstupní zařízení na mobilních a průmyslových zařízeníchb.lokační službyc.vhodný návrh mobilních aplikací4.Digitální asistenti (dotace 8/4) a.Konverzační uživatelská rozhraní a návrhové vzory pro jejich implementacib.Osobnost chatbotac.Technologická omezení konverzačních rozhraní"
+      "content": "1.Možnosti komunikace mezi uživatelem a počítačem (dotace 4/4) a.komunikační kanály, metody, standardyb.psychologické a sociální aspekty komunikacec.návrh rozhraní aplikací s ohledem na použitelnostd.testování použitelnosti2.Tvorba uživatelsky přívětivých grafických aplikací (dotace 10/14) a.strukturální vzory pro aplikace (návrh s ohledem na platformu a cílovou skupinu uživatelů)b.navigace uživatele v aplikaci (identifikace pozice v aplikaci, přechod mezi stavy)c.provádění operací (vkládání textových a netextových hodnot, výběr z možností, speciální případy)3.Mobilní a průmyslová zařízení (dotace 6/6) a.dotykové obrazovky a jiné vstupní/výstupní zařízení na mobilních a průmyslových zařízeníchb.lokační službyc.vhodný návrh mobilních aplikací4.Virtuální a rozšířená realita, digitální asistenti (dotace 8/4) a.stereoskopické projekce, Head Mounted Displaysb.trackery pohybu, speciální vstupní zařízení (Phantomy, ...)c.současné aplikace VR a ARd.digitální asistenti"
     },
     {
       "label": "[section] 1.",
@@ -255,15 +259,15 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.Konverzační uživatelská rozhraní a návrhové vzory pro jejich implementacib.Osobnost chatbotac.Technologická omezení konverzačních rozhraní"
+      "content": "a.stereoskopické projekce, Head Mounted Displaysb.trackery pohybu, speciální vstupní zařízení (Phantomy, ...)c.současné aplikace VR a ARd.digitální asistenti"
     },
     {
-      "label": "[section] Digitální asistenti",
-      "content": "a.Konverzační uživatelská rozhraní a návrhové vzory pro jejich implementacib.Osobnost chatbotac.Technologická omezení konverzačních rozhraní"
+      "label": "[section] Virtuální a rozšířená realita, digitální asistenti",
+      "content": "a.stereoskopické projekce, Head Mounted Displaysb.trackery pohybu, speciální vstupní zařízení (Phantomy, ...)c.současné aplikace VR a ARd.digitální asistenti"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku28 hzpracování projektů56 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku28 hzpracování projektů56 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -287,7 +291,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období LS 2024/2025Zaměření ZNUR Uživatelská rozhraní, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Zaměření ZNOI Zaměření pro Otevřenou informatiku, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -309,7 +313,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -325,7 +329,7 @@
     },
     {
       "label": "Course type:",
-      "content": "required"
+      "content": "optional"
     },
     {
       "label": "Type of delivery:",
@@ -353,7 +357,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Bc. Jan Vavřina (examiner, instructor, lecturer, tutor)"
+      "content": "Mgr. Jakub Dubrovský (examiner, instructor, lecturer, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
     },
     {
       "label": "Prerequisites:",
@@ -413,19 +417,23 @@
     },
     {
       "label": "4.",
-      "content": "Digital assistants (allowance 8/4)"
+      "content": "Virtual and augmented reality, digital assistants (allowance 8/4)"
     },
     {
       "label": "a.",
-      "content": "Conversational user interfaces and design patterns for their implementation"
+      "content": "stereoscopic projection, Head Mounted Displays"
     },
     {
       "label": "b.",
-      "content": "Chatbot persona"
+      "content": "motion trackers, special input devices (Phantoms, ...)"
     },
     {
       "label": "c.",
-      "content": "Technological limitations of conversational user interfaces"
+      "content": "applications of VR and AR"
+    },
+    {
+      "label": "d.",
+      "content": "digital assistants"
     },
     {
       "label": "Presentation or defence",
@@ -441,7 +449,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -457,7 +465,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -477,7 +485,7 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: required"
+      "content": "Course type: optional"
     },
     {
       "label": "[section] Course type:",
@@ -505,7 +513,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Bc. Jan Vavřina (examiner, instructor, lecturer, tutor)"
+      "content": "Teachers: Mgr. Jakub Dubrovský (examiner, instructor, lecturer, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
     },
     {
       "label": "[section] Teachers:",
@@ -513,7 +521,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday11.00-12.50Q12N-OID. Procházka, J. VavřinaSeminarEvery week19Tuesday11.00-12.50Q12N-OID. Procházka, J. VavřinaSeminarEvery week19Thursday9.00-10.50Q15N-OID. Procházka, J. VavřinaLectureEvery week38"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday7.00-8.50Q15D. Procházka, J. DubrovskýLectureEvery week48Tuesday11.00-12.50Q12D. Procházka, J. DubrovskýSeminarEvery week19Tuesday13.00-14.50Q12D. Procházka, J. DubrovskýSeminarEvery week19"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -521,7 +529,7 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Possibilities of communication between the user and the computer (allowance 4/4) a.communication channels, methods, standardsb.psychological and social aspects of communicationc.design of the applications with regard to the usabilityd.usability testing2.Design of user-friendly applications (allowance 10/14) a.structural patterns for the applications (development with regard to the platform and target group of users)b.navigation of the user (position identification within the application, transition between states)c.operations (input of textual and non-textual values, choosing from options, special cases...)3.Mobile and industrial devices (allowance 6/6) a.touch screens and other input/output methods used on mobile and industrial devicesb.location based servicesc.design of mobile applications4.Digital assistants (allowance 8/4) a.Conversational user interfaces and design patterns for their implementationb.Chatbot personac.Technological limitations of conversational user interfaces"
+      "content": "1.Possibilities of communication between the user and the computer (allowance 4/4) a.communication channels, methods, standardsb.psychological and social aspects of communicationc.design of the applications with regard to the usabilityd.usability testing2.Design of user-friendly applications (allowance 10/14) a.structural patterns for the applications (development with regard to the platform and target group of users)b.navigation of the user (position identification within the application, transition between states)c.operations (input of textual and non-textual values, choosing from options, special cases...)3.Mobile and industrial devices (allowance 6/6) a.touch screens and other input/output methods used on mobile and industrial devicesb.location based servicesc.design of mobile applications4.Virtual and augmented reality, digital assistants (allowance 8/4) a.stereoscopic projection, Head Mounted Displaysb.motion trackers, special input devices (Phantoms, ...)c.applications of VR and ARd.digital assistants"
     },
     {
       "label": "[section] 1.",
@@ -549,15 +557,15 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.Conversational user interfaces and design patterns for their implementationb.Chatbot personac.Technological limitations of conversational user interfaces"
+      "content": "a.stereoscopic projection, Head Mounted Displaysb.motion trackers, special input devices (Phantoms, ...)c.applications of VR and ARd.digital assistants"
     },
     {
-      "label": "[section] Digital assistants",
-      "content": "a.Conversational user interfaces and design patterns for their implementationb.Chatbot personac.Technological limitations of conversational user interfaces"
+      "label": "[section] Virtual and augmented reality, digital assistants",
+      "content": "a.stereoscopic projection, Head Mounted Displaysb.motion trackers, special input devices (Phantoms, ...)c.applications of VR and ARd.digital assistants"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam28 helaboration and execution of projects56 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam28 helaboration and execution of projects56 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -581,13 +589,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period SS 2024/2025Scope ZNUR Uživatelská rozhraní, full-time form, initial period WS 2025/2026"
+      "content": "Scope ZNOI Scope for Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:59:00",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:15:39",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

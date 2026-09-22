@@ -2,8 +2,8 @@
   "courseCode": "PRSPVC2",
   "name": "Programový seminář PVC II",
   "nameCs": "Programový seminář PVC II",
-  "nameEn": "Course syllabus PRSPVC2 - Master Thesis Seminar PVC II (FA - SS 2024/2025)",
-  "predmetId": "157352",
+  "nameEn": "Master Thesis Seminar PVC II",
+  "predmetId": "162482",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -15,6 +15,55 @@
     "prof. MVDr. Ing. Tomáš Komprda, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162482;lang=cz",
+      "totalPass": 37,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 37,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 37,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 37,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 37,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -65,5 +114,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

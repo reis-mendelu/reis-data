@@ -2,12 +2,81 @@
   "courseCode": "FERTE",
   "name": "Fermentační technologie",
   "nameCs": "Fermentační technologie",
-  "nameEn": "Fermentation Technology",
-  "predmetId": "157463",
+  "nameEn": "Fermentation technology",
+  "predmetId": "162355",
   "facultyId": 60,
-  "aliases": [],
+  "aliases": [
+    "FET"
+  ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162355;lang=cz",
+      "totalPass": 31,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 7,
+            "C": 10,
+            "D": 2,
+            "E": 4,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 7,
+            "C": 10,
+            "D": 2,
+            "E": 4,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 31,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -246,5 +315,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

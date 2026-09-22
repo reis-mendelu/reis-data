@@ -3,11 +3,50 @@
   "name": "Programovací jazyk Lua v AJ",
   "nameCs": "Programovací jazyk Lua v AJ",
   "nameEn": "Lua Programming Language",
-  "predmetId": "152266",
+  "predmetId": "160776",
   "facultyId": 2,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160776;lang=cz",
+      "totalPass": 5,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 2,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -15,7 +54,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=152266;lang=cz",
       "totalPass": 3,
-      "totalFail": 0,
+      "totalFail": 1,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -26,10 +65,10 @@
             "D": 0,
             "E": 1,
             "F": 0,
-            "FN": 0
+            "FN": 1
           },
           "pass": 3,
-          "fail": 0
+          "fail": 1
         },
         {
           "term": "Řádný termín",
@@ -126,5 +165,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

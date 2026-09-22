@@ -7,7 +7,11 @@
   "facultyId": 2,
   "aliases": [],
   "teachers": [
-    "Ing. Břetislav Andrlík, Ph.D."
+    "Dr. Ing. Jana Gláserová",
+    "Ing. Břetislav Andrlík, Ph.D.",
+    "Ing. Iva Hasíková",
+    "Mgr. Ing. Lucie Formanová, Ph.D.",
+    "doc. Ing. Patrik Svoboda, Ph.D."
   ],
   "stats": [
     {
@@ -151,7 +155,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152540;lang=cz",
       "totalPass": 404,
-      "totalFail": 99,
+      "totalFail": 100,
       "terms": [
         {
           "term": "1. opravný",
@@ -189,11 +193,11 @@
             "C": 118,
             "D": 131,
             "E": 91,
-            "F": 44,
+            "F": 45,
             "FN": 55
           },
           "pass": 404,
-          "fail": 99
+          "fail": 100
         },
         {
           "term": "Řádný termín",
@@ -285,7 +289,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142415;lang=cz",
       "totalPass": 301,
-      "totalFail": 213,
+      "totalFail": 214,
       "terms": [
         {
           "term": "1. opravný",
@@ -324,10 +328,10 @@
             "D": 94,
             "E": 111,
             "F": 34,
-            "FN": 179
+            "FN": 180
           },
           "pass": 301,
-          "fail": 213
+          "fail": 214
         },
         {
           "term": "Řádný termín",
@@ -706,5 +710,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

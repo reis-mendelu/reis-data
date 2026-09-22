@@ -1,13 +1,52 @@
 {
   "courseCode": "SPOM",
   "name": "Společenská odpovědnost managementu",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "142257",
+  "nameCs": "Společenská odpovědnost managementu",
+  "nameEn": "Corporate Social Responsible Management",
+  "predmetId": "163023",
   "facultyId": 23,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163023;lang=cz",
+      "totalPass": 35,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 21,
+            "B": 6,
+            "C": 3,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 21,
+            "B": 6,
+            "C": 3,
+            "D": 3,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2022/2023 - FRRMS",
       "semesterId": "715",
@@ -140,5 +179,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

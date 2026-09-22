@@ -3,13 +3,68 @@
   "name": "Ekonomika dřevozpracujícího podniku",
   "nameCs": "Ekonomika dřevozpracujícího podniku",
   "nameEn": "Economy of Wood-Processing Company",
-  "predmetId": "159534",
+  "predmetId": "161728",
   "facultyId": 38,
-  "aliases": [],
+  "aliases": [
+    "EDP"
+  ],
   "teachers": [
     "Ing. Jakub Michal, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161728;lang=cz",
+      "totalPass": 86,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 11,
+            "C": 20,
+            "D": 21,
+            "E": 26,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 86,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 10,
+            "C": 19,
+            "D": 19,
+            "E": 24,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 80,
+          "fail": 6
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -594,5 +649,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

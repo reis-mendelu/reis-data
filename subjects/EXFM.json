@@ -1,24 +1,61 @@
 {
   "courseCode": "EXFM",
   "name": "Experimentální fytopatologie a mykologie",
-  "nameCs": null,
-  "nameEn": null,
-  "predmetId": "5",
+  "nameCs": "Experimentální fytopatologie a mykologie",
+  "nameEn": "Experimental Phytopathology and Mycology",
+  "predmetId": "161778",
   "facultyId": 38,
   "aliases": [
     "EFM"
   ],
   "teachers": [
+    "Dr. Leticia Botella Sánchez",
     "Ing. Aneta Bačová, Ph.D.",
     "Ing. Miloš Trifković",
     "Ing. Roman Plichta, Ph.D.",
-    "Ivan Milenković, Ph.D.",
-    "doc. Dr. Leticia Botella Sánchez",
     "doc. Ing. Miloň Dvořák, Ph.D.",
-    "prof. Douglas Lawrence Godbold, Ph.D.",
-    "prof. Dr. Ing. Libor Jankovský",
-    "prof. RNDr. Michal Tomšovský, Ph.D."
+    "prof. Dr. Ing. Libor Jankovský"
   ],
-  "stats": [],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161778;lang=cz",
+      "totalPass": 5,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 2,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 2,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

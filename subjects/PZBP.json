@@ -1,9 +1,9 @@
 {
   "courseCode": "PZBP",
-  "name": "Obecné přístupy k zajištění potravinové bezpečnosti",
+  "name": "Obecné přístupy k zajištění bezpečnosti potravin",
   "nameCs": "Obecné přístupy k zajištění bezpečnosti potravin",
   "nameEn": "General Approaches to Food Security Ensuring",
-  "predmetId": "157587",
+  "predmetId": "163953",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,45 @@
     "prof. Ing. Tomáš Lošák, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163953;lang=cz",
+      "totalPass": 3,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -277,5 +316,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

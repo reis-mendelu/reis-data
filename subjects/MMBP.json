@@ -3,7 +3,7 @@
   "name": "Metody molekulární biologie proteinů",
   "nameCs": "Metody molekulární biologie proteinů",
   "nameEn": "Methods of molecular biology - Proteins",
-  "predmetId": "157141",
+  "predmetId": "162388",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -14,6 +14,59 @@
     "prof. RNDr. Břetislav Brzobohatý, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162388;lang=cz",
+      "totalPass": 35,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 9,
+            "C": 5,
+            "D": 12,
+            "E": 6,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 35,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 9,
+            "C": 4,
+            "D": 12,
+            "E": 6,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - AF",
       "semesterId": "779",
@@ -238,5 +291,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

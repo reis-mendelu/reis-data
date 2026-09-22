@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, zkoušející)Ing. Ankit Tripathi (cvičící)"
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, tutor, zkoušející)Ing. Jan Kolomazník, Ph.D. (cvičící)Ing. Vít Ondroušek, Ph.D. (přednášející)"
     },
     {
       "label": "Prerekvizity:",
@@ -95,7 +95,7 @@
     },
     {
       "label": "3.",
-      "content": "Stromy a kostry (dotace 4/4)"
+      "content": "Stromy a kostry (dotace 4/2)"
     },
     {
       "label": "a.",
@@ -162,12 +162,12 @@
       "content": "Rovinné grafy, obarvení grafu. Párování v bipartitních grafech"
     },
     {
-      "label": "Absolvování průběžného testu (testů)",
-      "content": "60 %"
+      "label": "Vypracování semestrální práce",
+      "content": "50 %"
     },
     {
       "label": "Absolvování závěrečné ústní zkoušky",
-      "content": "40 %"
+      "content": "50 %"
     },
     {
       "label": "Celkem",
@@ -175,7 +175,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -191,7 +191,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -199,11 +199,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (5 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/1 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -239,7 +239,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, zkoušející)Ing. Ankit Tripathi (cvičící)"
+      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející, tutor, zkoušející)Ing. Jan Kolomazník, Ph.D. (cvičící)Ing. Vít Ondroušek, Ph.D. (přednášející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -247,7 +247,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q05N-OIAR. FaranaPřednáškaKaždý týden20Čtvrtek7.00-8.50Q25N-OIAA. TripathiCvičeníLichý týden20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q16R. Farana, V. OndroušekPřednáškaKaždý týden80Středa13.00-14.50Q47J. KolomazníkCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -255,7 +255,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Motivace, historie a základní terminologie (dotace 6/2) a.Vybrané úlohy teorie grafů. Vznik teorie grafůb.Definice grafu, vlastnosti grafu. Úplný graf, bipartitní graf, rovinný grafc.Opakování z TZI2.Implementace grafu (dotace 2/2) a.Statická implementace -- matice sousednosti, matice incidence.b.Dynamická implementace -- výčet sousedů, dynamická reprezentace grafu3.Stromy a kostry (dotace 4/4) a.Charakterizace, vlastnosti a využití stromů.b.Kořenové stromy, uspořádané kořenové stromy. Aplikace stromůc.Kostra grafu. Aplikace koster, hledání minimální kostry4.Prohledávání grafu a jeho aplikace (dotace 2/2) a.Prohledávání do šířky. Distanční rozklad množiny uzlů.b.Prohledávání do hloubky. Pre-order, in-order, post-order.5.Hledání optimálních sledů (dotace 4/2) a.Moorův algoritmus, Dijkstrův algoritmus, Fordův algoritmusb.Metoda kritické cesty, cesty s největší propustnostíc.Praktické aplikace optimálních sledů6.Toky v sítích a jejich aplikace (dotace 2/2) a.Definice sítě, definice toku. Věta o maximálním toku a minimálním řezub.Fordův-Fulkersonův algoritmus. Aplikace sítí a toků v technologické praxi7.Úlohy řešené pomocí grafů (dotace 4/0) a.Graf řízení programu, přechodový diagram a jejich použitíb.Rovinné grafy, obarvení grafu. Párování v bipartitních grafech"
+      "content": "1.Motivace, historie a základní terminologie (dotace 6/2) a.Vybrané úlohy teorie grafů. Vznik teorie grafůb.Definice grafu, vlastnosti grafu. Úplný graf, bipartitní graf, rovinný grafc.Opakování z TZI2.Implementace grafu (dotace 2/2) a.Statická implementace -- matice sousednosti, matice incidence.b.Dynamická implementace -- výčet sousedů, dynamická reprezentace grafu3.Stromy a kostry (dotace 4/2) a.Charakterizace, vlastnosti a využití stromů.b.Kořenové stromy, uspořádané kořenové stromy. Aplikace stromůc.Kostra grafu. Aplikace koster, hledání minimální kostry4.Prohledávání grafu a jeho aplikace (dotace 2/2) a.Prohledávání do šířky. Distanční rozklad množiny uzlů.b.Prohledávání do hloubky. Pre-order, in-order, post-order.5.Hledání optimálních sledů (dotace 4/2) a.Moorův algoritmus, Dijkstrův algoritmus, Fordův algoritmusb.Metoda kritické cesty, cesty s největší propustnostíc.Praktické aplikace optimálních sledů6.Toky v sítích a jejich aplikace (dotace 2/2) a.Definice sítě, definice toku. Věta o maximálním toku a minimálním řezub.Fordův-Fulkersonův algoritmus. Aplikace sítí a toků v technologické praxi7.Úlohy řešené pomocí grafů (dotace 4/0) a.Graf řízení programu, přechodový diagram a jejich použitíb.Rovinné grafy, obarvení grafu. Párování v bipartitních grafech"
     },
     {
       "label": "[section] 1.",
@@ -315,15 +315,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku42 hpříprava na průběžný test28 hzpracování projektů28 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení14 hpříprava na zkoušku42 hzpracování projektů56 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Studenti předmět úspěšně ukončí, získají-li alespoň 60 bodů z projektů a závěrečné zkoušky. Čtyřmi projekty studenti prokazují schopnost řešit praktické problémy. Písemná a ústní zkouška je zaměřena na teoretické principy a souvislosti. Studenti si vylosují dvě otázky a řešení jednoho praktického příkladu, za odpovědi mohou získat 40 bodů. Celkové hodnocení je dáno součtem bodů z průběžných testů a ústní zkoušky: A (alespoň 90 bodů), B (83 bodů), C (75 bodů), D (68 bodů), E (60 bodů). V případě podvodného jednání bude student ohodnocen stupněm F a bude podán podnět k zahájení disciplinárního řízení."
+      "content": "Celkové hodnocení se skládá z hodnocení semestrální práce (45 b.) a z bodů získaných u ústní zkoušky (55 b.). Zápočet je udělen za alespoň 10bodů získaných za semestrální práci. Aktivitou na cvičeních a přednáškách je možné získat body navíc, maximálně 10. Hodnotící stupnice: A90, B83, C75, D68, E60."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)60 %Absolvování závěrečné ústní zkoušky40 %Celkem100 %"
+      "content": "DruhPrezenční studiumVypracování semestrální práce50 %Absolvování závěrečné ústní zkoušky50 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -335,7 +335,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program N-OIA Open Informatics, prezenční forma, počáteční období LS 2024/2025Program N-OIA Open Informatics, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Program N-OIA Open Informatics, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -357,7 +357,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -365,7 +365,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -401,7 +401,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor)Ing. Ankit Tripathi (instructor)"
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor, tutor)Ing. Jan Kolomazník, Ph.D. (instructor)Ing. Vít Ondroušek, Ph.D. (lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -437,7 +437,7 @@
     },
     {
       "label": "3.",
-      "content": "Trees and spanning trees (allowance 4/4)"
+      "content": "Trees and spanning trees (allowance 4/2)"
     },
     {
       "label": "4.",
@@ -492,12 +492,12 @@
       "content": "Planar graph, coloring of graph, pairing in bipartite graph"
     },
     {
-      "label": "Mid-term test(s)",
-      "content": "60 %"
+      "label": "Term paper",
+      "content": "50 %"
     },
     {
       "label": "Final oral exam",
-      "content": "40 %"
+      "content": "50 %"
     },
     {
       "label": "Total",
@@ -505,7 +505,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -521,7 +521,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -529,11 +529,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (5 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/1 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -569,7 +569,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor)Ing. Ankit Tripathi (instructor)"
+      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (examiner, lecturer, supervisor, tutor)Ing. Jan Kolomazník, Ph.D. (instructor)Ing. Vít Ondroušek, Ph.D. (lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -577,7 +577,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityWednesday9.00-10.50Q05N-OIAR. FaranaLectureEvery week20Thursday7.00-8.50Q25N-OIAA. TripathiSeminarOdd week20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50Q16R. Farana, V. OndroušekLectureEvery week80Wednesday13.00-14.50Q47J. KolomazníkSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -585,7 +585,7 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Motivation, history and basic terminology (allowance 6/2) a.Chosen parts of graph theory. Origin of graph theory.b.Graph definition, graph properties. Complete graph, bipartite graph, planar graphc.Repetition from TBI2.Graph implementation (allowance 2/2) a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph3.Trees and spanning trees (allowance 4/4) a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph4.Searching in graph and its applications (allowance 2/2) a.Breadth-first-search. Distant decomposition of verticesb.Depth-first-search. Pre-order, in-order, post-order.5.Finding optimal walks (allowance 4/2) a.Moore's algorithm, Dijkstra's algorithm, Ford algorithmb.Critical path method, widest paths.c.Practical applications of optimal walks6.Network flows and appcations (allowance 2/2) a.Network definition, flow definition. Max-flow min-cut theorem.b.Ford-Fulkerson algorithm. Applications of networks and flows in technological practice.7.Problems solved with the help of graph theory (allowance 4/0) a.Program control graph, transition diagram and their usageb.Planar graph, coloring of graph, pairing in bipartite graph"
+      "content": "1.Motivation, history and basic terminology (allowance 6/2) a.Chosen parts of graph theory. Origin of graph theory.b.Graph definition, graph properties. Complete graph, bipartite graph, planar graphc.Repetition from TBI2.Graph implementation (allowance 2/2) a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph3.Trees and spanning trees (allowance 4/2) a.Static implementation - adjacency matrix, incidence matrixb.Dynamic implementation - list of neighbours, dynamin representation of a graph4.Searching in graph and its applications (allowance 2/2) a.Breadth-first-search. Distant decomposition of verticesb.Depth-first-search. Pre-order, in-order, post-order.5.Finding optimal walks (allowance 4/2) a.Moore's algorithm, Dijkstra's algorithm, Ford algorithmb.Critical path method, widest paths.c.Practical applications of optimal walks6.Network flows and appcations (allowance 2/2) a.Network definition, flow definition. Max-flow min-cut theorem.b.Ford-Fulkerson algorithm. Applications of networks and flows in technological practice.7.Problems solved with the help of graph theory (allowance 4/0) a.Program control graph, transition diagram and their usageb.Planar graph, coloring of graph, pairing in bipartite graph"
     },
     {
       "label": "[section] 1.",
@@ -645,15 +645,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam42 hpreparation for regular testing28 helaboration and execution of projects28 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice14 hpreparation for exam42 helaboration and execution of projects56 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Students will pass the course after collecting at least 60 points in sum of ongoing projects and final exam. Students demonstrate the ability to solve practical problems by four practical projects. The exam verifies understanding of concepts and principles and understanding of the context. Students choose two questions and one practical example, the exam is evaluated by 40 points. The final evaluation is given by the sum of the results from tests and the exam as follows: A (at least 90 points), B (83 points), C (75 points), D (68 points), E (60 points). In the case of fraudulent conduct, the verification of knowledge will be assessed as unsuccessful and disciplinary proceedings will be initiated."
+      "content": "Max 45 points can be obtained from semestral project. Max 55 points can be obtained from final exam. Resulting grade is defined by number of obtained points: A90, B83, C75, D68, E60."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceMid-term test(s)60 %Final oral exam40 %Total100 %"
+      "content": "Requirement typeDaily attendanceTerm paper50 %Final oral exam50 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -665,13 +665,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme C-OIA Open Informatics, full-time form, initial period SS 2024/2025Programme C-OIA Open Informatics, full-time form, initial period WS 2025/2026"
+      "content": "Programme C-OIA Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:54:19",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:10:22",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

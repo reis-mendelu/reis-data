@@ -3,15 +3,84 @@
   "name": "Ekonomika zemědělství a lesnictví",
   "nameCs": "Ekonomika zemědělství a lesnictví",
   "nameEn": "Agriculture Economics and Forestry Management",
-  "predmetId": "159381",
+  "predmetId": "163821",
   "facultyId": 23,
-  "aliases": [],
+  "aliases": [
+    "EZAL"
+  ],
   "teachers": [
     "Ing. Eliška Svobodová, Ph.D.",
     "Ing. Ivo Zdráhal, Ph.D.",
     "Ing. Vojtěch Tamáš, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163821;lang=cz",
+      "totalPass": 7,
+      "totalFail": 5,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 2,
+            "F": 3,
+            "FN": 2
+          },
+          "pass": 3,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 1,
+            "FN": 1
+          },
+          "pass": 1,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 4,
+            "E": 2,
+            "F": 1,
+            "FN": 4
+          },
+          "pass": 7,
+          "fail": 5
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 3,
+            "E": 0,
+            "F": 6,
+            "FN": 3
+          },
+          "pass": 3,
+          "fail": 9
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -574,5 +643,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

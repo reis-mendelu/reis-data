@@ -17,7 +17,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=158171;lang=cz",
       "totalPass": 32,
-      "totalFail": 25,
+      "totalFail": 27,
       "terms": [
         {
           "term": "1. opravný",
@@ -55,11 +55,11 @@
             "C": 8,
             "D": 8,
             "E": 7,
-            "F": 20,
+            "F": 22,
             "FN": 5
           },
           "pass": 32,
-          "fail": 25
+          "fail": 27
         },
         {
           "term": "Řádný termín",
@@ -83,7 +83,7 @@
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152028;lang=cz",
-      "totalPass": 28,
+      "totalPass": 29,
       "totalFail": 28,
       "terms": [
         {
@@ -119,13 +119,13 @@
           "grades": {
             "A": 3,
             "B": 2,
-            "C": 7,
+            "C": 8,
             "D": 3,
             "E": 13,
             "F": 17,
             "FN": 11
           },
-          "pass": 28,
+          "pass": 29,
           "fail": 28
         },
         {
@@ -438,5 +438,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

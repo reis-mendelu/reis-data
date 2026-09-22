@@ -3,13 +3,67 @@
   "name": "Veřejné finance 2",
   "nameCs": "Veřejné finance 2",
   "nameEn": "Public Finance 2",
-  "predmetId": "160440",
+  "predmetId": "162593",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
+    "Ing. Klára Plecitá",
     "Ing. Soňa Kukučková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162593;lang=cz",
+      "totalPass": 72,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 17,
+            "C": 16,
+            "D": 17,
+            "E": 10,
+            "F": 2,
+            "FN": 6
+          },
+          "pass": 72,
+          "fail": 8
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 12,
+            "B": 17,
+            "C": 16,
+            "D": 17,
+            "E": 9,
+            "F": 3,
+            "FN": 6
+          },
+          "pass": 71,
+          "fail": 9
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -276,5 +330,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

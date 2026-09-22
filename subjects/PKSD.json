@@ -3,19 +3,54 @@
   "name": "Pěstování krytokořenného sadebního materiálu",
   "nameCs": "Pěstování krytokořenného sadebního materiálu",
   "nameEn": "Cultivation of Containered Planting Material",
-  "predmetId": "156747",
+  "predmetId": "161766",
   "facultyId": 38,
   "aliases": [
     "PKSM"
   ],
   "teachers": [
-    "Ing. Eliška Žižková",
-    "Ing. Kateřina Houšková, Ph.D.",
-    "Ing. Pavel Horák",
-    "doc. Ing. Radek Pokorný, Ph.D.",
-    "prof. Ing. Oldřich Mauer, DrSc."
+    "Ing. Kateřina Houšková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161766;lang=cz",
+      "totalPass": 4,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 4,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -56,5 +91,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

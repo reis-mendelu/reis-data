@@ -3,7 +3,7 @@
   "name": "Podnikání v cestovním ruchu",
   "nameCs": "Podnikání v cestovním ruchu",
   "nameEn": "Tourism Business",
-  "predmetId": "156624",
+  "predmetId": "162641",
   "facultyId": 2,
   "aliases": [
     "PCR"
@@ -12,6 +12,59 @@
     "doc. Ing. Kateřina Provazník Ryglová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162641;lang=cz",
+      "totalPass": 18,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 3,
+            "E": 5,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 10,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 2,
+            "C": 4,
+            "D": 3,
+            "E": 5,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 18,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 1,
+            "C": 3,
+            "D": 0,
+            "E": 0,
+            "F": 11,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 11
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -253,5 +306,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

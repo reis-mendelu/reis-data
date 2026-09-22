@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2020/2021"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Studentovi je umožněno studium během zahraniční mobility. Podmínky studia a jeho ukončení budou stanoveny individuální, zpravidla se jedná o odbornou konzultaci s garantem předmětu."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Pavel Borusík, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Pavel Šimek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Ing. Pavel Borusík, Ph.D. (cvičící, přednášející)Ing. Jana Drochytková (cvičící, přednášející, zkoušející)Ing. Jozef Sedláček, Ph.D. (cvičící, zkoušející)Bc. Ing. Jana Šimečková (cvičící, přednášející)prof. Ing. Pavel Šimek, Ph.D. (cvičící, garant, přednášející)doc. Ing. Lukáš Štefl, Ph.D. (cvičící, přednášející)"
     },
     {
       "label": "Prerekvizity:",
@@ -115,7 +115,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+      "content": "LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -131,7 +131,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2020/2021"
     },
     {
       "label": "[section] Semestr:",
@@ -139,11 +139,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zápočet (4 kredity)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 18/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 20/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -159,7 +159,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Studentovi je umožněno studium během zahraniční mobility. Podmínky studia a jeho ukončení budou stanoveny individuální, zpravidla se jedná o odbornou konzultaci s garantem předmětu."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -179,7 +179,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Pavel Borusík, Ph.D. (cvičící, přednášející, zkoušející)prof. Ing. Pavel Šimek, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Pavel Borusík, Ph.D. (cvičící, přednášející)Ing. Jana Drochytková (cvičící, přednášející, zkoušející)Ing. Jozef Sedláček, Ph.D. (cvičící, zkoušející)Bc. Ing. Jana Šimečková (cvičící, přednášející)prof. Ing. Pavel Šimek, Ph.D. (cvičící, garant, přednášející)doc. Ing. Lukáš Štefl, Ph.D. (cvičící, přednášející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -187,7 +187,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaPátek8.00-11.50ZFC11 (Led)P. Borusík, P. ŠimekPřednáškaNepravidelně36"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaÚterý8.00-9.50Z11 (ČP II.)P. Šimek, P. Borusík, J. Drochytková, L. ŠteflPřednáškaKaždý týden64Úterý10.00-11.50Z2 (ČP II.)B-KAJ. Drochytková, P. Borusík, J. Sedláček, L. ŠteflCvičeníKaždý týden37Úterý13.00-14.50A412B-RSZJ. Drochytková, P. Borusík, J. Sedláček, L. ŠteflCvičeníKaždý týden24"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -287,23 +287,23 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška24 h20 hcvičení24 h0 hpráce v terénu10 h20 hkonzultace5 h40 hzpracování protokolů19 h0 hzpracování projektů30 h33 hCelkem112 h113 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumCelkem0 h0 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Předmět je ukončen zápočtem. Pro získání zápočtu je nutné splnit tři podmínky. (1) První podmínkou je povinná účast na min. 80 % konaných cvičení. (2) V rámci předmětu musí být zpracován semestrální projekt na téma Pasport zeleně v urbanizovaném prostoru měst a obcí. Každý student musí mít jiný modelový objekt. Na základě konzultací a vlastního terénního šetření student vypracuje projekt. Každý projekt je hodnocen vyučujícím zvlášť na základě kritérií, která jsou uvedena v zadání projektu. Při splnění všech náležitostí získá student známku A. V případě absence některých údajů nebo chyb je hodnocení sníženo. Pro splnění zápočtu musí student získat minimálně známku E. (3) Třetí podmínkou je úspěšné absolvování vědomostního testu z problematiky vyučovaných témat. Test má 24 otázek. Student musí správně odpovědět minimálně na 16 otázek."
+      "content": "Předmět je ukončen zápočtem. Pro získání zápočtu je nutná 90% účast na cvičeních. V rámci předmětu musí být zpracována semestrální projekt na téma Pasport zeleně v urbanizovaném prostoru měst a obcí. Každý student musí mít jiný modelový objekt. Na základě konzultací a vlastního terénního šetření student vypracuje projekt. Každý projekt je hodnocen vyučujícím zvlášť na základě kritérií, které jsou uvedeny v zadání projektu. Při splnění všech náležitostí získá student známku A. V případě absence některých údajů nebo chyb je hodnocení sníženo. Pro splnění zápočtu musí student získat minimálně známku E."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích20 %20 %Vypracování semestrální práce80 %80 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumCelkem0 %0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 s. ISBN 978-80-213-2449-7.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 s. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1. vyd. Praha: Academia, 398 s. ISBN 80-200-0440-8. Plochy a úprava území: 823-1 ; Rekultivace : 823-2. 2018. Praha: ÚRS Praha, 295 s. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-761-7.DUBSKÝ, Martin; DOSTÁLOVÁ, Jitka; BURIAN, Samuel. 2016. Standardy pro navrhování, provádění a údržbu vegetačních souvrství zelených střech. Brno: Svaz zakládání a údržby zeleně.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Dendrologický průzkum a pěstební opatření: dřeviny jako základ stabilizace kompozice. Inspirace. (4), 8–10. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; ZÁMEČNÍK, Roman. 2022. Kolik stojí péče o sídelní zeleň?. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 21(11), 8–11. ISSN 1213-7596.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Management městské zeleně - systémové postupy a nástroje plánování. Životné prostredie: revue pre teóriu a starostlivosť o životné prostredie = The Environment : Revue for theory and care of the environment. 54(3), 183–191. ISSN 0044-4863.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2020. Management městské zeleně: nástroje a koncepční přístup. Inspirace. (1), 15–17. ISSN 2464-5893.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2022. Městská zelená infrastruktura a její stabilita - kvalita ploch městské zeleně ve vybraných městech České republiky. In: Architektura v perspektivě 2022 / Architecture in Perspective 2022: Sborník příspěvků z mezinárodní konference . Ostrava: Vysoká škola báňská -Technická univerzita Ostrava, 103–110. ISBN 978-80-248-4646-0. http://otto.vsb.cz/data/sbornik-2022-na-web.pdfŠIMEK, Pavel; ŠTEFL, Lukáš. 2017. Metodika péče o díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1. vyd. Brno: Mendelova univerzita v Brně, 95 s. ISBN 978-80-7509-507-7.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Pasport zeleně: proč je důležitý a co obsahuje. Inspirace. (2), 31–33. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; MARTINEK, Jiří. 2021. Systémová péče o trávníky a ekonomika údržby zeleně. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 20(4), 27–31. ISSN 1213-7596.Doporučená: ČSN 83 9011 (839011) Technologie vegetačních úprav v krajině - Práce s půdou = Vegetation technology in landscaping - Soil working. 2006. Praha: Český normalizační institut, 20 s. ČSN 83 9021 (839021) Technologie vegetačních úprav v krajině - Rostliny a jejich výsadba = Vegetation technology in landscaping - Plants and plant care. 2006. Praha: Český normalizační institut, 12 s. ČSN 83 9031 (839031) Technologie vegetačních úprav v krajině - Trávníky a jejich zakládání = Vegetation technology in landscaping - Turf and seeding. 2006. Praha: Český normalizační institut, 12 s."
+      "content": "Základní: Plochy a úprava území: 823-1 ; Rekultivace : 823-2 [2009]. 2009. 1. vyd. Praha: ÚRS Praha, 178 s. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-207-0.HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 s. ISBN 978-80-213-2449-7.Kol. 2003. Trávy a trávníky: co o nich ještě nevíte. Olomouc: Petr Baštan - Hanácká reklamní, 158 s. ISBN 80-903275-0-8.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 s. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1. vyd. Praha: Academia, 398 s. ISBN 80-200-0440-8.Doporučená: ČSN 83 9011 (839011) Technologie vegetačních úprav v krajině - Práce s půdou = Vegetation technology in landscaping - Soil working. 2006. Praha: Český normalizační institut, 20 s. ČSN 83 9021 (839021) Technologie vegetačních úprav v krajině - Rostliny a jejich výsadba = Vegetation technology in landscaping - Plants and plant care. 2006. Praha: Český normalizační institut, 12 s. ČSN 83 9031 (839031) Technologie vegetačních úprav v krajině - Trávníky a jejich zakládání = Vegetation technology in landscaping - Turf and seeding. 2006. Praha: Český normalizační institut, 12 s."
     },
     {
       "label": "[section] Základní:",
-      "content": "HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 s. ISBN 978-80-213-2449-7.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 s. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1. vyd. Praha: Academia, 398 s. ISBN 80-200-0440-8. Plochy a úprava území: 823-1 ; Rekultivace : 823-2. 2018. Praha: ÚRS Praha, 295 s. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-761-7.DUBSKÝ, Martin; DOSTÁLOVÁ, Jitka; BURIAN, Samuel. 2016. Standardy pro navrhování, provádění a údržbu vegetačních souvrství zelených střech. Brno: Svaz zakládání a údržby zeleně.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Dendrologický průzkum a pěstební opatření: dřeviny jako základ stabilizace kompozice. Inspirace. (4), 8–10. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; ZÁMEČNÍK, Roman. 2022. Kolik stojí péče o sídelní zeleň?. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 21(11), 8–11. ISSN 1213-7596.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Management městské zeleně - systémové postupy a nástroje plánování. Životné prostredie: revue pre teóriu a starostlivosť o životné prostredie = The Environment : Revue for theory and care of the environment. 54(3), 183–191. ISSN 0044-4863.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2020. Management městské zeleně: nástroje a koncepční přístup. Inspirace. (1), 15–17. ISSN 2464-5893.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2022. Městská zelená infrastruktura a její stabilita - kvalita ploch městské zeleně ve vybraných městech České republiky. In: Architektura v perspektivě 2022 / Architecture in Perspective 2022: Sborník příspěvků z mezinárodní konference . Ostrava: Vysoká škola báňská -Technická univerzita Ostrava, 103–110. ISBN 978-80-248-4646-0. http://otto.vsb.cz/data/sbornik-2022-na-web.pdfŠIMEK, Pavel; ŠTEFL, Lukáš. 2017. Metodika péče o díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1. vyd. Brno: Mendelova univerzita v Brně, 95 s. ISBN 978-80-7509-507-7.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Pasport zeleně: proč je důležitý a co obsahuje. Inspirace. (2), 31–33. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; MARTINEK, Jiří. 2021. Systémová péče o trávníky a ekonomika údržby zeleně. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 20(4), 27–31. ISSN 1213-7596."
+      "content": "Plochy a úprava území: 823-1 ; Rekultivace : 823-2 [2009]. 2009. 1. vyd. Praha: ÚRS Praha, 178 s. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-207-0.HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 s. ISBN 978-80-213-2449-7.Kol. 2003. Trávy a trávníky: co o nich ještě nevíte. Olomouc: Petr Baštan - Hanácká reklamní, 158 s. ISBN 80-903275-0-8.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 s. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1. vyd. Praha: Academia, 398 s. ISBN 80-200-0440-8."
     },
     {
       "label": "[section] Doporučená:",
@@ -311,7 +311,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-RSZ Realizace a správa zeleně, kombinovaná forma, počáteční období ZS 2025/2026"
+      "content": "Program B-RSZ Realizace a správa zeleně, prezenční forma, počáteční období ZS 2019/2020Program B-KA Krajinářská architektura, prezenční forma, počáteční období ZS 2019/2020"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -333,7 +333,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2020/2021"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -341,7 +341,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -377,7 +377,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Pavel Borusík, Ph.D. (examiner, instructor, lecturer)prof. Ing. Pavel Šimek, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Ing. Pavel Borusík, Ph.D. (instructor, lecturer)Ing. Jana Drochytková (examiner, instructor, lecturer)Ing. Jozef Sedláček, Ph.D. (examiner, instructor)Bc. Ing. Jana Šimečková (instructor, lecturer)prof. Ing. Pavel Šimek, Ph.D. (instructor, lecturer, supervisor)doc. Ing. Lukáš Štefl, Ph.D. (instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -385,7 +385,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+      "content": "SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -401,7 +401,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2020/2021"
     },
     {
       "label": "[section] Semester:",
@@ -409,11 +409,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Pass credit (4 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 18/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 20/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -449,7 +449,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Pavel Borusík, Ph.D. (examiner, instructor, lecturer)prof. Ing. Pavel Šimek, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: Ing. Pavel Borusík, Ph.D. (instructor, lecturer)Ing. Jana Drochytková (examiner, instructor, lecturer)Ing. Jozef Sedláček, Ph.D. (examiner, instructor)Bc. Ing. Jana Šimečková (instructor, lecturer)prof. Ing. Pavel Šimek, Ph.D. (instructor, lecturer, supervisor)doc. Ing. Lukáš Štefl, Ph.D. (instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -457,7 +457,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityFriday8.00-11.50ZFC11 (Led)P. Borusík, P. ŠimekLectureOccasionally36"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityTuesday8.00-9.50Z11 (ČP II.)P. Šimek, P. Borusík, J. Drochytková, L. ŠteflLectureEvery week64Tuesday10.00-11.50Z2 (ČP II.)B-KAJ. Drochytková, P. Borusík, J. Sedláček, L. ŠteflSeminarEvery week37Tuesday13.00-14.50A412B-RSZJ. Drochytková, P. Borusík, J. Sedláček, L. ŠteflSeminarEvery week24"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -469,19 +469,19 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture24 h20 hpractice24 h0 hfield work10 h20 hconsultation5 h40 helaboration of reports19 h0 helaboration and execution of projects30 h33 hTotal112 h113 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formTotal0 h0 h"
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation20 %20 %Term paper80 %80 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formTotal0 %0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 p. ISBN 978-80-213-2449-7.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 p. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1st ed. Praha: Academia, 398 p. ISBN 80-200-0440-8. Plochy a úprava území: 823-1 ; Rekultivace : 823-2. 2018. Praha: ÚRS Praha, 295 p. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-761-7.DUBSKÝ, Martin; DOSTÁLOVÁ, Jitka; BURIAN, Samuel. 2016. Standardy pro navrhování, provádění a údržbu vegetačních souvrství zelených střech. Brno: Svaz zakládání a údržby zeleně.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Dendrologický průzkum a pěstební opatření: dřeviny jako základ stabilizace kompozice. Inspirace. (4), 8–10. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; ZÁMEČNÍK, Roman. 2022. Kolik stojí péče o sídelní zeleň?. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 21(11), 8–11. ISSN 1213-7596.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Management městské zeleně - systémové postupy a nástroje plánování. Životné prostredie: revue pre teóriu a starostlivosť o životné prostredie = The Environment : Revue for theory and care of the environment. 54(3), 183–191. ISSN 0044-4863.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2020. Management městské zeleně: nástroje a koncepční přístup. Inspirace. (1), 15–17. ISSN 2464-5893.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2022. Městská zelená infrastruktura a její stabilita - kvalita ploch městské zeleně ve vybraných městech České republiky. In: Architektura v perspektivě 2022 / Architecture in Perspective 2022: Sborník příspěvků z mezinárodní konference . Ostrava: Vysoká škola báňská -Technická univerzita Ostrava, 103–110. ISBN 978-80-248-4646-0. http://otto.vsb.cz/data/sbornik-2022-na-web.pdfŠIMEK, Pavel; ŠTEFL, Lukáš. 2017. Metodika péče o díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1st ed. Brno: Mendelova univerzita v Brně, 95 p. ISBN 978-80-7509-507-7.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Pasport zeleně: proč je důležitý a co obsahuje. Inspirace. (2), 31–33. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; MARTINEK, Jiří. 2021. Systémová péče o trávníky a ekonomika údržby zeleně. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 20(4), 27–31. ISSN 1213-7596.Recommended: ČSN 83 9011 (839011) Technologie vegetačních úprav v krajině - Práce s půdou = Vegetation technology in landscaping - Soil working. 2006. Praha: Český normalizační institut, 20 p. ČSN 83 9021 (839021) Technologie vegetačních úprav v krajině - Rostliny a jejich výsadba = Vegetation technology in landscaping - Plants and plant care. 2006. Praha: Český normalizační institut, 12 p. ČSN 83 9031 (839031) Technologie vegetačních úprav v krajině - Trávníky a jejich zakládání = Vegetation technology in landscaping - Turf and seeding. 2006. Praha: Český normalizační institut, 12 p."
+      "content": "Basic: Plochy a úprava území: 823-1 ; Rekultivace : 823-2 [2009]. 2009. 1st ed. Praha: ÚRS Praha, 178 p. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-207-0.HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 p. ISBN 978-80-213-2449-7.Col. 2003. Trávy a trávníky: co o nich ještě nevíte. Olomouc: Petr Baštan - Hanácká reklamní, 158 p. ISBN 80-903275-0-8.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 p. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1st ed. Praha: Academia, 398 p. ISBN 80-200-0440-8.Recommended: ČSN 83 9011 (839011) Technologie vegetačních úprav v krajině - Práce s půdou = Vegetation technology in landscaping - Soil working. 2006. Praha: Český normalizační institut, 20 p. ČSN 83 9021 (839021) Technologie vegetačních úprav v krajině - Rostliny a jejich výsadba = Vegetation technology in landscaping - Plants and plant care. 2006. Praha: Český normalizační institut, 12 p. ČSN 83 9031 (839031) Technologie vegetačních úprav v krajině - Trávníky a jejich zakládání = Vegetation technology in landscaping - Turf and seeding. 2006. Praha: Český normalizační institut, 12 p."
     },
     {
       "label": "[section] Basic:",
-      "content": "HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 p. ISBN 978-80-213-2449-7.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 p. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1st ed. Praha: Academia, 398 p. ISBN 80-200-0440-8. Plochy a úprava území: 823-1 ; Rekultivace : 823-2. 2018. Praha: ÚRS Praha, 295 p. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-761-7.DUBSKÝ, Martin; DOSTÁLOVÁ, Jitka; BURIAN, Samuel. 2016. Standardy pro navrhování, provádění a údržbu vegetačních souvrství zelených střech. Brno: Svaz zakládání a údržby zeleně.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Dendrologický průzkum a pěstební opatření: dřeviny jako základ stabilizace kompozice. Inspirace. (4), 8–10. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; ZÁMEČNÍK, Roman. 2022. Kolik stojí péče o sídelní zeleň?. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 21(11), 8–11. ISSN 1213-7596.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Management městské zeleně - systémové postupy a nástroje plánování. Životné prostredie: revue pre teóriu a starostlivosť o životné prostredie = The Environment : Revue for theory and care of the environment. 54(3), 183–191. ISSN 0044-4863.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2020. Management městské zeleně: nástroje a koncepční přístup. Inspirace. (1), 15–17. ISSN 2464-5893.ŠTEFL, Lukáš; ŠIMEK, Pavel. 2022. Městská zelená infrastruktura a její stabilita - kvalita ploch městské zeleně ve vybraných městech České republiky. In: Architektura v perspektivě 2022 / Architecture in Perspective 2022: Sborník příspěvků z mezinárodní konference . Ostrava: Vysoká škola báňská -Technická univerzita Ostrava, 103–110. ISBN 978-80-248-4646-0. http://otto.vsb.cz/data/sbornik-2022-na-web.pdfŠIMEK, Pavel; ŠTEFL, Lukáš. 2017. Metodika péče o díla zahradní a krajinářské tvorby z období první republiky: certifikovaná metodika. 1st ed. Brno: Mendelova univerzita v Brně, 95 p. ISBN 978-80-7509-507-7.ŠIMEK, Pavel; ŠTEFL, Lukáš. 2020. Pasport zeleně: proč je důležitý a co obsahuje. Inspirace. (2), 31–33. ISSN 2464-5893.ŠIMEK, Pavel; ŠTEFL, Lukáš; MARTINEK, Jiří. 2021. Systémová péče o trávníky a ekonomika údržby zeleně. Zahradnictví = Záhradníctvo : Měsíčník pro profesionální zahradníky. Odborný recenzovaný časopis. 20(4), 27–31. ISSN 1213-7596."
+      "content": "Plochy a úprava území: 823-1 ; Rekultivace : 823-2 [2009]. 2009. 1st ed. Praha: ÚRS Praha, 178 p. Katalog popisů a směrných cen stavebních prací. ISBN 978-80-7369-207-0.HAMATA, Marek. 2014. Zakládání a péče o vybrané vegetační prvky. Praha: Česká zemědělská univerzita v Praze, Fakulta agrobiologie, potravinových a přírodních zdrojů, 191 p. ISBN 978-80-213-2449-7.Col. 2003. Trávy a trávníky: co o nich ještě nevíte. Olomouc: Petr Baštan - Hanácká reklamní, 158 p. ISBN 80-903275-0-8.GÄLZER, Ralph. 2001. Grünplanung für Städte. Stuttgart: Eugen Ulmer, 408 p. ISBN 3-8001-3186-2.ŠRYTR, Petr. 2001. Městské inženýrství. 1st ed. Praha: Academia, 398 p. ISBN 80-200-0440-8."
     },
     {
       "label": "[section] Recommended:",
@@ -489,13 +489,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-RMGM Realisations and Municipal greenery management, part-time form, initial period WS 2025/2026"
+      "content": "Programme B-RMGM Realisations and Municipal greenery management, full-time form, initial period WS 2019/2020Programme B-LAA Landscape architecture, full-time form, initial period WS 2019/2020"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno, Lednice"
     }
   ],
-  "scrapedAt": "2026-05-21 09:41:37",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 10:10:13",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

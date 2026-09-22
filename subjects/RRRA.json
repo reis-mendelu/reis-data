@@ -1,12 +1,14 @@
 {
   "courseCode": "RRRA",
-  "name": "Antropologie rozvoje",
+  "name": "Rozvojová antropologie",
   "nameCs": "Antropologie rozvoje",
   "nameEn": "Anthropology of Development",
   "predmetId": "160264",
   "facultyId": 23,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "doc. RNDr. Miroslav Horák, Ph.D."
+  ],
   "stats": [
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
@@ -204,5 +206,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

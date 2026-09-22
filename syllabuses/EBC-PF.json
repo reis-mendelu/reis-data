@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -31,11 +31,11 @@
     },
     {
       "label": "Typ předmětu:",
-      "content": "volitelný"
+      "content": "povinný"
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "doc. Ing. Soňa Hurná, CSc."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Ing. Bc. Petr Suchánek, Ph.D. (garant)"
+      "content": "Ing. Bc. Marcela Basovníková, Ph.D. (cvičící, zkoušející)Ing. Martin Hart, Ph.D. (cvičící, zkoušející)doc. Ing. Soňa Hurná, CSc. (garant)Ing. Petr Polák, Ph.D. (cvičící, zkoušející)Ing. Marcel Ševela, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -103,22 +103,6 @@
     },
     {
       "label": "3.",
-      "content": "Finanční analýza (dotace 4/6)"
-    },
-    {
-      "label": "a.",
-      "content": "Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podniku"
-    },
-    {
-      "label": "b.",
-      "content": "Interpretace ukazatelů"
-    },
-    {
-      "label": "c.",
-      "content": "Soustavy poměrových ukazatelů"
-    },
-    {
-      "label": "4.",
       "content": "Zdroje a formy krátkodobého financování (dotace 2/2)"
     },
     {
@@ -130,7 +114,7 @@
       "content": "Krátkodobé bankovní úvěry a jejich formy; ostatní zdroje krátkodobého financování"
     },
     {
-      "label": "5.",
+      "label": "4.",
       "content": "Dlouhodobé financování majetku (dotace 4/2)"
     },
     {
@@ -146,7 +130,7 @@
       "content": "Externí zdroje financování; leasingové financování, dotace"
     },
     {
-      "label": "6.",
+      "label": "5.",
       "content": "Řízení oběžného majetku a likvidity podniku (dotace 4/6)"
     },
     {
@@ -160,6 +144,22 @@
     {
       "label": "c.",
       "content": "Vztah oběžného majetku a likvidity podniku"
+    },
+    {
+      "label": "6.",
+      "content": "Finanční analýza (dotace 4/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podniku"
+    },
+    {
+      "label": "b.",
+      "content": "Interpretace ukazatelů"
+    },
+    {
+      "label": "c.",
+      "content": "Soustavy poměrových ukazatelů"
     },
     {
       "label": "7.",
@@ -199,7 +199,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024, LS 2022/2023 (a starší)"
+      "content": "LS 2026/2027, ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -215,7 +215,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -235,11 +235,11 @@
     },
     {
       "label": "[section] Stupeň studia:",
-      "content": "Typ předmětu: volitelný"
+      "content": "Typ předmětu: povinný"
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -251,7 +251,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "Garant předmětu: doc. Ing. Soňa Hurná, CSc."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -263,7 +263,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Ing. Bc. Petr Suchánek, Ph.D. (garant)"
+      "content": "Vyučující: Ing. Bc. Marcela Basovníková, Ph.D. (cvičící, zkoušející)Ing. Martin Hart, Ph.D. (cvičící, zkoušející)doc. Ing. Soňa Hurná, CSc. (garant)Ing. Petr Polák, Ph.D. (cvičící, zkoušející)Ing. Marcel Ševela, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -271,7 +271,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q35M. HartCvičeníKaždý týden27Pondělí13.00-14.50Q35M. HartCvičeníKaždý týden27Pondělí15.00-16.50Q35M. HartCvičeníKaždý týden27Pondělí17.00-18.50Q01M. ŠevelaPřednáškaKaždý týden361Úterý9.00-10.50Q35M. ŠevelaCvičeníKaždý týden27Úterý11.00-12.50Q35M. ŠevelaCvičeníKaždý týden27Úterý15.00-16.50Q35M. ŠevelaCvičeníKaždý týden27Středa7.00-8.50Q35M. BasovníkováCvičeníKaždý týden27Středa9.00-10.50Q35M. BasovníkováCvičeníKaždý týden27Středa11.00-12.50Q35M. ŠevelaCvičeníKaždý týden27Středa13.00-14.50Q35M. ŠevelaCvičeníKaždý týden27Čtvrtek11.00-12.50Q35M. HartCvičeníKaždý týden27Čtvrtek13.00-14.50Q35P. PolákCvičeníKaždý týden27Čtvrtek15.00-16.50Q35P. PolákCvičeníKaždý týden27Pátek9.00-12.50Q48M. ŠevelaPřednáškaNepravidelně30"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -279,7 +279,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do problematiky podnikových financí (dotace 2/2) a.Význam finančního řízení pro podnikb.Finanční cíle podniku a jejich hierarchiec.Pravidla financování2.Zdroje informací pro finanční management (dotace 4/2) a.Majetková struktura a finanční strukturab.Výsledek hospodaření, jeho zachyceníc.Peněžní toky (cash flow) podniku, metody sestavení cash-flowd.Externí zdroje3.Finanční analýza (dotace 4/6) a.Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podnikub.Interpretace ukazatelůc.Soustavy poměrových ukazatelů4.Zdroje a formy krátkodobého financování (dotace 2/2) a.Pojetí krátkodobého financování; obchodní úvěrb.Krátkodobé bankovní úvěry a jejich formy; ostatní zdroje krátkodobého financování5.Dlouhodobé financování majetku (dotace 4/2) a.Odpisy jako interní zdroj financováníb.Rizikový kapitálc.Externí zdroje financování; leasingové financování, dotace6.Řízení oběžného majetku a likvidity podniku (dotace 4/6) a.Charakteristika OM a jeho struktury; celková potřeba OMb.Řízení zásob, pohledávek, peněžních prostředkůc.Vztah oběžného majetku a likvidity podniku7.Finanční plánování (dotace 2/0) a.Cíle a pojetí finančního plánu, finanční kontrolab.Dlouhodobé a krátkodobé finanční plánování8.Kapitálové plánování a investiční rozhodován (dotace 2/4) a.Finanční kritéria efektivnosti investičních projektůb.Riziko v investičním rozhodováníc.Investice podniku do dlouhodobého majetku9.Specifické formy financování podniku, financování v jednotlivých životních fází podniku (dotace 2/2)10.Zakladatelský rozpočet (dotace 2/2)"
+      "content": "1.Úvod do problematiky podnikových financí (dotace 2/2) a.Význam finančního řízení pro podnikb.Finanční cíle podniku a jejich hierarchiec.Pravidla financování2.Zdroje informací pro finanční management (dotace 4/2) a.Majetková struktura a finanční strukturab.Výsledek hospodaření, jeho zachyceníc.Peněžní toky (cash flow) podniku, metody sestavení cash-flowd.Externí zdroje3.Zdroje a formy krátkodobého financování (dotace 2/2) a.Pojetí krátkodobého financování; obchodní úvěrb.Krátkodobé bankovní úvěry a jejich formy; ostatní zdroje krátkodobého financování4.Dlouhodobé financování majetku (dotace 4/2) a.Odpisy jako interní zdroj financováníb.Rizikový kapitálc.Externí zdroje financování; leasingové financování, dotace5.Řízení oběžného majetku a likvidity podniku (dotace 4/6) a.Charakteristika OM a jeho struktury; celková potřeba OMb.Řízení zásob, pohledávek, peněžních prostředkůc.Vztah oběžného majetku a likvidity podniku6.Finanční analýza (dotace 4/6) a.Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podnikub.Interpretace ukazatelůc.Soustavy poměrových ukazatelů7.Finanční plánování (dotace 2/0) a.Cíle a pojetí finančního plánu, finanční kontrolab.Dlouhodobé a krátkodobé finanční plánování8.Kapitálové plánování a investiční rozhodován (dotace 2/4) a.Finanční kritéria efektivnosti investičních projektůb.Riziko v investičním rozhodováníc.Investice podniku do dlouhodobého majetku9.Specifické formy financování podniku, financování v jednotlivých životních fází podniku (dotace 2/2)10.Zakladatelský rozpočet (dotace 2/2)"
     },
     {
       "label": "[section] 1.",
@@ -299,14 +299,6 @@
     },
     {
       "label": "[section] 3.",
-      "content": "a.Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podnikub.Interpretace ukazatelůc.Soustavy poměrových ukazatelů"
-    },
-    {
-      "label": "[section] Finanční analýza",
-      "content": "a.Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podnikub.Interpretace ukazatelůc.Soustavy poměrových ukazatelů"
-    },
-    {
-      "label": "[section] 4.",
       "content": "a.Pojetí krátkodobého financování; obchodní úvěrb.Krátkodobé bankovní úvěry a jejich formy; ostatní zdroje krátkodobého financování"
     },
     {
@@ -314,7 +306,7 @@
       "content": "a.Pojetí krátkodobého financování; obchodní úvěrb.Krátkodobé bankovní úvěry a jejich formy; ostatní zdroje krátkodobého financování"
     },
     {
-      "label": "[section] 5.",
+      "label": "[section] 4.",
       "content": "a.Odpisy jako interní zdroj financováníb.Rizikový kapitálc.Externí zdroje financování; leasingové financování, dotace"
     },
     {
@@ -322,12 +314,20 @@
       "content": "a.Odpisy jako interní zdroj financováníb.Rizikový kapitálc.Externí zdroje financování; leasingové financování, dotace"
     },
     {
-      "label": "[section] 6.",
+      "label": "[section] 5.",
       "content": "a.Charakteristika OM a jeho struktury; celková potřeba OMb.Řízení zásob, pohledávek, peněžních prostředkůc.Vztah oběžného majetku a likvidity podniku"
     },
     {
       "label": "[section] Řízení oběžného majetku a likvidity podniku",
       "content": "a.Charakteristika OM a jeho struktury; celková potřeba OMb.Řízení zásob, pohledávek, peněžních prostředkůc.Vztah oběžného majetku a likvidity podniku"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podnikub.Interpretace ukazatelůc.Soustavy poměrových ukazatelů"
+    },
+    {
+      "label": "[section] Finanční analýza",
+      "content": "a.Ukazatele rentability, likvidity, aktivity, zadluženosti, tržní hodnoty podnikub.Interpretace ukazatelůc.Soustavy poměrových ukazatelů"
     },
     {
       "label": "[section] 7.",
@@ -355,7 +355,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hpříprava na zkoušku40 h124 hpříprava na průběžný test44 h0 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hpříprava na zkoušku40 h124 hpříprava na průběžný test44 h0 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -379,7 +379,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "-- obsah této položky nebyl definován --"
+      "content": "Program B-F Finance, prezenční forma, počáteční období ZS 2020/2021Specializace EBMM Management a marketing, kombinovaná forma, počáteční období ZS 2020/2021Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období ZS 2020/2021Specializace EBMM Management a marketing, prezenční forma, počáteční období ZS 2020/2021Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období LS 2020/2021Specializace EBMM Management a marketing, prezenční forma, počáteční období LS 2020/2021Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2021/2022Program B-MOS Management obchodu a služeb, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -401,7 +401,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -417,11 +417,11 @@
     },
     {
       "label": "Course type:",
-      "content": "optional"
+      "content": "required"
     },
     {
       "label": "Type of delivery:",
-      "content": "consulting"
+      "content": "usual"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
@@ -433,7 +433,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "doc. Ing. Soňa Hurná, CSc."
     },
     {
       "label": "Course supervising department:",
@@ -445,7 +445,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Ing. Bc. Petr Suchánek, Ph.D. (supervisor)"
+      "content": "Ing. Bc. Marcela Basovníková, Ph.D. (examiner, instructor)Ing. Martin Hart, Ph.D. (examiner, instructor)doc. Ing. Soňa Hurná, CSc. (supervisor)Ing. Petr Polák, Ph.D. (examiner, instructor)Ing. Marcel Ševela, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -585,7 +585,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024, SS 2022/2023 (and older)"
+      "content": "SS 2026/2027, WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -601,7 +601,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -621,11 +621,11 @@
     },
     {
       "label": "[section] Level of course:",
-      "content": "Course type: optional"
+      "content": "Course type: required"
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: consulting"
+      "content": "Type of delivery: usual"
     },
     {
       "label": "[section] Type of delivery:",
@@ -637,7 +637,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. Ing. Bc. Petr Suchánek, Ph.D."
+      "content": "Course supervisor: doc. Ing. Soňa Hurná, CSc."
     },
     {
       "label": "[section] Course supervisor:",
@@ -649,7 +649,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Ing. Bc. Petr Suchánek, Ph.D. (supervisor)"
+      "content": "Teachers: Ing. Bc. Marcela Basovníková, Ph.D. (examiner, instructor)Ing. Martin Hart, Ph.D. (examiner, instructor)doc. Ing. Soňa Hurná, CSc. (supervisor)Ing. Petr Polák, Ph.D. (examiner, instructor)Ing. Marcel Ševela, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -657,7 +657,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "-- item not defined --"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50Q35M. HartSeminarEvery week27Monday13.00-14.50Q35M. HartSeminarEvery week27Monday15.00-16.50Q35M. HartSeminarEvery week27Monday17.00-18.50Q01M. ŠevelaLectureEvery week361Tuesday9.00-10.50Q35M. ŠevelaSeminarEvery week27Tuesday11.00-12.50Q35M. ŠevelaSeminarEvery week27Tuesday15.00-16.50Q35M. ŠevelaSeminarEvery week27Wednesday7.00-8.50Q35M. BasovníkováSeminarEvery week27Wednesday9.00-10.50Q35M. BasovníkováSeminarEvery week27Wednesday11.00-12.50Q35M. ŠevelaSeminarEvery week27Wednesday13.00-14.50Q35M. ŠevelaSeminarEvery week27Thursday11.00-12.50Q35M. HartSeminarEvery week27Thursday13.00-14.50Q35P. PolákSeminarEvery week27Thursday15.00-16.50Q35P. PolákSeminarEvery week27Friday9.00-12.50Q48M. ŠevelaLectureOccasionally30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -741,7 +741,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hpreparation for exam40 h124 hpreparation for regular testing44 h0 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hpreparation for exam40 h124 hpreparation for regular testing44 h0 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -765,13 +765,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "-- item not defined --"
+      "content": "Programme B-F Finances, full-time form, initial period WS 2020/2021Track EBMM Management and Marketing, part-time form, initial period WS 2020/2021Track EBEFA Economic and Financial Analysis, full-time form, initial period WS 2020/2021Track EBMM Management and Marketing, full-time form, initial period WS 2020/2021Track EBEFA Economic and Financial Analysis, full-time form, initial period SS 2020/2021Track EBMM Management and Marketing, full-time form, initial period SS 2020/2021Programme B-FS Financial Services, full-time form, initial period WS 2021/2022Programme B-MOS Trade and Services Management, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:43:22",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:57:21",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

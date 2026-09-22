@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "Ing. et Ing. et Ing. David Průša, Ph.D."
+      "content": "Ing. Tomáš Mansbart"
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. et Ing. et Ing. David Průša, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Ing. Tomáš Mansbart (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,15 +67,15 @@
     },
     {
       "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "20 %"
+      "content": "60 %"
     },
     {
       "label": "Vypracování semestrální práce",
       "content": "30 %"
     },
     {
-      "label": "Absolvování závěrečného testu",
-      "content": "50 %"
+      "label": "Prezentace nebo obhajoba",
+      "content": "10 %"
     },
     {
       "label": "Celkem",
@@ -83,7 +83,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -99,7 +99,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -135,7 +135,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: Ing. et Ing. et Ing. David Průša, Ph.D."
+      "content": "Garant předmětu: Ing. Tomáš Mansbart"
     },
     {
       "label": "[section] Garant předmětu:",
@@ -147,7 +147,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. et Ing. et Ing. David Průša, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Tomáš Mansbart (cvičící, garant, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -155,11 +155,11 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPátek7.00-8.50B514D. PrůšaCvičeníKaždý týden20Pátek9.00-10.50B514D. PrůšaCvičeníKaždý týden20"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Hlavním cílem volitelného předmětu je rozšíření znalostí v oblasti projektování stavebních objektů pomocí prostorového modelování. Dále seznámení s problematikou BIMu, požadavků na modely a využití modelů ve stavební praxi. Studenti v rámci cvičení vytvářejí 3D modely a informační modely staveb z dostupných materiálů, učí se exportovat data z těchto modelů do vybraných SW, generovat stavební výkresy, verifikovat data v těchto modelech a pracovat se společným datovým prostředím. Osnova: 1. Seznámení se základními principy modelování, definice pojmů BIM, datový standard staveb (DSS), společné datové prostředí (CDE), materiály pro tvorbu modelu a požadavky na tvorbu modelu, legislativa, plán realizace BIMu (BEP). Tvorba digitálního modelu stavebního objektu – příprava modelu budovy. 2. Seznámení s SW Autodesk REVIT, základní nastavení SW, popis rozhraní, panelů a nástrojů. Tvorba osnov, podlaží a pomocných podlaží. Nastavení 3D zobrazení. 3. Práce s podklady - import CAD souborů, práce se souřadnicemi. Tvorba základů a stěn, jejich editace, napojení podlaží, průhlednost, skladby. Nástroj malba, tvorba vlastních povrchů. 4. Tvorba obvodového plaště pomocí příčkové konstrukce, editace náčrtu, výšky pohledu. 5. Konzultace a cvičení z probrané látky. 6. Tvorba podlahy, napojení na podlaží, průhlednost. Venkovní plochy tvořené pomocí ramp. Tvorba konstrukčních sloupů, vytvoření sady sloupů přes osnovu. 7. Výplně otvorů - okna a dveře, načtení rodin, editace rodin. Tvorba okna přes obvodový plášť. 8. Tvorba rozvržení místností, výkaz ploch a objemů místností ve výkresu, vlastní nastavení rozvržení místností. Kótování. Konzultace. 9. Schodiště a náčrt atipického schodiště, prořezávání konstrukcí, zábradlí, rampa. 10. Konzultace a cvičení z probrané látky. 11. Místnosti a jejich barevná schémata. Kótování, tvorba výkazů prvků a množství a výkaz obvodového pláště. 12. Rozvržení výkresu a nastavení exportu, tvorba 3D pohledů umístěných na výkresy. Úvod ke střechám - střecha v půdorysu. 13. Sedlová, valbová a plochá střecha, nastavení spádování střech. Vikýře, podbití a okapy. 14. Zápočtový test a odevzdání seminární práce."
+      "content": "Cílem volitelného předmětu je rozšíření znalostí v oblasti projektování a návrhu prostorového modelu. Dále umět si rychle ověřit daný návrh v prostoru a posoudit vhodnost daného řešení. Studenti v rámci cvičení prochází od základní tvorby prostorových modelů z fyzických materiálů po sofistikované modelovací programy. Dále mají možnost získat znalosti technického kreslení v prostoru, grafické prvky – subjekty a jejich atributy a analyzovat vytvořený model. Osnova: 1. Seznámení se základními principy modelování 2. Tvorba fyzických modelů z běžně dostupných materiálů 3. Základní 3D intuitivní programy 4. Tvorba základního modelu ve 3D 5. Možnosti renderování pro 3D modely a vytvoření vizualizace 6. Pokročilé projektování v programech pro vytvoření informačního modelu budov (BIM) 7. Možnosti nastavení širších funkcí při návrhu ve 3D prostředí 8. Export modelu pro 3D tisk 9. Tvorba modelu s využitím 2D laseru a 3D tiskárny 10. Možnosti prezentace modelu ve virtuální realitě 11. Možnosti prezentace modelu v rozšířené realitě 12. Transport 3D modelu pro virtuální prostředí. 13. Promítnutí modelu ve 3D pomocí virtuálního prostředí a ověření zvolených řešení 14. Prezentace vytvořených modelů a obhájení zvoleného způsobu zobrazení"
     },
     {
       "label": "[section] Obsah předmětu:",
@@ -167,27 +167,27 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumcvičení28 hkonzultace4 hprojektová práce14 hpříprava na průběžný test14 hzpracování seminární práce28 hCelkem88 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumcvičení28 hkonzultace4 hprojektová práce28 hzpracování seminární práce28 hCelkem88 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Vypracování semestrálního projektu - tvorba virtuálního modelu budovy a vytvoření fyzického modelu budovy. Zápočtový test."
+      "content": "Vypracování semestrálního projektu - tvorba virtuálního modelu budovy a vytvoření fyzického modelu budovy"
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích20 %Vypracování semestrální práce30 %Absolvování závěrečného testu50 %Celkem100 %"
+      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích60 %Vypracování semestrální práce30 %Prezentace nebo obhajoba10 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:PRŮŠA, David. 2024. David Průša - CAD a BIM. https://www.youtube.com/@DavidPrusa-mendelu.REMEŠ, Josef a kol. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2. vyd. Praha: Grada, 248 s. Stavitel. ISBN 978-80-247-5142-9."
+      "content": "Základní:NOVOTNÁ, Helena. 2014. Základy BIM – Revit Architecture seznámení s programem. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 190 s. ISBN 978-80-214-5023-3.NOVOTNÁ, Helena. 2015. Základy BIM II - Revit Architecture pokročilé kapitoly. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 77 s. ISBN 978-80-214-5199-5.REMEŠ, Josef a kol. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2. vyd. Praha: Grada, 248 s. Stavitel. ISBN 978-80-247-5142-9.NOVOTNÝ, Jakub; CIMALA, Lukáš; REMEŠ, Josef. 2014. Revit ve stavební praxi. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 180 s. ISBN 978-80-214-4966-4."
     },
     {
       "label": "[section] Základní:",
-      "content": "PRŮŠA, David. 2024. David Průša - CAD a BIM. https://www.youtube.com/@DavidPrusa-mendelu.REMEŠ, Josef a kol. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2. vyd. Praha: Grada, 248 s. Stavitel. ISBN 978-80-247-5142-9."
+      "content": "NOVOTNÁ, Helena. 2014. Základy BIM – Revit Architecture seznámení s programem. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 190 s. ISBN 978-80-214-5023-3.NOVOTNÁ, Helena. 2015. Základy BIM II - Revit Architecture pokročilé kapitoly. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 77 s. ISBN 978-80-214-5199-5.REMEŠ, Josef a kol. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2. vyd. Praha: Grada, 248 s. Stavitel. ISBN 978-80-247-5142-9.NOVOTNÝ, Jakub; CIMALA, Lukáš; REMEŠ, Josef. 2014. Revit ve stavební praxi. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 180 s. ISBN 978-80-214-4966-4."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-SNBD Stavby na bázi dřeva, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Program B-SNBD Stavby na bázi dřeva, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -209,7 +209,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -241,7 +241,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "Ing. et Ing. et Ing. David Průša, Ph.D."
+      "content": "Ing. Tomáš Mansbart"
     },
     {
       "label": "Course supervising department:",
@@ -253,7 +253,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. et Ing. et Ing. David Průša, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Ing. Tomáš Mansbart (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -261,15 +261,15 @@
     },
     {
       "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "20 %"
+      "content": "60 %"
     },
     {
       "label": "Term paper",
       "content": "30 %"
     },
     {
-      "label": "Final test",
-      "content": "50 %"
+      "label": "Presentation or defence",
+      "content": "10 %"
     },
     {
       "label": "Total",
@@ -277,7 +277,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -293,7 +293,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -329,7 +329,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: Ing. et Ing. et Ing. David Průša, Ph.D."
+      "content": "Course supervisor: Ing. Tomáš Mansbart"
     },
     {
       "label": "[section] Course supervisor:",
@@ -341,7 +341,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. et Ing. et Ing. David Průša, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Teachers: Ing. Tomáš Mansbart (examiner, instructor, lecturer, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -349,11 +349,11 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityFriday7.00-8.50B514D. PrůšaSeminarEvery week20Friday9.00-10.50B514D. PrůšaSeminarEvery week20"
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The main objective of the elective course is to expand the knowledge in the field of designing construction objects using spatial modelling. The aim of the course is to learn about BIM, model requirements and the use of models in construction practice. Students create 3D models and information models of buildings from available materials, learn to export data from these models to selected software, generate construction drawings, verify data in these models and work with a common data environment. Curriculum: 1. Introduction to the basic principles of modelling, definition of BIM, Data Standard for Buildings (DSS), Common Data Environment (CDE), materials for model creation and requirements for model creation, legislation, BIM Execution Plan (BEP). Creation of a digital model of a building object - preparation of a building model. 2. Introduction to Autodesk REVIT software, basic software setup, description of interfaces, panels and tools. Creation of outlines, floors and auxiliary floors. 3D view setup. 3. Working with documents - importing CAD files, working with coordinates. Creating foundations and walls, editing them, floor connections, transparency, compositions. Painting tool, creation of custom surfaces. 4. Creating the envelope using a partition structure, sketch editing, view height. 5. Consultations and exercises from the material covered. 6. Formation of the floor, connection to the floor, transparency. Outdoor areas formed using ramps. Formation of structural columns, formation of a set of columns through the warp. 7. Filling openings - windows and doors, loading families, editing families. Creating a window across the envelope. 8. Creating room layouts, listing room areas and volumes in drawing, custom room layout setup. Listing. Consultation. 9. Staircase and sketch of atypical staircase, cutting through structures, handrail, ramp. 10. Consultation and exercises from the material covered. 11. Rooms and their colour schemes. Plotting, preparation of lists of elements and quantities and list of the envelope. 12. Drawing layout and export settings, creation of 3D views placed on drawings. Introduction to roofs - roof in plan view. 13. Gable, hipped and flat roofs, setting up roof pitches. Dormers, soffits and guttering. 14. Credit test and submission of seminar paper."
+      "content": "The student will gain knowledge in the design and planning of a building model. The basis is a quick drawing of a 3D model and assessment of the suitability of the solution. Students will try the basic creation of 3D models from different materials. We will also work in a virtual environment of 3D models. Furthermore, students have the opportunity to gain knowledge of technical drawing in 3D, the creation of 3D objects and the definition of their properties for the analysis of the created model. Topics: 1. Introduction to the basic principles of modeling 2. Creation of physical models from commonly available materials 3. Basic 3D intuitive programs 4. Creating a basic model in 3D 5. Rendering options for 3D models and visualization 6. Advanced design in the program for creating a building information model (BIM) 7. Setting the properties of materials during design in 3D. 8. Export the model for 3D printing 9. Model creation on 2D laser and 3D printers 10. Presentation of the model in virtual reality 11. Presentation of the model in augmented reality 12. Transport of 3D model for virtual environment. 13. Projection of the model in 3D using virtual reality and verification of the chosen solution 14. Presentation of created models in virtual reality"
     },
     {
       "label": "[section] Course content:",
@@ -361,7 +361,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancepractice28 hconsultation4 hproject work14 hpreparation for regular testing14 hwriting of seminar paper28 hTotal88 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancepractice28 hconsultation4 hproject work28 hwriting of seminar paper28 hTotal88 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -369,25 +369,25 @@
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation20 %Term paper30 %Final test50 %Total100 %"
+      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation60 %Term paper30 %Presentation or defence10 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:PRŮŠA, David. 2024. David Průša - CAD a BIM. https://www.youtube.com/@DavidPrusa-mendelu.REMEŠ, Josef et al. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2nd ed. Praha: Grada, 248 p. Stavitel. ISBN 978-80-247-5142-9."
+      "content": "Basic:NOVOTNÁ, Helena. 2014. Základy BIM – Revit Architecture seznámení s programem. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 190 p. ISBN 978-80-214-5023-3.NOVOTNÁ, Helena. 2015. Základy BIM II - Revit Architecture pokročilé kapitoly. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 77 p. ISBN 978-80-214-5199-5.REMEŠ, Josef et al. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2nd ed. Praha: Grada, 248 p. Stavitel. ISBN 978-80-247-5142-9.NOVOTNÝ, Jakub; CIMALA, Lukáš; REMEŠ, Josef. 2014. Revit ve stavební praxi. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 180 p. ISBN 978-80-214-4966-4."
     },
     {
       "label": "[section] Basic:",
-      "content": "PRŮŠA, David. 2024. David Průša - CAD a BIM. https://www.youtube.com/@DavidPrusa-mendelu.REMEŠ, Josef et al. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2nd ed. Praha: Grada, 248 p. Stavitel. ISBN 978-80-247-5142-9."
+      "content": "NOVOTNÁ, Helena. 2014. Základy BIM – Revit Architecture seznámení s programem. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 190 p. ISBN 978-80-214-5023-3.NOVOTNÁ, Helena. 2015. Základy BIM II - Revit Architecture pokročilé kapitoly. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 77 p. ISBN 978-80-214-5199-5.REMEŠ, Josef et al. 2014. Stavební příručka: to nejdůležitější z norem, vyhlášek a zákonů. 2nd ed. Praha: Grada, 248 p. Stavitel. ISBN 978-80-247-5142-9.NOVOTNÝ, Jakub; CIMALA, Lukáš; REMEŠ, Josef. 2014. Revit ve stavební praxi. Brno: Vysoké učení technické v Brně, Fakulta stavební. První vydání, 180 p. ISBN 978-80-214-4966-4."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-SNBD Timber Structures and Wood Building Construction, full-time form, initial period WS 2024/2025"
+      "content": "Programme B-SNBD Timber Structures and Wood Building Construction, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:33:05",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:42:27",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

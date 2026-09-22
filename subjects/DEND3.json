@@ -3,18 +3,123 @@
   "name": "Dendrologie III",
   "nameCs": "Dendrologie III",
   "nameEn": "Dendrology III",
-  "predmetId": "160696",
+  "predmetId": "163690",
   "facultyId": 60,
   "aliases": [
     "DE3"
   ],
   "teachers": [
     "Bc. Ing. et Ing. Lenka Miksová, Ph.D.",
-    "Ing. Martin Kovář",
     "Ing. Pavel Bulíř, Ph.D.",
     "prof. Ing. Miloš Pejchal, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=163690;lang=cz",
+      "totalPass": 1,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162257;lang=cz",
+      "totalPass": 41,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 2,
+            "D": 3,
+            "E": 1,
+            "F": 5,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 5
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 2,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 8,
+            "B": 3,
+            "C": 17,
+            "D": 12,
+            "E": 1,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 41,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 8,
+            "B": 3,
+            "C": 15,
+            "D": 7,
+            "E": 0,
+            "F": 11,
+            "FN": 0
+          },
+          "pass": 33,
+          "fail": 11
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - ZF",
       "semesterId": "794",
@@ -462,5 +567,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

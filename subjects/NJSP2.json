@@ -3,14 +3,67 @@
   "name": "Světový jazyk - němčina středně pokročilí 2",
   "nameCs": "Světový jazyk - němčina středně pokročilí 2",
   "nameEn": "World Language - German Intermediate Course 2",
-  "predmetId": "157551",
-  "facultyId": 60,
+  "predmetId": "162420",
+  "facultyId": 23,
   "aliases": [],
   "teachers": [
     "Ing. Katarína Pavlačková",
     "Mgr. et Mgr. Irena Býčková"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162420;lang=cz",
+      "totalPass": 11,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 1,
+            "D": 1,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 4,
+            "D": 4,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 3,
+            "D": 3,
+            "E": 0,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 9,
+          "fail": 2
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -394,5 +447,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

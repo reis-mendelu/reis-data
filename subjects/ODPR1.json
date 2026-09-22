@@ -3,22 +3,62 @@
   "name": "Odborná praxe I - 2 týdny / 80 hodin",
   "nameCs": "Odborná praxe I - 2 týdny / 80 hodin",
   "nameEn": "Professional practical training (two weeks/80 hours)",
-  "predmetId": "160580",
+  "predmetId": "162258",
   "facultyId": 60,
   "aliases": [],
   "teachers": [
-    "David Drobilič",
-    "Ing. Eliška Zezulová",
-    "Ing. Miloš Jurica, Ph.D.",
-    "Ing. Renata Želísková",
-    "Ing. Viktor Filipi",
-    "Jaroslav Šuldes",
-    "Lenka Vavříková",
-    "Mgr. Radoslav Vlk, Ph.D.",
-    "doc. Dr. Ing. Petr Salaš",
-    "doc. Ing. Jiří Martinek, Ph.D."
+    "Mgr. Radoslav Vlk, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162258;lang=cz",
+      "totalPass": 34,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 34,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 34,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 34,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - ZF",
       "semesterId": "794",
@@ -363,5 +403,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,7 +3,7 @@
   "name": "Velkoplošné materiály pro dřevostavby",
   "nameCs": "Velkoplošné materiály pro dřevostavby",
   "nameEn": "Large-scale Materials",
-  "predmetId": "156703",
+  "predmetId": "161716",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "prof. Dr. Ing. Pavel Král"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161716;lang=cz",
+      "totalPass": 81,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 3,
+            "E": 8,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 2
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 13,
+            "C": 17,
+            "D": 21,
+            "E": 25,
+            "F": 2,
+            "FN": 0
+          },
+          "pass": 81,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 5,
+            "B": 13,
+            "C": 17,
+            "D": 18,
+            "E": 16,
+            "F": 14,
+            "FN": 0
+          },
+          "pass": 69,
+          "fail": 14
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -292,5 +359,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

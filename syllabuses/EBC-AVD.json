@@ -1,0 +1,545 @@
+{
+  "courseCode": "EBC-AVD",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "EBC-AVD"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Analytika a vizualizace dat"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Data analysis and visualisation"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2025/2026"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (6 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav informatiky (PEF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Provozně ekonomická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Petr Jedlička, Ph.D. (cvičící)Mgr. Zuzana Košťálová (cvičící)Ing. Anděla Matiášová, Ph.D. (cvičící)doc. Dr. Ing. Jiří Rybička (cvičící)Ing. Jiří Třináctý (cvičící)Ing. et Ing. Michaela Veselá (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška a ne (Pokročilá práce s daty nebo nyní Pokročilá práce s daty nebo Moderní informační technologie nebo nyní Moderní informační technologie nebo Informatika nebo nyní Informatika)"
+    },
+    {
+      "label": "1.",
+      "content": "Automatizace rutinních úkolů (dotace 8/8)"
+    },
+    {
+      "label": "a.",
+      "content": "Stručné zopakování základních principů práce v tabulkovém procesoru"
+    },
+    {
+      "label": "b.",
+      "content": "Datové typy a formáty pro ukládání tabulkových dat"
+    },
+    {
+      "label": "c.",
+      "content": "Oblast dat versus inteligentní tabulka Excelu"
+    },
+    {
+      "label": "d.",
+      "content": "Dynamické doplňování a rozšířené možnosti schránky Office"
+    },
+    {
+      "label": "e.",
+      "content": "Tipy a triky při použití podmíněného formátování"
+    },
+    {
+      "label": "f.",
+      "content": "Tvorba vlastních formátů a hromadné formátování listů"
+    },
+    {
+      "label": "g.",
+      "content": "Pokročilé možnosti řazení a filtrování"
+    },
+    {
+      "label": "2.",
+      "content": "Konsolidace dat (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcí"
+    },
+    {
+      "label": "b.",
+      "content": "Princip použití maticových vzorců"
+    },
+    {
+      "label": "c.",
+      "content": "Práce s pojmenovanými oblastmi buněk a jejich použití ve vzorcích"
+    },
+    {
+      "label": "d.",
+      "content": "Ověřování, porovnávání a slučování dat"
+    },
+    {
+      "label": "e.",
+      "content": "Sledování závislostí"
+    },
+    {
+      "label": "f.",
+      "content": "Vytváření souhrnů, přehledů a seskupení dat"
+    },
+    {
+      "label": "g.",
+      "content": "Možnosti pokročilých kontingenční tabulek"
+    },
+    {
+      "label": "3.",
+      "content": "Optimalizace a automatizace procesů (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Pochopení podstaty prognóz"
+    },
+    {
+      "label": "b.",
+      "content": "Tvorba pohledů a prognóz ve formě scénářů"
+    },
+    {
+      "label": "c.",
+      "content": "Citlivostní analýza a hledání řešení optimalizačních úloh v Excelu"
+    },
+    {
+      "label": "d.",
+      "content": "Tabelace hodnot a používání nástroje Řešitel"
+    },
+    {
+      "label": "4.",
+      "content": "Připojení k datovým zdrojům a importování dat (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Principy připojení k interním a externím datovým zdrojům"
+    },
+    {
+      "label": "b.",
+      "content": "Čištění, transformace a import dat pomocí doplňku Power Query"
+    },
+    {
+      "label": "c.",
+      "content": "Používání, připojování a slučování dotazů"
+    },
+    {
+      "label": "d.",
+      "content": "Správa a automatická aktualizace externích dat"
+    },
+    {
+      "label": "e.",
+      "content": "Možnosti sdílení a zabezpečení dat"
+    },
+    {
+      "label": "5.",
+      "content": "Vizualizace dat (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Interaktivní metody vizualizace a prezentace dat"
+    },
+    {
+      "label": "b.",
+      "content": "Tipy a triky pro pokročilé použití diagramů"
+    },
+    {
+      "label": "c.",
+      "content": "Vytvoření řídicího panelu pomocí nástrojů Excelu"
+    },
+    {
+      "label": "d.",
+      "content": "Ovládací prvky formulářů a jejich praktické využití"
+    },
+    {
+      "label": "e.",
+      "content": "Tvorba a správa datového modelu pomocí Power Pivot"
+    },
+    {
+      "label": "f.",
+      "content": "Vizualizace dat a tvorba reportů v Power BI"
+    },
+    {
+      "label": "g.",
+      "content": "Využití umělé inteligence při generování datových reportů"
+    },
+    {
+      "label": "h.",
+      "content": "Míry a počítané sloupce v jazyce DAX"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2026/2027, ZS 2026/2027 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Analytika a vizualizace dat"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Data analysis and visualisation"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2025/2026"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (6 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] zkouška (6 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav informatiky (PEF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Provozně ekonomická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: Ing. Mgr. Jana Dannhoferová, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Petr Jedlička, Ph.D. (cvičící)Mgr. Zuzana Košťálová (cvičící)Ing. Anděla Matiášová, Ph.D. (cvičící)doc. Dr. Ing. Jiří Rybička (cvičící)Ing. Jiří Třináctý (cvičící)Ing. et Ing. Michaela Veselá (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne (Pokročilá práce s daty nebo nyní Pokročilá práce s daty nebo Moderní informační technologie nebo nyní Moderní informační technologie nebo Informatika nebo nyní Informatika)"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPoznámkaPondělí11.00-12.50Q08B-MOSB-FSB-FB-EM J. TřináctýCvičeníKaždý týden22 Pondělí13.00-14.50Q04B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden30 Pondělí15.00-16.50Q04B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden30 Pondělí15.00-16.50Q08B-MOSB-FSB-FB-EM J. TřináctýCvičeníKaždý týden22 Pondělí17.00-18.50Q04B-MOSB-FSB-FB-EM M. VeseláCvičeníKaždý týden30 Úterý7.00-8.50Q03B-MOSB-FSB-FB-EM1111J. DannhoferováPřednáškaKaždý týden200Společná přednáška EBC-AVD a EBC-PPD, paralelně v Q01 a Q03.Úterý7.00-8.50Q01B-MOSB-FSB-FB-EM1111J. DannhoferováPřednáškaKaždý týden404Společná přednáška EBC-AVD a EBC-PPD, paralelně v Q01 a Q03.Úterý11.00-12.50Q04B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden30 Úterý13.00-14.50Q04B-MOSB-FSB-FB-EM J. RybičkaCvičeníKaždý týden30 Úterý15.00-16.50Q04B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden30 Úterý17.00-18.50Q05B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden22 Středa9.00-10.50Q04B-MOSB-FSB-FB-EM P. JedličkaCvičeníKaždý týden30 Středa13.00-14.50Q05B-MOSB-FSB-FB-EM P. JedličkaCvičeníKaždý týden22 Středa15.00-16.50Q04B-MOSB-FSB-FB-EM P. JedličkaCvičeníKaždý týden30 Středa17.00-18.50Q05B-MOSB-FSB-FB-EM M. VeseláCvičeníKaždý týden22 Středa17.00-18.50Q04B-MOSB-FSB-FB-EM P. JedličkaCvičeníKaždý týden30 Čtvrtek9.00-10.50Q07B-MOSB-FSB-FB-EM J. RybičkaCvičeníKaždý týden22 Čtvrtek9.00-10.50Q08B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden22 Čtvrtek13.00-14.50Q04B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden30 Čtvrtek15.00-16.50Q04B-MOSB-FSB-FB-EM Z. KošťálováCvičeníKaždý týden30 Čtvrtek17.00-18.50Q04B-MOSB-FSB-FB-EM P. JedličkaCvičeníKaždý týden30 Pátek7.00-8.50Q04B-MOSB-FSB-FB-EM A. MatiášováCvičeníKaždý týden30 Pátek9.00-12.50Q05B-EM M. VeseláPřednáškaNepravidelně20 Pátek9.00-12.50Q04B-EM J. DannhoferováPřednáškaNepravidelně30 Pátek9.00-10.50Q04B-MOSB-FSB-FB-EM A. MatiášováCvičeníKaždý týden30 Pátek11.00-12.50Q04B-MOSB-FSB-FB-EM A. MatiášováCvičeníKaždý týden30"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Předmět rozvíjí kompetence v oblasti pokročilé práce s daty. Studenti se naučí automatizovat rutinní úkoly, spravovat připojení k různým interním a externím datovým zdrojům, pracovat s velkými objemy dat, čistit a transformovat data, konsolidovat, analyzovat a vizualizovat data, vytvářet datové podklady pro rozhodování, optimalizovat řešení složitých problémů, vytvářet prognózy dat a také automatizovat složitější procesy. Předmět slouží jako příprava na získání ECDL Advanced Certificate, konkrétně modul AM4 (Advanced Spreadsheet Module) a modul AM8 (Data Analytics)."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Automatizace rutinních úkolů (dotace 8/8) a.Stručné zopakování základních principů práce v tabulkovém procesorub.Datové typy a formáty pro ukládání tabulkových datc.Oblast dat versus inteligentní tabulka Excelud.Dynamické doplňování a rozšířené možnosti schránky Officee.Tipy a triky při použití podmíněného formátováníf.Tvorba vlastních formátů a hromadné formátování listůg.Pokročilé možnosti řazení a filtrování2.Konsolidace dat (dotace 6/6) a.Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcíb.Princip použití maticových vzorcůc.Práce s pojmenovanými oblastmi buněk a jejich použití ve vzorcíchd.Ověřování, porovnávání a slučování date.Sledování závislostíf.Vytváření souhrnů, přehledů a seskupení datg.Možnosti pokročilých kontingenční tabulek3.Optimalizace a automatizace procesů (dotace 4/4) a.Pochopení podstaty prognózb.Tvorba pohledů a prognóz ve formě scénářůc.Citlivostní analýza a hledání řešení optimalizačních úloh v Excelud.Tabelace hodnot a používání nástroje Řešitel4.Připojení k datovým zdrojům a importování dat (dotace 4/4) a.Principy připojení k interním a externím datovým zdrojůmb.Čištění, transformace a import dat pomocí doplňku Power Queryc.Používání, připojování a slučování dotazůd.Správa a automatická aktualizace externích date.Možnosti sdílení a zabezpečení dat5.Vizualizace dat (dotace 6/6) a.Interaktivní metody vizualizace a prezentace datb.Tipy a triky pro pokročilé použití diagramůc.Vytvoření řídicího panelu pomocí nástrojů Excelud.Ovládací prvky formulářů a jejich praktické využitíe.Tvorba a správa datového modelu pomocí Power Pivotf.Vizualizace dat a tvorba reportů v Power BIg.Využití umělé inteligence při generování datových reportůh.Míry a počítané sloupce v jazyce DAX"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Stručné zopakování základních principů práce v tabulkovém procesorub.Datové typy a formáty pro ukládání tabulkových datc.Oblast dat versus inteligentní tabulka Excelud.Dynamické doplňování a rozšířené možnosti schránky Officee.Tipy a triky při použití podmíněného formátováníf.Tvorba vlastních formátů a hromadné formátování listůg.Pokročilé možnosti řazení a filtrování"
+    },
+    {
+      "label": "[section] Automatizace rutinních úkolů",
+      "content": "a.Stručné zopakování základních principů práce v tabulkovém procesorub.Datové typy a formáty pro ukládání tabulkových datc.Oblast dat versus inteligentní tabulka Excelud.Dynamické doplňování a rozšířené možnosti schránky Officee.Tipy a triky při použití podmíněného formátováníf.Tvorba vlastních formátů a hromadné formátování listůg.Pokročilé možnosti řazení a filtrování"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcíb.Princip použití maticových vzorcůc.Práce s pojmenovanými oblastmi buněk a jejich použití ve vzorcíchd.Ověřování, porovnávání a slučování date.Sledování závislostíf.Vytváření souhrnů, přehledů a seskupení datg.Možnosti pokročilých kontingenční tabulek"
+    },
+    {
+      "label": "[section] Konsolidace dat",
+      "content": "a.Konsolidace dat pomocí vzorců, pokročilé využití a kombinace funkcíb.Princip použití maticových vzorcůc.Práce s pojmenovanými oblastmi buněk a jejich použití ve vzorcíchd.Ověřování, porovnávání a slučování date.Sledování závislostíf.Vytváření souhrnů, přehledů a seskupení datg.Možnosti pokročilých kontingenční tabulek"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Pochopení podstaty prognózb.Tvorba pohledů a prognóz ve formě scénářůc.Citlivostní analýza a hledání řešení optimalizačních úloh v Excelud.Tabelace hodnot a používání nástroje Řešitel"
+    },
+    {
+      "label": "[section] Optimalizace a automatizace procesů",
+      "content": "a.Pochopení podstaty prognózb.Tvorba pohledů a prognóz ve formě scénářůc.Citlivostní analýza a hledání řešení optimalizačních úloh v Excelud.Tabelace hodnot a používání nástroje Řešitel"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Principy připojení k interním a externím datovým zdrojůmb.Čištění, transformace a import dat pomocí doplňku Power Queryc.Používání, připojování a slučování dotazůd.Správa a automatická aktualizace externích date.Možnosti sdílení a zabezpečení dat"
+    },
+    {
+      "label": "[section] Připojení k datovým zdrojům a importování dat",
+      "content": "a.Principy připojení k interním a externím datovým zdrojůmb.Čištění, transformace a import dat pomocí doplňku Power Queryc.Používání, připojování a slučování dotazůd.Správa a automatická aktualizace externích date.Možnosti sdílení a zabezpečení dat"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Interaktivní metody vizualizace a prezentace datb.Tipy a triky pro pokročilé použití diagramůc.Vytvoření řídicího panelu pomocí nástrojů Excelud.Ovládací prvky formulářů a jejich praktické využitíe.Tvorba a správa datového modelu pomocí Power Pivotf.Vizualizace dat a tvorba reportů v Power BIg.Využití umělé inteligence při generování datových reportůh.Míry a počítané sloupce v jazyce DAX"
+    },
+    {
+      "label": "[section] Vizualizace dat",
+      "content": "a.Interaktivní metody vizualizace a prezentace datb.Tipy a triky pro pokročilé použití diagramůc.Vytvoření řídicího panelu pomocí nástrojů Excelud.Ovládací prvky formulářů a jejich praktické využitíe.Tvorba a správa datového modelu pomocí Power Pivotf.Vizualizace dat a tvorba reportů v Power BIg.Využití umělé inteligence při generování datových reportůh.Míry a počítané sloupce v jazyce DAX"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h8 hcvičení28 h8 hkonzultace2 h2 hpříprava na zkoušku50 h70 hpříprava na průběžné hodnocení50 h70 hJiná zátěž10 h10 hCelkem168 h168 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "Předmět se skládá z přednášek a cvičení; účast není povinná, ale sledovaná. Cvičení jsou zaměřena na praktickou práci v softwaru a slouží k upevnění znalostí potřebných k úspěšnému absolvování testů. Studenti v průběhu semestru absolvují vstupní test (test 1), průběžný test (test 2) a závěrečný zkouškový test (test 3). Úspěšné absolvování průběžného testu je podmínkou pro udělení malého zápočtu, který je nezbytný pro přihlášení k závěrečnému zkouškovému testu. Vstupní test je hodnocen 5 nebo 0 body v závislosti na splnění stanovené průchodnosti. Průběžný test je ohodnocen maximálně 50 body a závěrečný zkouškový test je ohodnocen maximálně 45 body. Pro úspěšné absolvování předmětu je nutné získat minimálně 30 bodů z průběžného testu, minimálně 25 bodů ze závěrečného zkouškového testu a minimálně 60 bodů ze všech tří testů dohromady. Průběžný test a závěrečný zkouškový test lze opakovat maximálně dvakrát, platný je vždy poslední získaný výsledek. Vstupní test není možné opakovat a pokud jej student neabsolvuje, získává za něj automaticky 0 bodů. Výuka i testy probíhají výhradně v anglickém jazykovém prostředí softwaru. Znalost anglické terminologie softwaru je ověřována v rámci testových úloh a je součástí jejich bodového hodnocení. Studentům se doporučuje nastavit si toto rozhraní i pro domácí přípravu. Celkové bodové hodnocení je dáno součtem bodů ze vstupního testu, průběžného testu a závěrečného zkouškového testu. Výsledná známka je stanovena podle klasifikační stupnice ECTS, tedy méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A. V případě podvodného jednání bude student hodnocen známkou F a bude s ním zahájeno disciplinární řízení dle platných vnitřních předpisů fakulty."
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)50 %50 %Absolvování závěrečného testu45 %45 %Zvláštní podmínky a podrobnosti5 %5 %Celkem100 %100 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní: Practical PowerPivot & DAX formulas for Excel 2010. 2011. New York: McGraw-Hill, 438 s. ISBN 978-0-07-174685-4. Pro DAX with Power BI: business intelligence with PowerPivot and SQL server analysis services tabular. 2019. Berkeley, CA: Apress, 376 s. ISBN 978-1-4842-4896-6. Power BI data modeling: build interactive visualizations, learn DAX, power query, and develop BI models. 2022. Noida: BPB Online, 294 s. ISBN 978-93-89328-837."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "Practical PowerPivot & DAX formulas for Excel 2010. 2011. New York: McGraw-Hill, 438 s. ISBN 978-0-07-174685-4. Pro DAX with Power BI: business intelligence with PowerPivot and SQL server analysis services tabular. 2019. Berkeley, CA: Apress, 376 s. ISBN 978-1-4842-4896-6. Power BI data modeling: build interactive visualizations, learn DAX, power query, and develop BI models. 2022. Noida: BPB Online, 294 s. ISBN 978-93-89328-837."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Program B-EM Ekonomika a management, prezenční forma, počáteční období ZS 2025/2026Program B-FS Finanční služby, prezenční forma, počáteční období ZS 2025/2026Program B-MOS Management obchodu a služeb, prezenční forma, počáteční období ZS 2025/2026Program B-F Finance, prezenční forma, počáteční období ZS 2025/2026Program B-EM Ekonomika a management, kombinovaná forma, počáteční období ZS 2025/2026"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Brno"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "EBC-AVD"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Analytika a vizualizace dat"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Data analysis and visualisation"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2025/2026"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (6 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "Cannot be studied during the study placement."
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Informatics (FBE)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Business and Economics"
+    },
+    {
+      "label": "Teachers:",
+      "content": "Ing. Mgr. Jana Dannhoferová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Petr Jedlička, Ph.D. (instructor)Mgr. Zuzana Košťálová (instructor)Ing. Anděla Matiášová, Ph.D. (instructor)doc. Dr. Ing. Jiří Rybička (instructor)Ing. Jiří Třináctý (instructor)Ing. et Ing. Michaela Veselá (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Final Bachelor Exam and not (Advanced Work with Data or now Advanced Work with Data or Modern Information Technologies or now Modern Information Technologies or Informatics or now Informatics)"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2026/2027, WS 2026/2027 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Brno"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Analytika a vizualizace dat"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Data analysis and visualisation"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2025/2026"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (6 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Exam (6 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: Cannot be studied during the study placement."
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: Ing. Mgr. Jana Dannhoferová, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Informatics (FBE)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Business and Economics"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: Ing. Mgr. Jana Dannhoferová, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Petr Jedlička, Ph.D. (instructor)Mgr. Zuzana Košťálová (instructor)Ing. Anděla Matiášová, Ph.D. (instructor)doc. Dr. Ing. Jiří Rybička (instructor)Ing. Jiří Třináctý (instructor)Ing. et Ing. Michaela Veselá (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Final Bachelor Exam and not (Advanced Work with Data or now Advanced Work with Data or Modern Information Technologies or now Modern Information Technologies or Informatics or now Informatics)"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityNoteMonday11.00-12.50Q08B-MOSB-FSB-FB-EM J. TřináctýSeminarEvery week22 Monday13.00-14.50Q04B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week30 Monday15.00-16.50Q08B-MOSB-FSB-FB-EM J. TřináctýSeminarEvery week22 Monday15.00-16.50Q04B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week30 Monday17.00-18.50Q04B-MOSB-FSB-FB-EM M. VeseláSeminarEvery week30 Tuesday7.00-8.50Q01B-MOSB-FSB-FB-EM1111J. DannhoferováLectureEvery week404Společná přednáška EBC-AVD a EBC-PPD, paralelně v Q01 a Q03.Tuesday7.00-8.50Q03B-MOSB-FSB-FB-EM1111J. DannhoferováLectureEvery week200Společná přednáška EBC-AVD a EBC-PPD, paralelně v Q01 a Q03.Tuesday11.00-12.50Q04B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week30 Tuesday13.00-14.50Q04B-MOSB-FSB-FB-EM J. RybičkaSeminarEvery week30 Tuesday15.00-16.50Q04B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week30 Tuesday17.00-18.50Q05B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week22 Wednesday9.00-10.50Q04B-MOSB-FSB-FB-EM P. JedličkaSeminarEvery week30 Wednesday13.00-14.50Q05B-MOSB-FSB-FB-EM P. JedličkaSeminarEvery week22 Wednesday15.00-16.50Q04B-MOSB-FSB-FB-EM P. JedličkaSeminarEvery week30 Wednesday17.00-18.50Q04B-MOSB-FSB-FB-EM P. JedličkaSeminarEvery week30 Wednesday17.00-18.50Q05B-MOSB-FSB-FB-EM M. VeseláSeminarEvery week22 Thursday9.00-10.50Q08B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week22 Thursday9.00-10.50Q07B-MOSB-FSB-FB-EM J. RybičkaSeminarEvery week22 Thursday13.00-14.50Q04B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week30 Thursday15.00-16.50Q04B-MOSB-FSB-FB-EM Z. KošťálováSeminarEvery week30 Thursday17.00-18.50Q04B-MOSB-FSB-FB-EM P. JedličkaSeminarEvery week30 Friday7.00-8.50Q04B-MOSB-FSB-FB-EM A. MatiášováSeminarEvery week30 Friday9.00-12.50Q04B-EM J. DannhoferováLectureOccasionally30 Friday9.00-12.50Q05B-EM M. VeseláLectureOccasionally20 Friday9.00-10.50Q04B-MOSB-FSB-FB-EM A. MatiášováSeminarEvery week30 Friday11.00-12.50Q04B-MOSB-FSB-FB-EM A. MatiášováSeminarEvery week30"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The course develops skills in advanced data handling. Students will learn to automate routine tasks, manage connections to a variety of internal and external data sources, work with large volumes of data, cleanse and transform data, consolidate, analyse and visualise data, create data to support decision making, optimise solutions to complex problems, create data forecasts and automate more complex processes. The course serves as a preparation for the ECDL Advanced Certificate, specifically module AM4 (Advanced Spreadsheet Module) and module AM8 (Data Analytics)."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "The content of the course has not been saved in this language version."
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h8 hpractice28 h8 hconsultation2 h2 hpreparation for exam50 h70 hpreparation for regular assessment50 h70 hOther workload10 h10 hTotal168 h168 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "The course consists of lectures and practical seminars; attendance is not required, but tracked. The seminars focus on hands-on work with software and are designed to consolidate the knowledge required for the successful completion of the tests. During the semester, students take an entrance test (test 1), a midterm test (test 2), and a final exam (test 3). Successful completion of the midterm test is a prerequisite for receiving a small credit, which is necessary to register for the final exam. The entrance test is graded with 5 or 0 points depending on whether the set pass mark is achieved. The midterm test is graded with a maximum of 50 points and the final exam is graded with a maximum of 45 points. To successfully complete the course, it is necessary to obtain at least 30 points from the midterm test, at least 25 points from the final exam, and at least 60 points from all three tests combined. The midterm test and final exam can be repeated a maximum of two times, with the last result obtained being valid. The entrance test cannot be repeated, and if a student does not take it, they automatically receive 0 points for it. All instruction and testing take place exclusively in an English-language software environment. Knowledge of English software terminology is assessed as part of the test tasks and is included in their point evaluation. Students are strongly advised to use the English-language interface for their independent study as well. The total score is calculated as the sum of points obtained from the entry test, the mid-term test, and the final examination test. The final grade is awarded according to the ECTS grading scale: fewer than 60 points – F; 60 points and above – E; 68 points and above – D; 75 points and above – C; 83 points and above – B; and 90 points and above – A. In the event of academic misconduct, the student will be awarded a grade of F and disciplinary proceedings will be initiated in accordance with the applicable internal regulations of the faculty."
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)50 %50 %Final test45 %45 %Special requirements and details5 %5 %Total100 %100 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic: Practical PowerPivot & DAX formulas for Excel 2010. 2011. New York: McGraw-Hill, 438 p. ISBN 978-0-07-174685-4. Pro DAX with Power BI: business intelligence with PowerPivot and SQL server analysis services tabular. 2019. Berkeley, CA: Apress, 376 p. ISBN 978-1-4842-4896-6. Power BI data modeling: build interactive visualizations, learn DAX, power query, and develop BI models. 2022. Noida: BPB Online, 294 p. ISBN 978-93-89328-837."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "Practical PowerPivot & DAX formulas for Excel 2010. 2011. New York: McGraw-Hill, 438 p. ISBN 978-0-07-174685-4. Pro DAX with Power BI: business intelligence with PowerPivot and SQL server analysis services tabular. 2019. Berkeley, CA: Apress, 376 p. ISBN 978-1-4842-4896-6. Power BI data modeling: build interactive visualizations, learn DAX, power query, and develop BI models. 2022. Noida: BPB Online, 294 p. ISBN 978-93-89328-837."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Programme B-EM Economics and Management, full-time form, initial period WS 2025/2026Programme B-FS Financial Services, full-time form, initial period WS 2025/2026Programme B-MOS Trade and Services Management, full-time form, initial period WS 2025/2026Programme B-F Finances, full-time form, initial period WS 2025/2026Programme B-EM Economics and Management, part-time form, initial period WS 2025/2026"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Brno"
+    }
+  ],
+  "scrapedAt": "2026-09-22 07:51:12",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

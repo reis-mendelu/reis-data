@@ -3,14 +3,82 @@
   "name": "Evropská integrace a globalizace",
   "nameCs": "Evropská integrace a globalizace",
   "nameEn": "European Integration and Globalization",
-  "predmetId": "156534",
+  "predmetId": "162551",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "Ing. Klára Plecitá",
+    "Ing. Zuzana Vlasáková, Ph.D.",
     "prof. Ing. Lubor Lacina, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162551;lang=cz",
+      "totalPass": 117,
+      "totalFail": 17,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 3,
+            "D": 3,
+            "E": 2,
+            "F": 2,
+            "FN": 2
+          },
+          "pass": 11,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 2,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 25,
+            "B": 30,
+            "C": 21,
+            "D": 27,
+            "E": 14,
+            "F": 13,
+            "FN": 4
+          },
+          "pass": 117,
+          "fail": 17
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 21,
+            "B": 29,
+            "C": 18,
+            "D": 24,
+            "E": 12,
+            "F": 27,
+            "FN": 3
+          },
+          "pass": 104,
+          "fail": 30
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -372,5 +440,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

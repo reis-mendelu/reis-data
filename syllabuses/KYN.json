@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Není možná."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. Ing. Zuzana Rečková, Ph.D."
+      "content": "Ing. Martin Hošek, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Ing. Zuzana Rečková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Ing. Martin Hošek, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Zuzana Rečková, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -70,72 +70,280 @@
       "content": "Význam chovu psů, původ a domestikace psa (dotace 2/0)"
     },
     {
+      "label": "a.",
+      "content": "- předkové psa"
+    },
+    {
+      "label": "b.",
+      "content": "- proces domestikace, domestikační centra"
+    },
+    {
+      "label": "c.",
+      "content": "- vznik plemenných skupin psů"
+    },
+    {
       "label": "2.",
-      "content": "Biologie a fyziologie psa (dotace 4/0)"
+      "content": "Biologie a fyziologie psa (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- základy a zvláštnosti biologie psa"
+    },
+    {
+      "label": "b.",
+      "content": "- základy a zvláštnosti fyziologie psa"
     },
     {
       "label": "3.",
-      "content": "Reprodukce psů (dotace 4/0)"
+      "content": "Reprodukce psů (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- zařazení psů do chovu, biologie ejakulátu psů, krytí psem"
+    },
+    {
+      "label": "b.",
+      "content": "- zařazení fen do chovu, ovariální cyklus, krytí feny"
+    },
+    {
+      "label": "c.",
+      "content": "- gravidita, porod a jeho vedení, mateřské chování fen"
     },
     {
       "label": "4.",
-      "content": "Genetika psů (dotace 1/0)"
+      "content": "Genetika psů (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- genetika zbarvení a osrstění psů"
+    },
+    {
+      "label": "b.",
+      "content": "- geneticky podmíněné nemoci a defekty u psů"
+    },
+    {
+      "label": "c.",
+      "content": "- metody plemenitby a selekce u psů"
     },
     {
       "label": "5.",
       "content": "Výživa psů (dotace 2/0)"
     },
     {
+      "label": "a.",
+      "content": "- potřeba živin pro psa"
+    },
+    {
+      "label": "b.",
+      "content": "- krmiva a doplňky výživy"
+    },
+    {
+      "label": "c.",
+      "content": "- krmení jednotlivých kategorií psů"
+    },
+    {
+      "label": "d.",
+      "content": "- specifika výživy psů v zátěži"
+    },
+    {
       "label": "6.",
-      "content": "Výběr a socializace štěněte, výchova psa (dotace 3/0)"
+      "content": "Výběr a výchova psa (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- výběr štěněte"
+    },
+    {
+      "label": "b.",
+      "content": "- výchova a asociování štěněte"
+    },
+    {
+      "label": "c.",
+      "content": "- teorie výcviku, základní výcvik"
     },
     {
       "label": "7.",
-      "content": "Problematika vodících a asistenčních psů (dotace 2/0)"
+      "content": "Výcvik a upotřebení psů pracovních plemen (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- výcvik ovčáckých, pasteveckých a honáckých psů; služebních psů pro ochranu osob a majetku"
+    },
+    {
+      "label": "b.",
+      "content": "- výcvik vodících, asistenčních a záchranářských psů"
+    },
+    {
+      "label": "c.",
+      "content": "- výcvik psů pro speciální použití (vyhledávání drog, zbraní, munice aj.)"
     },
     {
       "label": "8.",
-      "content": "Sportovní a společenské využití psů (dotace 3/0)"
+      "content": "Výcvik a upotřebení psů loveckých plemen (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- všeobecné zásady výcviku loveckého psa"
+    },
+    {
+      "label": "b.",
+      "content": "- výcvik loveckých psů dle jejich využití (norování, vodní práce)"
     },
     {
       "label": "9.",
-      "content": "Organizace kynologie, chovatelství a výstavy (dotace 2/0)"
+      "content": "Sportovní a společenské využití psů (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- sporty a sportovní disciplíny se psy"
+    },
+    {
+      "label": "b.",
+      "content": "- společenské využití psů"
+    },
+    {
+      "label": "c.",
+      "content": "- canisterapie"
     },
     {
       "label": "10.",
-      "content": "Pes a právo (dotace 1/0)"
+      "content": "Organizace kynologie, chovatelství a výstavy (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- chovatelské kluby, chovné stanice"
+    },
+    {
+      "label": "b.",
+      "content": "- zapisování do plemenných knih, průkaz původu psa"
+    },
+    {
+      "label": "c.",
+      "content": "- hodnocení exteriéru psa, bonitace, hodnocení výkonu psa"
     },
     {
       "label": "11.",
-      "content": "Úvod do cvičeníPlemena psů I. skupiny dle FCI (dotace 0/2)"
+      "content": "Pes a právo (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- pes v našem právním řádu, koupě psa"
+    },
+    {
+      "label": "b.",
+      "content": "- zákon na ochranu zvířat proti týrání, problematika \"bojových\" plemen a práva"
+    },
+    {
+      "label": "c.",
+      "content": "- pes a právo myslivosti, cestování se psy"
     },
     {
       "label": "12.",
-      "content": "Plemena psů II. skupiny dle FCI (dotace 0/2)"
+      "content": "Zdravotní péče (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "- nemoci psů a jejich prevence"
+    },
+    {
+      "label": "b.",
+      "content": "- vakcinační programy"
+    },
+    {
+      "label": "c.",
+      "content": "- zdraví vs. výstavy, cestování, výkon"
     },
     {
       "label": "13.",
-      "content": "Plemena psů III. a IV. skupiny dle FCI (dotace 0/2)"
+      "content": "Úvod Plemena psů I. skupiny dle FCI (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- ovčáčtí psi"
+    },
+    {
+      "label": "b.",
+      "content": "- pastevečtí psi"
+    },
+    {
+      "label": "c.",
+      "content": "- honáčtí psi"
     },
     {
       "label": "14.",
-      "content": "Plemena psů V. skupiny dle FCI (dotace 0/2)"
+      "content": "Plemena psů II. skupiny dle FCI (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- pinčové a knírači"
+    },
+    {
+      "label": "b.",
+      "content": "- molosoidní (dogovití) psi"
+    },
+    {
+      "label": "c.",
+      "content": "- švýcarští salašničtí psi"
     },
     {
       "label": "15.",
-      "content": "Plemena psů VI. a VII. skupiny dle FCI (dotace 0/4)"
+      "content": "Plemena psů III. a IV. skupiny dle FCI (dotace 0/2)"
+    },
+    {
+      "label": "a.",
+      "content": "- teriéři"
+    },
+    {
+      "label": "b.",
+      "content": "- jezevčíci"
     },
     {
       "label": "16.",
-      "content": "Plemena psů VIII., IX. a X. skupiny dle FCI (dotace 0/4)"
+      "content": "Plemena psů V. skupiny dle FCI (dotace 0/1)"
+    },
+    {
+      "label": "a.",
+      "content": "- špicové"
+    },
+    {
+      "label": "b.",
+      "content": "- primitivní plemena"
     },
     {
       "label": "17.",
-      "content": "Zdravotní péče (dotace 0/2)"
+      "content": "Plemena psů VI. a VII. skupiny dle FCI (dotace 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "- honiči a barváři"
+    },
+    {
+      "label": "b.",
+      "content": "- ohaři"
     },
     {
       "label": "18.",
+      "content": "Plemena psů VIII., IX. a X. skupiny dle FCI (dotace 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "- slídiči"
+    },
+    {
+      "label": "b.",
+      "content": "- retrívři a vodní psi"
+    },
+    {
+      "label": "c.",
+      "content": "- společenská plemena a chrti"
+    },
+    {
+      "label": "19.",
       "content": "Návštěva národní nebo mezinárodní výstavy psů (dotace 0/6)"
+    },
+    {
+      "label": "20.",
+      "content": "Návštěva útulku pro opuštěná zvířata (dotace 0/2)"
     },
     {
       "label": "Celkem",
@@ -143,7 +351,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -159,7 +367,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -187,7 +395,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Není možná."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -195,7 +403,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. Ing. Zuzana Rečková, Ph.D."
+      "content": "Garant předmětu: Ing. Martin Hošek, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -207,7 +415,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Ing. Zuzana Rečková, Ph.D. (cvičící, garant, přednášející, zkoušející)"
+      "content": "Vyučující: Ing. Martin Hošek, Ph.D. (cvičící, garant, přednášející, zkoušející)doc. Ing. Zuzana Rečková, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -215,7 +423,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý15.00-16.50M1.09Z. RečkováPřednáškaKaždý týden64Středa9.00-10.50A43Z. RečkováCvičeníKaždý týden20Středa11.00-12.50A43Z. RečkováCvičeníKaždý týden20Středa13.00-14.50A43Z. RečkováCvičeníKaždý týden20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50A47Z. Rečková, M. HošekCvičeníKaždý týden20Pondělí13.00-14.50A47Z. Rečková, M. HošekCvičeníKaždý týden20Pondělí15.00-16.50A47Z. Rečková, M. HošekCvičeníKaždý týden20Pondělí17.00-18.50A11M. Hošek, Z. RečkováPřednáškaKaždý týden73"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -223,151 +431,167 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Význam chovu psů, původ a domestikace psa (dotace 2/0)2.Biologie a fyziologie psa (dotace 4/0)3.Reprodukce psů (dotace 4/0)4.Genetika psů (dotace 1/0)5.Výživa psů (dotace 2/0)6.Výběr a socializace štěněte, výchova psa (dotace 3/0)7.Problematika vodících a asistenčních psů (dotace 2/0)8.Sportovní a společenské využití psů (dotace 3/0)9.Organizace kynologie, chovatelství a výstavy (dotace 2/0)10.Pes a právo (dotace 1/0)11.Úvod do cvičeníPlemena psů I. skupiny dle FCI (dotace 0/2)12.Plemena psů II. skupiny dle FCI (dotace 0/2)13.Plemena psů III. a IV. skupiny dle FCI (dotace 0/2)14.Plemena psů V. skupiny dle FCI (dotace 0/2)15.Plemena psů VI. a VII. skupiny dle FCI (dotace 0/4)16.Plemena psů VIII., IX. a X. skupiny dle FCI (dotace 0/4)17.Zdravotní péče (dotace 0/2)18.Návštěva národní nebo mezinárodní výstavy psů (dotace 0/6)"
+      "content": "1.Význam chovu psů, původ a domestikace psa (dotace 2/0) a.- předkové psab.- proces domestikace, domestikační centrac.- vznik plemenných skupin psů2.Biologie a fyziologie psa (dotace 3/0) a.- základy a zvláštnosti biologie psab.- základy a zvláštnosti fyziologie psa3.Reprodukce psů (dotace 2/0) a.- zařazení psů do chovu, biologie ejakulátu psů, krytí psemb.- zařazení fen do chovu, ovariální cyklus, krytí fenyc.- gravidita, porod a jeho vedení, mateřské chování fen4.Genetika psů (dotace 2/0) a.- genetika zbarvení a osrstění psůb.- geneticky podmíněné nemoci a defekty u psůc.- metody plemenitby a selekce u psů5.Výživa psů (dotace 2/0) a.- potřeba živin pro psab.- krmiva a doplňky výživyc.- krmení jednotlivých kategorií psůd.- specifika výživy psů v zátěži6.Výběr a výchova psa (dotace 2/0) a.- výběr štěněteb.- výchova a asociování štěnětec.- teorie výcviku, základní výcvik7.Výcvik a upotřebení psů pracovních plemen (dotace 3/0) a.- výcvik ovčáckých, pasteveckých a honáckých psů; služebních psů pro ochranu osob a majetkub.- výcvik vodících, asistenčních a záchranářských psůc.- výcvik psů pro speciální použití (vyhledávání drog, zbraní, munice aj.)8.Výcvik a upotřebení psů loveckých plemen (dotace 2/0) a.- všeobecné zásady výcviku loveckého psab.- výcvik loveckých psů dle jejich využití (norování, vodní práce)9.Sportovní a společenské využití psů (dotace 1/0) a.- sporty a sportovní disciplíny se psyb.- společenské využití psůc.- canisterapie10.Organizace kynologie, chovatelství a výstavy (dotace 2/0) a.- chovatelské kluby, chovné staniceb.- zapisování do plemenných knih, průkaz původu psac.- hodnocení exteriéru psa, bonitace, hodnocení výkonu psa11.Pes a právo (dotace 1/0) a.- pes v našem právním řádu, koupě psab.- zákon na ochranu zvířat proti týrání, problematika \"bojových\" plemen a právac.- pes a právo myslivosti, cestování se psy12.Zdravotní péče (dotace 2/0) a.- nemoci psů a jejich prevenceb.- vakcinační programyc.- zdraví vs. výstavy, cestování, výkon13.Úvod Plemena psů I. skupiny dle FCI (dotace 0/2) a.- ovčáčtí psib.- pastevečtí psic.- honáčtí psi14.Plemena psů II. skupiny dle FCI (dotace 0/2) a.- pinčové a kníračib.- molosoidní (dogovití) psic.- švýcarští salašničtí psi15.Plemena psů III. a IV. skupiny dle FCI (dotace 0/2) a.- teriéřib.- jezevčíci16.Plemena psů V. skupiny dle FCI (dotace 0/1) a.- špicovéb.- primitivní plemena17.Plemena psů VI. a VII. skupiny dle FCI (dotace 0/3) a.- honiči a barvářib.- ohaři18.Plemena psů VIII., IX. a X. skupiny dle FCI (dotace 0/3) a.- slídičib.- retrívři a vodní psic.- společenská plemena a chrti19.Návštěva národní nebo mezinárodní výstavy psů (dotace 0/6)20.Návštěva útulku pro opuštěná zvířata (dotace 0/2)"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Biologie a fyziologie psa (dotace 4/0)"
+      "content": "a.- předkové psab.- proces domestikace, domestikační centrac.- vznik plemenných skupin psů"
     },
     {
       "label": "[section] Význam chovu psů, původ a domestikace psa",
-      "content": "2.Biologie a fyziologie psa (dotace 4/0)"
+      "content": "a.- předkové psab.- proces domestikace, domestikační centrac.- vznik plemenných skupin psů"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Reprodukce psů (dotace 4/0)"
+      "content": "a.- základy a zvláštnosti biologie psab.- základy a zvláštnosti fyziologie psa"
     },
     {
       "label": "[section] Biologie a fyziologie psa",
-      "content": "3.Reprodukce psů (dotace 4/0)"
+      "content": "a.- základy a zvláštnosti biologie psab.- základy a zvláštnosti fyziologie psa"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Genetika psů (dotace 1/0)"
+      "content": "a.- zařazení psů do chovu, biologie ejakulátu psů, krytí psemb.- zařazení fen do chovu, ovariální cyklus, krytí fenyc.- gravidita, porod a jeho vedení, mateřské chování fen"
     },
     {
       "label": "[section] Reprodukce psů",
-      "content": "4.Genetika psů (dotace 1/0)"
+      "content": "a.- zařazení psů do chovu, biologie ejakulátu psů, krytí psemb.- zařazení fen do chovu, ovariální cyklus, krytí fenyc.- gravidita, porod a jeho vedení, mateřské chování fen"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Výživa psů (dotace 2/0)"
+      "content": "a.- genetika zbarvení a osrstění psůb.- geneticky podmíněné nemoci a defekty u psůc.- metody plemenitby a selekce u psů"
     },
     {
       "label": "[section] Genetika psů",
-      "content": "5.Výživa psů (dotace 2/0)"
+      "content": "a.- genetika zbarvení a osrstění psůb.- geneticky podmíněné nemoci a defekty u psůc.- metody plemenitby a selekce u psů"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Výběr a socializace štěněte, výchova psa (dotace 3/0)"
+      "content": "a.- potřeba živin pro psab.- krmiva a doplňky výživyc.- krmení jednotlivých kategorií psůd.- specifika výživy psů v zátěži"
     },
     {
       "label": "[section] Výživa psů",
-      "content": "6.Výběr a socializace štěněte, výchova psa (dotace 3/0)"
+      "content": "a.- potřeba živin pro psab.- krmiva a doplňky výživyc.- krmení jednotlivých kategorií psůd.- specifika výživy psů v zátěži"
     },
     {
       "label": "[section] 6.",
-      "content": "7.Problematika vodících a asistenčních psů (dotace 2/0)"
+      "content": "a.- výběr štěněteb.- výchova a asociování štěnětec.- teorie výcviku, základní výcvik"
     },
     {
-      "label": "[section] Výběr a socializace štěněte, výchova psa",
-      "content": "7.Problematika vodících a asistenčních psů (dotace 2/0)"
+      "label": "[section] Výběr a výchova psa",
+      "content": "a.- výběr štěněteb.- výchova a asociování štěnětec.- teorie výcviku, základní výcvik"
     },
     {
       "label": "[section] 7.",
-      "content": "8.Sportovní a společenské využití psů (dotace 3/0)"
+      "content": "a.- výcvik ovčáckých, pasteveckých a honáckých psů; služebních psů pro ochranu osob a majetkub.- výcvik vodících, asistenčních a záchranářských psůc.- výcvik psů pro speciální použití (vyhledávání drog, zbraní, munice aj.)"
     },
     {
-      "label": "[section] Problematika vodících a asistenčních psů",
-      "content": "8.Sportovní a společenské využití psů (dotace 3/0)"
+      "label": "[section] Výcvik a upotřebení psů  pracovních plemen",
+      "content": "a.- výcvik ovčáckých, pasteveckých a honáckých psů; služebních psů pro ochranu osob a majetkub.- výcvik vodících, asistenčních a záchranářských psůc.- výcvik psů pro speciální použití (vyhledávání drog, zbraní, munice aj.)"
     },
     {
       "label": "[section] 8.",
-      "content": "9.Organizace kynologie, chovatelství a výstavy (dotace 2/0)"
+      "content": "a.- všeobecné zásady výcviku loveckého psab.- výcvik loveckých psů dle jejich využití (norování, vodní práce)"
     },
     {
-      "label": "[section] Sportovní a společenské využití psů",
-      "content": "9.Organizace kynologie, chovatelství a výstavy (dotace 2/0)"
+      "label": "[section] Výcvik a upotřebení psů loveckých plemen",
+      "content": "a.- všeobecné zásady výcviku loveckého psab.- výcvik loveckých psů dle jejich využití (norování, vodní práce)"
     },
     {
       "label": "[section] 9.",
-      "content": "10.Pes a právo (dotace 1/0)"
+      "content": "a.- sporty a sportovní disciplíny se psyb.- společenské využití psůc.- canisterapie"
     },
     {
-      "label": "[section] Organizace kynologie, chovatelství a výstavy",
-      "content": "10.Pes a právo (dotace 1/0)"
+      "label": "[section] Sportovní a společenské využití psů",
+      "content": "a.- sporty a sportovní disciplíny se psyb.- společenské využití psůc.- canisterapie"
     },
     {
       "label": "[section] 10.",
-      "content": "11.Úvod do cvičeníPlemena psů I. skupiny dle FCI (dotace 0/2)"
+      "content": "a.- chovatelské kluby, chovné staniceb.- zapisování do plemenných knih, průkaz původu psac.- hodnocení exteriéru psa, bonitace, hodnocení výkonu psa"
     },
     {
-      "label": "[section] Pes a právo",
-      "content": "11.Úvod do cvičeníPlemena psů I. skupiny dle FCI (dotace 0/2)"
+      "label": "[section] Organizace kynologie, chovatelství a výstavy",
+      "content": "a.- chovatelské kluby, chovné staniceb.- zapisování do plemenných knih, průkaz původu psac.- hodnocení exteriéru psa, bonitace, hodnocení výkonu psa"
     },
     {
       "label": "[section] 11.",
-      "content": "12.Plemena psů II. skupiny dle FCI (dotace 0/2)"
+      "content": "a.- pes v našem právním řádu, koupě psab.- zákon na ochranu zvířat proti týrání, problematika \"bojových\" plemen a právac.- pes a právo myslivosti, cestování se psy"
     },
     {
-      "label": "[section] Úvod do cvičeníPlemena psů I. skupiny dle FCI",
-      "content": "12.Plemena psů II. skupiny dle FCI (dotace 0/2)"
+      "label": "[section] Pes a právo",
+      "content": "a.- pes v našem právním řádu, koupě psab.- zákon na ochranu zvířat proti týrání, problematika \"bojových\" plemen a právac.- pes a právo myslivosti, cestování se psy"
     },
     {
       "label": "[section] 12.",
-      "content": "13.Plemena psů III. a IV. skupiny dle FCI (dotace 0/2)"
-    },
-    {
-      "label": "[section] Plemena psů II. skupiny dle FCI",
-      "content": "13.Plemena psů III. a IV. skupiny dle FCI (dotace 0/2)"
-    },
-    {
-      "label": "[section] 13.",
-      "content": "14.Plemena psů V. skupiny dle FCI (dotace 0/2)"
-    },
-    {
-      "label": "[section] Plemena psů III. a IV. skupiny dle FCI",
-      "content": "14.Plemena psů V. skupiny dle FCI (dotace 0/2)"
-    },
-    {
-      "label": "[section] 14.",
-      "content": "15.Plemena psů VI. a VII. skupiny dle FCI (dotace 0/4)"
-    },
-    {
-      "label": "[section] Plemena psů V. skupiny dle FCI",
-      "content": "15.Plemena psů VI. a VII. skupiny dle FCI (dotace 0/4)"
-    },
-    {
-      "label": "[section] 15.",
-      "content": "16.Plemena psů VIII., IX. a X. skupiny dle FCI (dotace 0/4)"
-    },
-    {
-      "label": "[section] Plemena psů VI. a VII. skupiny dle FCI",
-      "content": "16.Plemena psů VIII., IX. a X. skupiny dle FCI (dotace 0/4)"
-    },
-    {
-      "label": "[section] 16.",
-      "content": "17.Zdravotní péče (dotace 0/2)"
-    },
-    {
-      "label": "[section] Plemena psů VIII., IX. a X. skupiny dle FCI",
-      "content": "17.Zdravotní péče (dotace 0/2)"
-    },
-    {
-      "label": "[section] 17.",
-      "content": "18.Návštěva národní nebo mezinárodní výstavy psů (dotace 0/6)"
+      "content": "a.- nemoci psů a jejich prevenceb.- vakcinační programyc.- zdraví vs. výstavy, cestování, výkon"
     },
     {
       "label": "[section] Zdravotní péče",
-      "content": "18.Návštěva národní nebo mezinárodní výstavy psů (dotace 0/6)"
+      "content": "a.- nemoci psů a jejich prevenceb.- vakcinační programyc.- zdraví vs. výstavy, cestování, výkon"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "a.- ovčáčtí psib.- pastevečtí psic.- honáčtí psi"
+    },
+    {
+      "label": "[section] Úvod   Plemena psů I. skupiny dle FCI",
+      "content": "a.- ovčáčtí psib.- pastevečtí psic.- honáčtí psi"
+    },
+    {
+      "label": "[section] 14.",
+      "content": "a.- pinčové a kníračib.- molosoidní (dogovití) psic.- švýcarští salašničtí psi"
+    },
+    {
+      "label": "[section] Plemena psů II. skupiny dle FCI",
+      "content": "a.- pinčové a kníračib.- molosoidní (dogovití) psic.- švýcarští salašničtí psi"
+    },
+    {
+      "label": "[section] 15.",
+      "content": "a.- teriéřib.- jezevčíci"
+    },
+    {
+      "label": "[section] Plemena psů III. a IV. skupiny dle FCI",
+      "content": "a.- teriéřib.- jezevčíci"
+    },
+    {
+      "label": "[section] 16.",
+      "content": "a.- špicovéb.- primitivní plemena"
+    },
+    {
+      "label": "[section] Plemena psů V. skupiny dle FCI",
+      "content": "a.- špicovéb.- primitivní plemena"
+    },
+    {
+      "label": "[section] 17.",
+      "content": "a.- honiči a barvářib.- ohaři"
+    },
+    {
+      "label": "[section] Plemena psů VI. a VII. skupiny dle FCI",
+      "content": "a.- honiči a barvářib.- ohaři"
+    },
+    {
+      "label": "[section] 18.",
+      "content": "a.- slídičib.- retrívři a vodní psic.- společenská plemena a chrti"
+    },
+    {
+      "label": "[section] Plemena psů VIII., IX. a X. skupiny dle FCI",
+      "content": "a.- slídičib.- retrívři a vodní psic.- společenská plemena a chrti"
+    },
+    {
+      "label": "[section] 19.",
+      "content": "20.Návštěva útulku pro opuštěná zvířata (dotace 0/2)"
+    },
+    {
+      "label": "[section] Návštěva národní nebo mezinárodní výstavy psů",
+      "content": "20.Návštěva útulku pro opuštěná zvířata (dotace 0/2)"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení20 hkonzultace4 hvýstava8 hpříprava na zkoušku30 hpříprava na průběžné hodnocení15 hpříprava prezentace15 hzpracování seminární práce20 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení12 hseminář2 hlaboratorní práce2 hodborná exkurze8 hkonzultace2 hprojektová práce1 hpříprava na zkoušku30 hpříprava na průběžné hodnocení15 hpříprava na průběžný test5 hpříprava prezentace20 hzpracování projektů15 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Pro získání zápočtu je nutná účast na 80% cvičení, povinná je návštěva výstavy psů, odevzdání seminární práce na zvolené téma a její prezentace na cvičeních. Ukončení předmětu je písemnou zkouškou. Test má sedm otázek z obsahové náplně přednášek a cvičení, odpovědět správně je třeba nejméně na 5 z nich."
+      "content": "Pro získání zápočtu je nutná účast na 80% cvičení, povinná je návštěva výstavy psů a odevzdání seminární práce na zvolené téma. Ukončení předmětu je písemnou zkouškou. Test má deset otázek z obsahové náplně přednášek a cvičení, odpovědět správně je třeba nejméně na 5 z nich."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -375,15 +599,15 @@
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:CÍSAŘOVSKÝ, Michal. 2008. Pes. Praha: Altercan, 904 s. ISBN 978-80-900-8201-4.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 s. ISBN 80-7185-768-8.VERHOEF-VERHALLEN, Esther. 2010. Výchova štěněte. Čestlice: Rebo, ISBN 978-80-255-0332-4.Doporučená:GIROUILLE, Michel. 2024. Psi ve službách člověka. Praha: Naše vojsko, 216 s. ISBN 978-80-206-2025-5.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 s. ISBN 978-80-7322-104-1.SVOBODA, Petr. 2022. Psí záchranář. Brno: CPress, ISBN 978-80-264-4313-1.HANZAL, Vladimír; HART, Vlastimil; JANISZEWSKI, Pawel. 2023. Myslivost I. Praha: Druckvo, spol. s. r. o., 400 s. ISBN 978-80-213-3234-8."
+      "content": "Základní:KVÁŠ, Martin. 1998. Výživa psů. Dona, 68 s. ISBN 80-85463-99-7.HANZAL, Vladimír; VOCHOZKA, Václav. 2003. Lovečtí psi - výchova a výcvik. Dona, 182 s. ISBN 80-7322-036-9.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 s. ISBN 80-7185-768-8.RŮŽIČKA, Josef. 1996. Pes k obraně osob a ochraně majetku. Dona, 171 s. ISBN 80-85463-76-8.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 s. ISBN 978-80-7322-104-1.Doporučená:ABRANTES, Roger. 1999. Řeč psů. Dona, 230 s. ISBN 80-86136-56-6.DOUSEK, Jiří. 2002. Pes v zrcadle předpisů. Orac, 83 s. ISBN 80-86199-43-6.SMRČKOVÁ, Lea; SMRČEK, Martin. 1999. Kapesní atlas psů. Ottovo nakladatelství, s.r.o., 264 s. ISBN 80-7181-341-9.TICHÁ, Vladimíra. 2000. Malá škola pro chovatele psů. Dona, 225 s. ISBN 80-86136-84-1. Reproductive physiology of mammals: from farm to field and beyond. Clifton Park: Delmar/Cengage Learning, 462 s. ISBN 978-1-4180-3013-1."
     },
     {
       "label": "[section] Základní:",
-      "content": "CÍSAŘOVSKÝ, Michal. 2008. Pes. Praha: Altercan, 904 s. ISBN 978-80-900-8201-4.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 s. ISBN 80-7185-768-8.VERHOEF-VERHALLEN, Esther. 2010. Výchova štěněte. Čestlice: Rebo, ISBN 978-80-255-0332-4."
+      "content": "KVÁŠ, Martin. 1998. Výživa psů. Dona, 68 s. ISBN 80-85463-99-7.HANZAL, Vladimír; VOCHOZKA, Václav. 2003. Lovečtí psi - výchova a výcvik. Dona, 182 s. ISBN 80-7322-036-9.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 s. ISBN 80-7185-768-8.RŮŽIČKA, Josef. 1996. Pes k obraně osob a ochraně majetku. Dona, 171 s. ISBN 80-85463-76-8.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 s. ISBN 978-80-7322-104-1."
     },
     {
       "label": "[section] Doporučená:",
-      "content": "GIROUILLE, Michel. 2024. Psi ve službách člověka. Praha: Naše vojsko, 216 s. ISBN 978-80-206-2025-5.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 s. ISBN 978-80-7322-104-1.SVOBODA, Petr. 2022. Psí záchranář. Brno: CPress, ISBN 978-80-264-4313-1.HANZAL, Vladimír; HART, Vlastimil; JANISZEWSKI, Pawel. 2023. Myslivost I. Praha: Druckvo, spol. s. r. o., 400 s. ISBN 978-80-213-3234-8."
+      "content": "ABRANTES, Roger. 1999. Řeč psů. Dona, 230 s. ISBN 80-86136-56-6.DOUSEK, Jiří. 2002. Pes v zrcadle předpisů. Orac, 83 s. ISBN 80-86199-43-6.SMRČKOVÁ, Lea; SMRČEK, Martin. 1999. Kapesní atlas psů. Ottovo nakladatelství, s.r.o., 264 s. ISBN 80-7181-341-9.TICHÁ, Vladimíra. 2000. Malá škola pro chovatele psů. Dona, 225 s. ISBN 80-86136-84-1. Reproductive physiology of mammals: from farm to field and beyond. Clifton Park: Delmar/Cengage Learning, 462 s. ISBN 978-1-4180-3013-1."
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
@@ -409,7 +633,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -433,7 +657,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "Not possible."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -441,7 +665,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. Ing. Zuzana Rečková, Ph.D."
+      "content": "Ing. Martin Hošek, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -453,7 +677,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Ing. Zuzana Rečková, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Ing. Martin Hošek, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Zuzana Rečková, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -745,7 +969,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -761,7 +985,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -789,7 +1013,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: Not possible."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -797,7 +1021,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. Ing. Zuzana Rečková, Ph.D."
+      "content": "Course supervisor: Ing. Martin Hošek, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -809,7 +1033,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Ing. Zuzana Rečková, Ph.D. (examiner, instructor, lecturer, supervisor)"
+      "content": "Teachers: Ing. Martin Hošek, Ph.D. (examiner, instructor, lecturer, supervisor)doc. Ing. Zuzana Rečková, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -817,7 +1041,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday15.00-16.50M1.09Z. RečkováLectureEvery week64Wednesday9.00-10.50A43Z. RečkováSeminarEvery week20Wednesday11.00-12.50A43Z. RečkováSeminarEvery week20Wednesday13.00-14.50A43Z. RečkováSeminarEvery week20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50A47Z. Rečková, M. HošekSeminarEvery week20Monday13.00-14.50A47Z. Rečková, M. HošekSeminarEvery week20Monday15.00-16.50A47Z. Rečková, M. HošekSeminarEvery week20Monday17.00-18.50A11M. Hošek, Z. RečkováLectureEvery week73"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -981,11 +1205,11 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice20 hconsultation4 hexhibition8 hpreparation for exam30 hpreparation for regular assessment15 hpreparation of presentation15 hwriting of seminar paper20 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice12 hseminar2 hlaboratory work2 hprofessional educational excursion8 hconsultation2 hproject work1 hpreparation for exam30 hpreparation for regular assessment15 hpreparation for regular testing5 hpreparation of presentation20 helaboration and execution of projects15 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "For Credit is necessary to be present on 80% of practical lessons. Necessary is to visit National or International Dog Show and we must receive your seminar work. The course is completed by a written examination. The test comprises seven questions based on the content of the lectures and seminar, and you must answer at least five of them correctly."
+      "content": "For Credit is necessary to be present on 80% of practical lessons. Necessary is to visit National or International Dog Show and we must receive your seminar work. For total mark is necessary to have final written test (10 questions from seminars and practical lessons too) on 50%."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -993,15 +1217,15 @@
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:CÍSAŘOVSKÝ, Michal. 2008. Pes. Praha: Altercan, 904 p. ISBN 978-80-900-8201-4.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 p. ISBN 80-7185-768-8.VERHOEF-VERHALLEN, Esther. 2010. Výchova štěněte. Čestlice: Rebo, ISBN 978-80-255-0332-4.Recommended:GIROUILLE, Michel. 2024. Psi ve službách člověka. Praha: Naše vojsko, 216 p. ISBN 978-80-206-2025-5.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 p. ISBN 978-80-7322-104-1.SVOBODA, Petr. 2022. Psí záchranář. Brno: CPress, ISBN 978-80-264-4313-1.HANZAL, Vladimír; HART, Vlastimil; JANISZEWSKI, Pawel. 2023. Myslivost I. Praha: Druckvo, spol. s. r. o., 400 p. ISBN 978-80-213-3234-8."
+      "content": "Basic:KVÁŠ, Martin. 1998. Výživa psů. Dona, 68 p. ISBN 80-85463-99-7.HANZAL, Vladimír; VOCHOZKA, Václav. 2003. Lovečtí psi - výchova a výcvik. Dona, 182 p. ISBN 80-7322-036-9.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 p. ISBN 80-7185-768-8.RŮŽIČKA, Josef. 1996. Pes k obraně osob a ochraně majetku. Dona, 171 p. ISBN 80-85463-76-8.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 p. ISBN 978-80-7322-104-1.Recommended:ABRANTES, Roger. 1999. Řeč psů. Dona, 230 p. ISBN 80-86136-56-6.DOUSEK, Jiří. 2002. Pes v zrcadle předpisů. Orac, 83 p. ISBN 80-86199-43-6.SMRČKOVÁ, Lea; SMRČEK, Martin. 1999. Kapesní atlas psů. Ottovo nakladatelství, s.r.o., 264 p. ISBN 80-7181-341-9.TICHÁ, Vladimíra. 2000. Malá škola pro chovatele psů. Dona, 225 p. ISBN 80-86136-84-1. Reproductive physiology of mammals: from farm to field and beyond. Clifton Park: Delmar/Cengage Learning, 462 p. ISBN 978-1-4180-3013-1."
     },
     {
       "label": "[section] Basic:",
-      "content": "CÍSAŘOVSKÝ, Michal. 2008. Pes. Praha: Altercan, 904 p. ISBN 978-80-900-8201-4.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 p. ISBN 80-7185-768-8.VERHOEF-VERHALLEN, Esther. 2010. Výchova štěněte. Čestlice: Rebo, ISBN 978-80-255-0332-4."
+      "content": "KVÁŠ, Martin. 1998. Výživa psů. Dona, 68 p. ISBN 80-85463-99-7.HANZAL, Vladimír; VOCHOZKA, Václav. 2003. Lovečtí psi - výchova a výcvik. Dona, 182 p. ISBN 80-7322-036-9.PROCHÁZKA, Zdeněk. 2005. Chov psů. Paseka, 314 p. ISBN 80-7185-768-8.RŮŽIČKA, Josef. 1996. Pes k obraně osob a ochraně majetku. Dona, 171 p. ISBN 80-85463-76-8.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 p. ISBN 978-80-7322-104-1."
     },
     {
       "label": "[section] Recommended:",
-      "content": "GIROUILLE, Michel. 2024. Psi ve službách člověka. Praha: Naše vojsko, 216 p. ISBN 978-80-206-2025-5.DOSTÁL, Jaromír. 2007. Genetika a šlechtění plemen psů. České Budějovice: DONA, 261 p. ISBN 978-80-7322-104-1.SVOBODA, Petr. 2022. Psí záchranář. Brno: CPress, ISBN 978-80-264-4313-1.HANZAL, Vladimír; HART, Vlastimil; JANISZEWSKI, Pawel. 2023. Myslivost I. Praha: Druckvo, spol. s. r. o., 400 p. ISBN 978-80-213-3234-8."
+      "content": "ABRANTES, Roger. 1999. Řeč psů. Dona, 230 p. ISBN 80-86136-56-6.DOUSEK, Jiří. 2002. Pes v zrcadle předpisů. Orac, 83 p. ISBN 80-86199-43-6.SMRČKOVÁ, Lea; SMRČEK, Martin. 1999. Kapesní atlas psů. Ottovo nakladatelství, s.r.o., 264 p. ISBN 80-7181-341-9.TICHÁ, Vladimíra. 2000. Malá škola pro chovatele psů. Dona, 225 p. ISBN 80-86136-84-1. Reproductive physiology of mammals: from farm to field and beyond. Clifton Park: Delmar/Cengage Learning, 462 p. ISBN 978-1-4180-3013-1."
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
@@ -1012,6 +1236,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:23:10",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:35:03",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

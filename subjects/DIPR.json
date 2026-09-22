@@ -2,8 +2,8 @@
   "courseCode": "DIPR",
   "name": "Diplomová práce",
   "nameCs": "Diplomová práce",
-  "nameEn": "Course syllabus DIPR - Diploma Thesis (FRDIS - WS 2025/2026)",
-  "predmetId": "159366",
+  "nameEn": "Diploma Thesis",
+  "predmetId": "160298",
   "facultyId": 23,
   "aliases": [
     "DP",
@@ -17,9 +17,59 @@
     "Z-DP"
   ],
   "teachers": [
+    "Ing. Ebo Tawiah Quartey, Ph.D.",
     "Mgr. Pavel Reich, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=160298;lang=cz",
+      "totalPass": 82,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 82,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 82,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 82,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 82,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - FRRMS",
       "semesterId": "802",
@@ -541,5 +591,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

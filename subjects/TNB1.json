@@ -3,7 +3,7 @@
   "name": "Technologie výroby nábytku I",
   "nameCs": "Technologie výroby nábytku I",
   "nameEn": "Furniture Production Technology I",
-  "predmetId": "160648",
+  "predmetId": "161814",
   "facultyId": 38,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "doc. Ing. Milan Gaff, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161814;lang=cz",
+      "totalPass": 52,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 3,
+            "C": 5,
+            "D": 4,
+            "E": 2,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 15,
+          "fail": 4
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 2,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 8,
+            "C": 22,
+            "D": 15,
+            "E": 4,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 52,
+          "fail": 3
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 2,
+            "B": 5,
+            "C": 17,
+            "D": 10,
+            "E": 0,
+            "F": 20,
+            "FN": 1
+          },
+          "pass": 34,
+          "fail": 21
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - LDF",
       "semesterId": "796",
@@ -58,7 +125,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156782;lang=cz",
       "totalPass": 49,
-      "totalFail": 12,
+      "totalFail": 13,
       "terms": [
         {
           "term": "1. opravný",
@@ -96,11 +163,11 @@
             "C": 18,
             "D": 13,
             "E": 3,
-            "F": 11,
+            "F": 12,
             "FN": 1
           },
           "pass": 49,
-          "fail": 12
+          "fail": 13
         },
         {
           "term": "Řádný termín",
@@ -398,5 +465,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -3,11 +3,52 @@
   "name": "Interkulturní psychologie v AJ",
   "nameCs": "Interkulturní psychologie v AJ",
   "nameEn": "Cross-cultural Psychology in English",
-  "predmetId": "157787",
+  "predmetId": "163018",
   "facultyId": 23,
   "aliases": [],
-  "teachers": [],
+  "teachers": [
+    "Ing. Mgr. Jiří Čeněk, Ph.D."
+  ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=163018;lang=cz",
+      "totalPass": 76,
+      "totalFail": 23,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 43,
+            "B": 17,
+            "C": 13,
+            "D": 2,
+            "E": 1,
+            "F": 1,
+            "FN": 22
+          },
+          "pass": 76,
+          "fail": 23
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 43,
+            "B": 17,
+            "C": 13,
+            "D": 2,
+            "E": 1,
+            "F": 1,
+            "FN": 22
+          },
+          "pass": 76,
+          "fail": 23
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -15,7 +56,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=778;predmet=157787;lang=cz",
       "totalPass": 91,
-      "totalFail": 1,
+      "totalFail": 2,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -26,10 +67,10 @@
             "D": 6,
             "E": 2,
             "F": 0,
-            "FN": 1
+            "FN": 2
           },
           "pass": 91,
-          "fail": 1
+          "fail": 2
         },
         {
           "term": "Řádný termín",
@@ -274,5 +315,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

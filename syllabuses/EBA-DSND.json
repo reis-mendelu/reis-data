@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2022/2023"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -59,15 +59,15 @@
     },
     {
       "label": "Vyučující:",
-      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant)Ing. Pavel Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející)Ing. Pavel Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška"
+      "content": "žádné"
     },
     {
       "label": "1.",
-      "content": "Teoretický úvod do databázových systémů (dotace 0/1)"
+      "content": "Teoretický úvod do databázových systémů (dotace 2/0)"
     },
     {
       "label": "a.",
@@ -83,7 +83,19 @@
     },
     {
       "label": "2.",
-      "content": "Návrh logického modelu (dotace 0/3)"
+      "content": "Rozhraní pro přenos dat (dotace 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Vysvětlení základních pojmů API, REST"
+    },
+    {
+      "label": "b.",
+      "content": "Praktické příklady práce s rozhraními"
+    },
+    {
+      "label": "3.",
+      "content": "Návrh logického modelu (dotace 6/12)"
     },
     {
       "label": "a.",
@@ -106,8 +118,8 @@
       "content": "Modelování času"
     },
     {
-      "label": "3.",
-      "content": "Převod do fyzického modelu (dotace 0/2)"
+      "label": "4.",
+      "content": "Převod do fyzického modelu (dotace 2/3)"
     },
     {
       "label": "a.",
@@ -126,8 +138,8 @@
       "content": "DML – modifikace datové základny"
     },
     {
-      "label": "4.",
-      "content": "Dotazovací jazyk DQL (dotace 0/4)"
+      "label": "5.",
+      "content": "Dotazovací jazyk DQL (dotace 8/12)"
     },
     {
       "label": "a.",
@@ -150,8 +162,8 @@
       "content": "Vnořené dotazy (jednoduché, vracející více řádků, korelované)"
     },
     {
-      "label": "5.",
-      "content": "Procedurální nástavba PL/SQL (dotace 0/4)"
+      "label": "6.",
+      "content": "Procedurální nástavba PL/SQL (dotace 8/12)"
     },
     {
       "label": "a.",
@@ -168,6 +180,14 @@
     {
       "label": "d.",
       "content": "Výjimky, jejich vyvolání a zpracování"
+    },
+    {
+      "label": "7.",
+      "content": "Přednáška z praxe (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Přednáška na praktické využití databázovýchy systémů"
     },
     {
       "label": "Vypracování semestrální práce",
@@ -191,7 +211,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -207,7 +227,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2022/2023"
     },
     {
       "label": "[section] Semestr:",
@@ -215,11 +235,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (6 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/3 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -255,15 +275,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant)Ing. Pavel Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: prof. Ing. Radim Farana, CSc., FEng. (garant, přednášející)Ing. Pavel Turčínek, Ph.D. (cvičící, přednášející, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+      "content": "Prerekvizity: žádné"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa9.00-10.50Q08P. TurčínekCvičeníKaždý týden15"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek7.00-8.50Q08P. TurčínekPřednáškaKaždý týden20Čtvrtek9.00-11.50Q08P. TurčínekCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -271,7 +291,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Teoretický úvod do databázových systémů (dotace 0/1) a.Základní pojmyb.Historie zpracování datc.Databázové modely2.Návrh logického modelu (dotace 0/3) a.Ukládání dat v počítačib.Datové modelování, entity, vztahy, integritní omezení, ERDc.Normální formyd.Pokročilejší nástroje modelováníe.Modelování času3.Převod do fyzického modelu (dotace 0/2) a.Terminologieb.Převod na tabulky, mapování vazebc.Použití DDL pro vytvoření databáze v rámci databázového systémud.DML – modifikace datové základny4.Dotazovací jazyk DQL (dotace 0/4) a.Anatomie příkazu SELECTb.Použití funkcí v dotazech (jednořádkové, agregační)c.Spojení (přirozené, vnitřní, vnější)d.Hierarchické dotazováníe.Vnořené dotazy (jednoduché, vracející více řádků, korelované)5.Procedurální nástavba PL/SQL (dotace 0/4) a.Princip transakcí a jejich omezeníb.Práce s nepojmenovaným blokemc.Procedury, funkce, triggeryd.Výjimky, jejich vyvolání a zpracování"
+      "content": "1.Teoretický úvod do databázových systémů (dotace 2/0) a.Základní pojmyb.Historie zpracování datc.Databázové modely2.Rozhraní pro přenos dat (dotace 0/3) a.Vysvětlení základních pojmů API, RESTb.Praktické příklady práce s rozhraními3.Návrh logického modelu (dotace 6/12) a.Ukládání dat v počítačib.Datové modelování, entity, vztahy, integritní omezení, ERDc.Normální formyd.Pokročilejší nástroje modelováníe.Modelování času4.Převod do fyzického modelu (dotace 2/3) a.Terminologieb.Převod na tabulky, mapování vazebc.Použití DDL pro vytvoření databáze v rámci databázového systémud.DML – modifikace datové základny5.Dotazovací jazyk DQL (dotace 8/12) a.Anatomie příkazu SELECTb.Použití funkcí v dotazech (jednořádkové, agregační)c.Spojení (přirozené, vnitřní, vnější)d.Hierarchické dotazováníe.Vnořené dotazy (jednoduché, vracející více řádků, korelované)6.Procedurální nástavba PL/SQL (dotace 8/12) a.Princip transakcí a jejich omezeníb.Práce s nepojmenovaným blokemc.Procedury, funkce, triggeryd.Výjimky, jejich vyvolání a zpracování7.Přednáška z praxe (dotace 2/0) a.Přednáška na praktické využití databázovýchy systémů"
     },
     {
       "label": "[section] 1.",
@@ -283,6 +303,14 @@
     },
     {
       "label": "[section] 2.",
+      "content": "a.Vysvětlení základních pojmů API, RESTb.Praktické příklady práce s rozhraními"
+    },
+    {
+      "label": "[section] Rozhraní pro přenos dat",
+      "content": "a.Vysvětlení základních pojmů API, RESTb.Praktické příklady práce s rozhraními"
+    },
+    {
+      "label": "[section] 3.",
       "content": "a.Ukládání dat v počítačib.Datové modelování, entity, vztahy, integritní omezení, ERDc.Normální formyd.Pokročilejší nástroje modelováníe.Modelování času"
     },
     {
@@ -290,7 +318,7 @@
       "content": "a.Ukládání dat v počítačib.Datové modelování, entity, vztahy, integritní omezení, ERDc.Normální formyd.Pokročilejší nástroje modelováníe.Modelování času"
     },
     {
-      "label": "[section] 3.",
+      "label": "[section] 4.",
       "content": "a.Terminologieb.Převod na tabulky, mapování vazebc.Použití DDL pro vytvoření databáze v rámci databázového systémud.DML – modifikace datové základny"
     },
     {
@@ -298,7 +326,7 @@
       "content": "a.Terminologieb.Převod na tabulky, mapování vazebc.Použití DDL pro vytvoření databáze v rámci databázového systémud.DML – modifikace datové základny"
     },
     {
-      "label": "[section] 4.",
+      "label": "[section] 5.",
       "content": "a.Anatomie příkazu SELECTb.Použití funkcí v dotazech (jednořádkové, agregační)c.Spojení (přirozené, vnitřní, vnější)d.Hierarchické dotazováníe.Vnořené dotazy (jednoduché, vracející více řádků, korelované)"
     },
     {
@@ -306,7 +334,7 @@
       "content": "a.Anatomie příkazu SELECTb.Použití funkcí v dotazech (jednořádkové, agregační)c.Spojení (přirozené, vnitřní, vnější)d.Hierarchické dotazováníe.Vnořené dotazy (jednoduché, vracející více řádků, korelované)"
     },
     {
-      "label": "[section] 5.",
+      "label": "[section] 6.",
       "content": "a.Princip transakcí a jejich omezeníb.Práce s nepojmenovaným blokemc.Procedury, funkce, triggeryd.Výjimky, jejich vyvolání a zpracování"
     },
     {
@@ -314,8 +342,16 @@
       "content": "a.Princip transakcí a jejich omezeníb.Práce s nepojmenovaným blokemc.Procedury, funkce, triggeryd.Výjimky, jejich vyvolání a zpracování"
     },
     {
+      "label": "[section] 7.",
+      "content": "a.Přednáška na praktické využití databázovýchy systémů"
+    },
+    {
+      "label": "[section] Přednáška z praxe",
+      "content": "a.Přednáška na praktické využití databázovýchy systémů"
+    },
+    {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->DruhPrezenční studiumcvičení14 hpříprava na zkoušku30 hpříprava prezentace1 hzpracování projektů67 hPrůběžná příprava na semináře56 hCelkem168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení42 hpříprava na zkoušku30 hpříprava prezentace1 hzpracování projektů67 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -361,7 +397,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2022/2023"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -369,7 +405,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -405,15 +441,15 @@
     },
     {
       "label": "Teachers:",
-      "content": "prof. Ing. Radim Farana, CSc., FEng. (supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "prof. Ing. Radim Farana, CSc., FEng. (lecturer, supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam"
+      "content": "none"
     },
     {
       "label": "1.",
-      "content": "Theoretical introduction to database systems (allowance 0/1)"
+      "content": "Theoretical introduction to database systems (allowance 2/0)"
     },
     {
       "label": "a.",
@@ -429,7 +465,19 @@
     },
     {
       "label": "2.",
-      "content": "Database design, logical model (allowance 0/3)"
+      "content": "Data transfer interface (allowance 0/3)"
+    },
+    {
+      "label": "a.",
+      "content": "Explanation of basic terms API, REST"
+    },
+    {
+      "label": "b.",
+      "content": "Practical examples of working with interfaces"
+    },
+    {
+      "label": "3.",
+      "content": "Database design, logical model (allowance 6/12)"
     },
     {
       "label": "a.",
@@ -452,8 +500,8 @@
       "content": "Modeling of time"
     },
     {
-      "label": "3.",
-      "content": "Converting to a physical model (allowance 0/2)"
+      "label": "4.",
+      "content": "Converting to a physical model (allowance 2/3)"
     },
     {
       "label": "a.",
@@ -472,8 +520,8 @@
       "content": "DML - data manipulation language"
     },
     {
-      "label": "4.",
-      "content": "Query language DQL (allowance 0/4)"
+      "label": "5.",
+      "content": "Query language DQL (allowance 8/12)"
     },
     {
       "label": "a.",
@@ -496,8 +544,8 @@
       "content": "Nested queries (simple, returning multiple rows, correlated)"
     },
     {
-      "label": "5.",
-      "content": "Procedural extension PL/SQL (allowance 0/4)"
+      "label": "6.",
+      "content": "Procedural extension PL/SQL (allowance 8/12)"
     },
     {
       "label": "a.",
@@ -514,6 +562,14 @@
     {
       "label": "d.",
       "content": "Exceptions, their induction and processing"
+    },
+    {
+      "label": "7.",
+      "content": "Lecture from practice (allowance 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Lecture on the practical use of database systems"
     },
     {
       "label": "Term paper",
@@ -537,7 +593,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -553,7 +609,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2022/2023"
     },
     {
       "label": "[section] Semester:",
@@ -561,11 +617,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (6 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/3 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -601,15 +657,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
+      "content": "Teachers: prof. Ing. Radim Farana, CSc., FEng. (lecturer, supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, lecturer, tutor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam"
+      "content": "Prerequisites: none"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday9.00-10.50Q08P. TurčínekSeminarEvery week15"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday7.00-8.50Q08P. TurčínekLectureEvery week20Thursday9.00-11.50Q08P. TurčínekSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -617,7 +673,7 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Theoretical introduction to database systems (allowance 0/1) a.Basic conceptsb.History of data processingc.Database models2.Database design, logical model (allowance 0/3) a.Storing data on your computerb.Data modeling, entities, relationships, integrity constraints, ERDc.Normal formsd.Advanced modeling toolse.Modeling of time3.Converting to a physical model (allowance 0/2) a.Terminologyb.Transfer to a table, mapping relationshipsc.Using DDL to create a database within a database systemd.DML - data manipulation language4.Query language DQL (allowance 0/4) a.Anatomy of a SELECT statementb.Using functions in queries (singlerow, multiplerow)c.Join (natural, internal, external)d.Hierarchical queryinge.Nested queries (simple, returning multiple rows, correlated)5.Procedural extension PL/SQL (allowance 0/4) a.Working with blocksb.Principle of transactions and their limitationsc.Procedures, functions, triggersd.Exceptions, their induction and processing"
+      "content": "1.Theoretical introduction to database systems (allowance 2/0) a.Basic conceptsb.History of data processingc.Database models2.Data transfer interface (allowance 0/3) a.Explanation of basic terms API, RESTb.Practical examples of working with interfaces3.Database design, logical model (allowance 6/12) a.Storing data on your computerb.Data modeling, entities, relationships, integrity constraints, ERDc.Normal formsd.Advanced modeling toolse.Modeling of time4.Converting to a physical model (allowance 2/3) a.Terminologyb.Transfer to a table, mapping relationshipsc.Using DDL to create a database within a database systemd.DML - data manipulation language5.Query language DQL (allowance 8/12) a.Anatomy of a SELECT statementb.Using functions in queries (singlerow, multiplerow)c.Join (natural, internal, external)d.Hierarchical queryinge.Nested queries (simple, returning multiple rows, correlated)6.Procedural extension PL/SQL (allowance 8/12) a.Working with blocksb.Principle of transactions and their limitationsc.Procedures, functions, triggersd.Exceptions, their induction and processing7.Lecture from practice (allowance 2/0) a.Lecture on the practical use of database systems"
     },
     {
       "label": "[section] 1.",
@@ -629,6 +685,14 @@
     },
     {
       "label": "[section] 2.",
+      "content": "a.Explanation of basic terms API, RESTb.Practical examples of working with interfaces"
+    },
+    {
+      "label": "[section] Data transfer interface",
+      "content": "a.Explanation of basic terms API, RESTb.Practical examples of working with interfaces"
+    },
+    {
+      "label": "[section] 3.",
       "content": "a.Storing data on your computerb.Data modeling, entities, relationships, integrity constraints, ERDc.Normal formsd.Advanced modeling toolse.Modeling of time"
     },
     {
@@ -636,7 +700,7 @@
       "content": "a.Storing data on your computerb.Data modeling, entities, relationships, integrity constraints, ERDc.Normal formsd.Advanced modeling toolse.Modeling of time"
     },
     {
-      "label": "[section] 3.",
+      "label": "[section] 4.",
       "content": "a.Terminologyb.Transfer to a table, mapping relationshipsc.Using DDL to create a database within a database systemd.DML - data manipulation language"
     },
     {
@@ -644,7 +708,7 @@
       "content": "a.Terminologyb.Transfer to a table, mapping relationshipsc.Using DDL to create a database within a database systemd.DML - data manipulation language"
     },
     {
-      "label": "[section] 4.",
+      "label": "[section] 5.",
       "content": "a.Anatomy of a SELECT statementb.Using functions in queries (singlerow, multiplerow)c.Join (natural, internal, external)d.Hierarchical queryinge.Nested queries (simple, returning multiple rows, correlated)"
     },
     {
@@ -652,7 +716,7 @@
       "content": "a.Anatomy of a SELECT statementb.Using functions in queries (singlerow, multiplerow)c.Join (natural, internal, external)d.Hierarchical queryinge.Nested queries (simple, returning multiple rows, correlated)"
     },
     {
-      "label": "[section] 5.",
+      "label": "[section] 6.",
       "content": "a.Working with blocksb.Principle of transactions and their limitationsc.Procedures, functions, triggersd.Exceptions, their induction and processing"
     },
     {
@@ -660,8 +724,16 @@
       "content": "a.Working with blocksb.Principle of transactions and their limitationsc.Procedures, functions, triggersd.Exceptions, their induction and processing"
     },
     {
+      "label": "[section] 7.",
+      "content": "a.Lecture on the practical use of database systems"
+    },
+    {
+      "label": "[section] Lecture from practice",
+      "content": "a.Lecture on the practical use of database systems"
+    },
+    {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Type of teaching methodDaily attendancepractice14 hpreparation for exam30 hpreparation of presentation1 helaboration and execution of projects67 hContinuous preparation for seminars56 hTotal168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice42 hpreparation for exam30 hpreparation of presentation1 helaboration and execution of projects67 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -692,6 +764,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:35:18",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:47:00",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

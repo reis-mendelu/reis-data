@@ -3,7 +3,7 @@
   "name": "Podniková ekonomika",
   "nameCs": "Podniková ekonomika",
   "nameEn": "Business Economics",
-  "predmetId": "157618",
+  "predmetId": "162690",
   "facultyId": 23,
   "aliases": [
     "EKO",
@@ -16,6 +16,73 @@
     "doc. Ing. Veronika Večeřová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162690;lang=cz",
+      "totalPass": 99,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 1,
+            "E": 7,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 8,
+          "fail": 7
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 3,
+            "E": 3,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 6,
+          "fail": 1
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 5,
+            "C": 1,
+            "D": 46,
+            "E": 46,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 99,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 5,
+            "C": 1,
+            "D": 42,
+            "E": 36,
+            "F": 15,
+            "FN": 0
+          },
+          "pass": 85,
+          "fail": 15
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -352,5 +419,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

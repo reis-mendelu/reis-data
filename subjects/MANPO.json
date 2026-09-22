@@ -3,7 +3,7 @@
   "name": "Mikrobiologická analýza potravin",
   "nameCs": "Mikrobiologická analýza potravin",
   "nameEn": "Microbiological Analysis of Food",
-  "predmetId": "160951",
+  "predmetId": "162484",
   "facultyId": 14,
   "aliases": [],
   "teachers": [
@@ -12,6 +12,73 @@
     "doc. MVDr. Olga Cwiková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162484;lang=cz",
+      "totalPass": 30,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 3,
+            "D": 1,
+            "E": 7,
+            "F": 6,
+            "FN": 0
+          },
+          "pass": 12,
+          "fail": 6
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 3,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 3
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 3,
+            "B": 4,
+            "C": 6,
+            "D": 6,
+            "E": 11,
+            "F": 7,
+            "FN": 0
+          },
+          "pass": 30,
+          "fail": 7
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 3,
+            "C": 3,
+            "D": 5,
+            "E": 3,
+            "F": 19,
+            "FN": 1
+          },
+          "pass": 17,
+          "fail": 20
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - AF",
       "semesterId": "785",
@@ -415,5 +482,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

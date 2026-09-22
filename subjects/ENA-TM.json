@@ -3,7 +3,7 @@
   "name": "Text Mining v AJ",
   "nameCs": "Text Mining v AJ",
   "nameEn": "Text Mining",
-  "predmetId": "152268",
+  "predmetId": "160778",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
@@ -13,6 +13,73 @@
     "doc. Ing. František Dařena, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160778;lang=cz",
+      "totalPass": 73,
+      "totalFail": 11,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 2,
+            "E": 6,
+            "F": 2,
+            "FN": 4
+          },
+          "pass": 11,
+          "fail": 6
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 2,
+          "fail": 2
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 12,
+            "B": 7,
+            "C": 21,
+            "D": 15,
+            "E": 18,
+            "F": 1,
+            "FN": 10
+          },
+          "pass": 73,
+          "fail": 11
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 10,
+            "B": 7,
+            "C": 18,
+            "D": 13,
+            "E": 12,
+            "F": 14,
+            "FN": 10
+          },
+          "pass": 60,
+          "fail": 24
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -215,5 +282,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

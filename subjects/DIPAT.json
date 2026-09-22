@@ -3,7 +3,7 @@
   "name": "Diplomový ateliér",
   "nameCs": "Diplomový ateliér",
   "nameEn": "Diploma Studio",
-  "predmetId": "157508",
+  "predmetId": "162301",
   "facultyId": 60,
   "aliases": [
     "DAT"
@@ -18,11 +18,49 @@
     "Ing. Radim Klepárník, Ph.D.",
     "doc. Dr. Ing. Alena Salašová",
     "doc. Ing. Barbara Ševčíková, Ph.D.",
-    "doc. Ing. Lukáš Štefl, Ph.D.",
     "doc. Ing. Petr Kučera, Ph.D.",
     "doc. Ing. Přemysl Krejčiřík, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162301;lang=cz",
+      "totalPass": 22,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 4,
+            "B": 8,
+            "C": 3,
+            "D": 4,
+            "E": 3,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 4,
+            "B": 8,
+            "C": 3,
+            "D": 4,
+            "E": 3,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 22,
+          "fail": 1
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - ZF",
       "semesterId": "780",
@@ -102,5 +140,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

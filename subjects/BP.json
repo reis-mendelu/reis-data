@@ -3,8 +3,8 @@
   "name": "Bakalářská práce",
   "nameCs": "Bakalářská práce",
   "nameEn": "Bachelor Thesis",
-  "predmetId": "156868",
-  "facultyId": 60,
+  "predmetId": "162407",
+  "facultyId": 79,
   "aliases": [
     "BP1",
     "BPAP",
@@ -14,143 +14,199 @@
     "BPPA",
     "BPR",
     "BPZT",
-    "EBC-BP"
+    "EBC-BP",
+    "RRBP"
   ],
   "teachers": [
-    "Bc. Ing. Jan Kudělka, Ph.D.",
-    "Bc. Ing. Věra Hubačíková, Ph.D.",
-    "Bc. Ing. Zuzana Tichá, Ph.D.",
-    "Ing. Adam Kovál",
-    "Ing. Adam Polcar, Ph.D.",
-    "Ing. Andrej Bátik, Ph.D.",
-    "Ing. Anna Hammerová, Ph.D.",
-    "Ing. Barbora Jílková, Ph.D.",
-    "Ing. Bronislava Spáčilová, Ph.D.",
-    "Ing. Dalibor Húska, Ph.D.",
-    "Ing. Dana Kuřitková",
-    "Ing. Daria Baholet Bátik, Ph.D.",
-    "Ing. Eva Sobotková, Ph.D.",
-    "Ing. Gabriela Franke, Ph.D.",
-    "Ing. Helena Dvořáčková, Ph.D.",
-    "Ing. Helena Pluháčková, Ph.D.",
-    "Ing. Jakub Elbl, Ph.D.",
-    "Ing. Jakub Novotný, Ph.D.",
-    "Ing. Jan Slováček, Ph.D.",
-    "Ing. Jan Szturc, Ph.D.",
-    "Ing. Jan Winkler, Ph.D.",
-    "Ing. Jana Simonová, Ph.D.",
-    "Ing. Jana Šimečková, Ph.D.",
-    "Ing. Josef Los, Ph.D.",
-    "Ing. Kamila Širůčková Lónová, Ph.D.",
-    "Ing. Karel Klem, Ph.D.",
-    "Ing. Libor Sládek, Ph.D.",
-    "Ing. Lubomír Neudert, Ph.D.",
-    "Ing. Marek Žák, Ph.D.",
-    "Ing. Marie Balabánová, Ph.D.",
-    "Ing. Martin Tobiáš, Ph.D.",
-    "Ing. Milan Večeřa, Ph.D.",
-    "Ing. Miroslav Berka, Ph.D.",
-    "Ing. Miroslav Florián, Ph.D.",
-    "Ing. Nicole Frantová, Ph.D.",
-    "Ing. Petr Kalousek, Ph.D.",
-    "Ing. Petr Michálek, Ph.D.",
-    "Ing. Petra Bartoňová, Ph.D.",
-    "Ing. Petra Fukalová, Ph.D.",
-    "Ing. Renáta Dufková, Ph.D.",
-    "Ing. Soňa Dušková, Ph.D.",
-    "Ing. Tamara Dryšlová, Ph.D.",
-    "Ing. Terezie Zavadilová, Ph.D.",
-    "Ing. Tomáš Kopec, Ph.D.",
-    "Ing. Tomáš Mašíček, Ph.D.",
-    "Ing. Vedran Milosavljević, Ph.D.",
-    "Ing. Veronika Berková, Ph.D.",
-    "Ing. Veronika Švehlová, Ph.D.",
-    "Ing. Vladimír Mikule, Ph.D.",
-    "Ing. Vladimír Zmrhal, Ph.D.",
-    "Ing. Vlastimil Slaný, Ph.D.",
-    "Ing. Vojtěch Pešan, Ph.D.",
-    "Ing. Vítězslav Vlček, Ph.D.",
-    "Ing. Zdeněk Hadaš, Ph.D.",
-    "MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D.",
     "MVDr. Kateřina Hauptmanová, Ph.D.",
-    "MVDr. Lenka Kudělková, Ph.D.",
-    "Mgr. Attila Balázs, Ph.D.",
-    "Mgr. Jarmila Krojerová, Ph.D.",
-    "Mgr. Jaroslav Pavlů, Ph.D.",
-    "Mgr. Martin Jiroušek, Ph.D.",
-    "Mgr. Olga Kryštofová, Ph.D.",
-    "Mgr. Petra Vídeňská, Ph.D.",
-    "Mgr. Roman Guráň, Ph.D.",
-    "Mgr. et Mgr. Ing. Hana Vavrouchová, Ph.D.",
-    "RNDr. Lenka Vaňková, Ph.D.",
-    "RNDr. Ludmila Holková, Ph.D.",
-    "RNDr. Michal Šorf, Ph.D.",
-    "RNDr. Tomáš Ondro, Ph.D.",
-    "doc. Bc. Ing. Dana Adamcová, Ph.D.",
-    "doc. Bc. Ing. Ondřej Šťastník, Ph.D.",
-    "doc. Dr. Ing. Pavlína Smutná",
-    "doc. Dr. Ing. Petr Marada",
-    "doc. Dr. Ing. Zdeněk Havlíček",
-    "doc. Ing. Aleš Pavlík, Ph.D.",
-    "doc. Ing. Daniel Falta, Ph.D.",
-    "doc. Ing. Hana Středová, Ph.D.",
-    "doc. Ing. Hana Šefrová, Ph.D.",
-    "doc. Ing. Ivana Šafránková, Ph.D.",
-    "doc. Ing. Jiří Votava, Ph.D.",
-    "doc. Ing. Jiří Čupera, Ph.D.",
-    "doc. Ing. Lenka Bartošová, Ph.D.",
-    "doc. Ing. Libor Kalhotka, Ph.D.",
-    "doc. Ing. Martin Fajman, Ph.D.",
-    "doc. Ing. Miroslav Jůzl, Ph.D.",
-    "doc. Ing. Pavel Hanáček, Ph.D.",
-    "doc. Ing. Pavel Jurajda, Ph.D.",
-    "doc. Ing. Pavel Knot, Ph.D.",
-    "doc. Ing. Pavel Nevrkla, Ph.D.",
-    "doc. Ing. Petr Junga, Ph.D.",
-    "doc. Ing. Petr Sláma, Ph.D.",
-    "doc. Ing. Petr Trávníček, Ph.D.",
-    "doc. Ing. Petr Škarpa, Ph.D.",
-    "doc. Ing. Radek Filipčík, Ph.D.",
-    "doc. Ing. Radim Cerkal, Ph.D.",
-    "doc. Ing. Stanislav Hejduk, Ph.D.",
-    "doc. Ing. Tomáš Binar, Ph.D.",
-    "doc. Ing. Tomáš Gregor, Ph.D.",
-    "doc. Ing. Tomáš Středa, Ph.D.",
-    "doc. Ing. Tomáš Vyhnánek, Ph.D.",
-    "doc. Ing. Vojtěch Kumbár, Ph.D.",
-    "doc. Ing. Vojtěch Lukas, Ph.D.",
-    "doc. Ing. Zuzana Rečková, Ph.D.",
-    "doc. Ing. Šárka Nedomová, Ph.D.",
-    "doc. MVDr. Olga Cwiková, Ph.D.",
-    "doc. Mgr. Ing. Eva Hrudová, Ph.D.",
-    "doc. Mgr. Ing. Eva Mrkvicová, Ph.D.",
-    "doc. Mgr. Jan Novák, Ph.D.",
-    "doc. Mgr. Martin Černý, Ph.D.",
-    "doc. Mgr. Milena Matejovičová, Ph.D.",
-    "doc. Mgr. Stanislava Voběrková, Ph.D.",
-    "doc. Mgr. Zbyněk Heger, Ph.D.",
-    "doc. RNDr. Lukáš Richtera, Ph.D.",
-    "doc. RNDr. Ondřej Zítka, Ph.D.",
-    "prof. Dr. Ing. Jan Kuchtík",
-    "prof. Dr. Ing. Luděk Hřivna",
-    "prof. Ing. Alžbeta Jarošová, Ph.D.",
-    "prof. Ing. František Bauer, CSc.",
-    "prof. Ing. Jan Křen, CSc.",
-    "prof. Ing. Jan Mareček, DrSc., dr. h. c.",
-    "prof. Ing. Jiří Skládanka, Ph.D.",
-    "prof. Ing. Martina Lichovníková, Ph.D., MBA",
-    "prof. Ing. Mgr. Miroslav Trnka, Ph.D.",
-    "prof. Ing. Pavel Horký, Ph.D.",
-    "prof. Ing. Radovan Kopp, Ph.D.",
-    "prof. Ing. Tomáš Urban, Ph.D.",
-    "prof. MVDr. Ing. Petr Doležal, CSc.",
-    "prof. MVDr. Miroslava Palíková, Ph.D.",
-    "prof. MVDr. Zbyšek Sládek, Ph.D.",
-    "prof. Mgr. Ing. Magdalena Daria Vaverková, Ph.D.",
-    "prof. Mgr. Pavlína Pelcová, Ph.D.",
-    "prof. RNDr. Aleš Knoll, Ph.D."
+    "prof. Mgr. Pavlína Pelcová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161924;lang=cz",
+      "totalPass": 113,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 113,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 113,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 113,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 113,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2025/2026 - AF",
+      "semesterId": "817",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=817;predmet=162407;lang=cz",
+      "totalPass": 289,
+      "totalFail": 7,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 289,
+          "fail": 7,
+          "creditGrades": {
+            "zap": 289,
+            "nezap": 6,
+            "zapNedost": 1
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 288,
+          "fail": 8,
+          "creditGrades": {
+            "zap": 288,
+            "nezap": 6,
+            "zapNedost": 2
+          }
+        }
+      ]
+    },
+    {
+      "semesterName": "LS 2025/2026 - ZF",
+      "semesterId": "818",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=818;predmet=162236;lang=cz",
+      "totalPass": 143,
+      "totalFail": 3,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 0,
+          "fail": 1,
+          "creditGrades": {
+            "zap": 0,
+            "nezap": 1,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 143,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 143,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 143,
+          "fail": 3,
+          "creditGrades": {
+            "zap": 143,
+            "nezap": 3,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -1337,5 +1393,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

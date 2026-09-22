@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "doc. Ing. Oldřich Trenz, Ph.D."
+      "content": "doc. Dr. Ing. Jiří Rybička"
     },
     {
       "label": "Garantující ústav:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Dr. Ing. Jiří Rybička (cvičící, přednášející, tutor, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (garant)Ing. Pavel Turčínek, Ph.D. (cvičící, tutor, zkoušející)"
+      "content": "Ing. Michal Dufek (cvičící)doc. Dr. Ing. Jiří Rybička (garant, přednášející, tutor, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, tutor)Ing. Pavel Turčínek, Ph.D. (cvičící, tutor)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška"
+      "content": "ne Státní bakalářská zkouška a ne Algoritmizace"
     },
     {
       "label": "1.",
@@ -71,15 +71,15 @@
     },
     {
       "label": "a.",
-      "content": "Programovací paradigmata; programy jako součást operačního systému"
-    },
-    {
-      "label": "b.",
       "content": "Strukturalizace postupu řešení; nástroje, struktury"
     },
     {
-      "label": "c.",
+      "label": "b.",
       "content": "Modulární přístupy; princip dekompozice a syntézy"
+    },
+    {
+      "label": "c.",
+      "content": "Objektově orientovaný přístup"
     },
     {
       "label": "2.",
@@ -95,10 +95,14 @@
     },
     {
       "label": "c.",
-      "content": "Algoritmizace vědecko-technických výpočtů"
+      "content": "Ověřování správnosti algoritmů"
     },
     {
       "label": "d.",
+      "content": "Algoritmizace vědecko-technických výpočtů"
+    },
+    {
+      "label": "e.",
       "content": "Algoritmizace hromadného zpracování dat"
     },
     {
@@ -130,8 +134,20 @@
       "content": "Tvorba programu; hromadné zpracování dat, vědecko-technické výpočty"
     },
     {
+      "label": "Absolvování průběžného testu (testů)",
+      "content": "20 %"
+    },
+    {
+      "label": "Absolvování závěrečného testu",
+      "content": "80 %"
+    },
+    {
+      "label": "Celkem",
+      "content": "100 %"
+    },
+    {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -147,7 +163,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -155,11 +171,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (6 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 16/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -183,7 +199,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: doc. Ing. Oldřich Trenz, Ph.D."
+      "content": "Garant předmětu: doc. Dr. Ing. Jiří Rybička"
     },
     {
       "label": "[section] Garant předmětu:",
@@ -195,15 +211,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Dr. Ing. Jiří Rybička (cvičící, přednášející, tutor, zkoušející)doc. Ing. Oldřich Trenz, Ph.D. (garant)Ing. Pavel Turčínek, Ph.D. (cvičící, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Michal Dufek (cvičící)doc. Dr. Ing. Jiří Rybička (garant, přednášející, tutor, zkoušející)Ing. Jan Turčínek, Ph.D. (cvičící, tutor)Ing. Pavel Turčínek, Ph.D. (cvičící, tutor)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Algoritmizace"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q04B-AII 1232 P. TurčínekCvičeníKaždý týden28Pondělí15.00-16.50Q04B-OI 1231 P. TurčínekCvičeníKaždý týden28Pondělí17.00-18.50Q04B-OI 1233 J. RybičkaCvičeníKaždý týden28Středa9.00-10.50Q04B-OI 1236 J. RybičkaCvičeníKaždý týden28Středa11.00-12.50Q08B-AII 1231 P. TurčínekCvičeníKaždý týden22Čtvrtek9.00-10.50Q06B-OI 1235 P. TurčínekCvičeníKaždý týden22Čtvrtek9.00-10.50Q08B-OI 1237 J. RybičkaCvičeníKaždý týden22Čtvrtek11.00-12.50Q02B-AIIB-OI 1123 J. RybičkaPřednáškaKaždý týden222Čtvrtek13.00-14.50Q08B-OI 1234 J. RybičkaCvičeníKaždý týden22Čtvrtek15.00-16.50Q08B-OI 1232 J. RybičkaCvičeníKaždý týden22Sobota14.00-17.50Q04B-AIIB-AII1 51 J. RybičkaPřednáškaNepravidelně50"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q06B-OI 1124 J. TurčínekCvičeníKaždý týden24Úterý17.00-18.50Q02B-OI 112 J. RybičkaPřednáškaKaždý týden170Středa7.00-8.50Q07B-OI 1121 P. TurčínekCvičeníKaždý týden24Čtvrtek9.00-10.50Q07B-OI 1126 P. TurčínekCvičeníKaždý týden24Pátek9.00-10.50Q05B-OI 1122 M. DufekCvičeníKaždý týden24Pátek11.00-12.50Q05B-OI 1125 M. DufekCvičeníKaždý týden24Pátek11.00-12.50Q07B-OI 1123 J. TurčínekCvičeníKaždý týden24"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -211,23 +227,23 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Algoritmizace jako způsob myšlení (dotace 4/0) a.Programovací paradigmata; programy jako součást operačního systémub.Strukturalizace postupu řešení; nástroje, strukturyc.Modulární přístupy; princip dekompozice a syntézy2.Algoritmus; jeho reprezentace a obraty (dotace 10/14) a.Algoritmizace na bázi strukturovaného jazykab.Algoritmizace základních obratů v oblasti zpracování datc.Algoritmizace vědecko-technických výpočtůd.Algoritmizace hromadného zpracování dat3.Programovací jazyk jako nástroj pro vyjádření algoritmů (dotace 14/14) a.Příkazové strukturyb.Datové struktury; jednoduché, strukturované, dynamickéc.Podprogramyd.Některé metody návrhu programue.Prostředí programovacího jazyka; implementačně závislé a nezávislé prvky jazyka, specifika konkrétní implementacef.Tvorba programu; hromadné zpracování dat, vědecko-technické výpočty"
+      "content": "1.Algoritmizace jako způsob myšlení (dotace 4/0) a.Strukturalizace postupu řešení; nástroje, strukturyb.Modulární přístupy; princip dekompozice a syntézyc.Objektově orientovaný přístup2.Algoritmus; jeho reprezentace a obraty (dotace 10/14) a.Algoritmizace na bázi strukturovaného jazykab.Algoritmizace základních obratů v oblasti zpracování datc.Ověřování správnosti algoritmůd.Algoritmizace vědecko-technických výpočtůe.Algoritmizace hromadného zpracování dat3.Programovací jazyk jako nástroj pro vyjádření algoritmů (dotace 14/14) a.Příkazové strukturyb.Datové struktury; jednoduché, strukturované, dynamickéc.Podprogramyd.Některé metody návrhu programue.Prostředí programovacího jazyka; implementačně závislé a nezávislé prvky jazyka, specifika konkrétní implementacef.Tvorba programu; hromadné zpracování dat, vědecko-technické výpočty"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Programovací paradigmata; programy jako součást operačního systémub.Strukturalizace postupu řešení; nástroje, strukturyc.Modulární přístupy; princip dekompozice a syntézy"
+      "content": "a.Strukturalizace postupu řešení; nástroje, strukturyb.Modulární přístupy; princip dekompozice a syntézyc.Objektově orientovaný přístup"
     },
     {
       "label": "[section] Algoritmizace jako způsob myšlení",
-      "content": "a.Programovací paradigmata; programy jako součást operačního systémub.Strukturalizace postupu řešení; nástroje, strukturyc.Modulární přístupy; princip dekompozice a syntézy"
+      "content": "a.Strukturalizace postupu řešení; nástroje, strukturyb.Modulární přístupy; princip dekompozice a syntézyc.Objektově orientovaný přístup"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Algoritmizace na bázi strukturovaného jazykab.Algoritmizace základních obratů v oblasti zpracování datc.Algoritmizace vědecko-technických výpočtůd.Algoritmizace hromadného zpracování dat"
+      "content": "a.Algoritmizace na bázi strukturovaného jazykab.Algoritmizace základních obratů v oblasti zpracování datc.Ověřování správnosti algoritmůd.Algoritmizace vědecko-technických výpočtůe.Algoritmizace hromadného zpracování dat"
     },
     {
       "label": "[section] Algoritmus; jeho reprezentace a obraty",
-      "content": "a.Algoritmizace na bázi strukturovaného jazykab.Algoritmizace základních obratů v oblasti zpracování datc.Algoritmizace vědecko-technických výpočtůd.Algoritmizace hromadného zpracování dat"
+      "content": "a.Algoritmizace na bázi strukturovaného jazykab.Algoritmizace základních obratů v oblasti zpracování datc.Ověřování správnosti algoritmůd.Algoritmizace vědecko-technických výpočtůe.Algoritmizace hromadného zpracování dat"
     },
     {
       "label": "[section] 3.",
@@ -239,23 +255,23 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h0 hcvičení28 h0 hpříprava na zkoušku58 h0 hpříprava na průběžný test54 h0 hCelkem168 h0 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku58 hpříprava na průběžný test54 hCelkem168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Student má možnost absolvovat dva průběžné testy zaměřené na základní principy a pojmy; každý test je hodnocen max. 15 body. Na každý průběžný test jsou dva termíny. Zkouška se koná formou písemné práce a lze zde dosáhnout 70 bodů. Zkoušková písemná práce se koná v řádném a nejvýše dvou opravných termínech. Na písemnou část může navazovat nepovinná ústní část, jejímž cílem je umožnit studentovi vysvětlit a obhájit řešení úloh v písemné části. Celkové hodnocení vyjádřené v bodech je podkladem pro stanovení výsledné známky: min. 60 bodů -- známka E, min. 68 bodů -- známka D, min. 75 bodů -- známka C, min. 83 bodů -- známka B, min. 90 bodů -- známka A."
+      "content": "Student musí absolvovat dva průběžné testy zaměřené na základní principy a pojmy; každý test je hodnocen max. 10 body. Zde je nutné dosáhnout v součtu alespoň 12 bodů. Na každý průběžný test je řádný a dva opravné termíny. Po splnění průběžných testů student dostává malý zápočet. Zkouška se koná formou písemné práce a lze zde dosáhnout 80 bodů. Účast na zkoušce je podmíněna získáním malého zápočtu. Zkoušková písemná práce se koná v řádném a nejvýše dvou opravných termínech. Na písemnou část může navazovat nepovinná ústní část, jejímž cílem je umožnit studentovi vysvětlit a obhájit řešení úloh v písemné části. Pro úspěšné absolvování zkouškové písemné části je nutné získat alespoň 48 bodů. Celkové hodnocení vyjádřené v bodech je podkladem pro stanovení výsledné známky: min. 60 bodů -- známka E, min. 68 bodů -- známka D, min. 75 bodů -- známka C, min. 83 bodů -- známka B, min. 90 bodů -- známka A."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)30 %0 %Absolvování závěrečného testu70 %0 %Celkem100 %0 %"
+      "content": "DruhPrezenční studiumAbsolvování průběžného testu (testů)20 %Absolvování závěrečného testu80 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:RYBIČKA, Jiří. 2022. Algoritmizace (skriptum). Brno: formát PDF, 168 s.VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 s. ISBN 978-80-271-0502-1.Doporučená: Naučte se C++ za 21 dní. 2007. 2. vyd. Brno: Computer Press, 796 s. ISBN 978-80-251-1583-1."
+      "content": "Základní:VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 s. ISBN 978-80-271-0502-1.Doporučená: Naučte se C++ za 21 dní. 2007. 2. vyd. Brno: Computer Press, 796 s. ISBN 978-80-251-1583-1."
     },
     {
       "label": "[section] Základní:",
-      "content": "RYBIČKA, Jiří. 2022. Algoritmizace (skriptum). Brno: formát PDF, 168 s.VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 s. ISBN 978-80-271-0502-1."
+      "content": "VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 s. ISBN 978-80-271-0502-1."
     },
     {
       "label": "[section] Doporučená:",
@@ -263,7 +279,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2025/2026Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2025/2026Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2025/2026"
+      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -285,7 +301,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -293,7 +309,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -317,7 +333,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "doc. Ing. Oldřich Trenz, Ph.D."
+      "content": "doc. Dr. Ing. Jiří Rybička"
     },
     {
       "label": "Course supervising department:",
@@ -329,11 +345,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Dr. Ing. Jiří Rybička (examiner, instructor, lecturer, tutor)doc. Ing. Oldřich Trenz, Ph.D. (supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, tutor)"
+      "content": "Ing. Michal Dufek (instructor)doc. Dr. Ing. Jiří Rybička (examiner, lecturer, supervisor, tutor)Ing. Jan Turčínek, Ph.D. (instructor, tutor)Ing. Pavel Turčínek, Ph.D. (instructor, tutor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam"
+      "content": "not Final Bachelor Exam and not Algorithm Development"
     },
     {
       "label": "1.",
@@ -341,15 +357,15 @@
     },
     {
       "label": "a.",
-      "content": "Programming paradigmatas, programs as a part of operating system"
-    },
-    {
-      "label": "b.",
       "content": "Structuralization of solutions methods; tools, structures"
     },
     {
-      "label": "c.",
+      "label": "b.",
       "content": "Modular approaches; principles of decomposition and synthesis"
+    },
+    {
+      "label": "c.",
+      "content": "Object oriented approach"
     },
     {
       "label": "2.",
@@ -365,10 +381,14 @@
     },
     {
       "label": "c.",
-      "content": "Algorithmization of scienfitic and technical calculations"
+      "content": "Verification of algorithms correctness"
     },
     {
       "label": "d.",
+      "content": "Algorithmization of scienfitic and technical calculations"
+    },
+    {
+      "label": "e.",
       "content": "Algoritmization of collective data processing"
     },
     {
@@ -400,8 +420,20 @@
       "content": "Creation of programms; collective data processing, scienfitic and technical calculations"
     },
     {
+      "label": "Mid-term test(s)",
+      "content": "20 %"
+    },
+    {
+      "label": "Final test",
+      "content": "80 %"
+    },
+    {
+      "label": "Total",
+      "content": "100 %"
+    },
+    {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -417,7 +449,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -425,11 +457,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (6 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)part-time, 16/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -453,7 +485,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: doc. Ing. Oldřich Trenz, Ph.D."
+      "content": "Course supervisor: doc. Dr. Ing. Jiří Rybička"
     },
     {
       "label": "[section] Course supervisor:",
@@ -465,15 +497,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Dr. Ing. Jiří Rybička (examiner, instructor, lecturer, tutor)doc. Ing. Oldřich Trenz, Ph.D. (supervisor)Ing. Pavel Turčínek, Ph.D. (examiner, instructor, tutor)"
+      "content": "Teachers: Ing. Michal Dufek (instructor)doc. Dr. Ing. Jiří Rybička (examiner, lecturer, supervisor, tutor)Ing. Jan Turčínek, Ph.D. (instructor, tutor)Ing. Pavel Turčínek, Ph.D. (instructor, tutor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam"
+      "content": "Prerequisites: not Final Bachelor Exam and not Algorithm Development"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday13.00-14.50Q04B-AII 1232 P. TurčínekSeminarEvery week28Monday15.00-16.50Q04B-OI 1231 P. TurčínekSeminarEvery week28Monday17.00-18.50Q04B-OI 1233 J. RybičkaSeminarEvery week28Wednesday9.00-10.50Q04B-OI 1236 J. RybičkaSeminarEvery week28Wednesday11.00-12.50Q08B-AII 1231 P. TurčínekSeminarEvery week22Thursday9.00-10.50Q08B-OI 1237 J. RybičkaSeminarEvery week22Thursday9.00-10.50Q06B-OI 1235 P. TurčínekSeminarEvery week22Thursday11.00-12.50Q02B-AIIB-OI 1123 J. RybičkaLectureEvery week222Thursday13.00-14.50Q08B-OI 1234 J. RybičkaSeminarEvery week22Thursday15.00-16.50Q08B-OI 1232 J. RybičkaSeminarEvery week22Saturday14.00-17.50Q04B-AIIB-AII1 51 J. RybičkaLectureOccasionally50"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityTuesday11.00-12.50Q06B-OI 1124 J. TurčínekSeminarEvery week24Tuesday17.00-18.50Q02B-OI 112 J. RybičkaLectureEvery week170Wednesday7.00-8.50Q07B-OI 1121 P. TurčínekSeminarEvery week24Thursday9.00-10.50Q07B-OI 1126 P. TurčínekSeminarEvery week24Friday9.00-10.50Q05B-OI 1122 M. DufekSeminarEvery week24Friday11.00-12.50Q07B-OI 1123 J. TurčínekSeminarEvery week24Friday11.00-12.50Q05B-OI 1125 M. DufekSeminarEvery week24"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -481,23 +513,23 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Algorithmization as an approach of thinking (allowance 4/0) a.Programming paradigmatas, programs as a part of operating systemb.Structuralization of solutions methods; tools, structuresc.Modular approaches; principles of decomposition and synthesis2.Algorithm; its representation (allowance 10/14) a.Algorithmization based on structured languageb.Algorithmization of basic tasks in the field of data processingc.Algorithmization of scienfitic and technical calculationsd.Algoritmization of collective data processing3.Programming language as a tool of algorithm expression (allowance 14/14) a.Command structuresb.Data structures; simple, structured, dynamicc.Subroutinesd.Several methods of programm designe.Implementation of programming language environment; implementationaly dependent and independent elements of the language, specifics of concrete implementationf.Creation of programms; collective data processing, scienfitic and technical calculations"
+      "content": "1.Algorithmization as an approach of thinking (allowance 4/0) a.Structuralization of solutions methods; tools, structuresb.Modular approaches; principles of decomposition and synthesisc.Object oriented approach2.Algorithm; its representation (allowance 10/14) a.Algorithmization based on structured languageb.Algorithmization of basic tasks in the field of data processingc.Verification of algorithms correctnessd.Algorithmization of scienfitic and technical calculationse.Algoritmization of collective data processing3.Programming language as a tool of algorithm expression (allowance 14/14) a.Command structuresb.Data structures; simple, structured, dynamicc.Subroutinesd.Several methods of programm designe.Implementation of programming language environment; implementationaly dependent and independent elements of the language, specifics of concrete implementationf.Creation of programms; collective data processing, scienfitic and technical calculations"
     },
     {
       "label": "[section] 1.",
-      "content": "a.Programming paradigmatas, programs as a part of operating systemb.Structuralization of solutions methods; tools, structuresc.Modular approaches; principles of decomposition and synthesis"
+      "content": "a.Structuralization of solutions methods; tools, structuresb.Modular approaches; principles of decomposition and synthesisc.Object oriented approach"
     },
     {
       "label": "[section] Algorithmization as an approach of thinking",
-      "content": "a.Programming paradigmatas, programs as a part of operating systemb.Structuralization of solutions methods; tools, structuresc.Modular approaches; principles of decomposition and synthesis"
+      "content": "a.Structuralization of solutions methods; tools, structuresb.Modular approaches; principles of decomposition and synthesisc.Object oriented approach"
     },
     {
       "label": "[section] 2.",
-      "content": "a.Algorithmization based on structured languageb.Algorithmization of basic tasks in the field of data processingc.Algorithmization of scienfitic and technical calculationsd.Algoritmization of collective data processing"
+      "content": "a.Algorithmization based on structured languageb.Algorithmization of basic tasks in the field of data processingc.Verification of algorithms correctnessd.Algorithmization of scienfitic and technical calculationse.Algoritmization of collective data processing"
     },
     {
       "label": "[section] Algorithm; its representation",
-      "content": "a.Algorithmization based on structured languageb.Algorithmization of basic tasks in the field of data processingc.Algorithmization of scienfitic and technical calculationsd.Algoritmization of collective data processing"
+      "content": "a.Algorithmization based on structured languageb.Algorithmization of basic tasks in the field of data processingc.Verification of algorithms correctnessd.Algorithmization of scienfitic and technical calculationse.Algoritmization of collective data processing"
     },
     {
       "label": "[section] 3.",
@@ -509,23 +541,23 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h0 hpractice28 h0 hpreparation for exam58 h0 hpreparation for regular testing54 h0 hTotal168 h0 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam58 hpreparation for regular testing54 hTotal168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Students may pass two interim tests focused on basic principles and concepts; each test gain max. 15 points. There are two dates for each interim test. The exam takes the form of a written work and contributes to the overall assessment of 70 point. The exam is held in regular and at most two resit dates. The written part can be followed by an optional oral part, the aim of which is to enable the student to explain and defend the solution of the tasks in the written part. The overall rating expressed is a basis for determining the final grade: min. 60 points - grade E, min. 68 points - grade D, min. 75 points - grade C, min. 83 points - grade B, min. 90 points - grade A."
+      "content": "Students have to pass two interim tests focused on basic principles and concepts; each test gain max. 10 points. Here it is necessary to achieve in sum at least 12 points. There are one regular and two resit dates for each interim test. After passing the tests, the student receives a small credit. Interim tests make up 20 points of the overall assessment. The exam takes the form of a written work and contributes to the overall assessment of 80 point. Participation in the exam is conditioned by obtaining a small credit. The exam paper is held in regular and at most two resit dates. The written part can be followed by an optional oral part, the aim of which is to enable the student to explain and defend the solution of the tasks in the written part. At least 48 points are required to pass the written exam. The overall rating expressed is a basis for determining the final grade: min. 60 points - grade E, min. 68 points - grade D, min. 75 points - grade C, min. 83 points - grade B, min. 90 points - grade A."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)30 %0 %Final test70 %0 %Total100 %0 %"
+      "content": "Requirement typeDaily attendanceMid-term test(s)20 %Final test80 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:RYBIČKA, Jiří. 2022. Algoritmizace (skriptum). Brno: formát PDF, 168 p.VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 p. ISBN 978-80-271-0502-1.Recommended: Naučte se C++ za 21 dní. 2007. 2nd ed. Brno: Computer Press, 796 p. ISBN 978-80-251-1583-1."
+      "content": "Basic:VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 p. ISBN 978-80-271-0502-1.Recommended: Naučte se C++ za 21 dní. 2007. 2nd ed. Brno: Computer Press, 796 p. ISBN 978-80-251-1583-1."
     },
     {
       "label": "[section] Basic:",
-      "content": "RYBIČKA, Jiří. 2022. Algoritmizace (skriptum). Brno: formát PDF, 168 p.VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 p. ISBN 978-80-271-0502-1."
+      "content": "VIRIUS, Miroslav. 2018. Programování v C++ od základů k profesionálnímu použití. Praha: Grada, 416 p. ISBN 978-80-271-0502-1."
     },
     {
       "label": "[section] Recommended:",
@@ -533,13 +565,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2025/2026Programme B-OI Open Informatics, full-time form, initial period WS 2025/2026Programme B-AII Administration IS/ICT, part-time form, initial period WS 2025/2026"
+      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:38:02",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:50:37",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

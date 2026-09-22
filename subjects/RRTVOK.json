@@ -3,7 +3,7 @@
   "name": "Tvorba a ochrana krajiny",
   "nameCs": "Tvorba a ochrana krajiny",
   "nameEn": "Landscape Design and Protection",
-  "predmetId": "157617",
+  "predmetId": "162689",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,73 @@
     "prof. Ing. Ilja Vyskot, CSc."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=162689;lang=cz",
+      "totalPass": 97,
+      "totalFail": 4,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 3,
+            "B": 15,
+            "C": 7,
+            "D": 7,
+            "E": 9,
+            "F": 9,
+            "FN": 1
+          },
+          "pass": 41,
+          "fail": 10
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 3,
+            "C": 1,
+            "D": 1,
+            "E": 1,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 4
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 9,
+            "B": 30,
+            "C": 16,
+            "D": 15,
+            "E": 27,
+            "F": 4,
+            "FN": 0
+          },
+          "pass": 97,
+          "fail": 4
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 6,
+            "B": 12,
+            "C": 8,
+            "D": 7,
+            "E": 17,
+            "F": 48,
+            "FN": 3
+          },
+          "pass": 50,
+          "fail": 51
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -305,5 +372,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

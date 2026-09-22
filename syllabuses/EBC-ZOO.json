@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět je možné studovat při zahraničním výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+      "content": "Předmět je možné studovat při zahraničním výjezdu."
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Andrej Gono (cvičící, přednášející, tutor, zkoušející)Ing. Eliška Chylíková (cvičící, tutor, zkoušející)Bc. Michal Matonoha (cvičící, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Ing. Tomáš Jakúbek (cvičící, tutor, zkoušející)Ing. Mikuláš Muroň, Ph.D. (cvičící, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Martin Zejda (cvičící, tutor, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -151,7 +151,7 @@
     },
     {
       "label": "7.",
-      "content": "Návrhové vzory (dotace 8/8)"
+      "content": "Návrhové vzory (dotace 4/4)"
     },
     {
       "label": "a.",
@@ -166,8 +166,24 @@
       "content": "vzory chování."
     },
     {
+      "label": "8.",
+      "content": "Opakování (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "komentované příklady,"
+    },
+    {
+      "label": "b.",
+      "content": "refactoring kódu"
+    },
+    {
+      "label": "c.",
+      "content": "autotest."
+    },
+    {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "LS 2026/2027, ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -183,7 +199,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -211,7 +227,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat při zahraničním výjezdu. Je nutné kontaktovat vyučujícího pro nastavení termínů písemných zkoušek a režimu studia."
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat při zahraničním výjezdu."
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -231,7 +247,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Andrej Gono (cvičící, přednášející, tutor, zkoušející)Ing. Eliška Chylíková (cvičící, tutor, zkoušející)Bc. Michal Matonoha (cvičící, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)"
+      "content": "Vyučující: Ing. Tomáš Jakúbek (cvičící, tutor, zkoušející)Ing. Mikuláš Muroň, Ph.D. (cvičící, tutor, zkoušející)Ing. David Procházka, Ph.D. (cvičící, garant, přednášející, tutor, zkoušející)Ing. Martin Zejda (cvičící, tutor, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -239,7 +255,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí15.00-16.50Q09B-OI 1233 A. GonoCvičeníKaždý týden24Úterý11.00-12.50Q05B-OI 1232 E. ChylíkováCvičeníKaždý týden24Úterý15.00-16.50Q02B-OI 123 D. Procházka, A. GonoPřednáškaKaždý týden170Úterý17.00-18.50Q08B-OI 1235 A. GonoCvičeníKaždý týden23Středa9.00-10.50Q07B-OI 1231 M. MatonohaCvičeníKaždý týden24Čtvrtek9.00-10.50Q05B-OI 1234 E. ChylíkováCvičeníKaždý týden24Čtvrtek13.00-14.50Q05B-OI 1236 E. ChylíkováCvičeníKaždý týden24Čtvrtek15.00-16.50Q07B-OI 1237 M. MatonohaCvičeníKaždý týden23"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaStředa13.00-14.50Q09B-OI12M. ZejdaCvičeníKaždý týden20Středa15.00-16.50Q02B-OI 112 D. ProcházkaPřednáškaKaždý týden170Čtvrtek7.00-8.50Q05M. ZejdaCvičeníKaždý týden20Čtvrtek7.00-8.50Q07B-OI13T. JakúbekCvičeníKaždý týden20Čtvrtek7.00-8.50Q08B-OI16M. MuroňCvičeníKaždý týden20Čtvrtek9.00-10.50Q08B-OI15M. MuroňCvičeníKaždý týden22Čtvrtek11.00-12.50Q07B-OI14M. ZejdaCvičeníKaždý týden20Čtvrtek11.00-12.50Q08B-OI11T. JakúbekCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -247,7 +263,7 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Základy objektově orientovaného návrhu (dotace 2/2) a.problémy návrhu aplikací,b.třída, objekt, instance třídy,c.metoda, atribut.2.Návrh tříd (dotace 4/4) a.skrývání implementace, modifikátory viditelnosti,b.kontruktor, destruktor.3.Sdílení dat mezi objekty (dotace 2/2) a.statické metody a vlastnosti,b.předávání hodnot a ukazatelů.4.Vztahy mezi třídami (dotace 4/4) a.asociace, agregace, kompoziceb.kolekce.5.Dědičnost a polymorfismus (dotace 6/6) a.dědění vlastností a metod,b.čásná a pozdní vazba, virtuální a čistě virtuální metody,c.opakování v souvislosti s kolekcemi6.Tvorba rozsáhlých projektů (dotace 2/2) a.členění projektů,b.komentáře a dokumentace,c.jmenné prostory.7.Návrhové vzory (dotace 8/8) a.strukturální vzory,b.tvořivé vzory,c.vzory chování."
+      "content": "1.Základy objektově orientovaného návrhu (dotace 2/2) a.problémy návrhu aplikací,b.třída, objekt, instance třídy,c.metoda, atribut.2.Návrh tříd (dotace 4/4) a.skrývání implementace, modifikátory viditelnosti,b.kontruktor, destruktor.3.Sdílení dat mezi objekty (dotace 2/2) a.statické metody a vlastnosti,b.předávání hodnot a ukazatelů.4.Vztahy mezi třídami (dotace 4/4) a.asociace, agregace, kompoziceb.kolekce.5.Dědičnost a polymorfismus (dotace 6/6) a.dědění vlastností a metod,b.čásná a pozdní vazba, virtuální a čistě virtuální metody,c.opakování v souvislosti s kolekcemi6.Tvorba rozsáhlých projektů (dotace 2/2) a.členění projektů,b.komentáře a dokumentace,c.jmenné prostory.7.Návrhové vzory (dotace 4/4) a.strukturální vzory,b.tvořivé vzory,c.vzory chování.8.Opakování (dotace 4/4) a.komentované příklady,b.refactoring kóduc.autotest."
     },
     {
       "label": "[section] 1.",
@@ -306,12 +322,20 @@
       "content": "a.strukturální vzory,b.tvořivé vzory,c.vzory chování."
     },
     {
+      "label": "[section] 8.",
+      "content": "a.komentované příklady,b.refactoring kóduc.autotest."
+    },
+    {
+      "label": "[section] Opakování",
+      "content": "a.komentované příklady,b.refactoring kóduc.autotest."
+    },
+    {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h28 hpříprava na zkoušku42 h42 hpříprava na průběžné hodnocení14 h14 hpříprava na průběžný test14 h14 hzpracování projektů14 h26 hCelkem140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška28 h16 hcvičení28 h0 hkonzultace0 h28 hpříprava na zkoušku42 h42 hpříprava na průběžné hodnocení14 h14 hpříprava na průběžný test14 h14 hzpracování projektů14 h26 hCelkem140 h140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "V průběhu semestru píše student na počítači dvě průběžné písemné práce. Skládají se z příkladů, kde student obdrží slovní zadání a jeho úkolem je sestavit UML diagram tříd problému a napsat příslušný kód v objektovém jazyce. Semestrální písemná práce se skládá z několika příkladů. Koncept je stejný jako u průběžné písemné práce. Jen je problematika rozšířena. Důraz je kladen zejména na implementaci návrhových vzorů, práci s kolekcemi a polymorfismus. Studenti také pracují v týmech na semestrálním projektu. Cílem je vytvořit funkční aplikaci, která bude důsledně využívat objektový návrh. Práce má dvě obhajoby. První je na konci výukové části semestru, druhá je ve zkouškovém období. Za aktivity v kurzu (průběžné písemné práce, projekty, zkoušku) mohou studenti v průběhu semestru získat 100 bodů. Pokud získají 60 bodů a více získají hodnocení E, za 68 bodů a více D, za 75 bodů a více C, za 83 bodů a více B a 90 bodů a více A. Na průběžné práce je jeden řádný termín konání. Při písemných pracech je zakázáno jakoukoliv formou komunikovat s jinými lidmi, využívat umělou inteligenci, nebo jakkoliv jinak sdílet zadání písemných prací nebo jejich částí."
+      "content": "V průběhu semestru píše student na počítači dvě průběžné písemné práce. Skládají se z příkladů, kde student obdrží slovní zadání a jeho úkolem je sestavit UML diagram tříd problému a napsat příslušný kód v objektovém jazyce. Semestrální písemná práce se skládá z několika příkladů. Koncept je stejný jako u průběžné písemné práce. Jen je problematika rozšířena. Důraz je kladen zejména na implementaci návrhových vzorů, práci s kolekcemi a polymorfismus. Studenti také pracují na malých projektech. Část práce je individuální, část je týmová. Cílem je vytvořit jednoduché funkční aplikace. Za aktivity v kurzu (průběžné písemné práce, projekty, zkoušku) mohou studenti v průběhu semestru získat 100 bodů. Pokud získají 60 bodů a více získají hodnocení E, za 68 bodů a více D, za 75 bodů a více C, za 83 bodů a více B a 90 bodů a více A. Na průběžné práce je jeden řádný termín konání."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
@@ -331,7 +355,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -353,7 +377,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -377,7 +401,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The course can be attended in case of foreign study visit. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+      "content": "The course can be attended in case of foreign study visit."
     },
     {
       "label": "Language of instruction:",
@@ -397,7 +421,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Andrej Gono (examiner, instructor, lecturer, tutor)Ing. Eliška Chylíková (examiner, instructor, tutor)Bc. Michal Matonoha (examiner, instructor, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Ing. Tomáš Jakúbek (examiner, instructor, tutor)Ing. Mikuláš Muroň, Ph.D. (examiner, instructor, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Martin Zejda (examiner, instructor, tutor)"
     },
     {
       "label": "Prerequisites:",
@@ -433,18 +457,6 @@
     },
     {
       "label": "3.",
-      "content": "Sharing information between classes (allowance 2/2)"
-    },
-    {
-      "label": "a.",
-      "content": "Static attributes and methods"
-    },
-    {
-      "label": "b.",
-      "content": "Passing a variable using a pointer and value"
-    },
-    {
-      "label": "4.",
       "content": "Relations between classes (allowance 4/4)"
     },
     {
@@ -456,7 +468,7 @@
       "content": "Collections"
     },
     {
-      "label": "5.",
+      "label": "4.",
       "content": "Inheritance and polymorphism (allowance 6/6)"
     },
     {
@@ -472,7 +484,7 @@
       "content": "Examples with regard to the collections"
     },
     {
-      "label": "6.",
+      "label": "5.",
       "content": "Complex projects (allowance 2/2)"
     },
     {
@@ -485,11 +497,11 @@
     },
     {
       "label": "c.",
-      "content": "Namespaces"
+      "content": "Name spaces"
     },
     {
-      "label": "7.",
-      "content": "Design patterns (allowance 8/8)"
+      "label": "6.",
+      "content": "Design patterns (allowance 4/4)"
     },
     {
       "label": "a.",
@@ -504,8 +516,24 @@
       "content": "Creational patterns"
     },
     {
+      "label": "7.",
+      "content": "Repeating (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Commented examples"
+    },
+    {
+      "label": "b.",
+      "content": "Code refactoring"
+    },
+    {
+      "label": "c.",
+      "content": "Autotesting"
+    },
+    {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "SS 2026/2027, WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -521,7 +549,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -549,7 +577,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The course can be attended in case of foreign study visit. It is necessary to contact the teacher to set up the dates of written exams and study mode."
+      "content": "Mode of delivery for our mobility students abroad: The course can be attended in case of foreign study visit."
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -569,7 +597,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Andrej Gono (examiner, instructor, lecturer, tutor)Ing. Eliška Chylíková (examiner, instructor, tutor)Bc. Michal Matonoha (examiner, instructor, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)"
+      "content": "Teachers: Ing. Tomáš Jakúbek (examiner, instructor, tutor)Ing. Mikuláš Muroň, Ph.D. (examiner, instructor, tutor)Ing. David Procházka, Ph.D. (examiner, instructor, lecturer, supervisor, tutor)Ing. Martin Zejda (examiner, instructor, tutor)"
     },
     {
       "label": "[section] Teachers:",
@@ -577,7 +605,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday15.00-16.50Q09B-OI 1233 A. GonoSeminarEvery week24Tuesday11.00-12.50Q05B-OI 1232 E. ChylíkováSeminarEvery week24Tuesday15.00-16.50Q02B-OI 123 D. Procházka, A. GonoLectureEvery week170Tuesday17.00-18.50Q08B-OI 1235 A. GonoSeminarEvery week23Wednesday9.00-10.50Q07B-OI 1231 M. MatonohaSeminarEvery week24Thursday9.00-10.50Q05B-OI 1234 E. ChylíkováSeminarEvery week24Thursday13.00-14.50Q05B-OI 1236 E. ChylíkováSeminarEvery week24Thursday15.00-16.50Q07B-OI 1237 M. MatonohaSeminarEvery week23"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityWednesday13.00-14.50Q09B-OI12M. ZejdaSeminarEvery week20Wednesday15.00-16.50Q02B-OI 112 D. ProcházkaLectureEvery week170Thursday7.00-8.50Q07B-OI13T. JakúbekSeminarEvery week20Thursday7.00-8.50Q05M. ZejdaSeminarEvery week20Thursday7.00-8.50Q08B-OI16M. MuroňSeminarEvery week20Thursday9.00-10.50Q08B-OI15M. MuroňSeminarEvery week22Thursday11.00-12.50Q08B-OI11T. JakúbekSeminarEvery week20Thursday11.00-12.50Q07B-OI14M. ZejdaSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -585,7 +613,7 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Basics of object oriented design (allowance 2/2) a.Problems of designing applicationsb.Class, object, instance of the classc.Methods and attributes2.Design of the classes (allowance 4/4) a.Hiding the implementation, visibility modificatorsb.Constructor, destructor3.Sharing information between classes (allowance 2/2) a.Static attributes and methodsb.Passing a variable using a pointer and value4.Relations between classes (allowance 4/4) a.Association, aggregation, compositionb.Collections5.Inheritance and polymorphism (allowance 6/6) a.Inheritance of classes and methodsb.Early and late binding, virtual methods, pure virtual methodsc.Examples with regard to the collections6.Complex projects (allowance 2/2) a.Structure of a complex projectb.Naming and documentation of a projectc.Namespaces7.Design patterns (allowance 8/8) a.Structural patternsb.Behavioral patternsc.Creational patterns"
+      "content": "1.Basics of object oriented design (allowance 2/2) a.Problems of designing applicationsb.Class, object, instance of the classc.Methods and attributes2.Design of the classes (allowance 4/4) a.Hiding the implementation, visibility modificatorsb.Constructor, destructor3.Relations between classes (allowance 4/4) a.Association, aggregation, compositionb.Collections4.Inheritance and polymorphism (allowance 6/6) a.Inheritance of classes and methodsb.Early and late binding, virtual methods, pure virtual methodsc.Examples with regard to the collections5.Complex projects (allowance 2/2) a.Structure of a complex projectb.Naming and documentation of a projectc.Name spaces6.Design patterns (allowance 4/4) a.Structural patternsb.Behavioral patternsc.Creational patterns7.Repeating (allowance 2/2) a.Commented examplesb.Code refactoringc.Autotesting"
     },
     {
       "label": "[section] 1.",
@@ -605,14 +633,6 @@
     },
     {
       "label": "[section] 3.",
-      "content": "a.Static attributes and methodsb.Passing a variable using a pointer and value"
-    },
-    {
-      "label": "[section] Sharing information between classes",
-      "content": "a.Static attributes and methodsb.Passing a variable using a pointer and value"
-    },
-    {
-      "label": "[section] 4.",
       "content": "a.Association, aggregation, compositionb.Collections"
     },
     {
@@ -620,7 +640,7 @@
       "content": "a.Association, aggregation, compositionb.Collections"
     },
     {
-      "label": "[section] 5.",
+      "label": "[section] 4.",
       "content": "a.Inheritance of classes and methodsb.Early and late binding, virtual methods, pure virtual methodsc.Examples with regard to the collections"
     },
     {
@@ -628,15 +648,15 @@
       "content": "a.Inheritance of classes and methodsb.Early and late binding, virtual methods, pure virtual methodsc.Examples with regard to the collections"
     },
     {
-      "label": "[section] 6.",
-      "content": "a.Structure of a complex projectb.Naming and documentation of a projectc.Namespaces"
+      "label": "[section] 5.",
+      "content": "a.Structure of a complex projectb.Naming and documentation of a projectc.Name spaces"
     },
     {
       "label": "[section] Complex projects",
-      "content": "a.Structure of a complex projectb.Naming and documentation of a projectc.Namespaces"
+      "content": "a.Structure of a complex projectb.Naming and documentation of a projectc.Name spaces"
     },
     {
-      "label": "[section] 7.",
+      "label": "[section] 6.",
       "content": "a.Structural patternsb.Behavioral patternsc.Creational patterns"
     },
     {
@@ -644,12 +664,20 @@
       "content": "a.Structural patternsb.Behavioral patternsc.Creational patterns"
     },
     {
+      "label": "[section] 7.",
+      "content": "a.Commented examplesb.Code refactoringc.Autotesting"
+    },
+    {
+      "label": "[section] Repeating",
+      "content": "a.Commented examplesb.Code refactoringc.Autotesting"
+    },
+    {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h28 hpreparation for exam42 h42 hpreparation for regular assessment14 h14 hpreparation for regular testing14 h14 helaboration and execution of projects14 h26 hTotal140 h140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture28 h16 hpractice28 h0 hconsultation0 h28 hpreparation for exam42 h42 hpreparation for regular assessment14 h14 hpreparation for regular testing14 h14 helaboration and execution of projects14 h26 hTotal140 h140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "During the semester, students write tests on a computer. The test is composed of tasks where it is necessary to create a class diagram of the problem in UML and write appropriate code in the programming language. The final exam is also composed of several tasks. The form is similar to the previous tests. Emphasis is placed on the implementation of the design patterns, work with collections and polymorphism. Students also work in teams on a semester-long project. The goal is to create a functional application that consistently uses object-oriented design. The thesis has two defenses. The first is at the end of the teaching part of the semester, the second is in the exam period. During the course, students can gain 100 points for tests, exam and project. For successful accomplishment (grade E), it is necessary to have at least 60 points. Grade D is for 68 points, C is for 75 points, B is for 83 points and A grade is for 90 points or more. There is one regular sit for tests during the semester. It is prohibited to communicate in any form with other people, using artificial intelligence, or otherwise share the assignment or its parts during the tests and exams."
+      "content": "During the semester, students write tests on a computer. The test is composed of tasks where it is necessary to create a class diagram of the problem in UML and write appropriate code in the programming language. The final exam is also composed of several tasks. The form is similar to the previous tests. Emphasis is placed on the implementation of the design patterns, work with collections and polymorphism. Students also work on smaller projects. These projects are partially individual and partially implemented in teams. The goal is to create a working application and its model. During the course, students can gain 100 points for tests, exam and project. For successful accomplishment (grade E), it is necessary to have at least 60 points. Grade D is for 68 points, C is for 75 points, B is for 83 points and A grade is for 90 points or more. There is one regular sit for tests during the semester."
     },
     {
       "label": "[section] Assessment criteria ratio:",
@@ -669,13 +697,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2025/2026"
+      "content": "Programme B-OI Open Informatics, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:47:15",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:02:30",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -168,15 +168,15 @@
       "semesterName": "ZS 2021/2022 - AF",
       "semesterId": "651",
       "year": 2021,
-      "type": "exam",
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=14;obdobi=651;predmet=129504;lang=cz",
-      "totalPass": 12,
+      "totalPass": 4,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 12,
+            "A": 0,
             "B": 0,
             "C": 0,
             "D": 0,
@@ -184,22 +184,13 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 12,
-          "fail": 0
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 12,
-            "B": 0,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 12,
-          "fail": 0
+          "pass": 4,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 4,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -234,5 +225,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

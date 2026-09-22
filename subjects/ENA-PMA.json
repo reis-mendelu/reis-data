@@ -3,18 +3,85 @@
   "name": "Projektový management v AJ",
   "nameCs": "Projektový management v AJ",
   "nameEn": "Project Management",
-  "predmetId": "158013",
+  "predmetId": "160792",
   "facultyId": 2,
   "aliases": [
     "PROMA"
   ],
   "teachers": [
     "Ing. Radovan Kožíšek, Ph.D.",
-    "Mgr. Ondřej Klíma, Ph.D.",
+    "Mgr. Ondřej Klíma",
     "Yuliia Prus",
     "doc. Ing. Hana Stojanová, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160792;lang=cz",
+      "totalPass": 48,
+      "totalFail": 8,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 4,
+            "B": 1,
+            "C": 1,
+            "D": 0,
+            "E": 0,
+            "F": 4,
+            "FN": 7
+          },
+          "pass": 6,
+          "fail": 11
+        },
+        {
+          "term": "2. opravný",
+          "grades": {
+            "A": 0,
+            "B": 2,
+            "C": 0,
+            "D": 0,
+            "E": 1,
+            "F": 0,
+            "FN": 8
+          },
+          "pass": 3,
+          "fail": 8
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 22,
+            "B": 7,
+            "C": 8,
+            "D": 4,
+            "E": 7,
+            "F": 0,
+            "FN": 8
+          },
+          "pass": 48,
+          "fail": 8
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 18,
+            "B": 4,
+            "C": 7,
+            "D": 4,
+            "E": 6,
+            "F": 10,
+            "FN": 7
+          },
+          "pass": 39,
+          "fail": 17
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -22,7 +89,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=158013;lang=cz",
       "totalPass": 115,
-      "totalFail": 14,
+      "totalFail": 15,
       "terms": [
         {
           "term": "1. opravný",
@@ -61,10 +128,10 @@
             "D": 6,
             "E": 10,
             "F": 0,
-            "FN": 14
+            "FN": 15
           },
           "pass": 115,
-          "fail": 14
+          "fail": 15
         },
         {
           "term": "Řádný termín",
@@ -471,5 +538,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

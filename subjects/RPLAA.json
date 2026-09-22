@@ -7,7 +7,9 @@
   "facultyId": 23,
   "aliases": [],
   "teachers": [
-    "Mgr. Martin Hrabálek, Ph.D."
+    "Alberto Lioy, Ph.D.",
+    "Mgr. Martin Hrabálek, Ph.D.",
+    "doc. Mgr. Michal Zourek, Ph.D."
   ],
   "stats": [
     {
@@ -84,7 +86,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=672;predmet=153910;lang=cz",
       "totalPass": 89,
-      "totalFail": 21,
+      "totalFail": 23,
       "terms": [
         {
           "term": "1. opravný",
@@ -122,11 +124,11 @@
             "C": 13,
             "D": 25,
             "E": 42,
-            "F": 20,
+            "F": 22,
             "FN": 1
           },
           "pass": 89,
-          "fail": 21
+          "fail": 23
         },
         {
           "term": "Řádný termín",
@@ -371,5 +373,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

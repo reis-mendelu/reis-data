@@ -1,0 +1,861 @@
+{
+  "courseCode": "ZMB",
+  "cs": [
+    {
+      "label": "Kód předmětu:",
+      "content": "ZMB"
+    },
+    {
+      "label": "Název předmětu česky:",
+      "content": "Zahradnická mechanizace (bc.)"
+    },
+    {
+      "label": "Název předmětu anglicky:",
+      "content": "Horticultural Machinery (b.)"
+    },
+    {
+      "label": "Semestr:",
+      "content": "LS 2020/2021"
+    },
+    {
+      "label": "Způsob ukončení a počet kreditů:",
+      "content": "zkouška (5 kreditů)"
+    },
+    {
+      "label": "Forma výuky a dotace hodin:",
+      "content": "prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "Stupeň studia:",
+      "content": "bakalářský"
+    },
+    {
+      "label": "Typ předmětu:",
+      "content": "povinný"
+    },
+    {
+      "label": "Typ výuky předmětu:",
+      "content": "normální, konzultační"
+    },
+    {
+      "label": "Možnost studia předmětu během zahraniční mobility:",
+      "content": "-- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "Jazyk výuky:",
+      "content": "čeština"
+    },
+    {
+      "label": "Garant předmětu:",
+      "content": "prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "Garantující ústav:",
+      "content": "Ústav zahradnické techniky (ZF)"
+    },
+    {
+      "label": "Fakulta:",
+      "content": "Zahradnická fakulta"
+    },
+    {
+      "label": "Vyučující:",
+      "content": "prof. Ing. Patrik Burg, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Alice Čížková, Ph.D. (cvičící)Ing. Vladimír Mašán, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "Prerekvizity:",
+      "content": "ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "1.",
+      "content": "Úvod do předmětu (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Základní parametry mechanizačních prostředků"
+    },
+    {
+      "label": "b.",
+      "content": "Způsoby pohonu funkčních částí mechanizačních prostředků"
+    },
+    {
+      "label": "2.",
+      "content": "Energetické prostředky (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Hlavní konstrukční prvky traktorů a malotraktorů"
+    },
+    {
+      "label": "b.",
+      "content": "Jednonápravové malotraktory, dvounápravové malotraktory, traktory, speciální traktory a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace a rozšíření mechanizačního vybavení ústavu zahradnické techniky pro zkvalitnění výuky)"
+    },
+    {
+      "label": "3.",
+      "content": "Mechanizační prostředky pro zpracování půdy a předseťovou přípravu půdy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Význam a způsoby zpracování půdy, půdní zhutnění"
+    },
+    {
+      "label": "b.",
+      "content": "Pluhy radličné, rotační, rýčové"
+    },
+    {
+      "label": "c.",
+      "content": "Smyky brány, válce, kypřiče, kombinátory"
+    },
+    {
+      "label": "4.",
+      "content": "Mechanizační prostředky pro hnojení půdy (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Rozmetadla organických hnojiv"
+    },
+    {
+      "label": "b.",
+      "content": "Rozmetadla minerálních hnojiv"
+    },
+    {
+      "label": "5.",
+      "content": "Mechanizační prostředky pro setí a sázení (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Výsevní ústrojí pro řádkový výsev"
+    },
+    {
+      "label": "b.",
+      "content": "Výsevní ústrojí pro přesná výsev"
+    },
+    {
+      "label": "c.",
+      "content": "Sázecí poloautomaty a automaty"
+    },
+    {
+      "label": "d.",
+      "content": "Stroje pro přesazování vzrostlých dřevin"
+    },
+    {
+      "label": "6.",
+      "content": "Mechanizační prostředky pro kultivaci porostů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanizační prostředky pro plošnou kultivaci, meziřádkovou kultivaci (Obsahová náplň přednášky vychází z řešení projektu Hodnocení povrchového odtoku vody a infiltrace vody do půdy s uplatněním metody simulovaného zadešťování; IGA-ZF/2019–DP001)"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanizační prostředky pro údržbu meziřadí a příkmenných pásů trvalých porostů"
+    },
+    {
+      "label": "7.",
+      "content": "Mechanizační prostředky pro chemickou ochranu rostlin (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Metody ochrany rostlin"
+    },
+    {
+      "label": "b.",
+      "content": "Postřikovače, rosiče, aplikátory herbicidů"
+    },
+    {
+      "label": "8.",
+      "content": "Stroje pro zakládání a údržbu trávníků (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Stroje pro přípravu půdy a setí"
+    },
+    {
+      "label": "b.",
+      "content": "Žací stroje a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace ukázkové mechanizace pro technicky profilované předměty a praxi na zahradnické fakultě)"
+    },
+    {
+      "label": "c.",
+      "content": "Vertikutátory, aerifikátory"
+    },
+    {
+      "label": "9.",
+      "content": "Mechanizační prostředky pro sklizeň zelenin (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanizační prostředky pro sklizeň kořenové, cibulové, košťálové, listové, luskové a plodové zeleniny"
+    },
+    {
+      "label": "10.",
+      "content": "Mechanizační prostředky pro sklizeň ovoce (dotace 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanizační prostředky pro sklizeň jádrovin"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanizační prostředky pro sklizeň peckovin"
+    },
+    {
+      "label": "11.",
+      "content": "Mechanizační prostředky pro sklizeň drobného ovoce a hroznů (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Nářadí pro částečně mechanizovanou sklizeň"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanizační prostředky pro plně mechanizovanou sklizeň"
+    },
+    {
+      "label": "12.",
+      "content": "Mechanizační prostředky využívané v krytých plochách (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Manipulační a dopravní prostředky ve sklenících"
+    },
+    {
+      "label": "Celkem",
+      "content": "0 %"
+    },
+    {
+      "label": "Vyučován v předchozích obdobích:",
+      "content": "LS 2019/2020, LS 2018/2019, LS 2017/2018, LS 2016/2017, LS 2015/2016, LS 2014/2015 (a starší)"
+    },
+    {
+      "label": "Místo výuky:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Kód předmětu:",
+      "content": "Název předmětu česky: Zahradnická mechanizace (bc.)"
+    },
+    {
+      "label": "[section] Název předmětu česky:",
+      "content": "Název předmětu anglicky: Horticultural Machinery (b.)"
+    },
+    {
+      "label": "[section] Název předmětu anglicky:",
+      "content": "Semestr: LS 2020/2021"
+    },
+    {
+      "label": "[section] Semestr:",
+      "content": "Způsob ukončení a počet kreditů: zkouška (5 kreditů)"
+    },
+    {
+      "label": "[section] Způsob ukončení a počet kreditů:",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] zkouška (5 kreditů)",
+      "content": "Forma výuky a dotace hodin: prezenční, 2/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+    },
+    {
+      "label": "[section] Forma výuky a dotace hodin:",
+      "content": "Stupeň studia: bakalářský"
+    },
+    {
+      "label": "[section] Stupeň studia:",
+      "content": "Typ předmětu: povinný"
+    },
+    {
+      "label": "[section] Typ předmětu:",
+      "content": "Typ výuky předmětu: normální, konzultační"
+    },
+    {
+      "label": "[section] Typ výuky předmětu:",
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
+    },
+    {
+      "label": "[section] Možnost studia předmětu během zahraniční mobility:",
+      "content": "Jazyk výuky: čeština"
+    },
+    {
+      "label": "[section] Jazyk výuky:",
+      "content": "Garant předmětu: prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "[section] Garant předmětu:",
+      "content": "Garantující ústav: Ústav zahradnické techniky (ZF)"
+    },
+    {
+      "label": "[section] Garantující ústav:",
+      "content": "Fakulta: Zahradnická fakulta"
+    },
+    {
+      "label": "[section] Fakulta:",
+      "content": "Vyučující: prof. Ing. Patrik Burg, Ph.D. (cvičící, garant, přednášející, zkoušející)Ing. Alice Čížková, Ph.D. (cvičící)Ing. Vladimír Mašán, Ph.D. (cvičící, přednášející)"
+    },
+    {
+      "label": "[section] Vyučující:",
+      "content": "Prerekvizity: ne Státní bakalářská zkouška"
+    },
+    {
+      "label": "[section] Rozvrh v aktuálním období:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaÚterý8.00-9.50ZFAC1 (Led)P. BurgPřednáškaKaždý týden56Středa8.00-9.50ZFAC1 (Led)V. MašánCvičeníKaždý týden22"
+    },
+    {
+      "label": "[section] Cíl předmětu a studijní výstupy:",
+      "content": "Cílem předmětu je naučit posluchače znát principy práce nářadí a strojů sloužících k provádění pěstitelských operací v zahradnictví. Výuka je vedena tak, aby posluchač byl schopen na základě agrotechnických požadavků zvolit vhodný mechanizační prostředek pro konkrétní operaci a uměl zajistit jeho efektivní využití."
+    },
+    {
+      "label": "[section] Obsah předmětu:",
+      "content": "1.Úvod do předmětu (dotace 2/2) a.Základní parametry mechanizačních prostředkůb.Způsoby pohonu funkčních částí mechanizačních prostředků2.Energetické prostředky (dotace 2/2) a.Hlavní konstrukční prvky traktorů a malotraktorůb.Jednonápravové malotraktory, dvounápravové malotraktory, traktory, speciální traktory a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace a rozšíření mechanizačního vybavení ústavu zahradnické techniky pro zkvalitnění výuky)3.Mechanizační prostředky pro zpracování půdy a předseťovou přípravu půdy (dotace 2/2) a.Význam a způsoby zpracování půdy, půdní zhutněníb.Pluhy radličné, rotační, rýčovéc.Smyky brány, válce, kypřiče, kombinátory4.Mechanizační prostředky pro hnojení půdy (dotace 2/2) a.Rozmetadla organických hnojivb.Rozmetadla minerálních hnojiv5.Mechanizační prostředky pro setí a sázení (dotace 2/2) a.Výsevní ústrojí pro řádkový výsevb.Výsevní ústrojí pro přesná výsevc.Sázecí poloautomaty a automatyd.Stroje pro přesazování vzrostlých dřevin6.Mechanizační prostředky pro kultivaci porostů (dotace 2/2) a.Mechanizační prostředky pro plošnou kultivaci, meziřádkovou kultivaci (Obsahová náplň přednášky vychází z řešení projektu Hodnocení povrchového odtoku vody a infiltrace vody do půdy s uplatněním metody simulovaného zadešťování; IGA-ZF/2019–DP001)b.Mechanizační prostředky pro údržbu meziřadí a příkmenných pásů trvalých porostů7.Mechanizační prostředky pro chemickou ochranu rostlin (dotace 2/2) a.Metody ochrany rostlinb.Postřikovače, rosiče, aplikátory herbicidů8.Stroje pro zakládání a údržbu trávníků (dotace 2/2) a.Stroje pro přípravu půdy a setíb.Žací stroje a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace ukázkové mechanizace pro technicky profilované předměty a praxi na zahradnické fakultě)c.Vertikutátory, aerifikátory9.Mechanizační prostředky pro sklizeň zelenin (dotace 4/4) a.Mechanizační prostředky pro sklizeň kořenové, cibulové, košťálové, listové, luskové a plodové zeleniny10.Mechanizační prostředky pro sklizeň ovoce (dotace 4/4) a.Mechanizační prostředky pro sklizeň jádrovinb.Mechanizační prostředky pro sklizeň peckovin11.Mechanizační prostředky pro sklizeň drobného ovoce a hroznů (dotace 2/2) a.Nářadí pro částečně mechanizovanou sklizeňb.Mechanizační prostředky pro plně mechanizovanou sklizeň12.Mechanizační prostředky využívané v krytých plochách (dotace 2/2) a.Manipulační a dopravní prostředky ve sklenících"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.Základní parametry mechanizačních prostředkůb.Způsoby pohonu funkčních částí mechanizačních prostředků"
+    },
+    {
+      "label": "[section] Úvod do předmětu",
+      "content": "a.Základní parametry mechanizačních prostředkůb.Způsoby pohonu funkčních částí mechanizačních prostředků"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.Hlavní konstrukční prvky traktorů a malotraktorůb.Jednonápravové malotraktory, dvounápravové malotraktory, traktory, speciální traktory a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace a rozšíření mechanizačního vybavení ústavu zahradnické techniky pro zkvalitnění výuky)"
+    },
+    {
+      "label": "[section] Energetické prostředky",
+      "content": "a.Hlavní konstrukční prvky traktorů a malotraktorůb.Jednonápravové malotraktory, dvounápravové malotraktory, traktory, speciální traktory a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace a rozšíření mechanizačního vybavení ústavu zahradnické techniky pro zkvalitnění výuky)"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Význam a způsoby zpracování půdy, půdní zhutněníb.Pluhy radličné, rotační, rýčovéc.Smyky brány, válce, kypřiče, kombinátory"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro zpracování půdy a předseťovou přípravu půdy",
+      "content": "a.Význam a způsoby zpracování půdy, půdní zhutněníb.Pluhy radličné, rotační, rýčovéc.Smyky brány, válce, kypřiče, kombinátory"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Rozmetadla organických hnojivb.Rozmetadla minerálních hnojiv"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro hnojení půdy",
+      "content": "a.Rozmetadla organických hnojivb.Rozmetadla minerálních hnojiv"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Výsevní ústrojí pro řádkový výsevb.Výsevní ústrojí pro přesná výsevc.Sázecí poloautomaty a automatyd.Stroje pro přesazování vzrostlých dřevin"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro setí a sázení",
+      "content": "a.Výsevní ústrojí pro řádkový výsevb.Výsevní ústrojí pro přesná výsevc.Sázecí poloautomaty a automatyd.Stroje pro přesazování vzrostlých dřevin"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Mechanizační prostředky pro plošnou kultivaci, meziřádkovou kultivaci (Obsahová náplň přednášky vychází z řešení projektu Hodnocení povrchového odtoku vody a infiltrace vody do půdy s uplatněním metody simulovaného zadešťování; IGA-ZF/2019–DP001)b.Mechanizační prostředky pro údržbu meziřadí a příkmenných pásů trvalých porostů"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro kultivaci porostů",
+      "content": "a.Mechanizační prostředky pro plošnou kultivaci, meziřádkovou kultivaci (Obsahová náplň přednášky vychází z řešení projektu Hodnocení povrchového odtoku vody a infiltrace vody do půdy s uplatněním metody simulovaného zadešťování; IGA-ZF/2019–DP001)b.Mechanizační prostředky pro údržbu meziřadí a příkmenných pásů trvalých porostů"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Metody ochrany rostlinb.Postřikovače, rosiče, aplikátory herbicidů"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro chemickou ochranu rostlin",
+      "content": "a.Metody ochrany rostlinb.Postřikovače, rosiče, aplikátory herbicidů"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Stroje pro přípravu půdy a setíb.Žací stroje a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace ukázkové mechanizace pro technicky profilované předměty a praxi na zahradnické fakultě)c.Vertikutátory, aerifikátory"
+    },
+    {
+      "label": "[section] Stroje pro zakládání a údržbu trávníků",
+      "content": "a.Stroje pro přípravu půdy a setíb.Žací stroje a praktické ukázky sortimentu mechanizace (Projekt IRP kategorie B - Modernizace ukázkové mechanizace pro technicky profilované předměty a praxi na zahradnické fakultě)c.Vertikutátory, aerifikátory"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Mechanizační prostředky pro sklizeň kořenové, cibulové, košťálové, listové, luskové a plodové zeleniny"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro sklizeň zelenin",
+      "content": "a.Mechanizační prostředky pro sklizeň kořenové, cibulové, košťálové, listové, luskové a plodové zeleniny"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Mechanizační prostředky pro sklizeň jádrovinb.Mechanizační prostředky pro sklizeň peckovin"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro sklizeň ovoce",
+      "content": "a.Mechanizační prostředky pro sklizeň jádrovinb.Mechanizační prostředky pro sklizeň peckovin"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Nářadí pro částečně mechanizovanou sklizeňb.Mechanizační prostředky pro plně mechanizovanou sklizeň"
+    },
+    {
+      "label": "[section] Mechanizační prostředky pro sklizeň drobného ovoce a hroznů",
+      "content": "a.Nářadí pro částečně mechanizovanou sklizeňb.Mechanizační prostředky pro plně mechanizovanou sklizeň"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Manipulační a dopravní prostředky ve sklenících"
+    },
+    {
+      "label": "[section] Mechanizační prostředky  využívané v krytých plochách",
+      "content": "a.Manipulační a dopravní prostředky ve sklenících"
+    },
+    {
+      "label": "[section] Studijní aktivity a metody výuky:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hpříprava na zkoušku45 hpříprava na průběžné hodnocení10 hpříprava na průběžný test18 hpříprava prezentace5 hzpracování seminární práce6 hCelkem140 h"
+    },
+    {
+      "label": "[section] Požadavky na ukončení:",
+      "content": "100% účast na cvičeních. Odevzdání seminární práce v průběhu semestru předmět je ukončen zápočtovým testem (max. počet bodů 20, pro udělení zápočtu je potřebné 16 bodů) Závěrečná zkouška (délka 1 hodina, písemná část -- 60 % celkové známky, ústní část 40 % celkové známky)"
+    },
+    {
+      "label": "[section] Rozložení požadavků na ukončení:",
+      "content": "DruhPrezenční studiumCelkem0 %"
+    },
+    {
+      "label": "[section] Studijní literatura a zdroje:",
+      "content": "Základní:ZEMÁNEK, Pavel; VEVERKA, Vladimír. 2001. Speciální mechanizace: malá mechanizace v zahradnictví. 1. vyd. Brno: MZLU, 99 s. ISBN 80-7157-511-9.KUMHÁLA, František. 2007. Zemědělská technika : stroje a technologie pro rostlinnou výrobu . Praha: Česká zemědělská univerzita, 426 s. ISBN 978-80-213-1701-7.ZEMÁNEK, Pavel; BURG, Patrik. 2007. Vinohradnická mechanizace - stroje pro chemickou ochranu rostlin. VÚZT Praha: MZLU v Brně, 80 s. ISBN 978-80-7375-123-4.BAUER, František; SEDLÁK, Pavel; ŠMERDA, Tomáš. 2006. Traktory. 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita ;, 192 s. ISBN 80-86726-15-0.ŽUFÁNEK, Josef; ZEMÁNEK, Pavel. 1992. Mechanizace (sklizňové stroje pro zeleninu, ovoce a hrozny). Brno: VŠZ, 115 s. ISBN 80-7157-012-5.ZEMÁNEK, Pavel; BURG, Patrik. 2005. Speciální mechanizace: mechanizační prostředky pro zakládání a údržbu okrasných porostů. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 169 s. ISBN 80-7157-919-X.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Zahradnická mechanizace - malá mechanizace v zahradnictví. http://is.mendelu.cz (veřejná knihovna e-objektů)."
+    },
+    {
+      "label": "[section] Základní:",
+      "content": "ZEMÁNEK, Pavel; VEVERKA, Vladimír. 2001. Speciální mechanizace: malá mechanizace v zahradnictví. 1. vyd. Brno: MZLU, 99 s. ISBN 80-7157-511-9.KUMHÁLA, František. 2007. Zemědělská technika : stroje a technologie pro rostlinnou výrobu . Praha: Česká zemědělská univerzita, 426 s. ISBN 978-80-213-1701-7.ZEMÁNEK, Pavel; BURG, Patrik. 2007. Vinohradnická mechanizace - stroje pro chemickou ochranu rostlin. VÚZT Praha: MZLU v Brně, 80 s. ISBN 978-80-7375-123-4.BAUER, František; SEDLÁK, Pavel; ŠMERDA, Tomáš. 2006. Traktory. 1. vyd. V Brně: Mendelova zemědělská a lesnická univerzita ;, 192 s. ISBN 80-86726-15-0.ŽUFÁNEK, Josef; ZEMÁNEK, Pavel. 1992. Mechanizace (sklizňové stroje pro zeleninu, ovoce a hrozny). Brno: VŠZ, 115 s. ISBN 80-7157-012-5.ZEMÁNEK, Pavel; BURG, Patrik. 2005. Speciální mechanizace: mechanizační prostředky pro zakládání a údržbu okrasných porostů. 1. vyd. Brno: Mendelova zemědělská a lesnická univerzita, 169 s. ISBN 80-7157-919-X.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Zahradnická mechanizace - malá mechanizace v zahradnictví. http://is.mendelu.cz (veřejná knihovna e-objektů)."
+    },
+    {
+      "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
+      "content": "Obor B-ZI-Z Zahradnictví, prezenční forma, počáteční období ZS 2018/2019"
+    },
+    {
+      "label": "[section] Vyučován v předchozích obdobích:",
+      "content": "Místo výuky: Lednice"
+    }
+  ],
+  "en": [
+    {
+      "label": "Course code:",
+      "content": "ZMB"
+    },
+    {
+      "label": "Course title in Czech:",
+      "content": "Zahradnická mechanizace (bc.)"
+    },
+    {
+      "label": "Course title in English:",
+      "content": "Horticultural Machinery (b.)"
+    },
+    {
+      "label": "Semester:",
+      "content": "SS 2020/2021"
+    },
+    {
+      "label": "Mode of completion and number of credits:",
+      "content": "Exam (5 credits)"
+    },
+    {
+      "label": "Mode of delivery and timetabled classes:",
+      "content": "full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "Level of course:",
+      "content": "bachelor"
+    },
+    {
+      "label": "Course type:",
+      "content": "required"
+    },
+    {
+      "label": "Type of delivery:",
+      "content": "usual, consulting"
+    },
+    {
+      "label": "Mode of delivery for our mobility students abroad:",
+      "content": "-- item not defined --"
+    },
+    {
+      "label": "Language of instruction:",
+      "content": "Czech"
+    },
+    {
+      "label": "Course supervisor:",
+      "content": "prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "Course supervising department:",
+      "content": "Department of Horticultural Machinery (FH)"
+    },
+    {
+      "label": "Faculty:",
+      "content": "Faculty of Horticulture"
+    },
+    {
+      "label": "Teachers:",
+      "content": "prof. Ing. Patrik Burg, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Alice Čížková, Ph.D. (instructor)Ing. Vladimír Mašán, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "Prerequisites:",
+      "content": "not Bachelor State Exam"
+    },
+    {
+      "label": "1.",
+      "content": "Introduction to the course (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The basic parameters of mechanization"
+    },
+    {
+      "label": "b.",
+      "content": "Method of propulsion machinery, functional parts"
+    },
+    {
+      "label": "2.",
+      "content": "Energy sources (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "The main structural elements of tractors and tractors"
+    },
+    {
+      "label": "b.",
+      "content": "One-axle small tractors, small tractors, special tractors"
+    },
+    {
+      "label": "3.",
+      "content": "Mechanization of soil treatment and pre-sowing soil preparation (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Importance and methods of soil tillage, soil compaction"
+    },
+    {
+      "label": "b.",
+      "content": "Mouldboard plows, rotary, spade plows"
+    },
+    {
+      "label": "c.",
+      "content": "Skids, rollers, cultivators, combinators"
+    },
+    {
+      "label": "4.",
+      "content": "Mechanization of fertilization (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Organic fertilizer spreaders"
+    },
+    {
+      "label": "b.",
+      "content": "Mineral fertilizers spreaders"
+    },
+    {
+      "label": "5.",
+      "content": "Mechanization of sowing and planting (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Sowing apparatus"
+    },
+    {
+      "label": "b.",
+      "content": "Sowing system for precision sowing"
+    },
+    {
+      "label": "c.",
+      "content": "Planters semiautomatic and automatic"
+    },
+    {
+      "label": "d.",
+      "content": "Machine tools for transplanting mature trees"
+    },
+    {
+      "label": "6.",
+      "content": "Mechanization of cultivation of crops (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanization for surface cultivation"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanization alleyway of permanent crops"
+    },
+    {
+      "label": "7.",
+      "content": "Mechanization of chemical plant protection (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Methods of chemical plant protection"
+    },
+    {
+      "label": "b.",
+      "content": "Spraying, herbicide applicators"
+    },
+    {
+      "label": "8.",
+      "content": "Machines for the establishing and maintenance of lawns (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Machinery for soil preparation and sowing"
+    },
+    {
+      "label": "b.",
+      "content": "Mowers"
+    },
+    {
+      "label": "9.",
+      "content": "Mechanization for harvesting vegetables (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanization for harvest the root, onion, brassicaceae, leafy and fruiting vegetables"
+    },
+    {
+      "label": "10.",
+      "content": "Mechanization for harvesting fruit (allowance 4/4)"
+    },
+    {
+      "label": "a.",
+      "content": "Mechanization for pome fruit harvest"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanization harvesting stone fruit"
+    },
+    {
+      "label": "11.",
+      "content": "Mechanization for harvesting small fruits and grapes (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Tools for semi-mechanized harvesting"
+    },
+    {
+      "label": "b.",
+      "content": "Mechanization of fully mechanized harvesting"
+    },
+    {
+      "label": "12.",
+      "content": "Mechanization used in closed areas (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Handling and transport equipment in greenhouses"
+    },
+    {
+      "label": "Total",
+      "content": "0 %"
+    },
+    {
+      "label": "Course listed in previous semesters:",
+      "content": "SS 2019/2020, SS 2018/2019, SS 2017/2018, SS 2016/2017, SS 2015/2016, SS 2014/2015 (and older)"
+    },
+    {
+      "label": "Teaching place:",
+      "content": "Lednice"
+    },
+    {
+      "label": "[section] Course code:",
+      "content": "Course title in Czech: Zahradnická mechanizace (bc.)"
+    },
+    {
+      "label": "[section] Course title in Czech:",
+      "content": "Course title in English: Horticultural Machinery (b.)"
+    },
+    {
+      "label": "[section] Course title in English:",
+      "content": "Semester: SS 2020/2021"
+    },
+    {
+      "label": "[section] Semester:",
+      "content": "Mode of completion and number of credits: Exam (5 credits)"
+    },
+    {
+      "label": "[section] Mode of completion and number of credits:",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Exam (5 credits)",
+      "content": "Mode of delivery and timetabled classes: full-time, 2/2 (hours of lectures per week / hours of seminars per week)"
+    },
+    {
+      "label": "[section] Mode of delivery and timetabled classes:",
+      "content": "Level of course: bachelor"
+    },
+    {
+      "label": "[section] Level of course:",
+      "content": "Course type: required"
+    },
+    {
+      "label": "[section] Course type:",
+      "content": "Type of delivery: usual, consulting"
+    },
+    {
+      "label": "[section] Type of delivery:",
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
+    },
+    {
+      "label": "[section] Mode of delivery for our mobility students abroad:",
+      "content": "Language of instruction: Czech"
+    },
+    {
+      "label": "[section] Language of instruction:",
+      "content": "Course supervisor: prof. Ing. Patrik Burg, Ph.D."
+    },
+    {
+      "label": "[section] Course supervisor:",
+      "content": "Course supervising department: Department of Horticultural Machinery (FH)"
+    },
+    {
+      "label": "[section] Course supervising department:",
+      "content": "Faculty: Faculty of Horticulture"
+    },
+    {
+      "label": "[section] Faculty:",
+      "content": "Teachers: prof. Ing. Patrik Burg, Ph.D. (examiner, instructor, lecturer, supervisor)Ing. Alice Čížková, Ph.D. (instructor)Ing. Vladimír Mašán, Ph.D. (instructor, lecturer)"
+    },
+    {
+      "label": "[section] Teachers:",
+      "content": "Prerequisites: not Bachelor State Exam"
+    },
+    {
+      "label": "[section] Timetable in this semester:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityTuesday8.00-9.50ZFAC1 (Led)P. BurgLectureEvery week56Wednesday8.00-9.50ZFAC1 (Led)V. MašánSeminarEvery week22"
+    },
+    {
+      "label": "[section] Aim of the course and learning outcomes:",
+      "content": "The aim is to teach students to know the principles of working equipment and machinery used for the production operations in horticulture. Teaching is conducted so that the listener was able to agro-technical requirements based on an appropriate means of mechanization for the specific operation and be able to ensure the effective use of."
+    },
+    {
+      "label": "[section] Course content:",
+      "content": "1.Introduction to the course (allowance 2/2) a.The basic parameters of mechanizationb.Method of propulsion machinery, functional parts2.Energy sources (allowance 2/2) a.The main structural elements of tractors and tractorsb.One-axle small tractors, small tractors, special tractors3.Mechanization of soil treatment and pre-sowing soil preparation (allowance 2/2) a.Importance and methods of soil tillage, soil compactionb.Mouldboard plows, rotary, spade plowsc.Skids, rollers, cultivators, combinators4.Mechanization of fertilization (allowance 2/2) a.Organic fertilizer spreadersb.Mineral fertilizers spreaders5.Mechanization of sowing and planting (allowance 2/2) a.Sowing apparatusb.Sowing system for precision sowingc.Planters semiautomatic and automaticd.Machine tools for transplanting mature trees6.Mechanization of cultivation of crops (allowance 2/2) a.Mechanization for surface cultivationb.Mechanization alleyway of permanent crops7.Mechanization of chemical plant protection (allowance 2/2) a.Methods of chemical plant protectionb.Spraying, herbicide applicators8.Machines for the establishing and maintenance of lawns (allowance 2/2) a.Machinery for soil preparation and sowingb.Mowers9.Mechanization for harvesting vegetables (allowance 4/4) a.Mechanization for harvest the root, onion, brassicaceae, leafy and fruiting vegetables10.Mechanization for harvesting fruit (allowance 4/4) a.Mechanization for pome fruit harvestb.Mechanization harvesting stone fruit11.Mechanization for harvesting small fruits and grapes (allowance 2/2) a.Tools for semi-mechanized harvestingb.Mechanization of fully mechanized harvesting12.Mechanization used in closed areas (allowance 2/2) a.Handling and transport equipment in greenhouses"
+    },
+    {
+      "label": "[section] 1.",
+      "content": "a.The basic parameters of mechanizationb.Method of propulsion machinery, functional parts"
+    },
+    {
+      "label": "[section] Introduction to the course",
+      "content": "a.The basic parameters of mechanizationb.Method of propulsion machinery, functional parts"
+    },
+    {
+      "label": "[section] 2.",
+      "content": "a.The main structural elements of tractors and tractorsb.One-axle small tractors, small tractors, special tractors"
+    },
+    {
+      "label": "[section] Energy sources",
+      "content": "a.The main structural elements of tractors and tractorsb.One-axle small tractors, small tractors, special tractors"
+    },
+    {
+      "label": "[section] 3.",
+      "content": "a.Importance and methods of soil tillage, soil compactionb.Mouldboard plows, rotary, spade plowsc.Skids, rollers, cultivators, combinators"
+    },
+    {
+      "label": "[section] Mechanization of soil treatment and pre-sowing soil preparation",
+      "content": "a.Importance and methods of soil tillage, soil compactionb.Mouldboard plows, rotary, spade plowsc.Skids, rollers, cultivators, combinators"
+    },
+    {
+      "label": "[section] 4.",
+      "content": "a.Organic fertilizer spreadersb.Mineral fertilizers spreaders"
+    },
+    {
+      "label": "[section] Mechanization of fertilization",
+      "content": "a.Organic fertilizer spreadersb.Mineral fertilizers spreaders"
+    },
+    {
+      "label": "[section] 5.",
+      "content": "a.Sowing apparatusb.Sowing system for precision sowingc.Planters semiautomatic and automaticd.Machine tools for transplanting mature trees"
+    },
+    {
+      "label": "[section] Mechanization of sowing and planting",
+      "content": "a.Sowing apparatusb.Sowing system for precision sowingc.Planters semiautomatic and automaticd.Machine tools for transplanting mature trees"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "a.Mechanization for surface cultivationb.Mechanization alleyway of permanent crops"
+    },
+    {
+      "label": "[section] Mechanization of cultivation of crops",
+      "content": "a.Mechanization for surface cultivationb.Mechanization alleyway of permanent crops"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Methods of chemical plant protectionb.Spraying, herbicide applicators"
+    },
+    {
+      "label": "[section] Mechanization of chemical plant protection",
+      "content": "a.Methods of chemical plant protectionb.Spraying, herbicide applicators"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Machinery for soil preparation and sowingb.Mowers"
+    },
+    {
+      "label": "[section] Machines for the establishing and maintenance of lawns",
+      "content": "a.Machinery for soil preparation and sowingb.Mowers"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Mechanization for harvest the root, onion, brassicaceae, leafy and fruiting vegetables"
+    },
+    {
+      "label": "[section] Mechanization for harvesting vegetables",
+      "content": "a.Mechanization for harvest the root, onion, brassicaceae, leafy and fruiting vegetables"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "a.Mechanization for pome fruit harvestb.Mechanization harvesting stone fruit"
+    },
+    {
+      "label": "[section] Mechanization for harvesting fruit",
+      "content": "a.Mechanization for pome fruit harvestb.Mechanization harvesting stone fruit"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "a.Tools for semi-mechanized harvestingb.Mechanization of fully mechanized harvesting"
+    },
+    {
+      "label": "[section] Mechanization for harvesting small fruits and grapes",
+      "content": "a.Tools for semi-mechanized harvestingb.Mechanization of fully mechanized harvesting"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "a.Handling and transport equipment in greenhouses"
+    },
+    {
+      "label": "[section] Mechanization used in closed areas",
+      "content": "a.Handling and transport equipment in greenhouses"
+    },
+    {
+      "label": "[section] Learning activities and teaching methods:",
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hpreparation for exam45 hpreparation for regular assessment10 hpreparation for regular testing18 hpreparation of presentation5 hwriting of seminar paper6 hTotal140 h"
+    },
+    {
+      "label": "[section] Assessment methods:",
+      "content": "100% presence on lessons. Submission of a seminar work during the semester The course is finished with credit test (maximum points for test 20, for credit is necessary to have min. 16 points). Final examination (1 hour, written part -- 60 % of the total mark, oral part 40 % of the total mark)"
+    },
+    {
+      "label": "[section] Assessment criteria ratio:",
+      "content": "Requirement typeDaily attendanceTotal0 %"
+    },
+    {
+      "label": "[section] Recomended reading and other learning resources:",
+      "content": "Basic:ZEMÁNEK, Pavel; VEVERKA, Vladimír. 2001. Speciální mechanizace: malá mechanizace v zahradnictví. 1st ed. Brno: MZLU, 99 p. ISBN 80-7157-511-9.KUMHÁLA, František. 2007. Zemědělská technika : stroje a technologie pro rostlinnou výrobu . Praha: Česká zemědělská univerzita, 426 p. ISBN 978-80-213-1701-7.ZEMÁNEK, Pavel; BURG, Patrik. 2007. Vinohradnická mechanizace - stroje pro chemickou ochranu rostlin. VÚZT Praha: MZLU v Brně, 80 p. ISBN 978-80-7375-123-4.BAUER, František; SEDLÁK, Pavel; ŠMERDA, Tomáš. 2006. Traktory. 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita ;, 192 p. ISBN 80-86726-15-0.ŽUFÁNEK, Josef; ZEMÁNEK, Pavel. 1992. Mechanizace (sklizňové stroje pro zeleninu, ovoce a hrozny). Brno: VŠZ, 115 p. ISBN 80-7157-012-5.ZEMÁNEK, Pavel; BURG, Patrik. 2005. Speciální mechanizace: mechanizační prostředky pro zakládání a údržbu okrasných porostů. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 169 p. ISBN 80-7157-919-X.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Zahradnická mechanizace - malá mechanizace v zahradnictví. http://is.mendelu.cz (veřejná knihovna e-objektů)."
+    },
+    {
+      "label": "[section] Basic:",
+      "content": "ZEMÁNEK, Pavel; VEVERKA, Vladimír. 2001. Speciální mechanizace: malá mechanizace v zahradnictví. 1st ed. Brno: MZLU, 99 p. ISBN 80-7157-511-9.KUMHÁLA, František. 2007. Zemědělská technika : stroje a technologie pro rostlinnou výrobu . Praha: Česká zemědělská univerzita, 426 p. ISBN 978-80-213-1701-7.ZEMÁNEK, Pavel; BURG, Patrik. 2007. Vinohradnická mechanizace - stroje pro chemickou ochranu rostlin. VÚZT Praha: MZLU v Brně, 80 p. ISBN 978-80-7375-123-4.BAUER, František; SEDLÁK, Pavel; ŠMERDA, Tomáš. 2006. Traktory. 1st ed. V Brně: Mendelova zemědělská a lesnická univerzita ;, 192 p. ISBN 80-86726-15-0.ŽUFÁNEK, Josef; ZEMÁNEK, Pavel. 1992. Mechanizace (sklizňové stroje pro zeleninu, ovoce a hrozny). Brno: VŠZ, 115 p. ISBN 80-7157-012-5.ZEMÁNEK, Pavel; BURG, Patrik. 2005. Speciální mechanizace: mechanizační prostředky pro zakládání a údržbu okrasných porostů. 1st ed. Brno: Mendelova zemědělská a lesnická univerzita, 169 p. ISBN 80-7157-919-X.ZEMÁNEK, Pavel; BURG, Patrik; MICHÁLEK, Milan. 2012. Zahradnická mechanizace - malá mechanizace v zahradnictví. http://is.mendelu.cz (veřejná knihovna e-objektů)."
+    },
+    {
+      "label": "[section] Course listed in study plans for this semester:",
+      "content": "Field of study B-HE-H Horticulture, full-time form, initial period WS 2018/2019"
+    },
+    {
+      "label": "[section] Course listed in previous semesters:",
+      "content": "Teaching place: Lednice"
+    }
+  ],
+  "scrapedAt": "2026-09-22 10:15:05",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
+}

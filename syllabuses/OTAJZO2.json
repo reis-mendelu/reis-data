@@ -15,11 +15,11 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
-      "content": "zápočet (2 kredity)"
+      "content": "zápočet (3 kredity)"
     },
     {
       "label": "Forma výuky a dotace hodin:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Ne"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D."
+      "content": "Ing. Zdeněk Hadaš, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D. (cvičící, garant, zkoušející)Ing. Zdeněk Hadaš, Ph.D. (cvičící)Dr. Francois Stefanus Lategan (cvičící)"
+      "content": "Ing. Zdeněk Hadaš, Ph.D. (cvičící, garant, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -99,7 +99,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2024/2025, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -115,18 +115,18 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
-      "content": "Způsob ukončení a počet kreditů: zápočet (2 kredity)"
+      "content": "Způsob ukončení a počet kreditů: zápočet (3 kredity)"
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
       "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
-      "label": "[section] zápočet (2 kredity)",
+      "label": "[section] zápočet (3 kredity)",
       "content": "Forma výuky a dotace hodin: prezenční, 0/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Ne"
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -151,7 +151,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D."
+      "content": "Garant předmětu: Ing. Zdeněk Hadaš, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -163,7 +163,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D. (cvičící, garant, zkoušející)Ing. Zdeněk Hadaš, Ph.D. (cvičící)Dr. Francois Stefanus Lategan (cvičící)"
+      "content": "Vyučující: Ing. Zdeněk Hadaš, Ph.D. (cvičící, garant, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -171,7 +171,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostSkupinaVyučujícíAkceČetnostKapacitaPondělí14.00-15.50A43D. Čtvrtlíková Knitlová, F. S. LateganCvičeníKaždý týden37Pondělí14.00-15.50A41699D. Čtvrtlíková Knitlová, F. S. LateganCvičeníKaždý týden20"
+      "content": "DenOd-doMístnostVyučujícíAkceČetnostKapacitaStředa13.00-14.50A49Z. HadašCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -231,7 +231,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumcvičení28 hkonzultace3 hpříprava na zkoušku18 hpříprava na průběžné hodnocení10 hpříprava na průběžný test15 hpříprava prezentace10 hCelkem84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> DruhPrezenční studiumcvičení28 hkonzultace3 hpříprava na zkoušku18 hpříprava na průběžné hodnocení10 hpříprava na průběžný test15 hpříprava prezentace10 hCelkem84 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -251,7 +251,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace SNZOO Zootechnika, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Specializace SNZOO Zootechnika, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -273,11 +273,11 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
-      "content": "Pass credit (2 credits)"
+      "content": "Pass credit (3 credits)"
     },
     {
       "label": "Mode of delivery and timetabled classes:",
@@ -297,7 +297,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "No"
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -305,7 +305,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D."
+      "content": "Ing. Zdeněk Hadaš, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -317,7 +317,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D. (examiner, instructor, supervisor)Ing. Zdeněk Hadaš, Ph.D. (instructor)Dr. Francois Stefanus Lategan (instructor)"
+      "content": "Ing. Zdeněk Hadaš, Ph.D. (examiner, instructor, supervisor)"
     },
     {
       "label": "Prerequisites:",
@@ -357,7 +357,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2024/2025, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -373,18 +373,18 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
-      "content": "Mode of completion and number of credits: Pass credit (2 credits)"
+      "content": "Mode of completion and number of credits: Pass credit (3 credits)"
     },
     {
       "label": "[section] Mode of completion and number of credits:",
       "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
-      "label": "[section] Pass credit (2 credits)",
+      "label": "[section] Pass credit (3 credits)",
       "content": "Mode of delivery and timetabled classes: full-time, 0/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: No"
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -409,7 +409,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D."
+      "content": "Course supervisor: Ing. Zdeněk Hadaš, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -421,7 +421,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: MVDr. Drahomíra Čtvrtlíková Knitlová, Ph.D. (examiner, instructor, supervisor)Ing. Zdeněk Hadaš, Ph.D. (instructor)Dr. Francois Stefanus Lategan (instructor)"
+      "content": "Teachers: Ing. Zdeněk Hadaš, Ph.D. (examiner, instructor, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -429,7 +429,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomGroupTeacherEntryFrequencyCapacityMonday14.00-15.50A41699D. Čtvrtlíková Knitlová, F. S. LateganSeminarEvery week20Monday14.00-15.50A43D. Čtvrtlíková Knitlová, F. S. LateganSeminarEvery week37"
+      "content": "DayFrom-tillRoomTeacherEntryFrequencyCapacityWednesday13.00-14.50A49Z. HadašSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -489,7 +489,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancepractice28 hconsultation3 hpreparation for exam18 hpreparation for regular assessment10 hpreparation for regular testing15 hpreparation of presentation10 hTotal84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Type of teaching methodDaily attendancepractice28 hconsultation3 hpreparation for exam18 hpreparation for regular assessment10 hpreparation for regular testing15 hpreparation of presentation10 hTotal84 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -509,13 +509,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track SNZOO Animal Breeding, full-time form, initial period WS 2025/2026"
+      "content": "Track SNZOO Animal Breeding, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 08:41:34",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:48:49",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

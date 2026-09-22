@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2022/2023"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "prof. Mgr. David Hampel, Ph.D. (cvičící, garant, přednášející, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, přednášející)"
+      "content": "prof. Mgr. David Hampel, Ph.D. (cvičící, garant, přednášející, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -166,8 +166,12 @@
       "content": "Aplikace Markovských řetězců v analýze rizika"
     },
     {
-      "label": "Absolvování závěrečného testu",
-      "content": "100 %"
+      "label": "Vypracování semestrální práce",
+      "content": "40 %"
+    },
+    {
+      "label": "Absolvování závěrečné ústní zkoušky",
+      "content": "60 %"
     },
     {
       "label": "Celkem",
@@ -175,7 +179,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -191,7 +195,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2022/2023"
     },
     {
       "label": "[section] Semestr:",
@@ -239,7 +243,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: prof. Mgr. David Hampel, Ph.D. (cvičící, garant, přednášející, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, přednášející)"
+      "content": "Vyučující: prof. Mgr. David Hampel, Ph.D. (cvičící, garant, přednášející, zkoušející)RNDr. Lenka Viskotová, Ph.D. (cvičící, přednášející, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -247,7 +251,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q37L. Viskotová, D. HampelPřednáškaKaždý týden20Úterý9.00-10.50Q36L. Viskotová, D. HampelCvičeníKaždý týden20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaČtvrtek9.00-10.50Q37D. Hampel, L. ViskotováPřednáškaKaždý týden20Čtvrtek11.00-12.50Q37D. Hampel, L. ViskotováCvičeníKaždý týden20"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -299,15 +303,15 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace4 hpříprava na zkoušku80 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška28 hcvičení28 hkonzultace4 hpříprava na zkoušku20 hzpracování seminární práce60 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Vypracování písemné zkouškové práce, hodnocení je dáno následovně: [90; 100] bodů - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E [0; 60) bodů - F Studenti jsou povinni disponovat webkamerou, mikrofonem a dalším hardwarem s nainstalovaným funkčním výpočetním systémem MATLAB (https://www.mathworks.com/academia/tah-portal/mendelu-31494269.html) a internetovým připojením dostatečným pro videokonference. Tato výbava nebude kontrolována, nicméně její nedostatečnost nebude omluvou při případném přechodu na online výuku a zkoušení."
+      "content": "Celkové hodnocení studenta se odvíjí od počtu bodů získaných během celého semestru, a to následujícím způsobem: 1) Projekt z oblasti simulace (max. 20 bodů, minimální bodový zisk není požadován), projekt z oblasti klasifikace (max. 20 bodů, minimální bodový zisk není požadován). 2) Ústní zkouška (max. 60 bodů, minimální bodový zisk není stanoven). Hodnocení předmětu je dáno následovně: [90; 100] bodů - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E [0; 60) bodů - F Studenti jsou povinni disponovat webkamerou, mikrofonem a dalším hardwarem s nainstalovaným funkčním výpočetním systémem MATLAB (https://www.mathworks.com/academia/tah-portal/mendelu-31494269.html) a internetovým připojením dostatečným pro videokonference. Tato výbava nebude kontrolována, nicméně její nedostatečnost nebude omluvou při případném přechodu na online výuku a zkoušení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAbsolvování závěrečného testu100 %Celkem100 %"
+      "content": "DruhPrezenční studiumVypracování semestrální práce40 %Absolvování závěrečné ústní zkoušky60 %Celkem100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -323,7 +327,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období ZS 2023/2024"
+      "content": "Specializace EBEFA Ekonomická a finanční analýza, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -345,7 +349,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2022/2023"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -389,7 +393,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "prof. Mgr. David Hampel, Ph.D. (examiner, instructor, lecturer, supervisor)RNDr. Lenka Viskotová, Ph.D. (instructor, lecturer)"
+      "content": "prof. Mgr. David Hampel, Ph.D. (examiner, instructor, lecturer, supervisor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -496,8 +500,12 @@
       "content": "Application of Markov chains in risk analysis"
     },
     {
-      "label": "Final test",
-      "content": "100 %"
+      "label": "Term paper",
+      "content": "40 %"
+    },
+    {
+      "label": "Final oral exam",
+      "content": "60 %"
     },
     {
       "label": "Total",
@@ -505,7 +513,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, WS 2024/2025, WS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -521,7 +529,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2022/2023"
     },
     {
       "label": "[section] Semester:",
@@ -569,7 +577,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: prof. Mgr. David Hampel, Ph.D. (examiner, instructor, lecturer, supervisor)RNDr. Lenka Viskotová, Ph.D. (instructor, lecturer)"
+      "content": "Teachers: prof. Mgr. David Hampel, Ph.D. (examiner, instructor, lecturer, supervisor)RNDr. Lenka Viskotová, Ph.D. (examiner, instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -577,7 +585,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday11.00-12.50Q37L. Viskotová, D. HampelLectureEvery week20Tuesday9.00-10.50Q36L. Viskotová, D. HampelSeminarEvery week20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityThursday9.00-10.50Q37D. Hampel, L. ViskotováLectureEvery week20Thursday11.00-12.50Q37D. Hampel, L. ViskotováSeminarEvery week20"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -629,15 +637,15 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation4 hpreparation for exam80 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture28 hpractice28 hconsultation4 hpreparation for exam20 hwriting of seminar paper60 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Elaboration of the written examination work, the evaluation is given as follows: [90; 100] points - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E [0; 60) points - F Students are required to obtain a webcam, microphone, hardware with the installed working computational system MATLAB (https://www.mathworks.com/academia/tah-portal/mendelu-31494269.html) and web connection suitable for video conferencing. Absence or inadequacy of these will not be an excuse during a possible transition to online teaching and testing."
+      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Project from the area of simulation (max. 20 points, minimum score is not specified), project from the area of classification (max. 20 points, minimum score is not specified). 2) Oral exam (max. 60 points, minimum score is not specified). The assessment of the course is given as follows: [90; 100] points - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E [0; 60) points - F Students are required to obtain a webcam, microphone, hardware with the installed working computational system MATLAB (https://www.mathworks.com/academia/tah-portal/mendelu-31494269.html) and web connection suitable for video conferencing. Absence or inadequacy of these will not be an excuse during a possible transition to online teaching and testing."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceFinal test100 %Total100 %"
+      "content": "Requirement typeDaily attendanceTerm paper40 %Final oral exam60 %Total100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -653,13 +661,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Track EBEFA Economic and Financial Analysis, full-time form, initial period WS 2023/2024"
+      "content": "Track EBEFA Economic and Financial Analysis, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:40:56",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:54:24",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

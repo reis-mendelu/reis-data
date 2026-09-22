@@ -3,7 +3,7 @@
   "name": "Odborná praxe",
   "nameCs": "Odborná praxe",
   "nameEn": "Practical Training",
-  "predmetId": "160370",
+  "predmetId": "162580",
   "facultyId": 2,
   "aliases": [
     "EBC-P15",
@@ -14,6 +14,55 @@
     "Ing. Jaroslav Pakosta, LL.M."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "credit",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162580;lang=cz",
+      "totalPass": 108,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 108,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 108,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 108,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 108,
+            "nezap": 0,
+            "zapNedost": 0
+          }
+        }
+      ]
+    },
     {
       "semesterName": "ZS 2025/2026 - PEF",
       "semesterId": "801",
@@ -118,7 +167,7 @@
       "year": 2024,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=154435;lang=cz",
-      "totalPass": 91,
+      "totalPass": 92,
       "totalFail": 0,
       "terms": [
         {
@@ -132,10 +181,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 91,
+          "pass": 92,
           "fail": 0,
           "creditGrades": {
-            "zap": 91,
+            "zap": 92,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -535,5 +584,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

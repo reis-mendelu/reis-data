@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět je možné studovat během zahraničního výjezdu."
+      "content": "Předmět není možné studovat během zahraničního výjezdu."
     },
     {
       "label": "Jazyk výuky:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "doc. Ing. František Dařena, Ph.D. (cvičící, garant, zkoušející)Ing. Ludmila Kunderová (cvičící, zkoušející)"
+      "content": "doc. Ing. František Dařena, Ph.D. (cvičící, garant, zkoušející)Ing. Peter Chochula (cvičící, zkoušející)Ing. Ludmila Kunderová (cvičící, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "ne Odborná terminologie IS/ICT nebo ne Odborná terminologie IS/ICT v AJ"
     },
     {
       "label": "1.",
@@ -71,27 +71,59 @@
     },
     {
       "label": "2.",
-      "content": "Informační systémy (dotace 0/4)"
+      "content": "Technické prostředky počítačů (dotace 0/2)"
     },
     {
       "label": "3.",
-      "content": "Databázové systémy (dotace 0/4)"
+      "content": "Operační systémy (dotace 0/2)"
     },
     {
       "label": "4.",
-      "content": "Algoritmizace a programování (dotace 0/4)"
+      "content": "1. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
     },
     {
       "label": "5.",
-      "content": "Umělá inteligence (dotace 0/4)"
+      "content": "Počítačové sítě a bezpečnost (dotace 0/2)"
     },
     {
       "label": "6.",
-      "content": "Počítačové sítě a bezpečnost (dotace 0/8)"
+      "content": "Teoretické základy informatiky (dotace 0/2)"
+    },
+    {
+      "label": "7.",
+      "content": "2. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Algoritmizace (dotace 0/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Databázové systémy (dotace 0/2)"
+    },
+    {
+      "label": "10.",
+      "content": "3. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Informační systémy (dotace 0/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Umělá inteligence (dotace 0/2)"
+    },
+    {
+      "label": "13.",
+      "content": "4. průběžný test (dotace 0/2)"
+    },
+    {
+      "label": "14.",
+      "content": "Ústní zápočet (dotace 0/2)"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023 (a starší)"
+      "content": "ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025, ZS 2023/2024 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -107,7 +139,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -135,7 +167,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět je možné studovat během zahraničního výjezdu."
+      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během zahraničního výjezdu."
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -155,15 +187,15 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: doc. Ing. František Dařena, Ph.D. (cvičící, garant, zkoušející)Ing. Ludmila Kunderová (cvičící, zkoušející)"
+      "content": "Vyučující: doc. Ing. František Dařena, Ph.D. (cvičící, garant, zkoušející)Ing. Peter Chochula (cvičící, zkoušející)Ing. Ludmila Kunderová (cvičící, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne Státní bakalářská zkouška a Základy objektového návrhu"
+      "content": "Prerekvizity: ne Odborná terminologie IS/ICT nebo ne Odborná terminologie IS/ICT v AJ"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPondělí11.00-12.50Q15B-AIIB-OIF. Dařena, L. KunderováCvičeníKaždý týden35Pondělí13.00-14.50Q15B-AIIB-OIF. Dařena, L. KunderováCvičeníKaždý týden35Úterý11.00-12.50Q15B-AIIB-OIF. Dařena, L. KunderováCvičeníKaždý týden35Sobota9.00-12.50Q16B-AIIF. Dařena, L. KunderováCvičeníNepravidelně20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPoznámkaÚterý15.00-16.50Q38B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováCvičeníKaždý týden24 Úterý15.00-16.50Q38B-AII F. Dařena, P. Chochula, L. KunderováCvičeníKaždý týden19 Úterý17.00-18.50Q38B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováCvičeníKaždý týden35 Čtvrtek7.00-8.50Q46B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováCvičeníKaždý týden0Cvičení se ruší, přehlaste se do jiné skupiny.Čtvrtek9.00-10.50Q46B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováCvičeníKaždý týden35 Čtvrtek12.00-12.50Q09B-AII2F. Dařena, P. Chochula, L. KunderováCvičeníNepravidelně20 Čtvrtek13.00-14.50Q25B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováCvičeníKaždý týden35"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -171,59 +203,123 @@
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Úvod do předmětu, seznámení se se studijními materiály (dotace 0/2)2.Informační systémy (dotace 0/4)3.Databázové systémy (dotace 0/4)4.Algoritmizace a programování (dotace 0/4)5.Umělá inteligence (dotace 0/4)6.Počítačové sítě a bezpečnost (dotace 0/8)"
+      "content": "1.Úvod do předmětu, seznámení se se studijními materiály (dotace 0/2)2.Technické prostředky počítačů (dotace 0/2)3.Operační systémy (dotace 0/2)4.1. průběžný test, seznámení se se studijními materiály (dotace 0/2)5.Počítačové sítě a bezpečnost (dotace 0/2)6.Teoretické základy informatiky (dotace 0/2)7.2. průběžný test, seznámení se se studijními materiály (dotace 0/2)8.Algoritmizace (dotace 0/2)9.Databázové systémy (dotace 0/2)10.3. průběžný test, seznámení se se studijními materiály (dotace 0/2)11.Informační systémy (dotace 0/2)12.Umělá inteligence (dotace 0/2)13.4. průběžný test (dotace 0/2)14.Ústní zápočet (dotace 0/2)"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Informační systémy (dotace 0/4)"
+      "content": "2.Technické prostředky počítačů (dotace 0/2)"
     },
     {
       "label": "[section] Úvod do předmětu, seznámení se se studijními materiály",
-      "content": "2.Informační systémy (dotace 0/4)"
+      "content": "2.Technické prostředky počítačů (dotace 0/2)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Databázové systémy (dotace 0/4)"
+      "content": "3.Operační systémy (dotace 0/2)"
     },
     {
-      "label": "[section] Informační systémy",
-      "content": "3.Databázové systémy (dotace 0/4)"
+      "label": "[section] Technické prostředky počítačů",
+      "content": "3.Operační systémy (dotace 0/2)"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Algoritmizace a programování (dotace 0/4)"
+      "content": "4.1. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
     },
     {
-      "label": "[section] Databázové systémy",
-      "content": "4.Algoritmizace a programování (dotace 0/4)"
+      "label": "[section] Operační systémy",
+      "content": "4.1. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Umělá inteligence (dotace 0/4)"
+      "content": "5.Počítačové sítě a bezpečnost (dotace 0/2)"
     },
     {
-      "label": "[section] Algoritmizace a programování",
-      "content": "5.Umělá inteligence (dotace 0/4)"
+      "label": "[section] 1. průběžný test, seznámení se se studijními materiály",
+      "content": "5.Počítačové sítě a bezpečnost (dotace 0/2)"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Počítačové sítě a bezpečnost (dotace 0/8)"
+      "content": "6.Teoretické základy informatiky (dotace 0/2)"
+    },
+    {
+      "label": "[section] Počítačové sítě a bezpečnost",
+      "content": "6.Teoretické základy informatiky (dotace 0/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.2. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
+    },
+    {
+      "label": "[section] Teoretické základy informatiky",
+      "content": "7.2. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Algoritmizace (dotace 0/2)"
+    },
+    {
+      "label": "[section] 2. průběžný test, seznámení se se studijními materiály",
+      "content": "8.Algoritmizace (dotace 0/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Databázové systémy (dotace 0/2)"
+    },
+    {
+      "label": "[section] Algoritmizace",
+      "content": "9.Databázové systémy (dotace 0/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.3. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
+    },
+    {
+      "label": "[section] Databázové systémy",
+      "content": "10.3. průběžný test, seznámení se se studijními materiály (dotace 0/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Informační systémy (dotace 0/2)"
+    },
+    {
+      "label": "[section] 3. průběžný test, seznámení se se studijními materiály",
+      "content": "11.Informační systémy (dotace 0/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Umělá inteligence (dotace 0/2)"
+    },
+    {
+      "label": "[section] Informační systémy",
+      "content": "12.Umělá inteligence (dotace 0/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.4. průběžný test (dotace 0/2)"
     },
     {
       "label": "[section] Umělá inteligence",
-      "content": "6.Počítačové sítě a bezpečnost (dotace 0/8)"
+      "content": "13.4. průběžný test (dotace 0/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.Ústní zápočet (dotace 0/2)"
+    },
+    {
+      "label": "[section] 4. průběžný test",
+      "content": "14.Ústní zápočet (dotace 0/2)"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumcvičení28 h16 hpříprava na zkoušku14 h14 hpříprava na průběžné hodnocení16 h16 hzpracování seminární práce26 h38 hCelkem84 h84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumcvičení28 h16 hpříprava na zkoušku14 h14 hpříprava na průběžné hodnocení28 h28 hpříprava na diskuzi14 h26 hCelkem84 h84 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Studenti v průběhu semestru absolvují dva krátké testy, které proběhnou v týdnu bezprostředně po vysvětlení každého třetího tématu. Testy budou obsahovat několik otázek a úkolů souvisejících pouze s předchozími třemi tématy. Každý test bude hodnocen maximálně 20 body. Pro udělení malého zápočtu je nutné získat z obou testů celkem minimálně 24 bodů. Pokud student nedosáhne minimálního počtu bodů, může absolvovat opravný test pokrývající všechna témata, nahrazující výsledek horšího z obou testů. Termín této opravy bude oznámen později a bude ve zkouškovém období. Termíny testů jsou dané a nelze je měnit. Pokud se student nemůže svého testu zúčastnit, může po souhlasu garanta navštívit jinou skupinu. Závěrečná zkouška má ústní formu. Student může získat max. 60 bodů. Minimum pro úspěšné složení zkoušky je 30 bodů. Hodnotícími kritérii je schopnost diskutovat na dané téma (20 bodů), znalost slovní zásoby (20 bodů) a kvalita předložené semestrální práce (20 bodů). Známka bude určena podle následující stupnice: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A. V případě podvodného jednání může být student hodnocen známkou F a může s ním být zahájeno disciplinární řízení."
+      "content": "Celkové hodnocení je výsledkem tří nejlepších výsledků (po maximálně 15 bodech) ze čtyř průběžných testů (neexistuje náhrada) a závěrečného ústního přezkoušení. V něm je hodnocena schopnost vést diskusi na dané téma (30 bodů), slovní zásoba (15 bodů) a čtení a překlad anglického textu (10 bodů). V případě získání více než 40 bodů ze tří nejlepších průběžných testů je student hodnocen stupněm A bez nutnosti závěrečného přezkoušení. Známka bude určena podle následující stupnice: méně než 60 bodů F, 60 bodů a více E, 68 bodů a více D, 75 bodů a více C, 83 bodů a více B a 90 bodů a více A. V případě podvodného jednání může být student hodnocen známkou F a může s ním být zahájeno disciplinární řízení."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumVypracování semestrální práce20 %20 %Absolvování průběžného testu (testů)40 %40 %Absolvování závěrečné ústní zkoušky40 %40 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)45 %45 %Absolvování závěrečné ústní zkoušky55 %55 %Celkem100 %100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
@@ -239,7 +335,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2024/2025Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2024/2025Program B-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025"
+      "content": "Specializace SBVA Vývoj aplikací v AJ, prezenční forma, počáteční období ZS 2019/2020Obor B-SI-EI Ekonomická informatika, prezenční forma, počáteční období LS 2019/2020Program B-AII Administrace IS/ICT, prezenční forma, počáteční období ZS 2020/2021Program B-AII Administrace IS/ICT, kombinovaná forma, počáteční období ZS 2020/2021Obor B-SI-EI Ekonomická informatika, prezenční forma, počáteční období ZS 2020/2021Obor B-II-ARI Automatizace řízení a informatika, prezenční forma, počáteční období ZS 2020/2021"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -261,7 +357,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -285,7 +381,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "The course can be studied during a foreign trip."
+      "content": "The course cannot be studied during a foreign trip."
     },
     {
       "label": "Language of instruction:",
@@ -305,11 +401,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "doc. Ing. František Dařena, Ph.D. (examiner, instructor, supervisor)Ing. Ludmila Kunderová (examiner, instructor)"
+      "content": "doc. Ing. František Dařena, Ph.D. (examiner, instructor, supervisor)Ing. Peter Chochula (examiner, instructor)Ing. Ludmila Kunderová (examiner, instructor)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "not IS/ICT technical terminology or not IS/ICT technical terminology"
     },
     {
       "label": "1.",
@@ -317,27 +413,59 @@
     },
     {
       "label": "2.",
-      "content": "Information systems (allowance 0/4)"
+      "content": "Computer technology (allowance 0/2)"
     },
     {
       "label": "3.",
-      "content": "Database systems (allowance 0/4)"
+      "content": "Operating systems (allowance 0/2)"
     },
     {
       "label": "4.",
-      "content": "Algorithms and programming (allowance 0/4)"
+      "content": "1st test, familiarizing with study materials (allowance 0/2)"
     },
     {
       "label": "5.",
-      "content": "Artificial intelligence (allowance 0/4)"
+      "content": "Computer networks and security (allowance 0/2)"
     },
     {
       "label": "6.",
-      "content": "Network infrastructure and cybersecurity (allowance 0/8)"
+      "content": "Theoretical foundations of informatics (allowance 0/2)"
+    },
+    {
+      "label": "7.",
+      "content": "2nd test, familiarizing with study materials (allowance 0/2)"
+    },
+    {
+      "label": "8.",
+      "content": "Algorithms (allowance 0/2)"
+    },
+    {
+      "label": "9.",
+      "content": "Database systems (allowance 0/2)"
+    },
+    {
+      "label": "10.",
+      "content": "3rd test, familiarizing with study materials (allowance 0/2)"
+    },
+    {
+      "label": "11.",
+      "content": "Information systems (allowance 0/2)"
+    },
+    {
+      "label": "12.",
+      "content": "Artificial intelligence (allowance 0/2)"
+    },
+    {
+      "label": "13.",
+      "content": "4th test (allowance 0/2)"
+    },
+    {
+      "label": "14.",
+      "content": "oral exam (allowance 0/2)"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, WS 2023/2024, WS 2022/2023 (and older)"
+      "content": "WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025, WS 2023/2024 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -353,7 +481,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -381,7 +509,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: The course can be studied during a foreign trip."
+      "content": "Mode of delivery for our mobility students abroad: The course cannot be studied during a foreign trip."
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -401,15 +529,15 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: doc. Ing. František Dařena, Ph.D. (examiner, instructor, supervisor)Ing. Ludmila Kunderová (examiner, instructor)"
+      "content": "Teachers: doc. Ing. František Dařena, Ph.D. (examiner, instructor, supervisor)Ing. Peter Chochula (examiner, instructor)Ing. Ludmila Kunderová (examiner, instructor)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not Final Bachelor Exam and Basics of Object Oriented Design"
+      "content": "Prerequisites: not IS/ICT technical terminology or not IS/ICT technical terminology"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityMonday11.00-12.50Q15B-AIIB-OIF. Dařena, L. KunderováSeminarEvery week35Monday13.00-14.50Q15B-AIIB-OIF. Dařena, L. KunderováSeminarEvery week35Tuesday11.00-12.50Q15B-AIIB-OIF. Dařena, L. KunderováSeminarEvery week35Saturday9.00-12.50Q16B-AIIF. Dařena, L. KunderováSeminarOccasionally20"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityNoteTuesday15.00-16.50Q38B-AII F. Dařena, P. Chochula, L. KunderováSeminarEvery week19 Tuesday15.00-16.50Q38B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováSeminarEvery week24 Tuesday17.00-18.50Q38B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováSeminarEvery week35 Thursday7.00-8.50Q46B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováSeminarEvery week0Cvičení se ruší, přehlaste se do jiné skupiny.Thursday9.00-10.50Q46B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováSeminarEvery week35 Thursday12.00-12.50Q09B-AII2F. Dařena, P. Chochula, L. KunderováSeminarOccasionally20 Thursday13.00-14.50Q25B-SIB-IIB-EMAJ F. Dařena, P. Chochula, L. KunderováSeminarEvery week35"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -417,59 +545,123 @@
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Introduction to the course, familiarizing with study materials (allowance 0/2)2.Information systems (allowance 0/4)3.Database systems (allowance 0/4)4.Algorithms and programming (allowance 0/4)5.Artificial intelligence (allowance 0/4)6.Network infrastructure and cybersecurity (allowance 0/8)"
+      "content": "1.Introduction to the course, familiarizing with study materials (allowance 0/2)2.Computer technology (allowance 0/2)3.Operating systems (allowance 0/2)4.1st test, familiarizing with study materials (allowance 0/2)5.Computer networks and security (allowance 0/2)6.Theoretical foundations of informatics (allowance 0/2)7.2nd test, familiarizing with study materials (allowance 0/2)8.Algorithms (allowance 0/2)9.Database systems (allowance 0/2)10.3rd test, familiarizing with study materials (allowance 0/2)11.Information systems (allowance 0/2)12.Artificial intelligence (allowance 0/2)13.4th test (allowance 0/2)14.oral exam (allowance 0/2)"
     },
     {
       "label": "[section] 1.",
-      "content": "2.Information systems (allowance 0/4)"
+      "content": "2.Computer technology (allowance 0/2)"
     },
     {
       "label": "[section] Introduction to the course, familiarizing with study materials",
-      "content": "2.Information systems (allowance 0/4)"
+      "content": "2.Computer technology (allowance 0/2)"
     },
     {
       "label": "[section] 2.",
-      "content": "3.Database systems (allowance 0/4)"
+      "content": "3.Operating systems (allowance 0/2)"
     },
     {
-      "label": "[section] Information systems",
-      "content": "3.Database systems (allowance 0/4)"
+      "label": "[section] Computer technology",
+      "content": "3.Operating systems (allowance 0/2)"
     },
     {
       "label": "[section] 3.",
-      "content": "4.Algorithms and programming (allowance 0/4)"
+      "content": "4.1st test, familiarizing with study materials (allowance 0/2)"
     },
     {
-      "label": "[section] Database systems",
-      "content": "4.Algorithms and programming (allowance 0/4)"
+      "label": "[section] Operating systems",
+      "content": "4.1st test, familiarizing with study materials (allowance 0/2)"
     },
     {
       "label": "[section] 4.",
-      "content": "5.Artificial intelligence (allowance 0/4)"
+      "content": "5.Computer networks and security (allowance 0/2)"
     },
     {
-      "label": "[section] Algorithms and programming",
-      "content": "5.Artificial intelligence (allowance 0/4)"
+      "label": "[section] 1st test, familiarizing with study materials",
+      "content": "5.Computer networks and security (allowance 0/2)"
     },
     {
       "label": "[section] 5.",
-      "content": "6.Network infrastructure and cybersecurity (allowance 0/8)"
+      "content": "6.Theoretical foundations of informatics (allowance 0/2)"
+    },
+    {
+      "label": "[section] Computer networks and security",
+      "content": "6.Theoretical foundations of informatics (allowance 0/2)"
+    },
+    {
+      "label": "[section] 6.",
+      "content": "7.2nd test, familiarizing with study materials (allowance 0/2)"
+    },
+    {
+      "label": "[section] Theoretical foundations of informatics",
+      "content": "7.2nd test, familiarizing with study materials (allowance 0/2)"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "8.Algorithms (allowance 0/2)"
+    },
+    {
+      "label": "[section] 2nd test, familiarizing with study materials",
+      "content": "8.Algorithms (allowance 0/2)"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "9.Database systems (allowance 0/2)"
+    },
+    {
+      "label": "[section] Algorithms",
+      "content": "9.Database systems (allowance 0/2)"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "10.3rd test, familiarizing with study materials (allowance 0/2)"
+    },
+    {
+      "label": "[section] Database systems",
+      "content": "10.3rd test, familiarizing with study materials (allowance 0/2)"
+    },
+    {
+      "label": "[section] 10.",
+      "content": "11.Information systems (allowance 0/2)"
+    },
+    {
+      "label": "[section] 3rd test, familiarizing with study materials",
+      "content": "11.Information systems (allowance 0/2)"
+    },
+    {
+      "label": "[section] 11.",
+      "content": "12.Artificial intelligence (allowance 0/2)"
+    },
+    {
+      "label": "[section] Information systems",
+      "content": "12.Artificial intelligence (allowance 0/2)"
+    },
+    {
+      "label": "[section] 12.",
+      "content": "13.4th test (allowance 0/2)"
     },
     {
       "label": "[section] Artificial intelligence",
-      "content": "6.Network infrastructure and cybersecurity (allowance 0/8)"
+      "content": "13.4th test (allowance 0/2)"
+    },
+    {
+      "label": "[section] 13.",
+      "content": "14.oral exam (allowance 0/2)"
+    },
+    {
+      "label": "[section] 4th test",
+      "content": "14.oral exam (allowance 0/2)"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formpractice28 h16 hpreparation for exam14 h14 hpreparation for regular assessment16 h16 hwriting of seminar paper26 h38 hTotal84 h84 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formpractice28 h16 hpreparation for exam14 h14 hpreparation for regular assessment28 h28 hpreparing for a discussion14 h26 hTotal84 h84 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "The students will write two short tests during the semester, taking place in the week immediately after every third topic is explained. The tests will contain a few questions and tasks related only to the previous three topics. Each test will be evaluated by 20 points at maximum. The students are required to obtain at least 24 points from both tests in total to receive the small credit. If a student does not reach the minimum number of points, he or she can take a correcting test covering all topics, replacing the result of the worst of the two tests. The date of this correction will be announced later and will be in the examination period. The dates of the tests are given and cannot be moved. If a student cannot attend his or her class, he or she can visit another one after the approval of the course supervisor. The final examination has an oral form. The students can earn max. 60 points. The minimum for the exam is 30 points. The evaluation criteria include the ability to discuss a given topic (20 points), the knowledge of the vocabulary (20 points), and the quality of the semestral work (20 points). The students can receive a maximum of 100 points in total (40 from the tests, and 60 from the exam). The grade is determined according to the following scale: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B, and 90 points and more A. In the case of fraudulent acts, the students may be graded F, and disciplinary proceedings may be instituted against them."
+      "content": "The overall evaluation is the result of three best achievements (each max. 15 points) from four tests taken during the semester (no resits are possible) and the final oral evaluation. This is related to the ability to discuss a given topic in English (30 points), use correct English terminology (15 points), and read and translate English text (10 points). In case of earning more than 40 points in the best three tests, students are given a grade A without the oral examination. The grade is determined according to the following scale: less than 60 points F, 60 points and more E, 68 points and more D, 75 points and more C, 83 points and more B a 90 points and more A. In the case of fraudulent acts, the students may be graded F and disciplinary proceedings may be instituted against them."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formTerm paper20 %20 %Mid-term test(s)40 %40 %Final oral exam40 %40 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)45 %45 %Final oral exam55 %55 %Total100 %100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
@@ -485,13 +677,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-AII Administration IS/ICT, full-time form, initial period WS 2024/2025Programme B-AII Administration IS/ICT, part-time form, initial period WS 2024/2025Programme B-OI Open Informatics, full-time form, initial period WS 2024/2025"
+      "content": "Track SBVA Applications Development, full-time form, initial period WS 2019/2020Field of study B-SE-EI Economic informatics, full-time form, initial period SS 2019/2020Programme B-AII Administration IS/ICT, full-time form, initial period WS 2020/2021Programme B-AII Administration IS/ICT, part-time form, initial period WS 2020/2021Field of study B-SE-EI Economic informatics, full-time form, initial period WS 2020/2021Field of study B-II-CAI Automation Control and Informatics, full-time form, initial period WS 2020/2021"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:36:56",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:49:18",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

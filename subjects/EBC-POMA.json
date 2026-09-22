@@ -3,7 +3,7 @@
   "name": "Podnikový management",
   "nameCs": "Podnikový management",
   "nameEn": "Business Management",
-  "predmetId": "156569",
+  "predmetId": "162563",
   "facultyId": 2,
   "aliases": [
     "MNG",
@@ -16,6 +16,59 @@
     "doc. Ing. Helena Chládková, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=162563;lang=cz",
+      "totalPass": 67,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 1,
+            "C": 1,
+            "D": 2,
+            "E": 2,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 6,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 24,
+            "B": 12,
+            "C": 19,
+            "D": 4,
+            "E": 8,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 67,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 24,
+            "B": 11,
+            "C": 18,
+            "D": 2,
+            "E": 6,
+            "F": 5,
+            "FN": 3
+          },
+          "pass": 61,
+          "fail": 8
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -151,5 +204,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

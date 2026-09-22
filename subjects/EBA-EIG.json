@@ -3,13 +3,66 @@
   "name": "Evropská integrace a globalizace v AJ",
   "nameCs": "Evropská integrace a globalizace v AJ",
   "nameEn": "European Integration and Globalization",
-  "predmetId": "152293",
+  "predmetId": "160801",
   "facultyId": 2,
   "aliases": [],
   "teachers": [
     "prof. Ing. Lubor Lacina, Ph.D."
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - PEF",
+      "semesterId": "812",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=812;predmet=160801;lang=cz",
+      "totalPass": 55,
+      "totalFail": 2,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 1,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 28,
+            "B": 7,
+            "C": 6,
+            "D": 7,
+            "E": 7,
+            "F": 0,
+            "FN": 2
+          },
+          "pass": 55,
+          "fail": 2
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 26,
+            "B": 6,
+            "C": 6,
+            "D": 7,
+            "E": 7,
+            "F": 3,
+            "FN": 2
+          },
+          "pass": 52,
+          "fail": 5
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - PEF",
       "semesterId": "772",
@@ -354,5 +407,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

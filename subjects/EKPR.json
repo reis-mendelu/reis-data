@@ -3,7 +3,7 @@
   "name": "Ekonomické procesy v rozvojových zemích",
   "nameCs": "Ekonomické procesy v rozvojových zemích",
   "nameEn": "Economic Processes in Developing Countries",
-  "predmetId": "157626",
+  "predmetId": "159440",
   "facultyId": 23,
   "aliases": [],
   "teachers": [
@@ -11,6 +11,59 @@
     "prof. Dr. Ing. Libor Grega"
   ],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - FRRMS",
+      "semesterId": "815",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=815;predmet=159440;lang=cz",
+      "totalPass": 64,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 2,
+            "B": 0,
+            "C": 1,
+            "D": 2,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 5,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 5,
+            "B": 13,
+            "C": 20,
+            "D": 20,
+            "E": 6,
+            "F": 0,
+            "FN": 1
+          },
+          "pass": 64,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 3,
+            "B": 13,
+            "C": 19,
+            "D": 18,
+            "E": 6,
+            "F": 5,
+            "FN": 1
+          },
+          "pass": 59,
+          "fail": 6
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - FRRMS",
       "semesterId": "778",
@@ -291,5 +344,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

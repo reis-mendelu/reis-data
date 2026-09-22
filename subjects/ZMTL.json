@@ -3,11 +3,66 @@
   "name": "Základy vyšší matematiky",
   "nameCs": "Základy vyšší matematiky",
   "nameEn": "Introduction to Higher Mathematics",
-  "predmetId": "156690",
+  "predmetId": "161695",
   "facultyId": 38,
-  "aliases": [],
+  "aliases": [
+    "ZVMT"
+  ],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=161695;lang=cz",
+      "totalPass": 111,
+      "totalFail": 1,
+      "terms": [
+        {
+          "term": "1. opravný",
+          "grades": {
+            "A": 0,
+            "B": 0,
+            "C": 4,
+            "D": 4,
+            "E": 3,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 11,
+          "fail": 0
+        },
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 13,
+            "B": 17,
+            "C": 33,
+            "D": 27,
+            "E": 21,
+            "F": 1,
+            "FN": 0
+          },
+          "pass": 111,
+          "fail": 1
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 13,
+            "B": 17,
+            "C": 29,
+            "D": 23,
+            "E": 18,
+            "F": 12,
+            "FN": 0
+          },
+          "pass": 100,
+          "fail": 12
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -344,5 +399,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

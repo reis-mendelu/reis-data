@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -27,7 +27,7 @@
     },
     {
       "label": "Stupeň studia:",
-      "content": "bakalářský"
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Typ předmětu:",
@@ -39,7 +39,7 @@
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
-      "content": "Předmět není možné studovat během mobility."
+      "content": "-- obsah této položky nebyl definován --"
     },
     {
       "label": "Jazyk výuky:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Mgr. Alena Burešová, Ph.D. (cvičící, zkoušející)doc. RNDr. Petr Hrdlička, CSc. (cvičící, zkoušející)Ing. Jana Pekárková, Ph.D. (cvičící, zkoušející)RNDr. Marie Střelcová (cvičící, zkoušející)RNDr. Lenka Vaňková, Ph.D. (cvičící, zkoušející)doc. Mgr. Stanislava Voběrková, Ph.D. (cvičící, garant, zkoušející)Ing. Martina Vršanská, Ph.D. (cvičící, zkoušející)"
+      "content": "Ing. Helena Absolínová (cvičící, zkoušející)Mgr. Alena Burešová, Ph.D. (cvičící, zkoušející)Mgr. Dagmar Skopalová Štěrbová, Ph.D. (cvičící)RNDr. Marie Střelcová (cvičící, zkoušející)Ing. Vladimír Vaculovič (cvičící, zkoušející)RNDr. Lenka Vaňková, Ph.D. (cvičící, zkoušející)doc. Mgr. Stanislava Voběrková, Ph.D. (cvičící, garant, zkoušející)"
     },
     {
       "label": "Prerekvizity:",
@@ -67,63 +67,191 @@
     },
     {
       "label": "1.",
-      "content": "Názvosloví anorganických sloučenin (dotace 0/4)"
+      "content": "Stavba atomů a molekul (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Stavba atomu: jádro atomu, elektronový obal."
+    },
+    {
+      "label": "b.",
+      "content": "Periodický systém prvků, periodicita vlastností prvků."
+    },
+    {
+      "label": "c.",
+      "content": "Stavba molekul: chemická vazba, slabé vazebné interakce."
     },
     {
       "label": "2.",
-      "content": "Chemické rovnice (dotace 0/4)"
+      "content": "Skupenské stavy (dotace 1/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Plyny: stavová rovnice ideálního a reálného plynu."
+    },
+    {
+      "label": "b.",
+      "content": "Kapaliny: tlak páry, povrchové napětí, úhel smáčení."
+    },
+    {
+      "label": "c.",
+      "content": "Tuhé látky: vazebné poměry, krystalická a amorfní struktura, isomorfie, polymorfie."
     },
     {
       "label": "3.",
-      "content": "Výpočty z chemického vzorce (dotace 0/2)"
+      "content": "Základy termodynamiky (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Bioenergetika: I. věta termodynamická, enthalpie. II. věta termodynamická, entropie. Gibssova funkce. Termodynamika a živé systémy."
+    },
+    {
+      "label": "b.",
+      "content": "Reakční kinetika: rychlost chemické reakce, aktivační energie. Katalýza, inhibice."
+    },
+    {
+      "label": "c.",
+      "content": "Rovnováha: Obecné podmínky rovnováhy. Fázová rovnováha, Gibssův zákon fází. Rovnováha na fázovém rozhraní. Chemická rovnováha: termodynamika chemické reakce, zákon Guldberg-Waageův, rovnovážná konstanta. Ovlivnění rovnováhy vnějšími vlivy."
     },
     {
       "label": "4.",
-      "content": "Procentuální koncentrace (dotace 0/2)"
+      "content": "Disperzní soustavy (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Disperzní soustavy: Obecná charakteristika. Roztoky. Henryho zákon, Raoultův zákon a jejich důsledky. Osmotický tlak. Difuse, I. a II. Fickův zákon."
     },
     {
       "label": "5.",
-      "content": "Látková koncentrace (dotace 0/2)"
+      "content": "Reakce v roztocích (dotace 3/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Elektrolyty a jejich disociace."
+    },
+    {
+      "label": "b.",
+      "content": "Acidobasické reakce: Kyseliny a zásady, jejich disociace. pH, stupnice kyselosti. Isoelektrický bod. Výpočty pH vybraných protolytických systémů. Vztahy mezi strukturou a acidobasickými vlastnostmi (kyseliny O, S, N, C)."
+    },
+    {
+      "label": "c.",
+      "content": "Srážecí reakce: Součin rozpustnosti a jeho ovlivňování."
+    },
+    {
+      "label": "d.",
+      "content": "Komplexotvorné reakce: Vznik komplexů. Rovnováha komplexotvorné reakce. Stabilita komplexů, dělení centrálních iontů a ligandů."
+    },
+    {
+      "label": "e.",
+      "content": "Elektrochemie: Základní pojmy. Rovnováha heterogenního elektrochemického systému: elektrodový potenciál, Nernstova rovnice, řada napětí kovů."
+    },
+    {
+      "label": "f.",
+      "content": "Rovnováha redoxní reakce, Nernst-Petersonova rovnice."
     },
     {
       "label": "6.",
-      "content": "Hmotnostní koncentrace (dotace 0/2)"
+      "content": "Prvky a jejich sloučeniny (dotace 2/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Výskyt prvků v přírodě, biologické dělení prvků. Popis a vlastnosti vybraných prvků: Postavení v periodickém systému. Vazebné možnosti."
+    },
+    {
+      "label": "b.",
+      "content": "Významné sloučeniny. Důkaz a stanovení prvků, resp. sloučenin. Ekologický a biologický význam prvku a jeho sloučenin (biogeochemický cyklus)."
+    },
+    {
+      "label": "c.",
+      "content": "Vybrané skupiny a jednotlivé prvky: Vodík, voda. Prvá hlavní podskupina (Na, K). Druhá hlavní podskupina (Mg, Ca). Třetí hlavní podskupina (B, Al). Čtvrtá hlavní podskupina (C, Si, Pb). Pátá hlavní podskupina (N, P, As). Šestá hlavní podskupina (O, S, Se). Sedmá hlavní podskupina (F, Cl, Br, I)."
+    },
+    {
+      "label": "d.",
+      "content": "Přechodné prvky (Mn, Fe, Cu, Ag, Zn, Cd, Hg, Mo)."
     },
     {
       "label": "7.",
-      "content": "Vzájemné přepočty koncentrací (dotace 0/2)"
+      "content": "Chemie organických látek (dotace 8/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Vazby v organických sloučeninách. Prostorové uspořádání molekul: konstituce, konformace. Organické názvosloví."
+    },
+    {
+      "label": "b.",
+      "content": "Reakční mechanismy. Indukční a mesomerní efekt. Homolýza a heterolýza. Substrát (substituce, eliminace, adice, přesmyk). Reagent (nukleofil, elektrofil, radikál). Oxidace a redukce organických látek. Polyreakce."
+    },
+    {
+      "label": "c.",
+      "content": "Uhlovodíky: Alkany, cykloalkany, alkeny, alkiny. Aromatické uhlovodíky."
+    },
+    {
+      "label": "d.",
+      "content": "Hydroxyderiváty: alkoholy, fenoly. Ethery. Organické sloučeniny síry a dusíku. Heterocyklické látky obsahující kyslík, síru a dusík."
+    },
+    {
+      "label": "e.",
+      "content": "Karbonylové sloučeniny: aldehydy, ketony a jejich deriváty (poloacetaly)."
+    },
+    {
+      "label": "f.",
+      "content": "Karboxylové kyseliny: mono-, di- a trikarboxylové kyseliny; soli kyselin. Funkční deriváty kyselin: amidy, estery. Substituční deriváty kyselin: hydroxykyseliny, oxokyseliny. Deriváty kyseliny uhličité."
     },
     {
       "label": "8.",
-      "content": "Titrační stechiometrie (dotace 0/4)"
+      "content": "Chemie a biochemie přírodních látek (dotace 6/0)"
+    },
+    {
+      "label": "a.",
+      "content": "Aminokyseliny: chemické vlastnosti, reakce aminokyselin. Peptidová vazba a její vlastnosti."
+    },
+    {
+      "label": "b.",
+      "content": "Sacharidy: Monosacharidy, oligosacharidy, polysacharidy (stavební a zásobní). Reakce sacharidů. Deriváty sacharidů, glykosidy."
+    },
+    {
+      "label": "c.",
+      "content": "Lipidy: jednoduché, složené."
+    },
+    {
+      "label": "d.",
+      "content": "Terpeny: mono- až polyterpeny."
     },
     {
       "label": "9.",
-      "content": "pH silných protolytů (dotace 0/2)"
+      "content": "Praktická laboratorní cvičení (dotace 0/28)"
     },
     {
-      "label": "10.",
-      "content": "pH slabých protolytů (dotace 0/2)"
+      "label": "a.",
+      "content": "Základy laboratorní techniky analytické chemie kvalitativní: důkazy kationtů a aniontů."
     },
     {
-      "label": "11.",
-      "content": "pH tlumivých roztoků (dotace 0/2)"
+      "label": "b.",
+      "content": "Základy laboratorní techniky odměrného stanovení: neutralizační analýza."
     },
     {
-      "label": "Aktivita na přednáškách/cvičeních/seminářích",
-      "content": "100 %"
+      "label": "c.",
+      "content": "pH a jeho měření."
+    },
+    {
+      "label": "d.",
+      "content": "Vybrané reakce halogen-, hydroxy- a dusíkatých derivátů."
+    },
+    {
+      "label": "e.",
+      "content": "Kvalitativní a kvantitativní reakce karbonylových sloučenin a sacharidů."
+    },
+    {
+      "label": "f.",
+      "content": "Vybrané reakce karboxylových kyselin a jejich derivátů."
     },
     {
       "label": "Celkem",
-      "content": "100 %"
-    },
-    {
-      "label": "Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002",
-      "content": "Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002"
+      "content": "0 %"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2021/2022, ZS 2020/2021 (a starší)"
+      "content": "ZS 2026/2027, ZS 2025/2026, ZS 2024/2025, ZS 2023/2024, ZS 2022/2023, ZS 2020/2021 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -139,7 +267,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -155,7 +283,7 @@
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
-      "content": "Stupeň studia: bakalářský"
+      "content": "Stupeň studia: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Stupeň studia:",
@@ -167,7 +295,7 @@
     },
     {
       "label": "[section] Typ výuky předmětu:",
-      "content": "Možnost studia předmětu během zahraniční mobility: Předmět není možné studovat během mobility."
+      "content": "Možnost studia předmětu během zahraniční mobility: -- obsah této položky nebyl definován --"
     },
     {
       "label": "[section] Možnost studia předmětu během zahraniční mobility:",
@@ -187,7 +315,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Mgr. Alena Burešová, Ph.D. (cvičící, zkoušející)doc. RNDr. Petr Hrdlička, CSc. (cvičící, zkoušející)Ing. Jana Pekárková, Ph.D. (cvičící, zkoušející)RNDr. Marie Střelcová (cvičící, zkoušející)RNDr. Lenka Vaňková, Ph.D. (cvičící, zkoušející)doc. Mgr. Stanislava Voběrková, Ph.D. (cvičící, garant, zkoušející)Ing. Martina Vršanská, Ph.D. (cvičící, zkoušející)"
+      "content": "Vyučující: Ing. Helena Absolínová (cvičící, zkoušející)Mgr. Alena Burešová, Ph.D. (cvičící, zkoušející)Mgr. Dagmar Skopalová Štěrbová, Ph.D. (cvičící)RNDr. Marie Střelcová (cvičící, zkoušející)Ing. Vladimír Vaculovič (cvičící, zkoušející)RNDr. Lenka Vaňková, Ph.D. (cvičící, zkoušející)doc. Mgr. Stanislava Voběrková, Ph.D. (cvičící, garant, zkoušející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -195,119 +323,107 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkVyučujícíAkceČetnostKapacitaPondělí11.00-12.50D04B-ZOTB-ATEB-AEG P. HrdličkaSeminářKaždý týden18Úterý9.00-10.50D04B-MBI1S. VoběrkováSeminářKaždý týden18Úterý9.00-10.50D05B-ZOTB-ATEB-AEG J. PekárkováSeminářKaždý týden30Úterý11.00-12.50D04B-ZOTB-ATEB-AEG J. PekárkováSeminářKaždý týden18Úterý11.00-12.50D05B-MBI1A. BurešováSeminářKaždý týden25Úterý13.00-14.50D06B-ZOTB-ATEB-AEG P. HrdličkaSeminářKaždý týden18Úterý13.00-14.50D05B-MBI1M. StřelcováSeminářKaždý týden18Středa7.00-8.50D06B-ZOTB-ATEB-AEG A. BurešováSeminářKaždý týden25Středa11.00-12.50D05B-ZOTB-ATEB-AEG A. BurešováSeminářKaždý týden30Čtvrtek7.00-8.50D05B-ZOTB-ATEB-AEG M. StřelcováSeminářKaždý týden18Čtvrtek9.00-10.50D06B-ZOTB-ATEB-AEG M. VršanskáSeminářKaždý týden25Čtvrtek11.00-12.50D06B-ZOTB-ATEB-AEG M. VršanskáSeminářKaždý týden18Čtvrtek15.00-16.50D04B-ZOTB-ATEB-AEG P. HrdličkaSeminářKaždý týden18"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPondělí11.00-12.50D06B-MBI12S. VoběrkováCvičeníKaždý týden18Pondělí13.00-14.50D06B-MBI11A. BurešováCvičeníKaždý týden18Pondělí17.00-18.50D06B-MBI13A. BurešováCvičeníKaždý týden18Úterý7.00-8.50A32bB-ZOTB-ATEB-AEG H. AbsolínováCvičeníKaždý týden25Úterý9.00-10.50A32bB-ZOTB-ATEB-AEG A. BurešováCvičeníKaždý týden25Úterý11.00-12.50A32bB-ZOTB-ATEB-AEG L. VaňkováCvičeníKaždý týden25Úterý13.00-14.50A32bB-ZOTB-ATEB-AEG H. AbsolínováCvičeníKaždý týden27Středa7.00-8.50A32bB-ZOTB-ATEB-AEG H. AbsolínováCvičeníKaždý týden25Středa9.00-10.50A32bB-ZOTB-ATEB-AEG V. VaculovičCvičeníKaždý týden25Středa11.00-12.50M1.09B-MBIB-MBI1145A. BurešováCvičeníKaždý týden30Středa11.00-12.50A32bB-ZOTB-ATEB-AEG V. VaculovičCvičeníKaždý týden25"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Předmět seznamuje studenty s názvoslovím anorganických a organických sloučenin a základními chemickými výpočty, jejichž zvládnutí je základem dalšího studia příbuzných předmětů chemického zaměření."
+      "content": "Seznámení studentů se základy obecné, anorganické a organické chemie. Aplikace poznatků v zemědělských oborech. Rozšíření středoškolských znalostí."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Názvosloví anorganických sloučenin (dotace 0/4)2.Chemické rovnice (dotace 0/4)3.Výpočty z chemického vzorce (dotace 0/2)4.Procentuální koncentrace (dotace 0/2)5.Látková koncentrace (dotace 0/2)6.Hmotnostní koncentrace (dotace 0/2)7.Vzájemné přepočty koncentrací (dotace 0/2)8.Titrační stechiometrie (dotace 0/4)9.pH silných protolytů (dotace 0/2)10.pH slabých protolytů (dotace 0/2)11.pH tlumivých roztoků (dotace 0/2)"
+      "content": "1.Stavba atomů a molekul (dotace 3/0) a.Stavba atomu: jádro atomu, elektronový obal.b.Periodický systém prvků, periodicita vlastností prvků.c.Stavba molekul: chemická vazba, slabé vazebné interakce.2.Skupenské stavy (dotace 1/0) a.Plyny: stavová rovnice ideálního a reálného plynu.b.Kapaliny: tlak páry, povrchové napětí, úhel smáčení.c.Tuhé látky: vazebné poměry, krystalická a amorfní struktura, isomorfie, polymorfie.3.Základy termodynamiky (dotace 3/0) a.Bioenergetika: I. věta termodynamická, enthalpie. II. věta termodynamická, entropie. Gibssova funkce. Termodynamika a živé systémy.b.Reakční kinetika: rychlost chemické reakce, aktivační energie. Katalýza, inhibice.c.Rovnováha: Obecné podmínky rovnováhy. Fázová rovnováha, Gibssův zákon fází. Rovnováha na fázovém rozhraní. Chemická rovnováha: termodynamika chemické reakce, zákon Guldberg-Waageův, rovnovážná konstanta. Ovlivnění rovnováhy vnějšími vlivy.4.Disperzní soustavy (dotace 2/0) a.Disperzní soustavy: Obecná charakteristika. Roztoky. Henryho zákon, Raoultův zákon a jejich důsledky. Osmotický tlak. Difuse, I. a II. Fickův zákon.5.Reakce v roztocích (dotace 3/0) a.Elektrolyty a jejich disociace.b.Acidobasické reakce: Kyseliny a zásady, jejich disociace. pH, stupnice kyselosti. Isoelektrický bod. Výpočty pH vybraných protolytických systémů. Vztahy mezi strukturou a acidobasickými vlastnostmi (kyseliny O, S, N, C).c.Srážecí reakce: Součin rozpustnosti a jeho ovlivňování.d.Komplexotvorné reakce: Vznik komplexů. Rovnováha komplexotvorné reakce. Stabilita komplexů, dělení centrálních iontů a ligandů.e.Elektrochemie: Základní pojmy. Rovnováha heterogenního elektrochemického systému: elektrodový potenciál, Nernstova rovnice, řada napětí kovů.f.Rovnováha redoxní reakce, Nernst-Petersonova rovnice.6.Prvky a jejich sloučeniny (dotace 2/0) a.Výskyt prvků v přírodě, biologické dělení prvků. Popis a vlastnosti vybraných prvků: Postavení v periodickém systému. Vazebné možnosti.b.Významné sloučeniny. Důkaz a stanovení prvků, resp. sloučenin. Ekologický a biologický význam prvku a jeho sloučenin (biogeochemický cyklus).c.Vybrané skupiny a jednotlivé prvky: Vodík, voda. Prvá hlavní podskupina (Na, K). Druhá hlavní podskupina (Mg, Ca). Třetí hlavní podskupina (B, Al). Čtvrtá hlavní podskupina (C, Si, Pb). Pátá hlavní podskupina (N, P, As). Šestá hlavní podskupina (O, S, Se). Sedmá hlavní podskupina (F, Cl, Br, I).d.Přechodné prvky (Mn, Fe, Cu, Ag, Zn, Cd, Hg, Mo).7.Chemie organických látek (dotace 8/0) a.Vazby v organických sloučeninách. Prostorové uspořádání molekul: konstituce, konformace. Organické názvosloví.b.Reakční mechanismy. Indukční a mesomerní efekt. Homolýza a heterolýza. Substrát (substituce, eliminace, adice, přesmyk). Reagent (nukleofil, elektrofil, radikál). Oxidace a redukce organických látek. Polyreakce.c.Uhlovodíky: Alkany, cykloalkany, alkeny, alkiny. Aromatické uhlovodíky.d.Hydroxyderiváty: alkoholy, fenoly. Ethery. Organické sloučeniny síry a dusíku. Heterocyklické látky obsahující kyslík, síru a dusík.e.Karbonylové sloučeniny: aldehydy, ketony a jejich deriváty (poloacetaly).f.Karboxylové kyseliny: mono-, di- a trikarboxylové kyseliny; soli kyselin. Funkční deriváty kyselin: amidy, estery. Substituční deriváty kyselin: hydroxykyseliny, oxokyseliny. Deriváty kyseliny uhličité.8.Chemie a biochemie přírodních látek (dotace 6/0) a.Aminokyseliny: chemické vlastnosti, reakce aminokyselin. Peptidová vazba a její vlastnosti.b.Sacharidy: Monosacharidy, oligosacharidy, polysacharidy (stavební a zásobní). Reakce sacharidů. Deriváty sacharidů, glykosidy.c.Lipidy: jednoduché, složené.d.Terpeny: mono- až polyterpeny.9.Praktická laboratorní cvičení (dotace 0/28) a.Základy laboratorní techniky analytické chemie kvalitativní: důkazy kationtů a aniontů.b.Základy laboratorní techniky odměrného stanovení: neutralizační analýza.c.pH a jeho měření.d.Vybrané reakce halogen-, hydroxy- a dusíkatých derivátů.e.Kvalitativní a kvantitativní reakce karbonylových sloučenin a sacharidů.f.Vybrané reakce karboxylových kyselin a jejich derivátů."
     },
     {
       "label": "[section] 1.",
-      "content": "2.Chemické rovnice (dotace 0/4)"
+      "content": "a.Stavba atomu: jádro atomu, elektronový obal.b.Periodický systém prvků, periodicita vlastností prvků.c.Stavba molekul: chemická vazba, slabé vazebné interakce."
     },
     {
-      "label": "[section] Názvosloví anorganických sloučenin",
-      "content": "2.Chemické rovnice (dotace 0/4)"
+      "label": "[section] Stavba atomů a molekul",
+      "content": "a.Stavba atomu: jádro atomu, elektronový obal.b.Periodický systém prvků, periodicita vlastností prvků.c.Stavba molekul: chemická vazba, slabé vazebné interakce."
     },
     {
       "label": "[section] 2.",
-      "content": "3.Výpočty z chemického vzorce (dotace 0/2)"
+      "content": "a.Plyny: stavová rovnice ideálního a reálného plynu.b.Kapaliny: tlak páry, povrchové napětí, úhel smáčení.c.Tuhé látky: vazebné poměry, krystalická a amorfní struktura, isomorfie, polymorfie."
     },
     {
-      "label": "[section] Chemické rovnice",
-      "content": "3.Výpočty z chemického vzorce (dotace 0/2)"
+      "label": "[section] Skupenské stavy",
+      "content": "a.Plyny: stavová rovnice ideálního a reálného plynu.b.Kapaliny: tlak páry, povrchové napětí, úhel smáčení.c.Tuhé látky: vazebné poměry, krystalická a amorfní struktura, isomorfie, polymorfie."
     },
     {
       "label": "[section] 3.",
-      "content": "4.Procentuální koncentrace (dotace 0/2)"
+      "content": "a.Bioenergetika: I. věta termodynamická, enthalpie. II. věta termodynamická, entropie. Gibssova funkce. Termodynamika a živé systémy.b.Reakční kinetika: rychlost chemické reakce, aktivační energie. Katalýza, inhibice.c.Rovnováha: Obecné podmínky rovnováhy. Fázová rovnováha, Gibssův zákon fází. Rovnováha na fázovém rozhraní. Chemická rovnováha: termodynamika chemické reakce, zákon Guldberg-Waageův, rovnovážná konstanta. Ovlivnění rovnováhy vnějšími vlivy."
     },
     {
-      "label": "[section] Výpočty z chemického vzorce",
-      "content": "4.Procentuální koncentrace (dotace 0/2)"
+      "label": "[section] Základy termodynamiky",
+      "content": "a.Bioenergetika: I. věta termodynamická, enthalpie. II. věta termodynamická, entropie. Gibssova funkce. Termodynamika a živé systémy.b.Reakční kinetika: rychlost chemické reakce, aktivační energie. Katalýza, inhibice.c.Rovnováha: Obecné podmínky rovnováhy. Fázová rovnováha, Gibssův zákon fází. Rovnováha na fázovém rozhraní. Chemická rovnováha: termodynamika chemické reakce, zákon Guldberg-Waageův, rovnovážná konstanta. Ovlivnění rovnováhy vnějšími vlivy."
     },
     {
       "label": "[section] 4.",
-      "content": "5.Látková koncentrace (dotace 0/2)"
+      "content": "a.Disperzní soustavy: Obecná charakteristika. Roztoky. Henryho zákon, Raoultův zákon a jejich důsledky. Osmotický tlak. Difuse, I. a II. Fickův zákon."
     },
     {
-      "label": "[section] Procentuální koncentrace",
-      "content": "5.Látková koncentrace (dotace 0/2)"
+      "label": "[section] Disperzní soustavy",
+      "content": "a.Disperzní soustavy: Obecná charakteristika. Roztoky. Henryho zákon, Raoultův zákon a jejich důsledky. Osmotický tlak. Difuse, I. a II. Fickův zákon."
     },
     {
       "label": "[section] 5.",
-      "content": "6.Hmotnostní koncentrace (dotace 0/2)"
+      "content": "a.Elektrolyty a jejich disociace.b.Acidobasické reakce: Kyseliny a zásady, jejich disociace. pH, stupnice kyselosti. Isoelektrický bod. Výpočty pH vybraných protolytických systémů. Vztahy mezi strukturou a acidobasickými vlastnostmi (kyseliny O, S, N, C).c.Srážecí reakce: Součin rozpustnosti a jeho ovlivňování.d.Komplexotvorné reakce: Vznik komplexů. Rovnováha komplexotvorné reakce. Stabilita komplexů, dělení centrálních iontů a ligandů.e.Elektrochemie: Základní pojmy. Rovnováha heterogenního elektrochemického systému: elektrodový potenciál, Nernstova rovnice, řada napětí kovů.f.Rovnováha redoxní reakce, Nernst-Petersonova rovnice."
     },
     {
-      "label": "[section] Látková koncentrace",
-      "content": "6.Hmotnostní koncentrace (dotace 0/2)"
+      "label": "[section] Reakce v roztocích",
+      "content": "a.Elektrolyty a jejich disociace.b.Acidobasické reakce: Kyseliny a zásady, jejich disociace. pH, stupnice kyselosti. Isoelektrický bod. Výpočty pH vybraných protolytických systémů. Vztahy mezi strukturou a acidobasickými vlastnostmi (kyseliny O, S, N, C).c.Srážecí reakce: Součin rozpustnosti a jeho ovlivňování.d.Komplexotvorné reakce: Vznik komplexů. Rovnováha komplexotvorné reakce. Stabilita komplexů, dělení centrálních iontů a ligandů.e.Elektrochemie: Základní pojmy. Rovnováha heterogenního elektrochemického systému: elektrodový potenciál, Nernstova rovnice, řada napětí kovů.f.Rovnováha redoxní reakce, Nernst-Petersonova rovnice."
     },
     {
       "label": "[section] 6.",
-      "content": "7.Vzájemné přepočty koncentrací (dotace 0/2)"
+      "content": "a.Výskyt prvků v přírodě, biologické dělení prvků. Popis a vlastnosti vybraných prvků: Postavení v periodickém systému. Vazebné možnosti.b.Významné sloučeniny. Důkaz a stanovení prvků, resp. sloučenin. Ekologický a biologický význam prvku a jeho sloučenin (biogeochemický cyklus).c.Vybrané skupiny a jednotlivé prvky: Vodík, voda. Prvá hlavní podskupina (Na, K). Druhá hlavní podskupina (Mg, Ca). Třetí hlavní podskupina (B, Al). Čtvrtá hlavní podskupina (C, Si, Pb). Pátá hlavní podskupina (N, P, As). Šestá hlavní podskupina (O, S, Se). Sedmá hlavní podskupina (F, Cl, Br, I).d.Přechodné prvky (Mn, Fe, Cu, Ag, Zn, Cd, Hg, Mo)."
     },
     {
-      "label": "[section] Hmotnostní koncentrace",
-      "content": "7.Vzájemné přepočty koncentrací (dotace 0/2)"
+      "label": "[section] Prvky a jejich sloučeniny",
+      "content": "a.Výskyt prvků v přírodě, biologické dělení prvků. Popis a vlastnosti vybraných prvků: Postavení v periodickém systému. Vazebné možnosti.b.Významné sloučeniny. Důkaz a stanovení prvků, resp. sloučenin. Ekologický a biologický význam prvku a jeho sloučenin (biogeochemický cyklus).c.Vybrané skupiny a jednotlivé prvky: Vodík, voda. Prvá hlavní podskupina (Na, K). Druhá hlavní podskupina (Mg, Ca). Třetí hlavní podskupina (B, Al). Čtvrtá hlavní podskupina (C, Si, Pb). Pátá hlavní podskupina (N, P, As). Šestá hlavní podskupina (O, S, Se). Sedmá hlavní podskupina (F, Cl, Br, I).d.Přechodné prvky (Mn, Fe, Cu, Ag, Zn, Cd, Hg, Mo)."
     },
     {
       "label": "[section] 7.",
-      "content": "8.Titrační stechiometrie (dotace 0/4)"
+      "content": "a.Vazby v organických sloučeninách. Prostorové uspořádání molekul: konstituce, konformace. Organické názvosloví.b.Reakční mechanismy. Indukční a mesomerní efekt. Homolýza a heterolýza. Substrát (substituce, eliminace, adice, přesmyk). Reagent (nukleofil, elektrofil, radikál). Oxidace a redukce organických látek. Polyreakce.c.Uhlovodíky: Alkany, cykloalkany, alkeny, alkiny. Aromatické uhlovodíky.d.Hydroxyderiváty: alkoholy, fenoly. Ethery. Organické sloučeniny síry a dusíku. Heterocyklické látky obsahující kyslík, síru a dusík.e.Karbonylové sloučeniny: aldehydy, ketony a jejich deriváty (poloacetaly).f.Karboxylové kyseliny: mono-, di- a trikarboxylové kyseliny; soli kyselin. Funkční deriváty kyselin: amidy, estery. Substituční deriváty kyselin: hydroxykyseliny, oxokyseliny. Deriváty kyseliny uhličité."
     },
     {
-      "label": "[section] Vzájemné přepočty koncentrací",
-      "content": "8.Titrační stechiometrie (dotace 0/4)"
+      "label": "[section] Chemie organických látek",
+      "content": "a.Vazby v organických sloučeninách. Prostorové uspořádání molekul: konstituce, konformace. Organické názvosloví.b.Reakční mechanismy. Indukční a mesomerní efekt. Homolýza a heterolýza. Substrát (substituce, eliminace, adice, přesmyk). Reagent (nukleofil, elektrofil, radikál). Oxidace a redukce organických látek. Polyreakce.c.Uhlovodíky: Alkany, cykloalkany, alkeny, alkiny. Aromatické uhlovodíky.d.Hydroxyderiváty: alkoholy, fenoly. Ethery. Organické sloučeniny síry a dusíku. Heterocyklické látky obsahující kyslík, síru a dusík.e.Karbonylové sloučeniny: aldehydy, ketony a jejich deriváty (poloacetaly).f.Karboxylové kyseliny: mono-, di- a trikarboxylové kyseliny; soli kyselin. Funkční deriváty kyselin: amidy, estery. Substituční deriváty kyselin: hydroxykyseliny, oxokyseliny. Deriváty kyseliny uhličité."
     },
     {
       "label": "[section] 8.",
-      "content": "9.pH silných protolytů (dotace 0/2)"
+      "content": "a.Aminokyseliny: chemické vlastnosti, reakce aminokyselin. Peptidová vazba a její vlastnosti.b.Sacharidy: Monosacharidy, oligosacharidy, polysacharidy (stavební a zásobní). Reakce sacharidů. Deriváty sacharidů, glykosidy.c.Lipidy: jednoduché, složené.d.Terpeny: mono- až polyterpeny."
     },
     {
-      "label": "[section] Titrační stechiometrie",
-      "content": "9.pH silných protolytů (dotace 0/2)"
+      "label": "[section] Chemie a biochemie přírodních látek",
+      "content": "a.Aminokyseliny: chemické vlastnosti, reakce aminokyselin. Peptidová vazba a její vlastnosti.b.Sacharidy: Monosacharidy, oligosacharidy, polysacharidy (stavební a zásobní). Reakce sacharidů. Deriváty sacharidů, glykosidy.c.Lipidy: jednoduché, složené.d.Terpeny: mono- až polyterpeny."
     },
     {
       "label": "[section] 9.",
-      "content": "10.pH slabých protolytů (dotace 0/2)"
+      "content": "a.Základy laboratorní techniky analytické chemie kvalitativní: důkazy kationtů a aniontů.b.Základy laboratorní techniky odměrného stanovení: neutralizační analýza.c.pH a jeho měření.d.Vybrané reakce halogen-, hydroxy- a dusíkatých derivátů.e.Kvalitativní a kvantitativní reakce karbonylových sloučenin a sacharidů.f.Vybrané reakce karboxylových kyselin a jejich derivátů."
     },
     {
-      "label": "[section] pH silných protolytů",
-      "content": "10.pH slabých protolytů (dotace 0/2)"
-    },
-    {
-      "label": "[section] 10.",
-      "content": "11.pH tlumivých roztoků (dotace 0/2)"
-    },
-    {
-      "label": "[section] pH slabých protolytů",
-      "content": "11.pH tlumivých roztoků (dotace 0/2)"
+      "label": "[section] Praktická laboratorní cvičení",
+      "content": "a.Základy laboratorní techniky analytické chemie kvalitativní: důkazy kationtů a aniontů.b.Základy laboratorní techniky odměrného stanovení: neutralizační analýza.c.pH a jeho měření.d.Vybrané reakce halogen-, hydroxy- a dusíkatých derivátů.e.Kvalitativní a kvantitativní reakce karbonylových sloučenin a sacharidů.f.Vybrané reakce karboxylových kyselin a jejich derivátů."
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumseminář28 hCelkem28 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumCelkem0 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Zápočet. Podmínkou získání zápočtu je 100% účast na semináři. Upřesnění podmínek uvádí podrobný sylabus daného akademického roku."
+      "content": "Zkouška. Podmínkou je získání zápočtu z praktického laboratorního cvičení. Pro zápočet je požadována účast na cvičení, dosažení předepsaného počtu bodů v průběžných testech. Upřesnění podmínek uvádí podrobný sylabus cvičení daného akademického roku."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumAktivita na přednáškách/cvičeních/seminářích100 %Celkem100 %"
+      "content": "DruhPrezenční studiumCelkem0 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:VACÍK, Jiří. 1995. Přehled středoškolské chemie. 3. vyd. Praha: SPN, 365 s. ISBN 80-85937-08-5.JANČÁŘOVÁ, Irena; JANČÁŘ, Luděk. 2009. Základní chemické výpočty. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 115 s. ISBN 978-80-7375-308-5.Doporučená:Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002"
-    },
-    {
-      "label": "[section] Základní:",
-      "content": "VACÍK, Jiří. 1995. Přehled středoškolské chemie. 3. vyd. Praha: SPN, 365 s. ISBN 80-85937-08-5.JANČÁŘOVÁ, Irena; JANČÁŘ, Luděk. 2009. Základní chemické výpočty. 2. vyd. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 115 s. ISBN 978-80-7375-308-5."
+      "content": "Doporučená:Absolínová H.: , Organická chemie - cvičení , Brno: Skriptum MZLU, 2002Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002Hrdlička P. a kol.: , Chemie obecná a analytická (cvičení), Brno: Skriptum MZLU, 1998Hrdlička P., Kos J.: , Chemie I (názvosloví a výpočtové úlohy) , Brno: Skriptum VŠZ, 1982Nedoma J., Koutník V., Hrdlička P.: , Anorganická a analytická chemie , Brno: Skriptum VŠZ, 1994Potáček M.: , Organická chemie pro biology , Brno: ES MU, 1995Pro cvičení:, ,Pro část Chemie obecná a anorganická:, ,Pro část Chemie organická:, ,Vacek L.:, Organická chemie, Praha: SPN 1981 (a další vydání)"
     },
     {
       "label": "[section] Doporučená:",
-      "content": "Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002"
+      "content": "Absolínová H.: , Organická chemie - cvičení , Brno: Skriptum MZLU, 2002Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002Hrdlička P. a kol.: , Chemie obecná a analytická (cvičení), Brno: Skriptum MZLU, 1998Hrdlička P., Kos J.: , Chemie I (názvosloví a výpočtové úlohy) , Brno: Skriptum VŠZ, 1982Nedoma J., Koutník V., Hrdlička P.: , Anorganická a analytická chemie , Brno: Skriptum VŠZ, 1994Potáček M.: , Organická chemie pro biology , Brno: ES MU, 1995Pro cvičení:, ,Pro část Chemie obecná a anorganická:, ,Pro část Chemie organická:, ,Vacek L.:, Organická chemie, Praha: SPN 1981 (a další vydání)"
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
@@ -333,7 +449,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -345,7 +461,7 @@
     },
     {
       "label": "Level of course:",
-      "content": "bachelor"
+      "content": "-- item not defined --"
     },
     {
       "label": "Course type:",
@@ -357,7 +473,7 @@
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
-      "content": "It is not possible to study the subject during the mobility."
+      "content": "-- item not defined --"
     },
     {
       "label": "Language of instruction:",
@@ -377,27 +493,19 @@
     },
     {
       "label": "Teachers:",
-      "content": "Mgr. Alena Burešová, Ph.D. (examiner, instructor)doc. RNDr. Petr Hrdlička, CSc. (examiner, instructor)Ing. Jana Pekárková, Ph.D. (examiner, instructor)RNDr. Marie Střelcová (examiner, instructor)RNDr. Lenka Vaňková, Ph.D. (examiner, instructor)doc. Mgr. Stanislava Voběrková, Ph.D. (examiner, instructor, supervisor)Ing. Martina Vršanská, Ph.D. (examiner, instructor)"
+      "content": "Ing. Helena Absolínová (examiner, instructor)Mgr. Alena Burešová, Ph.D. (examiner, instructor)Mgr. Dagmar Skopalová Štěrbová, Ph.D. (instructor)RNDr. Marie Střelcová (examiner, instructor)Ing. Vladimír Vaculovič (examiner, instructor)RNDr. Lenka Vaňková, Ph.D. (examiner, instructor)doc. Mgr. Stanislava Voběrková, Ph.D. (examiner, instructor, supervisor)"
     },
     {
       "label": "Prerequisites:",
       "content": "none"
     },
     {
-      "label": "Active lecture/seminar/workshop/tutorial participation",
-      "content": "100 %"
-    },
-    {
       "label": "Total",
-      "content": "100 %"
-    },
-    {
-      "label": "Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002",
-      "content": "Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002"
+      "content": "0 %"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2021/2022, WS 2020/2021 (and older)"
+      "content": "WS 2026/2027, WS 2025/2026, WS 2024/2025, WS 2023/2024, WS 2022/2023, WS 2020/2021 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -413,7 +521,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -429,7 +537,7 @@
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
-      "content": "Level of course: bachelor"
+      "content": "Level of course: -- item not defined --"
     },
     {
       "label": "[section] Level of course:",
@@ -441,7 +549,7 @@
     },
     {
       "label": "[section] Type of delivery:",
-      "content": "Mode of delivery for our mobility students abroad: It is not possible to study the subject during the mobility."
+      "content": "Mode of delivery for our mobility students abroad: -- item not defined --"
     },
     {
       "label": "[section] Mode of delivery for our mobility students abroad:",
@@ -461,7 +569,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Mgr. Alena Burešová, Ph.D. (examiner, instructor)doc. RNDr. Petr Hrdlička, CSc. (examiner, instructor)Ing. Jana Pekárková, Ph.D. (examiner, instructor)RNDr. Marie Střelcová (examiner, instructor)RNDr. Lenka Vaňková, Ph.D. (examiner, instructor)doc. Mgr. Stanislava Voběrková, Ph.D. (examiner, instructor, supervisor)Ing. Martina Vršanská, Ph.D. (examiner, instructor)"
+      "content": "Teachers: Ing. Helena Absolínová (examiner, instructor)Mgr. Alena Burešová, Ph.D. (examiner, instructor)Mgr. Dagmar Skopalová Štěrbová, Ph.D. (instructor)RNDr. Marie Střelcová (examiner, instructor)Ing. Vladimír Vaculovič (examiner, instructor)RNDr. Lenka Vaňková, Ph.D. (examiner, instructor)doc. Mgr. Stanislava Voběrková, Ph.D. (examiner, instructor, supervisor)"
     },
     {
       "label": "[section] Teachers:",
@@ -469,11 +577,11 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyTeacherEntryFrequencyCapacityMonday11.00-12.50D04B-ZOTB-ATEB-AEG P. HrdličkaWorkshopEvery week18Tuesday9.00-10.50D05B-ZOTB-ATEB-AEG J. PekárkováWorkshopEvery week30Tuesday9.00-10.50D04B-MBI1S. VoběrkováWorkshopEvery week18Tuesday11.00-12.50D05B-MBI1A. BurešováWorkshopEvery week25Tuesday11.00-12.50D04B-ZOTB-ATEB-AEG J. PekárkováWorkshopEvery week18Tuesday13.00-14.50D05B-MBI1M. StřelcováWorkshopEvery week18Tuesday13.00-14.50D06B-ZOTB-ATEB-AEG P. HrdličkaWorkshopEvery week18Wednesday7.00-8.50D06B-ZOTB-ATEB-AEG A. BurešováWorkshopEvery week25Wednesday11.00-12.50D05B-ZOTB-ATEB-AEG A. BurešováWorkshopEvery week30Thursday7.00-8.50D05B-ZOTB-ATEB-AEG M. StřelcováWorkshopEvery week18Thursday9.00-10.50D06B-ZOTB-ATEB-AEG M. VršanskáWorkshopEvery week25Thursday11.00-12.50D06B-ZOTB-ATEB-AEG M. VršanskáWorkshopEvery week18Thursday15.00-16.50D04B-ZOTB-ATEB-AEG P. HrdličkaWorkshopEvery week18"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityMonday11.00-12.50D06B-MBI12S. VoběrkováSeminarEvery week18Monday13.00-14.50D06B-MBI11A. BurešováSeminarEvery week18Monday17.00-18.50D06B-MBI13A. BurešováSeminarEvery week18Tuesday7.00-8.50A32bB-ZOTB-ATEB-AEG H. AbsolínováSeminarEvery week25Tuesday9.00-10.50A32bB-ZOTB-ATEB-AEG A. BurešováSeminarEvery week25Tuesday11.00-12.50A32bB-ZOTB-ATEB-AEG L. VaňkováSeminarEvery week25Tuesday13.00-14.50A32bB-ZOTB-ATEB-AEG H. AbsolínováSeminarEvery week27Wednesday7.00-8.50A32bB-ZOTB-ATEB-AEG H. AbsolínováSeminarEvery week25Wednesday9.00-10.50A32bB-ZOTB-ATEB-AEG V. VaculovičSeminarEvery week25Wednesday11.00-12.50A32bB-ZOTB-ATEB-AEG V. VaculovičSeminarEvery week25Wednesday11.00-12.50M1.09B-MBIB-MBI1145A. BurešováSeminarEvery week30"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The course explains to students the nomenclature of inorganic and organic compounds and basic chemical calculations, the mastery of which is the basis of further study of related subjects of chemical specialization."
+      "content": "-- item not defined --"
     },
     {
       "label": "[section] Course content:",
@@ -481,27 +589,19 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceseminar28 hTotal28 h"
-    },
-    {
-      "label": "[section] Assessment methods:",
-      "content": "Credit. The condition for obtaining the credit is 100% participation in the seminar. The specification of the conditions is given in the detailed syllabus of the actual academic year."
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceTotal0 h"
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceActive lecture/seminar/workshop/tutorial participation100 %Total100 %"
+      "content": "Requirement typeDaily attendanceTotal0 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:VACÍK, Jiří. 1995. Přehled středoškolské chemie. 3rd ed. Praha: SPN, 365 p. ISBN 80-85937-08-5.JANČÁŘOVÁ, Irena; JANČÁŘ, Luděk. 2009. Základní chemické výpočty. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 115 p. ISBN 978-80-7375-308-5.Recommended:Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002"
-    },
-    {
-      "label": "[section] Basic:",
-      "content": "VACÍK, Jiří. 1995. Přehled středoškolské chemie. 3rd ed. Praha: SPN, 365 p. ISBN 80-85937-08-5.JANČÁŘOVÁ, Irena; JANČÁŘ, Luděk. 2009. Základní chemické výpočty. 2nd ed. Brno: Mendelova zemědělská a lesnická univerzita v Brně, 115 p. ISBN 978-80-7375-308-5."
+      "content": "Recommended:Absolínová H.: , Organická chemie - cvičení , Brno: Skriptum MZLU, 2002Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002Hrdlička P. a kol.: , Chemie obecná a analytická (cvičení), Brno: Skriptum MZLU, 1998Hrdlička P., Kos J.: , Chemie I (názvosloví a výpočtové úlohy) , Brno: Skriptum VŠZ, 1982Nedoma J., Koutník V., Hrdlička P.: , Anorganická a analytická chemie , Brno: Skriptum VŠZ, 1994Potáček M.: , Organická chemie pro biology , Brno: ES MU, 1995Pro cvičení:, ,Pro část Chemie obecná a anorganická:, ,Pro část Chemie organická:, ,Vacek L.:, Organická chemie, Praha: SPN 1981 (a další vydání)"
     },
     {
       "label": "[section] Recommended:",
-      "content": "Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002"
+      "content": "Absolínová H.: , Organická chemie - cvičení , Brno: Skriptum MZLU, 2002Fikr J., Kahovec J.: , Názvosloví organické chemie , Olomouc: Rubico, 2002Hrdlička P. a kol.: , Chemie obecná a analytická (cvičení), Brno: Skriptum MZLU, 1998Hrdlička P., Kos J.: , Chemie I (názvosloví a výpočtové úlohy) , Brno: Skriptum VŠZ, 1982Nedoma J., Koutník V., Hrdlička P.: , Anorganická a analytická chemie , Brno: Skriptum VŠZ, 1994Potáček M.: , Organická chemie pro biology , Brno: ES MU, 1995Pro cvičení:, ,Pro část Chemie obecná a anorganická:, ,Pro část Chemie organická:, ,Vacek L.:, Organická chemie, Praha: SPN 1981 (a další vydání)"
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
@@ -512,6 +612,6 @@
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:24:48",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:34:53",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

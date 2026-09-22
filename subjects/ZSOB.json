@@ -1,11 +1,13 @@
 {
   "courseCode": "ZSOB",
-  "name": "Půdní biologie a biochemie (v AJ)",
-  "nameCs": "Půdní biologie a biochemie (v AJ)",
-  "nameEn": "Soil Biology and Biochemistry",
+  "name": "Soil Biology",
+  "nameCs": "Soil Biology",
+  "nameEn": "Soil Biology",
   "predmetId": "156975",
-  "facultyId": 38,
-  "aliases": [],
+  "facultyId": 79,
+  "aliases": [
+    "SBLG"
+  ],
   "teachers": [],
   "stats": [
     {
@@ -204,5 +206,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

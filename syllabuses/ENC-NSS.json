@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "LS 2024/2025"
+      "content": "LS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, etapa A 0/0, etapa B 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "Stupeň studia:",
@@ -59,7 +59,7 @@
     },
     {
       "label": "Vyučující:",
-      "content": "Ing. Oldřich Faldík, Ph.D. (přednášející, tutor)Ing. Miroslav Jaroš (cvičící, přednášející)Ing. David Klepáček (cvičící, tutor)Ing. Jan Kolomazník, Ph.D. (garant, tutor)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor)"
+      "content": "Ing. Oldřich Faldík, Ph.D. (přednášející)Ing. Jan Kolomazník, Ph.D. (cvičící, garant, přednášející)Ing. Pavel Kostelník, Ph.D. (přednášející)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející)"
     },
     {
       "label": "Prerekvizity:",
@@ -191,7 +191,7 @@
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "LS 2025/2026, LS 2023/2024, LS 2022/2023, LS 2021/2022 (a starší)"
+      "content": "LS 2026/2027, LS 2025/2026, LS 2024/2025, LS 2023/2024, LS 2022/2023 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -207,7 +207,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: LS 2024/2025"
+      "content": "Semestr: LS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -215,11 +215,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, etapa A 0/0, etapa B 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] zkouška (5 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, etapa A 0/0, etapa B 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
+      "content": "Forma výuky a dotace hodin: prezenční, 1/2 (počet hodin přednášek týdně / počet hodin cvičení týdně)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -255,7 +255,7 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: Ing. Oldřich Faldík, Ph.D. (přednášející, tutor)Ing. Miroslav Jaroš (cvičící, přednášející)Ing. David Klepáček (cvičící, tutor)Ing. Jan Kolomazník, Ph.D. (garant, tutor)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející, tutor, zkoušející)Ing. et Ing. Michaela Veselá (cvičící, tutor)"
+      "content": "Vyučující: Ing. Oldřich Faldík, Ph.D. (přednášející)Ing. Jan Kolomazník, Ph.D. (cvičící, garant, přednášející)Ing. Pavel Kostelník, Ph.D. (přednášející)doc. Ing. Oldřich Trenz, Ph.D. (cvičící, přednášející)"
     },
     {
       "label": "[section] Vyučující:",
@@ -263,7 +263,7 @@
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborVyučujícíAkceČetnostKapacitaPoznámkaÚterý15.00-16.50Q16N-OIO. Trenz, O. Faldík, M. JarošPřednáškaKaždý týden80 Středa13.00-16.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekCvičeníKaždý týden22Cvičení z ASS zvolte ve stejnou dobu.Čtvrtek11.00-14.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekCvičeníKaždý týden22Cvičení z ASS zvolte ve stejnou dobu."
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostVyučujícíAkceČetnostKapacitaPondělí13.00-14.50Q05J. KolomazníkCvičeníKaždý týden24Úterý7.00-8.50Q16J. Kolomazník, O. Faldík, P. Kostelník, O. TrenzPřednáškaSudý týden80Úterý11.00-12.50Q05O. TrenzCvičeníKaždý týden24"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
@@ -323,7 +323,7 @@
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumpřednáška14 hcvičení28 hprojektová práce74 hpříprava na zkoušku24 hCelkem140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumpřednáška14 hcvičení28 hprojektová práce74 hpříprava na zkoušku24 hCelkem140 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
@@ -343,7 +343,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2024/2025Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2024/2025"
+      "content": "Obor N-SI-EI Ekonomická informatika, prezenční forma, počáteční období LS 2020/2021Program N-OI Otevřená informatika, prezenční forma, počáteční období ZS 2021/2022Program N-OI Otevřená informatika, prezenční forma, počáteční období LS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -365,7 +365,7 @@
     },
     {
       "label": "Semester:",
-      "content": "SS 2024/2025"
+      "content": "SS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -373,7 +373,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, period A 0/0, period B 2/4 (hours of lectures per week / hours of seminars per week)"
+      "content": "full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "Level of course:",
@@ -409,7 +409,7 @@
     },
     {
       "label": "Teachers:",
-      "content": "Ing. Oldřich Faldík, Ph.D. (lecturer, tutor)Ing. Miroslav Jaroš (instructor, lecturer)Ing. David Klepáček (instructor, tutor)Ing. Jan Kolomazník, Ph.D. (supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, tutor)Ing. et Ing. Michaela Veselá (instructor, tutor)"
+      "content": "Ing. Oldřich Faldík, Ph.D. (lecturer)Ing. Jan Kolomazník, Ph.D. (instructor, lecturer, supervisor)Ing. Pavel Kostelník, Ph.D. (lecturer)doc. Ing. Oldřich Trenz, Ph.D. (instructor, lecturer)"
     },
     {
       "label": "Prerequisites:",
@@ -541,7 +541,7 @@
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "SS 2025/2026, SS 2023/2024, SS 2022/2023, SS 2021/2022 (and older)"
+      "content": "SS 2026/2027, SS 2025/2026, SS 2024/2025, SS 2023/2024, SS 2022/2023 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -557,7 +557,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: SS 2024/2025"
+      "content": "Semester: SS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -565,11 +565,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, period A 0/0, period B 2/4 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Exam (5 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, period A 0/0, period B 2/4 (hours of lectures per week / hours of seminars per week)"
+      "content": "Mode of delivery and timetabled classes: full-time, 1/2 (hours of lectures per week / hours of seminars per week)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -605,7 +605,7 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: Ing. Oldřich Faldík, Ph.D. (lecturer, tutor)Ing. Miroslav Jaroš (instructor, lecturer)Ing. David Klepáček (instructor, tutor)Ing. Jan Kolomazník, Ph.D. (supervisor, tutor)doc. Ing. Oldřich Trenz, Ph.D. (examiner, instructor, lecturer, tutor)Ing. et Ing. Michaela Veselá (instructor, tutor)"
+      "content": "Teachers: Ing. Oldřich Faldík, Ph.D. (lecturer)Ing. Jan Kolomazník, Ph.D. (instructor, lecturer, supervisor)Ing. Pavel Kostelník, Ph.D. (lecturer)doc. Ing. Oldřich Trenz, Ph.D. (instructor, lecturer)"
     },
     {
       "label": "[section] Teachers:",
@@ -613,7 +613,7 @@
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyTeacherEntryFrequencyCapacityNoteTuesday15.00-16.50Q16N-OIO. Trenz, O. Faldík, M. JarošLectureEvery week80 Wednesday13.00-16.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekSeminarEvery week22Cvičení z ASS zvolte ve stejnou dobu.Thursday11.00-14.50Q05N-OIO. Trenz, M. Jaroš, D. KlepáčekSeminarEvery week22Cvičení z ASS zvolte ve stejnou dobu."
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomTeacherEntryFrequencyCapacityMonday13.00-14.50Q05J. KolomazníkSeminarEvery week24Tuesday7.00-8.50Q16J. Kolomazník, O. Faldík, P. Kostelník, O. TrenzLectureEven week80Tuesday11.00-12.50Q05O. TrenzSeminarEvery week24"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
@@ -673,7 +673,7 @@
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendancelecture14 hpractice28 hproject work74 hpreparation for exam24 hTotal140 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendancelecture14 hpractice28 hproject work74 hpreparation for exam24 hTotal140 h"
     },
     {
       "label": "[section] Assessment methods:",
@@ -693,13 +693,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme C-OI Open Informatics, full-time form, initial period WS 2024/2025Programme C-OI Open Informatics, full-time form, initial period SS 2024/2025"
+      "content": "Field of study C-SE-EI Economic informatics, full-time form, initial period SS 2020/2021Programme C-OI Open Informatics, full-time form, initial period WS 2021/2022Programme C-OI Open Informatics, full-time form, initial period SS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:58:56",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 08:15:35",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

@@ -1,13 +1,52 @@
 {
   "courseCode": "ZLENC",
-  "name": "Ekologie krajiny (v AJ)",
-  "nameCs": "Ekologie krajiny (v AJ)",
-  "nameEn": "Landscape Ecology",
-  "predmetId": "156971",
-  "facultyId": 38,
+  "name": "Landscape Ecology and Nature Conservation",
+  "nameCs": "Landscape Ecology and Nature Conservation",
+  "nameEn": "Landscape Ecology and Nature Conservation",
+  "predmetId": "162099",
+  "facultyId": 79,
   "aliases": [],
   "teachers": [],
   "stats": [
+    {
+      "semesterName": "LS 2025/2026 - LDF",
+      "semesterId": "813",
+      "year": 2025,
+      "type": "exam",
+      "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=813;predmet=162099;lang=cz",
+      "totalPass": 3,
+      "totalFail": 0,
+      "terms": [
+        {
+          "term": "Všechny termíny",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        },
+        {
+          "term": "Řádný termín",
+          "grades": {
+            "A": 1,
+            "B": 0,
+            "C": 2,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "FN": 0
+          },
+          "pass": 3,
+          "fail": 0
+        }
+      ]
+    },
     {
       "semesterName": "LS 2024/2025 - LDF",
       "semesterId": "777",
@@ -221,38 +260,29 @@
       "semesterName": "LS 2009/2010 - REK",
       "semesterId": "199",
       "year": 2009,
-      "type": "exam",
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=199;predmet=48389;lang=cz",
-      "totalPass": 24,
+      "totalPass": 2,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 19,
-            "B": 5,
+            "A": 0,
+            "B": 0,
             "C": 0,
             "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 24,
-          "fail": 0
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 19,
-            "B": 5,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 24,
-          "fail": 0
+          "pass": 2,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 2,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -260,38 +290,29 @@
       "semesterName": "LS 2008/2009 - REK",
       "semesterId": "174",
       "year": 2008,
-      "type": "exam",
+      "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=79;obdobi=174;predmet=41661;lang=cz",
-      "totalPass": 23,
+      "totalPass": 1,
       "totalFail": 0,
       "terms": [
         {
           "term": "Všechny termíny",
           "grades": {
-            "A": 19,
-            "B": 4,
+            "A": 0,
+            "B": 0,
             "C": 0,
             "D": 0,
             "E": 0,
             "F": 0,
             "FN": 0
           },
-          "pass": 23,
-          "fail": 0
-        },
-        {
-          "term": "Řádný termín",
-          "grades": {
-            "A": 19,
-            "B": 4,
-            "C": 0,
-            "D": 0,
-            "E": 0,
-            "F": 0,
-            "FN": 0
-          },
-          "pass": 23,
-          "fail": 0
+          "pass": 1,
+          "fail": 0,
+          "creditGrades": {
+            "zap": 1,
+            "nezap": 0,
+            "zapNedost": 0
+          }
         }
       ]
     },
@@ -413,5 +434,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }

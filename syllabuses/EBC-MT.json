@@ -15,7 +15,7 @@
     },
     {
       "label": "Semestr:",
-      "content": "ZS 2025/2026"
+      "content": "ZS 2021/2022"
     },
     {
       "label": "Způsob ukončení a počet kreditů:",
@@ -23,7 +23,7 @@
     },
     {
       "label": "Forma výuky a dotace hodin:",
-      "content": "prezenční, 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "prezenční, 4/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "Stupeň studia:",
@@ -35,7 +35,7 @@
     },
     {
       "label": "Typ výuky předmětu:",
-      "content": "normální, konzultační"
+      "content": "normální"
     },
     {
       "label": "Možnost studia předmětu během zahraniční mobility:",
@@ -47,7 +47,7 @@
     },
     {
       "label": "Garant předmětu:",
-      "content": "prof. Ing. Mgr. Jitka Janová, Ph.D."
+      "content": "prof. Mgr. David Hampel, Ph.D."
     },
     {
       "label": "Garantující ústav:",
@@ -59,11 +59,11 @@
     },
     {
       "label": "Vyučující:",
-      "content": "RNDr. Jaromír Běláček, CSc. (cvičící)prof. Ing. Mgr. Jitka Janová, Ph.D. (garant, přednášející, zkoušející)Mgr. Tomáš Konderla, Ph.D. (cvičící)Mgr. Ing. Markéta Matulová, Ph.D. (cvičící, přednášející, zkoušející)RNDr. Dana Říhová, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "RNDr. Jaromír Běláček, CSc. (cvičící, zkoušející)prof. Mgr. David Hampel, Ph.D. (garant, přednášející)Mgr. Tomáš Konderla, Ph.D. (cvičící, zkoušející)Ing. Michal Polanský, Ph.D. (cvičící, zkoušející)RNDr. Dana Říhová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jakub Šácha, Ph.D. (cvičící, zkoušející)RNDr. Lenka Viskotová, Ph.D. (přednášející)"
     },
     {
       "label": "Prerekvizity:",
-      "content": "ne (Matematika I a Matematika II) a ne Matematika 1 a ne Matematika 2"
+      "content": "ne Státní bakalářská zkouška a ne Matematika I a ne Matematika II"
     },
     {
       "label": "1.",
@@ -83,7 +83,7 @@
     },
     {
       "label": "2.",
-      "content": "Diferenciální počet funkcí jedné proměnné (dotace 6/12)"
+      "content": "Diferenciální počet funkcí jedné proměnné (dotace 8/8)"
     },
     {
       "label": "a.",
@@ -95,11 +95,11 @@
     },
     {
       "label": "c.",
-      "content": "Funkce používané v ekonomii a pravděpodobnosti"
+      "content": "Funkce používané v ekonomii"
     },
     {
       "label": "3.",
-      "content": "Aplikace diferenciálního počtu (dotace 4/10)"
+      "content": "Aplikace diferenciálního počtu (dotace 10/10)"
     },
     {
       "label": "a.",
@@ -111,7 +111,7 @@
     },
     {
       "label": "4.",
-      "content": "Lineární algebra (dotace 6/12)"
+      "content": "Lineární algebra (dotace 8/8)"
     },
     {
       "label": "a.",
@@ -130,8 +130,12 @@
       "content": "Soustavy lineárních rovnic"
     },
     {
+      "label": "e.",
+      "content": "Úloha matic v regresi"
+    },
+    {
       "label": "5.",
-      "content": "Diferenciální počet funkcí více proměnných (dotace 4/8)"
+      "content": "Diferenciální počet funkcí více proměnných (dotace 8/10)"
     },
     {
       "label": "a.",
@@ -143,15 +147,23 @@
     },
     {
       "label": "c.",
-      "content": "Lokální extrémy"
+      "content": "Lokální, vázané a globální extrémy"
     },
     {
       "label": "d.",
+      "content": "Lagrangeův multiplikátor"
+    },
+    {
+      "label": "e.",
+      "content": "Metoda nejmenších čtverců"
+    },
+    {
+      "label": "f.",
       "content": "Funkce více proměnných používané v ekonomii"
     },
     {
       "label": "6.",
-      "content": "Integrální počet funkce jedné proměnné (dotace 6/12)"
+      "content": "Integrální počet funkce jedné proměnné (dotace 8/8)"
     },
     {
       "label": "a.",
@@ -167,11 +179,59 @@
     },
     {
       "label": "d.",
-      "content": "Aplikace integrálního počtu v ekonomii a pravděpodobnosti"
+      "content": "Aplikace integrálního počtu v ekonomii"
+    },
+    {
+      "label": "7.",
+      "content": "Diferenciální a diferenční rovnice (dotace 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Diferenciální a diferenční rovnice v ekonomii a ve financích"
+    },
+    {
+      "label": "b.",
+      "content": "Vybrané metody řešení diferenciálních rovnic 1. řádu"
+    },
+    {
+      "label": "8.",
+      "content": "Základy pravděpodobnosti (dotace 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Klasická pravděpodobnost"
+    },
+    {
+      "label": "b.",
+      "content": "Podmíněná pravděpodobnost"
+    },
+    {
+      "label": "c.",
+      "content": "Bayesova věta"
+    },
+    {
+      "label": "d.",
+      "content": "Stochastická nezávislost"
+    },
+    {
+      "label": "9.",
+      "content": "Náhodná veličina (dotace 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Diskrétní a spojitá náhodná veličina"
+    },
+    {
+      "label": "b.",
+      "content": "Rozdělení náhodné veličiny a jeho charakteristiky"
+    },
+    {
+      "label": "c.",
+      "content": "Kvantily"
     },
     {
       "label": "Vyučován v předchozích obdobích:",
-      "content": "ZS 2026/2027, LS 2025/2026, LS 2024/2025, ZS 2024/2025, LS 2023/2024, ZS 2023/2024 (a starší)"
+      "content": "LS 2026/2027, ZS 2026/2027, LS 2025/2026, ZS 2025/2026, LS 2024/2025, ZS 2024/2025 (a starší)"
     },
     {
       "label": "Místo výuky:",
@@ -187,7 +247,7 @@
     },
     {
       "label": "[section] Název předmětu anglicky:",
-      "content": "Semestr: ZS 2025/2026"
+      "content": "Semestr: ZS 2021/2022"
     },
     {
       "label": "[section] Semestr:",
@@ -195,11 +255,11 @@
     },
     {
       "label": "[section] Způsob ukončení a počet kreditů:",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 4/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] zkouška (6 kreditů)",
-      "content": "Forma výuky a dotace hodin: prezenční, 2/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
+      "content": "Forma výuky a dotace hodin: prezenční, 4/4 (počet hodin přednášek týdně / počet hodin cvičení týdně)kombinovaná, 28/0 (počet hodin přednášek za období / počet hodin cvičení za období)"
     },
     {
       "label": "[section] Forma výuky a dotace hodin:",
@@ -211,7 +271,7 @@
     },
     {
       "label": "[section] Typ předmětu:",
-      "content": "Typ výuky předmětu: normální, konzultační"
+      "content": "Typ výuky předmětu: normální"
     },
     {
       "label": "[section] Typ výuky předmětu:",
@@ -223,7 +283,7 @@
     },
     {
       "label": "[section] Jazyk výuky:",
-      "content": "Garant předmětu: prof. Ing. Mgr. Jitka Janová, Ph.D."
+      "content": "Garant předmětu: prof. Mgr. David Hampel, Ph.D."
     },
     {
       "label": "[section] Garant předmětu:",
@@ -235,23 +295,23 @@
     },
     {
       "label": "[section] Fakulta:",
-      "content": "Vyučující: RNDr. Jaromír Běláček, CSc. (cvičící)prof. Ing. Mgr. Jitka Janová, Ph.D. (garant, přednášející, zkoušející)Mgr. Tomáš Konderla, Ph.D. (cvičící)Mgr. Ing. Markéta Matulová, Ph.D. (cvičící, přednášející, zkoušející)RNDr. Dana Říhová, Ph.D. (cvičící, přednášející, zkoušející)"
+      "content": "Vyučující: RNDr. Jaromír Běláček, CSc. (cvičící, zkoušející)prof. Mgr. David Hampel, Ph.D. (garant, přednášející)Mgr. Tomáš Konderla, Ph.D. (cvičící, zkoušející)Ing. Michal Polanský, Ph.D. (cvičící, zkoušející)RNDr. Dana Říhová, Ph.D. (cvičící, přednášející, zkoušející)Ing. Jakub Šácha, Ph.D. (cvičící, zkoušející)RNDr. Lenka Viskotová, Ph.D. (přednášející)"
     },
     {
       "label": "[section] Vyučující:",
-      "content": "Prerekvizity: ne (Matematika I a Matematika II) a ne Matematika 1 a ne Matematika 2"
+      "content": "Prerekvizity: ne Státní bakalářská zkouška a ne Matematika I a ne Matematika II"
     },
     {
       "label": "[section] Rozvrh v aktuálním období:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaÚterý11.00-12.50Q01B-FB-EM 1123 D. Říhová, J. Janová, M. MatulováPřednáškaKaždý týden650Úterý13.00-14.50Q32 23 J. BěláčekCvičeníKaždý týden37Úterý13.00-14.50Q22B-FB-F 112313 M. Matulová, T. Konderla, D. ŘíhováCvičeníKaždý týden35Úterý15.00-16.50Q32B-EMB-EM 11231011 M. MatulováCvičeníKaždý týden35Úterý15.00-16.50Q22B-EMB-EM 112312 D. ŘíhováCvičeníKaždý týden35Úterý15.00-16.50Q25B-EM 1233 J. BěláčekCvičeníKaždý týden35Středa9.00-10.50Q48B-EMB-EM 112367 M. Matulová, T. KonderlaCvičeníKaždý týden40Středa9.00-10.50Q32B-EMB-EM 112345 D. ŘíhováCvičeníKaždý týden35Středa11.00-12.50Q32B-FB-F 112345 J. BěláčekCvičeníKaždý týden35Středa11.00-12.50Q22B-F 1232 D. ŘíhováCvičeníKaždý týden35Středa15.00-16.50Q32B-EMB-EM 11231213 D. Říhová, M. MatulováCvičeníKaždý týden36Středa15.00-16.50Q23B-EMB-EM 112389 J. BěláčekCvičeníKaždý týden35Pátek9.00-12.50Q03B-EAMB-EAMB-EM231 51D. ŘíhováPřednáškaNepravidelně170"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Poř.DenOd-doMístnostOborRočníkSkupinaVyučujícíAkceČetnostKapacitaPoznámkaPondělí9.00-10.50Q42B-EAM 1237 J. Běláček, M. PolanskýCvičeníKaždý týden35 Pondělí11.00-12.50Q22B-EAM 1234 T. Konderla, D. ŘíhováCvičeníKaždý týden35 Pondělí11.00-12.50Q42B-EAM 1238 J. BěláčekCvičeníKaždý týden35 Pondělí13.00-14.50Q01B-EAM 123 D. Hampel, L. ViskotováPřednáškaKaždý týden500Přednáška 16.9. bude výjímečně přesunuta na dobu 17-19. Pondělí15.00-16.50Q42B-EAM 1239 J. Běláček, M. PolanskýCvičeníKaždý týden35 Úterý9.00-10.50Q45B-EAM 1232 J. BěláčekCvičeníKaždý týden35 Úterý9.00-10.50Q48B-EAM 12311 D. ŘíhováCvičeníKaždý týden34 Úterý11.00-12.50Q44B-EAM 1235 T. KonderlaCvičeníKaždý týden35 Úterý11.00-12.50Q43B-EAM 12310 D. Říhová, M. PolanskýCvičeníKaždý týden34 Úterý11.00-12.50Q48B-EAM 1233 J. BěláčekCvičeníKaždý týden37 Úterý15.00-16.50Q48 123 J. BěláčekCvičeníKaždý týden35 Úterý15.00-16.50Q32B-EAM 1236 D. Říhová, M. PolanskýCvičeníKaždý týden35 Středa9.00-10.50Q48 123 T. Konderla, M. PolanskýCvičeníKaždý týden35 Středa11.00-12.50Q32B-EAM 1231 T. KonderlaCvičeníKaždý týden35 Pátek14.00-17.50Q03B-EAM 11251 D. ŘíhováPřednáškaNepravidelně170"
     },
     {
       "label": "[section] Cíl předmětu a studijní výstupy:",
-      "content": "Student dosáhne takových matematických znalostí a dovedností, které jsou potřebné k řešení základních problémů v ekonomických disciplínách, pravděpodobnosti, a částečně v operačním výzkumu. Student bude schopen aplikovat získané matematické poznatky v navazujících předmětech."
+      "content": "Student dosáhne takových matematických znalostí a dovedností, které jsou potřebné k řešení problémů v ekonomických disciplínách, statistice a operačním výzkumu. Student bude schopen aplikovat získané matematické poznatky v navazujících předmětech."
     },
     {
       "label": "[section] Obsah předmětu:",
-      "content": "1.Principy matematického uvažování (dotace 2/2) a.Matematická symbolikab.Množinové operacec.Výroková logika2.Diferenciální počet funkcí jedné proměnné (dotace 6/12) a.Funkce a jejich vlastnostib.Limita funkce, spojitost, derivacec.Funkce používané v ekonomii a pravděpodobnosti3.Aplikace diferenciálního počtu (dotace 4/10) a.Analýza průběhu funkceb.Extremální úlohy4.Lineární algebra (dotace 6/12) a.Matice a operace s nimib.Hodnost maticec.Determinantd.Soustavy lineárních rovnic5.Diferenciální počet funkcí více proměnných (dotace 4/8) a.Funkce dvou proměnných a jejich definiční oboryb.Parciální derivacec.Lokální extrémyd.Funkce více proměnných používané v ekonomii6.Integrální počet funkce jedné proměnné (dotace 6/12) a.Neurčitý integrálb.Určitý integrálc.Nevlastní integráld.Aplikace integrálního počtu v ekonomii a pravděpodobnosti"
+      "content": "1.Principy matematického uvažování (dotace 2/2) a.Matematická symbolikab.Množinové operacec.Výroková logika2.Diferenciální počet funkcí jedné proměnné (dotace 8/8) a.Funkce a jejich vlastnostib.Limita funkce, spojitost, derivacec.Funkce používané v ekonomii3.Aplikace diferenciálního počtu (dotace 10/10) a.Analýza průběhu funkceb.Extremální úlohy4.Lineární algebra (dotace 8/8) a.Matice a operace s nimib.Hodnost maticec.Determinantd.Soustavy lineárních rovnice.Úloha matic v regresi5.Diferenciální počet funkcí více proměnných (dotace 8/10) a.Funkce dvou proměnných a jejich definiční oboryb.Parciální derivacec.Lokální, vázané a globální extrémyd.Lagrangeův multiplikátore.Metoda nejmenších čtvercůf.Funkce více proměnných používané v ekonomii6.Integrální počet funkce jedné proměnné (dotace 8/8) a.Neurčitý integrálb.Určitý integrálc.Nevlastní integráld.Aplikace integrálního počtu v ekonomii7.Diferenciální a diferenční rovnice (dotace 4/2) a.Diferenciální a diferenční rovnice v ekonomii a ve financíchb.Vybrané metody řešení diferenciálních rovnic 1. řádu8.Základy pravděpodobnosti (dotace 2/2) a.Klasická pravděpodobnostb.Podmíněná pravděpodobnostc.Bayesova větad.Stochastická nezávislost9.Náhodná veličina (dotace 6/6) a.Diskrétní a spojitá náhodná veličinab.Rozdělení náhodné veličiny a jeho charakteristikyc.Kvantily"
     },
     {
       "label": "[section] 1.",
@@ -263,11 +323,11 @@
     },
     {
       "label": "[section] 2.",
-      "content": "a.Funkce a jejich vlastnostib.Limita funkce, spojitost, derivacec.Funkce používané v ekonomii a pravděpodobnosti"
+      "content": "a.Funkce a jejich vlastnostib.Limita funkce, spojitost, derivacec.Funkce používané v ekonomii"
     },
     {
       "label": "[section] Diferenciální počet funkcí jedné proměnné",
-      "content": "a.Funkce a jejich vlastnostib.Limita funkce, spojitost, derivacec.Funkce používané v ekonomii a pravděpodobnosti"
+      "content": "a.Funkce a jejich vlastnostib.Limita funkce, spojitost, derivacec.Funkce používané v ekonomii"
     },
     {
       "label": "[section] 3.",
@@ -279,47 +339,71 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.Matice a operace s nimib.Hodnost maticec.Determinantd.Soustavy lineárních rovnic"
+      "content": "a.Matice a operace s nimib.Hodnost maticec.Determinantd.Soustavy lineárních rovnice.Úloha matic v regresi"
     },
     {
       "label": "[section] Lineární algebra",
-      "content": "a.Matice a operace s nimib.Hodnost maticec.Determinantd.Soustavy lineárních rovnic"
+      "content": "a.Matice a operace s nimib.Hodnost maticec.Determinantd.Soustavy lineárních rovnice.Úloha matic v regresi"
     },
     {
       "label": "[section] 5.",
-      "content": "a.Funkce dvou proměnných a jejich definiční oboryb.Parciální derivacec.Lokální extrémyd.Funkce více proměnných používané v ekonomii"
+      "content": "a.Funkce dvou proměnných a jejich definiční oboryb.Parciální derivacec.Lokální, vázané a globální extrémyd.Lagrangeův multiplikátore.Metoda nejmenších čtvercůf.Funkce více proměnných používané v ekonomii"
     },
     {
       "label": "[section] Diferenciální počet funkcí více proměnných",
-      "content": "a.Funkce dvou proměnných a jejich definiční oboryb.Parciální derivacec.Lokální extrémyd.Funkce více proměnných používané v ekonomii"
+      "content": "a.Funkce dvou proměnných a jejich definiční oboryb.Parciální derivacec.Lokální, vázané a globální extrémyd.Lagrangeův multiplikátore.Metoda nejmenších čtvercůf.Funkce více proměnných používané v ekonomii"
     },
     {
       "label": "[section] 6.",
-      "content": "a.Neurčitý integrálb.Určitý integrálc.Nevlastní integráld.Aplikace integrálního počtu v ekonomii a pravděpodobnosti"
+      "content": "a.Neurčitý integrálb.Určitý integrálc.Nevlastní integráld.Aplikace integrálního počtu v ekonomii"
     },
     {
       "label": "[section] Integrální počet funkce jedné proměnné",
-      "content": "a.Neurčitý integrálb.Určitý integrálc.Nevlastní integráld.Aplikace integrálního počtu v ekonomii a pravděpodobnosti"
+      "content": "a.Neurčitý integrálb.Určitý integrálc.Nevlastní integráld.Aplikace integrálního počtu v ekonomii"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Diferenciální a diferenční rovnice v ekonomii a ve financíchb.Vybrané metody řešení diferenciálních rovnic 1. řádu"
+    },
+    {
+      "label": "[section] Diferenciální a diferenční rovnice",
+      "content": "a.Diferenciální a diferenční rovnice v ekonomii a ve financíchb.Vybrané metody řešení diferenciálních rovnic 1. řádu"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Klasická pravděpodobnostb.Podmíněná pravděpodobnostc.Bayesova větad.Stochastická nezávislost"
+    },
+    {
+      "label": "[section] Základy pravděpodobnosti",
+      "content": "a.Klasická pravděpodobnostb.Podmíněná pravděpodobnostc.Bayesova větad.Stochastická nezávislost"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Diskrétní a spojitá náhodná veličinab.Rozdělení náhodné veličiny a jeho charakteristikyc.Kvantily"
+    },
+    {
+      "label": "[section] Náhodná veličina",
+      "content": "a.Diskrétní a spojitá náhodná veličinab.Rozdělení náhodné veličiny a jeho charakteristikyc.Kvantily"
     },
     {
       "label": "[section] Studijní aktivity a metody výuky:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->DruhPrezenční studiumKombinované studiumpřednáška28 h28 hcvičení56 h0 hpříprava na zkoušku68 h100 hpříprava na průběžný test16 h40 hCelkem168 h168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> DruhPrezenční studiumKombinované studiumpřednáška56 h28 hcvičení56 h0 hpříprava na zkoušku40 h100 hpříprava na průběžný test16 h40 hCelkem168 h168 h"
     },
     {
       "label": "[section] Požadavky na ukončení:",
-      "content": "Splnění vstupního testu nebo úspěšné absolvování kurzu EBC-USKP - pouze pro studenty, kteří nastoupili v LS 2021/22 a později do PREZENČNÍ FORMY studia. Tito studenti na začátku semestru absolvují vstupní test ze standardních okruhů středoškolské matematiky (elektronický test, 10 otázek, 5 nabídnutých odpovědí, korekce hádání dle UIS, čas na zpracování 50 minut, minimální požadovaný zisk 50 %; obsah testu v souladu s obsahem kurzu EBC-USKP Úvod do studia kvantitativních předmětů). Vstupní test bude realizován ve vypsaných termínech online. Pokud student nedosáhne minimálního bodového zisku ze vstupního testu, je z předmětu Matematika vyřazen; takový student si může zapsat předmět EBC-USKP Úvod do studia kvantitativních předmětů, nebo se doučit matematiku střední školy individuálně. Ověření znalostí středoškolské matematiky pro KOMBINOVANOU FORMU studia bude realizováno jiným způsobem. Celkové hodnocení studenta se odvíjí od součtu bodů získaných během celého semestru, a to následujícím způsobem: 1) Průběžný test (max. 20 bodů, minimální požadovaný bodový zisk 10 bodů): Test probíhá v průběhu výukové části semestru. Student má možnost dvou oprav, pokud nedosáhl požadovaného minima. Na test je nutné přinést si kartu studenta, psací pomůcky a prázdné papíry formátu A4. Během písemné práce lze používat pouze kalkulačku zabudovanou v operačním systému počítače. Veškeré popsané papíry se odevzdávají. Splnění průběžného testu bude v UIS vyznačeno symbolem „z“ (tzv. „malý zápočet“). Pokud student nedosáhne minimálního bodového zisku z průběžného testu, není oprávněn se přihlásit ke zkoušce a jeho výsledné hodnocení je „F“. 2) Zkoušková písemná práce (max. 80 bodů, minimální požadovaný bodový zisk 40 bodů): Písemná práce se píše ve zkouškovém období. K písemné práci si studenti přinesou pouze psací pomůcky a kartu studenta. Během písemné práce nelze používat vlastní papíry ani kalkulačku. Pokud student nedosáhne minimálního požadovaného bodového zisku, je hodnocen „F“. 3) Bonusové body (max. 10 bodů): • PREZENČNÍ FORMA: V 5. – 24. cvičení bude studentovi za každou aktivní účast udělena 0,5 bonusového bodu. Bonusové body lze udělit pouze za účast ve cvičení, které je studentovi stanoveno oficiálním rozvrhem v UIS. • KOMBINOVANÁ FORMA: Aktivní účast na bloku konzultací je hodnocena 2,5 body, nejvýše je možné získat 10 bodů. Hodnocení předmětu je dáno následovně: 90 bodů a více - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E [0; 60) bodů - F Jakékoli opisování, zaznamenávání, vynášení nebo šíření zadání testů a písemných prací, používání nedovolených pomůcek jakož i komunikačních prostředků nebo jiné narušování objektivity při ověřování znalostí bude považováno za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením F; F; F a zahájí disciplinární řízení, jehož výsledkem může být až ukončení studia."
+      "content": "Celkové hodnocení studenta se odvíjí od součtu bodů získaných během celého semestru, a to následujícím způsobem: 1) Průběžný test (max. 20 bodů, minimální požadovaný bodový zisk 10 bodů): Test probíhá v průběhu výukové části semestru. Student má možnost dvou oprav, pokud nedosáhl požadovaného minima. Na test je nutné přinést si kartu studenta, psací pomůcky a prázdné papíry formátu A4. Během písemné práce lze používat pouze kalkulačku zabudovanou v operačním systému počítače. Veškeré popsané papíry se odevzdávají. Splnění průběžného testu bude v UIS vyznačeno symbolem „z“ (tzv. „malý zápočet“). Pokud student nedosáhne minimálního bodového zisku z průběžného testu, není oprávněn se přihlásit ke zkoušce a jeho výsledné hodnocení je „nedostavil se“. 2) Zkoušková písemná práce (max. 80 bodů, minimální požadovaný bodový zisk 40 bodů): Písemná práce se píše ve zkouškovém období. K písemné práci si studenti přinesou pouze psací pomůcky a kartu studenta. Během písemné práce nelze používat vlastní papíry ani kalkulačku. 3) Bonusové body (max. 10 bodů): • PREZENČNÍ FORMA: V 5. – 24. cvičení bude studentovi za každou aktivní účast udělena 0,5 bonusového bodu. Bonusové body lze udělit pouze za účast ve cvičení, které je studentovi stanoveno oficiálním rozvrhem v UIS. • KOMBINOVANÁ FORMA: Aktivní účast na bloku konzultací je hodnocena 2,5 body, nejvýše je možné získat 10 bodů. Hodnocení předmětu je dáno následovně: 90 bodů a více - A [83; 90) bodů - B [75; 83) bodů - C [68; 75) bodů - D [60; 68) bodů - E [0; 60) bodů - F Studenti jsou povinni disponovat základní literaturou, webkamerou, mikrofonem a dalším hardwarem a internetovým připojením dostatečným pro videokonference. Tato výbava nebude kontrolována, nicméně její nedostatečnost nebude omluvou při případném přechodu na online výuku a zkoušení. Jakékoli opisování, zaznamenávání, vynášení nebo šíření zadání testů a písemných prací, používání nedovolených pomůcek jakož i komunikačních prostředků nebo jiné narušování objektivity při ověřování znalostí bude považováno za hrubé porušení studijních předpisů. Následkem toho uzavře vyučující předmět v UIS hodnocením F; F; F a zahájí disciplinární řízení, jehož výsledkem může být až ukončení studia."
     },
     {
       "label": "[section] Rozložení požadavků na ukončení:",
-      "content": "DruhPrezenční studiumKombinované studiumAbsolvování průběžného testu (testů)20 %20 %Absolvování závěrečného testu80 %80 %Celkem100 %100 %"
+      "content": "DruhPrezenční studiumKombinované studiumAktivita na přednáškách/cvičeních/seminářích10 %0 %Absolvování průběžného testu (testů)20 %30 %Absolvování závěrečného testu70 %70 %Celkem100 %100 %"
     },
     {
       "label": "[section] Studijní literatura a zdroje:",
-      "content": "Základní:MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2. vyd. Praha: Grada Publishing, 272 s. Expert. ISBN 978-80-247-5406-2.Doporučená:BAUER, Luboš; LIPOVSKÁ, Hana; MIKULÍK, Miloslav. 2015. Matematika v ekonomii a ekonomice. 1. vyd. Praha: Grada, 352 s. Expert. ISBN 978-80-247-4419-3.THOMAS, George. 2016. Thomas' calculus. Thirteenth edition in SI units. Boston: Pearson, ISBN 978-1-292-08979-9.RENSHAW, Geoff. 2016. Maths for Economics. Oxford: Oxford University Press, 718 s. ISBN 978-0-19-870437-9."
+      "content": "Základní:MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2. vyd. Praha: Grada Publishing, 272 s. Expert. ISBN 978-80-247-5406-2.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5.Doporučená:BAUER, Luboš; LIPOVSKÁ, Hana; MIKULÍK, Miloslav. 2015. Matematika v ekonomii a ekonomice. 1. vyd. Praha: Grada, 352 s. Expert. ISBN 978-80-247-4419-3.THOMAS, George. 2016. Thomas' calculus. Thirteenth edition in SI units. Boston: Pearson, ISBN 978-1-292-08979-9.RENSHAW, Geoff. 2016. Maths for Economics. Oxford: Oxford University Press, 718 s. ISBN 978-0-19-870437-9."
     },
     {
       "label": "[section] Základní:",
-      "content": "MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2. vyd. Praha: Grada Publishing, 272 s. Expert. ISBN 978-80-247-5406-2."
+      "content": "MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2. vyd. Praha: Grada Publishing, 272 s. Expert. ISBN 978-80-247-5406-2.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1. vyd. Praha: Grada, 272 s. Expert. ISBN 978-80-247-3243-5."
     },
     {
       "label": "[section] Doporučená:",
@@ -327,7 +411,7 @@
     },
     {
       "label": "[section] Zařazení předmětu ve studijních plánech v aktuálním období:",
-      "content": "Program B-EM Ekonomika a management, kombinovaná forma, počáteční období ZS 2025/2026Program B-F Finance, prezenční forma, počáteční období ZS 2025/2026Program B-EM Ekonomika a management, prezenční forma, počáteční období ZS 2025/2026"
+      "content": "Program B-EAM Ekonomika a management, prezenční forma, počáteční období LS 2020/2021Program B-EAM Ekonomika a management, kombinovaná forma, počáteční období ZS 2021/2022Program B-EAM Ekonomika a management, prezenční forma, počáteční období ZS 2021/2022"
     },
     {
       "label": "[section] Vyučován v předchozích obdobích:",
@@ -349,7 +433,7 @@
     },
     {
       "label": "Semester:",
-      "content": "WS 2025/2026"
+      "content": "WS 2021/2022"
     },
     {
       "label": "Mode of completion and number of credits:",
@@ -357,7 +441,7 @@
     },
     {
       "label": "Mode of delivery and timetabled classes:",
-      "content": "full-time, 2/4 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
+      "content": "full-time, 4/4 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
     },
     {
       "label": "Level of course:",
@@ -369,7 +453,7 @@
     },
     {
       "label": "Type of delivery:",
-      "content": "usual, consulting"
+      "content": "usual"
     },
     {
       "label": "Mode of delivery for our mobility students abroad:",
@@ -381,7 +465,7 @@
     },
     {
       "label": "Course supervisor:",
-      "content": "prof. Ing. Mgr. Jitka Janová, Ph.D."
+      "content": "prof. Mgr. David Hampel, Ph.D."
     },
     {
       "label": "Course supervising department:",
@@ -393,11 +477,11 @@
     },
     {
       "label": "Teachers:",
-      "content": "RNDr. Jaromír Běláček, CSc. (instructor)prof. Ing. Mgr. Jitka Janová, Ph.D. (examiner, lecturer, supervisor)Mgr. Tomáš Konderla, Ph.D. (instructor)Mgr. Ing. Markéta Matulová, Ph.D. (examiner, instructor, lecturer)RNDr. Dana Říhová, Ph.D. (examiner, instructor, lecturer)"
+      "content": "RNDr. Jaromír Běláček, CSc. (examiner, instructor)prof. Mgr. David Hampel, Ph.D. (lecturer, supervisor)Mgr. Tomáš Konderla, Ph.D. (examiner, instructor)Ing. Michal Polanský, Ph.D. (examiner, instructor)RNDr. Dana Říhová, Ph.D. (examiner, instructor, lecturer)Ing. Jakub Šácha, Ph.D. (examiner, instructor)RNDr. Lenka Viskotová, Ph.D. (lecturer)"
     },
     {
       "label": "Prerequisites:",
-      "content": "not (Mathematics I and Mathematics II) and not Mathematics 1 and not Mathematics 2"
+      "content": "not Final Bachelor Exam and not Mathematics I and not Mathematics II"
     },
     {
       "label": "1.",
@@ -417,7 +501,7 @@
     },
     {
       "label": "2.",
-      "content": "Differential calculus of functions of one variable (allowance 6/12)"
+      "content": "Differential calculus of functions of one variable (allowance 8/8)"
     },
     {
       "label": "a.",
@@ -429,11 +513,11 @@
     },
     {
       "label": "c.",
-      "content": "Functions used in economics and probability"
+      "content": "Functions used in economics"
     },
     {
       "label": "3.",
-      "content": "Applications of differential calculus (allowance 4/10)"
+      "content": "Applications of differential calculus (allowance 10/10)"
     },
     {
       "label": "a.",
@@ -445,7 +529,7 @@
     },
     {
       "label": "4.",
-      "content": "Linear algebra (allowance 6/12)"
+      "content": "Linear algebra (allowance 8/8)"
     },
     {
       "label": "a.",
@@ -464,8 +548,12 @@
       "content": "Systems of linear equations"
     },
     {
+      "label": "e.",
+      "content": "The role of matrices in regression"
+    },
+    {
       "label": "5.",
-      "content": "Differential calculus of functions of several variables (allowance 4/8)"
+      "content": "Differential calculus of functions of several variables (allowance 8/10)"
     },
     {
       "label": "a.",
@@ -477,15 +565,23 @@
     },
     {
       "label": "c.",
-      "content": "Local extremes"
+      "content": "Local, bound and global extremes"
     },
     {
       "label": "d.",
+      "content": "Lagrange multiplier"
+    },
+    {
+      "label": "e.",
+      "content": "Least squares method"
+    },
+    {
+      "label": "f.",
       "content": "Multivariate functions used in economics"
     },
     {
       "label": "6.",
-      "content": "Integral calculus of a function of one variable (allowance 6/12)"
+      "content": "Integral calculus of a function of one variable (allowance 8/8)"
     },
     {
       "label": "a.",
@@ -501,11 +597,59 @@
     },
     {
       "label": "d.",
-      "content": "Applications of integral calculus in economics and probability"
+      "content": "Applications of integral calculus in economics"
+    },
+    {
+      "label": "7.",
+      "content": "Differential and difference equations (allowance 4/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Differential and differential equations in economics and finance"
+    },
+    {
+      "label": "b.",
+      "content": "Selected methods for solving 1st order differential equations"
+    },
+    {
+      "label": "8.",
+      "content": "Basics of probability (allowance 2/2)"
+    },
+    {
+      "label": "a.",
+      "content": "Classical probability"
+    },
+    {
+      "label": "b.",
+      "content": "Conditional probability"
+    },
+    {
+      "label": "c.",
+      "content": "Bayes' theorem"
+    },
+    {
+      "label": "d.",
+      "content": "Stochastic independence"
+    },
+    {
+      "label": "9.",
+      "content": "Random variables (allowance 6/6)"
+    },
+    {
+      "label": "a.",
+      "content": "Discrete and continuous random variables"
+    },
+    {
+      "label": "b.",
+      "content": "Distribution of a random variables and its characteristics"
+    },
+    {
+      "label": "c.",
+      "content": "Quantiles"
     },
     {
       "label": "Course listed in previous semesters:",
-      "content": "WS 2026/2027, SS 2025/2026, SS 2024/2025, WS 2024/2025, SS 2023/2024, WS 2023/2024 (and older)"
+      "content": "SS 2026/2027, WS 2026/2027, SS 2025/2026, WS 2025/2026, SS 2024/2025, WS 2024/2025 (and older)"
     },
     {
       "label": "Teaching place:",
@@ -521,7 +665,7 @@
     },
     {
       "label": "[section] Course title in English:",
-      "content": "Semester: WS 2025/2026"
+      "content": "Semester: WS 2021/2022"
     },
     {
       "label": "[section] Semester:",
@@ -529,11 +673,11 @@
     },
     {
       "label": "[section] Mode of completion and number of credits:",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/4 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 4/4 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Exam (6 credits)",
-      "content": "Mode of delivery and timetabled classes: full-time, 2/4 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
+      "content": "Mode of delivery and timetabled classes: full-time, 4/4 (hours of lectures per week / hours of seminars per week)part-time, 28/0 (lectures per period / seminars per period)"
     },
     {
       "label": "[section] Mode of delivery and timetabled classes:",
@@ -545,7 +689,7 @@
     },
     {
       "label": "[section] Course type:",
-      "content": "Type of delivery: usual, consulting"
+      "content": "Type of delivery: usual"
     },
     {
       "label": "[section] Type of delivery:",
@@ -557,7 +701,7 @@
     },
     {
       "label": "[section] Language of instruction:",
-      "content": "Course supervisor: prof. Ing. Mgr. Jitka Janová, Ph.D."
+      "content": "Course supervisor: prof. Mgr. David Hampel, Ph.D."
     },
     {
       "label": "[section] Course supervisor:",
@@ -569,23 +713,23 @@
     },
     {
       "label": "[section] Faculty:",
-      "content": "Teachers: RNDr. Jaromír Běláček, CSc. (instructor)prof. Ing. Mgr. Jitka Janová, Ph.D. (examiner, lecturer, supervisor)Mgr. Tomáš Konderla, Ph.D. (instructor)Mgr. Ing. Markéta Matulová, Ph.D. (examiner, instructor, lecturer)RNDr. Dana Říhová, Ph.D. (examiner, instructor, lecturer)"
+      "content": "Teachers: RNDr. Jaromír Běláček, CSc. (examiner, instructor)prof. Mgr. David Hampel, Ph.D. (lecturer, supervisor)Mgr. Tomáš Konderla, Ph.D. (examiner, instructor)Ing. Michal Polanský, Ph.D. (examiner, instructor)RNDr. Dana Říhová, Ph.D. (examiner, instructor, lecturer)Ing. Jakub Šácha, Ph.D. (examiner, instructor)RNDr. Lenka Viskotová, Ph.D. (lecturer)"
     },
     {
       "label": "[section] Teachers:",
-      "content": "Prerequisites: not (Mathematics I and Mathematics II) and not Mathematics 1 and not Mathematics 2"
+      "content": "Prerequisites: not Final Bachelor Exam and not Mathematics I and not Mathematics II"
     },
     {
       "label": "[section] Timetable in this semester:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //-->Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityTuesday11.00-12.50Q01B-FB-EM 1123 D. Říhová, J. Janová, M. MatulováLectureEvery week650Tuesday13.00-14.50Q22B-FB-F 112313 M. Matulová, T. Konderla, D. ŘíhováSeminarEvery week35Tuesday13.00-14.50Q32 23 J. BěláčekSeminarEvery week37Tuesday15.00-16.50Q25B-EM 1233 J. BěláčekSeminarEvery week35Tuesday15.00-16.50Q32B-EMB-EM 11231011 M. MatulováSeminarEvery week35Tuesday15.00-16.50Q22B-EMB-EM 112312 D. ŘíhováSeminarEvery week35Wednesday9.00-10.50Q32B-EMB-EM 112345 D. ŘíhováSeminarEvery week35Wednesday9.00-10.50Q48B-EMB-EM 112367 M. Matulová, T. KonderlaSeminarEvery week40Wednesday11.00-12.50Q22B-F 1232 D. ŘíhováSeminarEvery week35Wednesday11.00-12.50Q32B-FB-F 112345 J. BěláčekSeminarEvery week35Wednesday15.00-16.50Q23B-EMB-EM 112389 J. BěláčekSeminarEvery week35Wednesday15.00-16.50Q32B-EMB-EM 11231213 D. Říhová, M. MatulováSeminarEvery week36Friday9.00-12.50Q03B-EAMB-EAMB-EM231 51D. ŘíhováLectureOccasionally170"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_1\").tm(); }) //--> Ord.DayFrom-tillRoomField of studyYear of studyGroupTeacherEntryFrequencyCapacityNoteMonday9.00-10.50Q42B-EAM 1237 J. Běláček, M. PolanskýSeminarEvery week35 Monday11.00-12.50Q42B-EAM 1238 J. BěláčekSeminarEvery week35 Monday11.00-12.50Q22B-EAM 1234 T. Konderla, D. ŘíhováSeminarEvery week35 Monday13.00-14.50Q01B-EAM 123 D. Hampel, L. ViskotováLectureEvery week500Přednáška 16.9. bude výjímečně přesunuta na dobu 17-19. Monday15.00-16.50Q42B-EAM 1239 J. Běláček, M. PolanskýSeminarEvery week35 Tuesday9.00-10.50Q48B-EAM 12311 D. ŘíhováSeminarEvery week34 Tuesday9.00-10.50Q45B-EAM 1232 J. BěláčekSeminarEvery week35 Tuesday11.00-12.50Q43B-EAM 12310 D. Říhová, M. PolanskýSeminarEvery week34 Tuesday11.00-12.50Q44B-EAM 1235 T. KonderlaSeminarEvery week35 Tuesday11.00-12.50Q48B-EAM 1233 J. BěláčekSeminarEvery week37 Tuesday15.00-16.50Q32B-EAM 1236 D. Říhová, M. PolanskýSeminarEvery week35 Tuesday15.00-16.50Q48 123 J. BěláčekSeminarEvery week35 Wednesday9.00-10.50Q48 123 T. Konderla, M. PolanskýSeminarEvery week35 Wednesday11.00-12.50Q32B-EAM 1231 T. KonderlaSeminarEvery week35 Friday14.00-17.50Q03B-EAM 11251 D. ŘíhováLectureOccasionally170"
     },
     {
       "label": "[section] Aim of the course and learning outcomes:",
-      "content": "The student will achieve such mathematical knowledge and skills that are needed to solve elementary problems in economic disciplines, statistics and partially in operations research. The student will be able to apply the newly acquired mathematical skills in follow-up courses."
+      "content": "The student will achieve such mathematical knowledge and skills that are needed to solve problems in economic disciplines, statistics and operations research. The student will be able to apply the newly acquired mathematical skills in follow-up courses."
     },
     {
       "label": "[section] Course content:",
-      "content": "1.Principles of mathematical reasoning (allowance 2/2) a.Mathematical symbolismb.Operations with setsc.Propositional logic2.Differential calculus of functions of one variable (allowance 6/12) a.Functions and their propertiesb.Limit of a function, continuity, derivativec.Functions used in economics and probability3.Applications of differential calculus (allowance 4/10) a.Analysis of functionsb.Extremal problems4.Linear algebra (allowance 6/12) a.Matrices and matrix operationsb.Rank of the matrixc.Determinantd.Systems of linear equations5.Differential calculus of functions of several variables (allowance 4/8) a.Functions of two variables and their domainsb.Partial derivativesc.Local extremesd.Multivariate functions used in economics6.Integral calculus of a function of one variable (allowance 6/12) a.Indefinite integralb.Definite integralc.Improper integrald.Applications of integral calculus in economics and probability"
+      "content": "1.Principles of mathematical reasoning (allowance 2/2) a.Mathematical symbolismb.Operations with setsc.Propositional logic2.Differential calculus of functions of one variable (allowance 8/8) a.Functions and their propertiesb.Limit of a function, continuity, derivativec.Functions used in economics3.Applications of differential calculus (allowance 10/10) a.Analysis of functionsb.Extremal problems4.Linear algebra (allowance 8/8) a.Matrices and matrix operationsb.Rank of the matrixc.Determinantd.Systems of linear equationse.The role of matrices in regression5.Differential calculus of functions of several variables (allowance 8/10) a.Functions of two variables and their domainsb.Partial derivativesc.Local, bound and global extremesd.Lagrange multipliere.Least squares methodf.Multivariate functions used in economics6.Integral calculus of a function of one variable (allowance 8/8) a.Indefinite integralb.Definite integralc.Improper integrald.Applications of integral calculus in economics7.Differential and difference equations (allowance 4/2) a.Differential and differential equations in economics and financeb.Selected methods for solving 1st order differential equations8.Basics of probability (allowance 2/2) a.Classical probabilityb.Conditional probabilityc.Bayes' theoremd.Stochastic independence9.Random variables (allowance 6/6) a.Discrete and continuous random variablesb.Distribution of a random variables and its characteristicsc.Quantiles"
     },
     {
       "label": "[section] 1.",
@@ -597,11 +741,11 @@
     },
     {
       "label": "[section] 2.",
-      "content": "a.Functions and their propertiesb.Limit of a function, continuity, derivativec.Functions used in economics and probability"
+      "content": "a.Functions and their propertiesb.Limit of a function, continuity, derivativec.Functions used in economics"
     },
     {
       "label": "[section] Differential calculus of functions of one variable",
-      "content": "a.Functions and their propertiesb.Limit of a function, continuity, derivativec.Functions used in economics and probability"
+      "content": "a.Functions and their propertiesb.Limit of a function, continuity, derivativec.Functions used in economics"
     },
     {
       "label": "[section] 3.",
@@ -613,47 +757,71 @@
     },
     {
       "label": "[section] 4.",
-      "content": "a.Matrices and matrix operationsb.Rank of the matrixc.Determinantd.Systems of linear equations"
+      "content": "a.Matrices and matrix operationsb.Rank of the matrixc.Determinantd.Systems of linear equationse.The role of matrices in regression"
     },
     {
       "label": "[section] Linear algebra",
-      "content": "a.Matrices and matrix operationsb.Rank of the matrixc.Determinantd.Systems of linear equations"
+      "content": "a.Matrices and matrix operationsb.Rank of the matrixc.Determinantd.Systems of linear equationse.The role of matrices in regression"
     },
     {
       "label": "[section] 5.",
-      "content": "a.Functions of two variables and their domainsb.Partial derivativesc.Local extremesd.Multivariate functions used in economics"
+      "content": "a.Functions of two variables and their domainsb.Partial derivativesc.Local, bound and global extremesd.Lagrange multipliere.Least squares methodf.Multivariate functions used in economics"
     },
     {
       "label": "[section] Differential calculus of functions of several variables",
-      "content": "a.Functions of two variables and their domainsb.Partial derivativesc.Local extremesd.Multivariate functions used in economics"
+      "content": "a.Functions of two variables and their domainsb.Partial derivativesc.Local, bound and global extremesd.Lagrange multipliere.Least squares methodf.Multivariate functions used in economics"
     },
     {
       "label": "[section] 6.",
-      "content": "a.Indefinite integralb.Definite integralc.Improper integrald.Applications of integral calculus in economics and probability"
+      "content": "a.Indefinite integralb.Definite integralc.Improper integrald.Applications of integral calculus in economics"
     },
     {
       "label": "[section] Integral calculus of a function of one variable",
-      "content": "a.Indefinite integralb.Definite integralc.Improper integrald.Applications of integral calculus in economics and probability"
+      "content": "a.Indefinite integralb.Definite integralc.Improper integrald.Applications of integral calculus in economics"
+    },
+    {
+      "label": "[section] 7.",
+      "content": "a.Differential and differential equations in economics and financeb.Selected methods for solving 1st order differential equations"
+    },
+    {
+      "label": "[section] Differential and difference equations",
+      "content": "a.Differential and differential equations in economics and financeb.Selected methods for solving 1st order differential equations"
+    },
+    {
+      "label": "[section] 8.",
+      "content": "a.Classical probabilityb.Conditional probabilityc.Bayes' theoremd.Stochastic independence"
+    },
+    {
+      "label": "[section] Basics of probability",
+      "content": "a.Classical probabilityb.Conditional probabilityc.Bayes' theoremd.Stochastic independence"
+    },
+    {
+      "label": "[section] 9.",
+      "content": "a.Discrete and continuous random variablesb.Distribution of a random variables and its characteristicsc.Quantiles"
+    },
+    {
+      "label": "[section] Random variables",
+      "content": "a.Discrete and continuous random variablesb.Distribution of a random variables and its characteristicsc.Quantiles"
     },
     {
       "label": "[section] Learning activities and teaching methods:",
-      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //-->Type of teaching methodDaily attendanceCombined formlecture28 h28 hpractice56 h0 hpreparation for exam68 h100 hpreparation for regular testing16 h40 hTotal168 h168 h"
+      "content": "<!-- $(document).ready(function() { $(\"#tmtab_2\").tm(); }) //--> Type of teaching methodDaily attendanceCombined formlecture56 h28 hpractice56 h0 hpreparation for exam40 h100 hpreparation for regular testing16 h40 hTotal168 h168 h"
     },
     {
       "label": "[section] Assessment methods:",
-      "content": "Passing the entrance test or successful completion of the EBC-USKP course - only for students who started in LS 2021/22 and later in the FULL-TIME FORM. These students will take an entrance test at the beginning of the semester on the standard topics of secondary school mathematics (electronic test, 10 questions, 5 answers offered, guess correction according to UIS, processing time 50 minutes, minimum required score 50%; content of the test in accordance with the content of the EBC-USKP course Introduction to the Study of Quantitative Courses). The entrance test will be conducted on the scheduled terms online. If a student fails to achieve the minimum score on the entrance test, he/she is dropped from the Mathematics course; such a student may enroll in the EBC-USKP Introduction to Quantitative Courses course or take high school mathematics individually. Verification of knowledge of secondary school mathematics for the PART-TIME FORM of study will be carried out in a different way. The assessment of the student is based on the number of points obtained during the semester as follows: 1) Midterm test (max. 20 points, minimum required score 10 points): takes place during the teaching part of the semester. The student can register for two resits if he/she has not reached the required points. It is necessary to have a student card, writing accessories and blank A4 paper for the test. Only a calculator built into the computer’s operating system can be used. All nonempty papers are handed in. Passing the midterm test will be marked in the UIS with the symbol “z” (so-called “minor preliminary”). If the student does not pass the midterm test, he/she is not eligible to register for the exam and his/her final score will be \"F\". 2) Written exam (max. 80 points, minimum required score 40 points): it is written during the exam period. The student will only bring writing accessories and the student card. The student is not allowed to use their own papers or calculator. If the student does not achieve the minimum required score, the student is graded \"F\". 3) Bonus points (max. 10 points): • FULL-TIME STUDY FORM: At the 5th - 24th seminar, 0.5 bonus point is awarded to the student for each active participation. Bonus points are awarded only for participation at such seminar, which is assigned to the student by the official schedule in UIS. • PART-TIME STUDY FORM: For active participation in the consultation block, the student is awarded 2.5 points, with a maximum of 10 points. The assessment of the course is given as follows: 90 points or more - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E [0; 60) points - F Any copying, recording, excerpt or dissemination of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by F; F; F. Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
+      "content": "The assessment of the student is based on the number of points obtained during the semester as follows: 1) Midterm test (max. 20 points, minimum required score 10 points): takes place during the teaching part of the semester. The student can register for two resits if he/she has not reached the required points. It is necessary to have a student card, writing accessories and blank A4 paper for the test. Only a calculator built into the computer’s operating system can be used. All nonempty papers are handed in. Passing the midterm test will be marked in the UIS with the symbol “z” (so-called “minor preliminary”). If the student does not pass the midterm test, he/she is not eligible to register for the exam and his/her final score will be \"not present\". 2) Written exam (max. 80 points, minimum required score 40 points): it is written during the exam period. The student will only bring writing accessories and the student card. The student is not allowed to use their own papers or calculator. 3) Bonus points (max. 10 points): • FULL-TIME STUDY FORM: At the 5th - 24th seminar, 0.5 bonus point is awarded to the student for each active participation. Bonus points are awarded only for participation at such seminar, which is assigned to the student by the official schedule in UIS. • PART-TIME STUDY FORM: For active participation in the consultation block, the student is awarded 2.5 points, with a maximum of 10 points. The assessment of the course is given as follows: 90 points or more - A [83; 90) points - B [75; 83) points - C [68; 75) points - D [60; 68) points - E [0; 60) points - F Students are required to obtain the compulsory literature, a webcam, microphone, hardware and web connection suitable for video conferencing. Absence or inadequacy of these will not be an excuse during a possible transition to online teaching and testing. Any copying, recording, excerpt or dissemination of tests and written works, the use of illicit devices as well as means of communication or other impairment of objectivity in the verification of knowledge will be considered gross violation of the study regulations. As a result, the course is closed in the UIS by F; F; F. Further, teacher can initiate disciplinary proceedings, which may result in termination of studies."
     },
     {
       "label": "[section] Assessment criteria ratio:",
-      "content": "Requirement typeDaily attendanceCombined formMid-term test(s)20 %20 %Final test80 %80 %Total100 %100 %"
+      "content": "Requirement typeDaily attendanceCombined formActive lecture/seminar/workshop/tutorial participation10 %0 %Mid-term test(s)20 %30 %Final test70 %70 %Total100 %100 %"
     },
     {
       "label": "[section] Recomended reading and other learning resources:",
-      "content": "Basic:MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2nd ed. Praha: Grada Publishing, 272 p. Expert. ISBN 978-80-247-5406-2.Recommended:BAUER, Luboš; LIPOVSKÁ, Hana; MIKULÍK, Miloslav. 2015. Matematika v ekonomii a ekonomice. 1st ed. Praha: Grada, 352 p. Expert. ISBN 978-80-247-4419-3.THOMAS, George. 2016. Thomas' calculus. Thirteenth edition in SI units. Boston: Pearson, ISBN 978-1-292-08979-9.RENSHAW, Geoff. 2016. Maths for Economics. Oxford: Oxford University Press, 718 p. ISBN 978-0-19-870437-9."
+      "content": "Basic:MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2nd ed. Praha: Grada Publishing, 272 p. Expert. ISBN 978-80-247-5406-2.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5.Recommended:BAUER, Luboš; LIPOVSKÁ, Hana; MIKULÍK, Miloslav. 2015. Matematika v ekonomii a ekonomice. 1st ed. Praha: Grada, 352 p. Expert. ISBN 978-80-247-4419-3.THOMAS, George. 2016. Thomas' calculus. Thirteenth edition in SI units. Boston: Pearson, ISBN 978-1-292-08979-9.RENSHAW, Geoff. 2016. Maths for Economics. Oxford: Oxford University Press, 718 p. ISBN 978-0-19-870437-9."
     },
     {
       "label": "[section] Basic:",
-      "content": "MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2nd ed. Praha: Grada Publishing, 272 p. Expert. ISBN 978-80-247-5406-2."
+      "content": "MOUČKA, Jiří; RÁDL, Petr. 2015. Matematika pro studenty ekonomie. 2nd ed. Praha: Grada Publishing, 272 p. Expert. ISBN 978-80-247-5406-2.BUDÍKOVÁ, Marie; KRÁLOVÁ, Maria; MAROŠ, Bohumil. 2010. Průvodce základními statistickými metodami. 1st ed. Praha: Grada, 272 p. Expert. ISBN 978-80-247-3243-5."
     },
     {
       "label": "[section] Recommended:",
@@ -661,13 +829,13 @@
     },
     {
       "label": "[section] Course listed in study plans for this semester:",
-      "content": "Programme B-EM Economics and Management, part-time form, initial period WS 2025/2026Programme B-F Finances, full-time form, initial period WS 2025/2026Programme B-EM Economics and Management, full-time form, initial period WS 2025/2026"
+      "content": "Programme B-EAM Economics and Management, full-time form, initial period SS 2020/2021Programme B-EAM Economics and Management, part-time form, initial period WS 2021/2022Programme B-EAM Economics and Management, full-time form, initial period WS 2021/2022"
     },
     {
       "label": "[section] Course listed in previous semesters:",
       "content": "Teaching place: Brno"
     }
   ],
-  "scrapedAt": "2026-05-21 07:41:53",
-  "lastUpdated": "2026-05-21T11:13:20.177Z"
+  "scrapedAt": "2026-09-22 07:55:39",
+  "lastUpdated": "2026-09-22T12:17:27.977Z"
 }
