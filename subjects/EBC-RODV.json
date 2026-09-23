@@ -85,7 +85,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156634;lang=cz",
       "totalPass": 76,
-      "totalFail": 4,
+      "totalFail": 3,
       "terms": [
         {
           "term": "1. opravný",
@@ -124,10 +124,10 @@
             "D": 11,
             "E": 4,
             "F": 0,
-            "FN": 4
+            "FN": 3
           },
           "pass": 76,
-          "fail": 4
+          "fail": 3
         },
         {
           "term": "Řádný termín",
@@ -347,5 +347,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

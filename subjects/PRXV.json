@@ -63,7 +63,7 @@
       "year": 2025,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=796;predmet=159700;lang=cz",
-      "totalPass": 14,
+      "totalPass": 19,
       "totalFail": 0,
       "terms": [
         {
@@ -77,10 +77,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 14,
+          "pass": 19,
           "fail": 0,
           "creditGrades": {
-            "zap": 14,
+            "zap": 19,
             "nezap": 0,
             "zapNedost": 0
           }
@@ -627,5 +627,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

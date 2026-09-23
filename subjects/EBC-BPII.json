@@ -117,7 +117,7 @@
       "year": 2024,
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156521;lang=cz",
-      "totalPass": 56,
+      "totalPass": 55,
       "totalFail": 14,
       "terms": [
         {
@@ -131,10 +131,10 @@
             "F": 0,
             "FN": 0
           },
-          "pass": 56,
+          "pass": 55,
           "fail": 14,
           "creditGrades": {
-            "zap": 56,
+            "zap": 55,
             "nezap": 14,
             "zapNedost": 0
           }
@@ -376,5 +376,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

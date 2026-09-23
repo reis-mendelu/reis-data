@@ -188,7 +188,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=772;predmet=156310;lang=cz",
       "totalPass": 136,
-      "totalFail": 43,
+      "totalFail": 41,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -202,10 +202,10 @@
             "FN": 0
           },
           "pass": 136,
-          "fail": 43,
+          "fail": 41,
           "creditGrades": {
             "zap": 136,
-            "nezap": 43,
+            "nezap": 41,
             "zapNedost": 0
           }
         },
@@ -623,5 +623,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

@@ -61,7 +61,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=801;predmet=158176;lang=cz",
       "totalPass": 49,
-      "totalFail": 6,
+      "totalFail": 5,
       "terms": [
         {
           "term": "1. opravný",
@@ -100,10 +100,10 @@
             "D": 13,
             "E": 2,
             "F": 1,
-            "FN": 5
+            "FN": 4
           },
           "pass": 49,
-          "fail": 6
+          "fail": 5
         },
         {
           "term": "Řádný termín",
@@ -376,5 +376,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

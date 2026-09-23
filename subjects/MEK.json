@@ -3,7 +3,7 @@
   "name": "Manažerská ekonomika",
   "nameCs": "Manažerská ekonomika",
   "nameEn": "Managerial Economics",
-  "predmetId": "163820",
+  "predmetId": "159615",
   "facultyId": 38,
   "aliases": [
     "MNEKO"
@@ -275,7 +275,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=23;obdobi=672;predmet=153879;lang=cz",
       "totalPass": 33,
-      "totalFail": 6,
+      "totalFail": 4,
       "terms": [
         {
           "term": "1. opravný",
@@ -313,11 +313,11 @@
             "C": 11,
             "D": 14,
             "E": 1,
-            "F": 4,
-            "FN": 2
+            "F": 3,
+            "FN": 1
           },
           "pass": 33,
-          "fail": 6
+          "fail": 4
         },
         {
           "term": "Řádný termín",
@@ -889,5 +889,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:39:41.979Z"
 }

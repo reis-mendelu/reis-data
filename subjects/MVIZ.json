@@ -66,7 +66,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153348;lang=cz",
       "totalPass": 41,
-      "totalFail": 13,
+      "totalFail": 10,
       "terms": [
         {
           "term": "1. opravný",
@@ -99,11 +99,11 @@
             "FN": 0
           },
           "pass": 41,
-          "fail": 13,
+          "fail": 10,
           "creditGrades": {
             "zap": 41,
-            "nezap": 5,
-            "zapNedost": 8
+            "nezap": 4,
+            "zapNedost": 6
           }
         },
         {
@@ -275,5 +275,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

@@ -224,7 +224,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152444;lang=cz",
       "totalPass": 355,
-      "totalFail": 242,
+      "totalFail": 241,
       "terms": [
         {
           "term": "1. opravný",
@@ -262,11 +262,11 @@
             "C": 61,
             "D": 104,
             "E": 151,
-            "F": 188,
+            "F": 187,
             "FN": 54
           },
           "pass": 355,
-          "fail": 242
+          "fail": 241
         },
         {
           "term": "Řádný termín",
@@ -779,5 +779,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

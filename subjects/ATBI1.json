@@ -29,7 +29,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=60;obdobi=794;predmet=159210;lang=cz",
       "totalPass": 30,
-      "totalFail": 6,
+      "totalFail": 5,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -39,11 +39,11 @@
             "C": 8,
             "D": 3,
             "E": 0,
-            "F": 6,
+            "F": 5,
             "FN": 0
           },
           "pass": 30,
-          "fail": 6
+          "fail": 5
         },
         {
           "term": "Řádný termín",
@@ -232,5 +232,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

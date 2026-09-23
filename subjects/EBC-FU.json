@@ -155,7 +155,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=754;predmet=152540;lang=cz",
       "totalPass": 404,
-      "totalFail": 100,
+      "totalFail": 99,
       "terms": [
         {
           "term": "1. opravný",
@@ -193,11 +193,11 @@
             "C": 118,
             "D": 131,
             "E": 91,
-            "F": 45,
+            "F": 44,
             "FN": 55
           },
           "pass": 404,
-          "fail": 100
+          "fail": 99
         },
         {
           "term": "Řádný termín",
@@ -289,7 +289,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=734;predmet=142415;lang=cz",
       "totalPass": 301,
-      "totalFail": 214,
+      "totalFail": 213,
       "terms": [
         {
           "term": "1. opravný",
@@ -328,10 +328,10 @@
             "D": 94,
             "E": 111,
             "F": 34,
-            "FN": 180
+            "FN": 179
           },
           "pass": 301,
-          "fail": 214
+          "fail": 213
         },
         {
           "term": "Řádný termín",
@@ -710,5 +710,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

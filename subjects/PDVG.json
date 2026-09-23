@@ -72,7 +72,7 @@
       "year": 2024,
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=156885;lang=cz",
-      "totalPass": 29,
+      "totalPass": 28,
       "totalFail": 0,
       "terms": [
         {
@@ -108,13 +108,13 @@
           "grades": {
             "A": 4,
             "B": 4,
-            "C": 11,
+            "C": 10,
             "D": 4,
             "E": 6,
             "F": 0,
             "FN": 0
           },
-          "pass": 29,
+          "pass": 28,
           "fail": 0
         },
         {
@@ -268,5 +268,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

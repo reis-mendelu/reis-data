@@ -15,7 +15,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=610;predmet=124641;lang=cz",
       "totalPass": 15,
-      "totalFail": 14,
+      "totalFail": 13,
       "terms": [
         {
           "term": "1. opravný",
@@ -67,10 +67,10 @@
             "FN": 0
           },
           "pass": 15,
-          "fail": 14,
+          "fail": 13,
           "creditGrades": {
             "zap": 15,
-            "nezap": 13,
+            "nezap": 12,
             "zapNedost": 1
           }
         },
@@ -96,5 +96,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

@@ -157,7 +157,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=777;predmet=157833;lang=cz",
       "totalPass": 14,
-      "totalFail": 6,
+      "totalFail": 5,
       "terms": [
         {
           "term": "1. opravný",
@@ -195,11 +195,11 @@
             "C": 8,
             "D": 0,
             "E": 6,
-            "F": 6,
+            "F": 5,
             "FN": 0
           },
           "pass": 14,
-          "fail": 6
+          "fail": 5
         },
         {
           "term": "Řádný termín",
@@ -224,7 +224,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=765;predmet=153334;lang=cz",
       "totalPass": 77,
-      "totalFail": 18,
+      "totalFail": 17,
       "terms": [
         {
           "term": "1. opravný",
@@ -262,11 +262,11 @@
             "C": 21,
             "D": 14,
             "E": 15,
-            "F": 18,
+            "F": 17,
             "FN": 0
           },
           "pass": 77,
-          "fail": 18
+          "fail": 17
         },
         {
           "term": "Řádný termín",
@@ -358,7 +358,7 @@
       "type": "exam",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=38;obdobi=732;predmet=146978;lang=cz",
       "totalPass": 64,
-      "totalFail": 34,
+      "totalFail": 33,
       "terms": [
         {
           "term": "1. opravný",
@@ -396,11 +396,11 @@
             "C": 20,
             "D": 10,
             "E": 7,
-            "F": 34,
+            "F": 33,
             "FN": 0
           },
           "pass": 64,
-          "fail": 34
+          "fail": 33
         },
         {
           "term": "Řádný termín",
@@ -779,5 +779,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }

@@ -64,7 +64,7 @@
       "type": "credit",
       "sourceUrl": "https://is.mendelu.cz/auth/student/hodnoceni.pl?fakulta=2;obdobi=689;predmet=138187;lang=cz",
       "totalPass": 158,
-      "totalFail": 6,
+      "totalFail": 5,
       "terms": [
         {
           "term": "Všechny termíny",
@@ -78,10 +78,10 @@
             "FN": 0
           },
           "pass": 158,
-          "fail": 6,
+          "fail": 5,
           "creditGrades": {
             "zap": 158,
-            "nezap": 6,
+            "nezap": 5,
             "zapNedost": 0
           }
         },
@@ -107,5 +107,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-09-22T12:17:27.977Z"
+  "lastUpdated": "2026-09-23T13:35:49.458Z"
 }
