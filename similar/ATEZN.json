@@ -1,0 +1,41 @@
+{
+  "courseCode": "ATEZN",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "ATNA2",
+      "reasons": [
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Ateliér navrhování II",
+      "nameEn": "Design Studio II"
+    },
+    {
+      "code": "ATZ1",
+      "reasons": [
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2019,
+      "nameCs": "Ateliér ZAKA I",
+      "nameEn": ""
+    },
+    {
+      "code": "ATNA1",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Ateliér navrhování I",
+      "nameEn": "Design Studio I"
+    }
+  ]
+}

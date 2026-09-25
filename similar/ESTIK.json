@@ -1,0 +1,32 @@
+{
+  "courseCode": "ESTIK",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "ESTET",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameTeachers",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Estetika",
+      "nameEn": "Estetics"
+    },
+    {
+      "code": "EST",
+      "reasons": [
+        "sameName",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2020,
+      "nameCs": "Estetika",
+      "nameEn": ""
+    }
+  ]
+}

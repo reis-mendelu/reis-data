@@ -1,0 +1,41 @@
+{
+  "courseCode": "TZBZ",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "TCHZ",
+      "reasons": [
+        "sameName"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Technické zobrazovaní",
+      "nameEn": "Technical Visualization"
+    },
+    {
+      "code": "ZTK",
+      "reasons": [
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Základy technického kreslení",
+      "nameEn": "Fundamentals of Technical Drawing"
+    },
+    {
+      "code": "TK1",
+      "reasons": [
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Technické kreslení",
+      "nameEn": "Technical Drawing"
+    }
+  ]
+}

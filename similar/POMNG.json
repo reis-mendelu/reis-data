@@ -1,0 +1,46 @@
+{
+  "courseCode": "POMNG",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "PODMR",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameTeachers",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Podnikový management (RSZ + CHP)",
+      "nameEn": "Business management (RSZ + CHP)"
+    },
+    {
+      "code": "PODMA",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Podnikový management",
+      "nameEn": "Business management"
+    },
+    {
+      "code": "POMAF",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Podnikový management (FT)",
+      "nameEn": "Business management (FT)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "courseCode": "MMPS",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "MMAP",
+      "reasons": [
+        "sameName",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Marketing a management ve vzdělávání",
+      "nameEn": "Marketing And Management In Education"
+    },
+    {
+      "code": "KVAP",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Kvalita ve vzdělávání",
+      "nameEn": "Quality in education"
+    },
+    {
+      "code": "PVDI",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2020,
+      "nameCs": "Profesní vzdělávání",
+      "nameEn": ""
+    }
+  ]
+}

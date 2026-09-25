@@ -1,0 +1,41 @@
+{
+  "courseCode": "OVUV",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "OVOV",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Odborná orientace v oboru",
+      "nameEn": "Professional orientation in the field"
+    },
+    {
+      "code": "P1AP",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Odborná praxe I",
+      "nameEn": "Professional practice I"
+    },
+    {
+      "code": "P1OV",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Odborná praxe I",
+      "nameEn": "Professional practice I"
+    }
+  ]
+}

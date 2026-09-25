@@ -1,0 +1,41 @@
+{
+  "courseCode": "APDS",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "ATG1",
+      "reasons": [
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Ateliér grafického designu I",
+      "nameEn": "Graphic Design Studio I"
+    },
+    {
+      "code": "ATG2",
+      "reasons": [
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Ateliér grafického designu II",
+      "nameEn": "Graphic Design Studio II"
+    },
+    {
+      "code": "ANT2",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Ateliér nábytkové tvorby II",
+      "nameEn": "Furniture Creation Studio II"
+    }
+  ]
+}

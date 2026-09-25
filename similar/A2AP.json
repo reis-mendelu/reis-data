@@ -1,0 +1,42 @@
+{
+  "courseCode": "A2AP",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "A1AP",
+      "reasons": [
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Cizí jazyk pro vzdělávací sféru I - Anglický jazyk",
+      "nameEn": "Foreign Language for Education I - English"
+    },
+    {
+      "code": "A2OV",
+      "reasons": [
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Cizí jazyk II - Anglický jazyk",
+      "nameEn": "Foreign Language II - English"
+    },
+    {
+      "code": "A1OV",
+      "reasons": [
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Cizí jazyk I - Anglický jazyk",
+      "nameEn": "Foreign Language I - English"
+    }
+  ]
+}

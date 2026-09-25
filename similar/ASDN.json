@@ -1,0 +1,41 @@
+{
+  "courseCode": "ASDN",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "ATD1",
+      "reasons": [
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2023,
+      "nameCs": "Ateliér designu nábytku I",
+      "nameEn": ""
+    },
+    {
+      "code": "ATD2",
+      "reasons": [
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2023,
+      "nameCs": "Atelier designu nábytku II",
+      "nameEn": ""
+    },
+    {
+      "code": "TTD1",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Techniky tvorby designu I",
+      "nameEn": "Techniques of Creation I."
+    }
+  ]
+}

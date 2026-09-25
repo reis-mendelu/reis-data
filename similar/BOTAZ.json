@@ -1,0 +1,42 @@
+{
+  "courseCode": "BOTAZ",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "BOTAR",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Botanika (RSZ)",
+      "nameEn": "Botany (RSZ)"
+    },
+    {
+      "code": "BOTAN",
+      "reasons": [
+        "sameName",
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Botanika (KA)",
+      "nameEn": "Botany (for the Bachelor's study program Landscape Architecture)"
+    },
+    {
+      "code": "BZ2",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2020,
+      "nameCs": "Botanika pro ZAKA II",
+      "nameEn": ""
+    }
+  ]
+}

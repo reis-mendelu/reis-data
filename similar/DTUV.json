@@ -1,0 +1,42 @@
+{
+  "courseCode": "DTUV",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "DTOV",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Digitální technologie ve vzdělávání",
+      "nameEn": "Digital technologies in education"
+    },
+    {
+      "code": "TVAP",
+      "reasons": [
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Moderní digitální technologie ve vzdělávání",
+      "nameEn": "Modern digital technologies in education"
+    },
+    {
+      "code": "TVOV",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Vademecum terciárního vzdělávání",
+      "nameEn": "Vademecum of tertiary education"
+    }
+  ]
+}

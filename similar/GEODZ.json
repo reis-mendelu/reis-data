@@ -1,0 +1,40 @@
+{
+  "courseCode": "GEODZ",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "GEODR",
+      "reasons": [
+        "sameGuarantor",
+        "sameTeachers"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Geodézie (RSZ)",
+      "nameEn": "Surveying (RSZ)"
+    },
+    {
+      "code": "GDZ",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2019,
+      "nameCs": "Geodézie pro ZaKA",
+      "nameEn": ""
+    },
+    {
+      "code": "GEODE",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Geodézie",
+      "nameEn": "Surveying"
+    }
+  ]
+}

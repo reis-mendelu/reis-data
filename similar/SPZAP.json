@@ -1,0 +1,39 @@
+{
+  "courseCode": "SPZAP",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "STPZP",
+      "reasons": [
+        "sameName"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Stavební prvky zahrad a parků",
+      "nameEn": "Building components of Gardens and Parks"
+    },
+    {
+      "code": "STMK1",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Stavební materiály a konstrukce I",
+      "nameEn": "Building Materials and Constructions I"
+    },
+    {
+      "code": "STMK2",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Stavební materiály a konstrukce II",
+      "nameEn": "Building Materials and Constructions II"
+    }
+  ]
+}

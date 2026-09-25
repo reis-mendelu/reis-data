@@ -1,0 +1,43 @@
+{
+  "courseCode": "EKOLG",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "EKOLO",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameTeachers",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Ekologie",
+      "nameEn": "Ecology"
+    },
+    {
+      "code": "EKOL1",
+      "reasons": [
+        "sameTeachers",
+        "sameLiterature"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Ekologie I (KA)",
+      "nameEn": "Ecology I (KA)"
+    },
+    {
+      "code": "EKO2R",
+      "reasons": [
+        "sameTeachers"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Ekologie II (RSZ)",
+      "nameEn": "Ecology II (RSZ)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "courseCode": "TVUV",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "TVOV",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Vademecum terciárního vzdělávání",
+      "nameEn": "Vademecum of tertiary education"
+    },
+    {
+      "code": "DTOV",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Digitální technologie ve vzdělávání",
+      "nameEn": "Digital technologies in education"
+    }
+  ]
+}

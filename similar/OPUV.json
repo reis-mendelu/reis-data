@@ -1,0 +1,43 @@
+{
+  "courseCode": "OPUV",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "ODAP",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Obecná pedagogika",
+      "nameEn": "General Pedagogy"
+    },
+    {
+      "code": "OPOV",
+      "reasons": [
+        "sameName",
+        "sameGuarantor",
+        "sameLiterature"
+      ],
+      "completion": "exam",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Obecná pedagogika",
+      "nameEn": "General Pedagogy"
+    },
+    {
+      "code": "DPAP",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Dějiny pedagogiky",
+      "nameEn": "History of pedagogy"
+    }
+  ]
+}

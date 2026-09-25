@@ -1,0 +1,39 @@
+{
+  "courseCode": "UDRZA",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "IH",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2021,
+      "nameCs": "Mezinárodní zahradnictví",
+      "nameEn": ""
+    },
+    {
+      "code": "UPRZE",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Udržitelná produkce zeleniny",
+      "nameEn": "Sustainable vegetable production"
+    },
+    {
+      "code": "ZELIM",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "exam",
+      "completionChanged": true,
+      "lastYear": 2025,
+      "nameCs": "Zelinářství (mgr.)",
+      "nameEn": "Vegetable Production (MSc.)"
+    }
+  ]
+}

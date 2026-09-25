@@ -1,0 +1,39 @@
+{
+  "courseCode": "EBA-BS",
+  "generatedAt": "2026-09-25T08:51:21.018Z",
+  "suggestions": [
+    {
+      "code": "EBC-BS",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Bakalářský seminář",
+      "nameEn": "Bachelor's Thesis Seminar"
+    },
+    {
+      "code": "ENA-DS1",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Diplomový seminář 1 v AJ",
+      "nameEn": "Master's Thesis Seminar 1"
+    },
+    {
+      "code": "EBC-BPR",
+      "reasons": [
+        "sameGuarantor"
+      ],
+      "completion": "credit",
+      "completionChanged": false,
+      "lastYear": 2025,
+      "nameCs": "Bakalářský projekt",
+      "nameEn": "Bachelor project"
+    }
+  ]
+}
