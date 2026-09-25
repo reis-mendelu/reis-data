@@ -69,6 +69,14 @@ test('rooms already paired to a map room are left to isRoomLabels', () => {
   assert.deepEqual(place([row('ČP', 'B', 'B05 – Strojový sál')], ['B05 – Strojový sál']).places, []);
 });
 
+// IS has two rooms called "Aula": building A's on Černá Pole (paired to a map
+// room) and FRRMS's in building Z at Černá Pole II. Pairing is Černá Pole only,
+// so it must not keep the Černá Pole II room off the map.
+test('a label paired on Černá Pole is still placed on another campus', () => {
+  const got = place([row('ČP', 'A', 'Aula'), row('ČP II.', 'Z', 'Aula')], ['Aula']).places;
+  assert.deepEqual(got, [{ label: 'Aula', campus: 'ČP II.', kind: 'landmark', id: 1587 }]);
+});
+
 test('virtual rooms, "outside the campus" and "on the campus" get no place', () => {
   const { places, report } = place([
     row('ČP', 'B', 'B Virtuální 1'),

@@ -77,7 +77,7 @@ console.log(`isRoomLabels=${labels.length} unmatched=${report.unmatched.length} 
 for (const u of report.unmatched) console.log(`  unmatched: ${u}`);
 
 // 6) Where the rest are: an IS room with no floor plan still has a building or
-// campus the map can show (placeIsRooms.mjs). Rooms paired above are skipped.
+// campus the map can show (placeIsRooms.mjs). Černá Pole rooms paired above are skipped.
 const placed = placeIsRooms(read('source/is-room-catalogue.json'), new Set(labels.map((l) => l.label)), {
   buildings,
   pois,

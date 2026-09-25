@@ -80,7 +80,10 @@ export function placeIsRooms(catalogue, pairedLabels, maps) {
       report.notPlaces++;
       continue;
     }
-    if (pairedLabels.has(r.label)) continue;
+    // Pairing covers Černá Pole only, and labels repeat across campuses: IS's
+    // "Aula" is building A's here and FRRMS's at Černá Pole II. Skip only the
+    // Černá Pole room the label is paired to.
+    if (r.campusCode === 'ČP' && pairedLabels.has(r.label)) continue;
 
     let target = null;
     if (r.campusCode === 'ČP') {
