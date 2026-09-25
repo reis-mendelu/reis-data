@@ -15,7 +15,7 @@ const maps = {
     ],
   },
   landmarks: { landmarks: [{ id: 1587 }, { id: 1623 }, { id: -201 }] },
-  remote: { places: [{ id: -102 }, { id: -108 }] },
+  remote: { places: [{ id: -102 }, { id: -105 }, { id: -106 }, { id: -108 }] },
 };
 const row = (campusCode, building, label) => ({ campusCode, building, label });
 const place = (rows, paired = []) => placeIsRooms(rows, new Set(paired), maps);
@@ -87,10 +87,30 @@ test('the ŠLP campus is held: its room is Jezírko, not Křtiny', () => {
   assert.deepEqual(report.unplaced, ['ŠLP ŠLP-01 Lesní škola Jezírko']);
 });
 
-test('a campus with no pin yet is reported, not guessed', () => {
-  const { places, report } = place([row('Sob', 'Sob-03', 'ucebna_utechov')]);
+// IS's "Brno - Soběšice" campus is two unrelated buildings, so it is mapped per
+// building: Sob-03 is the wood-science centre in Areál Útěchov, and Sob-01's
+// only room PL001 is the riding hall at Panská lícha (IS's own 2019/20 JE1
+// syllabus: "výuka bude v areálu Panská lícha").
+test('the Soběšice campus is placed building by building', () => {
+  const got = place([row('Sob', 'Sob-03', 'ucebna_utechov'), row('Sob', 'Sob-01', 'PL001')]).places;
+  assert.deepEqual(
+    got.map((p) => `${p.label}:${p.kind}:${p.id}`),
+    ['PL001:remote:-105', 'ucebna_utechov:remote:-106']
+  );
+});
+
+// IS's own label for the Útěchov room is a technical handle; the card shows a
+// name, and the lookup still matches the handle a timetable prints.
+test('a technical IS label gets a display name', () => {
+  const [p] = place([row('Sob', 'Sob-03', 'ucebna_utechov')]).places;
+  assert.equal(p.label, 'ucebna_utechov');
+  assert.equal(p.display, 'Učebna Útěchov');
+});
+
+test('a building with no pin yet is reported, not guessed', () => {
+  const { places, report } = place([row('Sob', 'Sob-99', 'new room')]);
   assert.deepEqual(places, []);
-  assert.deepEqual(report.unplaced, ['Sob Sob-03 ucebna_utechov']);
+  assert.deepEqual(report.unplaced, ['Sob Sob-99 new room']);
 });
 
 test('a place id missing from the map data fails loudly', () => {

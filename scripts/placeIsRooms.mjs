@@ -24,6 +24,16 @@ const CERNA_POLE_PIN = { D: 'D', D_old: 'D', J: 'J', L: 'L', N: 'N', O: 'O', P: 
 // IS building F10 is design lab MENDELU (see the extension's fetch-landmarks.mjs).
 const CERNA_POLE_LANDMARK = { F10: -201 };
 
+// Campuses IS lumps together from unrelated buildings, placed per building.
+// "Brno - Soběšice" (Sob): Sob-03 is LDF's wood-science centre in Areál Útěchov
+// (the extension's fetch-remote-places.mjs, -106); Sob-01's only room PL001 is
+// the riding hall at Panská lícha (-105) — IS's own 2019/20 JE1 syllabus says
+// "výuka bude v areálu Panská lícha".
+const BY_BUILDING = {
+  'Sob-03': { kind: 'remote', id: -106 },
+  'Sob-01': { kind: 'remote', id: -105 },
+};
+
 // Campuses that are one place on the map, by IS campus code.
 const CAMPUS = {
   'ČP II.': { kind: 'landmark', id: 1587 }, // FRRMS building, Černá Pole II
@@ -36,10 +46,14 @@ const CAMPUS = {
   Kar: { kind: 'remote', id: -108 },
   SLŠ: { kind: 'remote', id: -109 },
   VASS: { kind: 'remote', id: -110 },
-  // Sob (Útěchov, Jezírko) and ŠLP: held until the sites are confirmed on the
-  // ground. ŠLP's only room is "Lesní škola Jezírko", the forest site by
-  // Soběšice — not Křtiny château, where the ŠLP pin (-104) stands.
+  // ŠLP: no place. Its only room, "Lesní škola Jezírko" (8.2 m², no lessons),
+  // names the forest school by Soběšice that Lipka runs, while IS files it under
+  // the Hubertka cabin near Křtiny — a record that contradicts itself.
 };
+
+// IS labels a few rooms with a technical handle. The timetable prints the
+// handle, so it stays the lookup key; `display` is what the map card shows.
+const DISPLAY = { ucebna_utechov: 'Učebna Útěchov' };
 
 // A lesson "in" these has no place to show: distance teaching, or IS's own
 // "outside the CSA campus", or "somewhere on the MENDELU campus" (v areálu).
@@ -82,12 +96,18 @@ export function placeIsRooms(catalogue, pairedLabels, maps) {
         need(landmarkIds.has(id), `landmark ${id}`);
         target = { kind: 'landmark', id };
       }
+    } else if (BY_BUILDING[r.building]) {
+      target = BY_BUILDING[r.building];
+      need(remoteIds.has(target.id), `${target.kind} ${target.id}`);
     } else if (CAMPUS[r.campusCode]) {
       target = CAMPUS[r.campusCode];
       need((target.kind === 'landmark' ? landmarkIds : remoteIds).has(target.id), `${target.kind} ${target.id}`);
     }
 
-    if (target) places.push({ label: r.label, campus: r.campusCode, ...target });
+    if (target) {
+      const display = DISPLAY[r.label];
+      places.push({ label: r.label, campus: r.campusCode, ...target, ...(display && { display }) });
+    }
     else report.unplaced.push(`${r.campusCode} ${r.building} ${r.label}`);
   }
   places.sort((a, b) => a.label.localeCompare(b.label, 'cs') || a.campus.localeCompare(b.campus));
