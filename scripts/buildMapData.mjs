@@ -3,6 +3,7 @@
 //   - bundled meta (buildings/pois/rooms-index) -> ../reis-extension/src/data/map/
 //   - curated data (landmarks/remotePlaces) copied verbatim -> same bundle dir
 //   - IS room labels paired by estate number (pairIsRooms.mjs) -> same bundle dir
+//   - the map place of every IS room without a floor plan (placeIsRooms.mjs) -> same bundle dir
 // The curated inputs (source/mendelu-landmarks.json, source/mendelu-remote-places.json)
 // are NOT fetched by fetch-mendelu-map.py — landmark footprints are OSM-sourced +
 // enriched with SKM contact info, and the remote places are off-campus (outside the
@@ -17,6 +18,7 @@ import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { pairIsRooms } from './pairIsRooms.mjs';
+import { placeIsRooms } from './placeIsRooms.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const extArg = process.argv.find((a) => a.startsWith('--ext='))?.slice('--ext='.length);
@@ -73,6 +75,18 @@ const { labels, report } = pairIsRooms(read('source/is-room-catalogue.json'), ro
 writeFileSync(resolve(ext, 'isRoomLabels.json'), JSON.stringify(labels, null, 2) + '\n');
 console.log(`isRoomLabels=${labels.length} unmatched=${report.unmatched.length} noNumber=${report.noNumber.length}`);
 for (const u of report.unmatched) console.log(`  unmatched: ${u}`);
+
+// 6) Where the rest are: an IS room with no floor plan still has a building or
+// campus the map can show (placeIsRooms.mjs). Rooms paired above are skipped.
+const placed = placeIsRooms(read('source/is-room-catalogue.json'), new Set(labels.map((l) => l.label)), {
+  buildings,
+  pois,
+  landmarks: read('source/mendelu-landmarks.json'),
+  remote: read('source/mendelu-remote-places.json'),
+});
+writeFileSync(resolve(ext, 'isRoomPlaces.json'), JSON.stringify(placed.places, null, 2) + '\n');
+console.log(`isRoomPlaces=${placed.places.length} notPlaces=${placed.report.notPlaces}`);
+for (const u of placed.report.unplaced) console.log(`  unplaced: ${u}`);
 
 console.log(
   `buildings=${buildings.buildings.length} pois=${cleanPois.features.length} index=${index.length} +landmarks +remotePlaces`
