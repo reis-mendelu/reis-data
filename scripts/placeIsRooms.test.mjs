@@ -79,6 +79,14 @@ test('virtual rooms, "outside the campus" and "on the campus" get no place', () 
   assert.equal(report.notPlaces, 3);
 });
 
+// ŠLP's only IS room is "Lesní škola Jezírko" — the forest site by Soběšice,
+// not Křtiny château where the ŠLP pin is. Held with the other Jezírko room.
+test('the ŠLP campus is held: its room is Jezírko, not Křtiny', () => {
+  const { places, report } = place([row('ŠLP', 'ŠLP-01', 'Lesní škola Jezírko')]);
+  assert.deepEqual(places, []);
+  assert.deepEqual(report.unplaced, ['ŠLP ŠLP-01 Lesní škola Jezírko']);
+});
+
 test('a campus with no pin yet is reported, not guessed', () => {
   const { places, report } = place([row('Sob', 'Sob-03', 'ucebna_utechov')]);
   assert.deepEqual(places, []);

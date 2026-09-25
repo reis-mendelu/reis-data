@@ -33,11 +33,12 @@ const CAMPUS = {
   Mend: { kind: 'remote', id: -102 }, // Lednice — Mendeleum
   BZA: { kind: 'remote', id: -101 },
   Žab: { kind: 'remote', id: -103 },
-  ŠLP: { kind: 'remote', id: -104 },
   Kar: { kind: 'remote', id: -108 },
   SLŠ: { kind: 'remote', id: -109 },
   VASS: { kind: 'remote', id: -110 },
-  // Sob (Útěchov, Jezírko): held until the two sites are confirmed on the ground.
+  // Sob (Útěchov, Jezírko) and ŠLP: held until the sites are confirmed on the
+  // ground. ŠLP's only room is "Lesní škola Jezírko", the forest site by
+  // Soběšice — not Křtiny château, where the ŠLP pin (-104) stands.
 };
 
 // A lesson "in" these has no place to show: distance teaching, or IS's own
