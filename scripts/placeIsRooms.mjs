@@ -51,6 +51,10 @@ const CAMPUS = {
   // the Hubertka cabin near Křtiny — a record that contradicts itself.
 };
 
+// IS labels a few rooms with a technical handle. The timetable prints the
+// handle, so it stays the lookup key; `display` is what the map card shows.
+const DISPLAY = { ucebna_utechov: 'Učebna Útěchov' };
+
 // A lesson "in" these has no place to show: distance teaching, or IS's own
 // "outside the CSA campus", or "somewhere on the MENDELU campus" (v areálu).
 const NOT_A_PLACE = /virtu[aá]ln|mimo areál|v areálu/i;
@@ -100,7 +104,10 @@ export function placeIsRooms(catalogue, pairedLabels, maps) {
       need((target.kind === 'landmark' ? landmarkIds : remoteIds).has(target.id), `${target.kind} ${target.id}`);
     }
 
-    if (target) places.push({ label: r.label, campus: r.campusCode, ...target });
+    if (target) {
+      const display = DISPLAY[r.label];
+      places.push({ label: r.label, campus: r.campusCode, ...target, ...(display && { display }) });
+    }
     else report.unplaced.push(`${r.campusCode} ${r.building} ${r.label}`);
   }
   places.sort((a, b) => a.label.localeCompare(b.label, 'cs') || a.campus.localeCompare(b.campus));

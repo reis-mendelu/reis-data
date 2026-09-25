@@ -99,6 +99,14 @@ test('the Soběšice campus is placed building by building', () => {
   );
 });
 
+// IS's own label for the Útěchov room is a technical handle; the card shows a
+// name, and the lookup still matches the handle a timetable prints.
+test('a technical IS label gets a display name', () => {
+  const [p] = place([row('Sob', 'Sob-03', 'ucebna_utechov')]).places;
+  assert.equal(p.label, 'ucebna_utechov');
+  assert.equal(p.display, 'Učebna Útěchov');
+});
+
 test('a building with no pin yet is reported, not guessed', () => {
   const { places, report } = place([row('Sob', 'Sob-99', 'new room')]);
   assert.deepEqual(places, []);
