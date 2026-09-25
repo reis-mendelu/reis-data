@@ -2,18 +2,25 @@
 //   - per-building room geometry  -> reis-data/map/rooms-<id>.geojson   (served via CDN)
 //   - bundled meta (buildings/pois/rooms-index) -> ../reis-extension/src/data/map/
 //   - curated data (landmarks/remotePlaces) copied verbatim -> same bundle dir
+//   - IS room labels paired by estate number (pairIsRooms.mjs) -> same bundle dir
 // The curated inputs (source/mendelu-landmarks.json, source/mendelu-remote-places.json)
 // are NOT fetched by fetch-mendelu-map.py — landmark footprints are OSM-sourced +
 // enriched with SKM contact info, and the remote places are off-campus (outside the
 // Brno-campus API). reis-data is their single source of truth; the extension just
 // bundles the copies this script emits. Edit them here, then rerun this script.
 // Run: node scripts/buildMapData.mjs   (from the reis-data repo root)
+//      node scripts/buildMapData.mjs --ext=<dir>   writes the bundle there instead —
+//      the extension's rooms-index.json carries hand edits (building X merges,
+//      suppressed rooms) that a full rerun would erase, so build into a scratch
+//      dir and copy across only the file you changed.
 import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { pairIsRooms } from './pairIsRooms.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const ext = resolve(root, '..', 'reis-extension', 'src', 'data', 'map');
+const extArg = process.argv.find((a) => a.startsWith('--ext='))?.slice('--ext='.length);
+const ext = extArg ? resolve(extArg) : resolve(root, '..', 'reis-extension', 'src', 'data', 'map');
 const read = (p) => JSON.parse(readFileSync(resolve(root, p), 'utf8'));
 
 const buildings = read('source/mendelu-buildings.json');
@@ -57,6 +64,15 @@ writeFileSync(resolve(ext, 'pois.json'), JSON.stringify(cleanPois));
 // bytes/formatting rather than parse+reserialize.
 copyFileSync(resolve(root, 'source/mendelu-landmarks.json'), resolve(ext, 'landmarks.json'));
 copyFileSync(resolve(root, 'source/mendelu-remote-places.json'), resolve(ext, 'remotePlaces.json'));
+
+// 5) IS room labels. The map knows a room as "BA04N1065"; a timetable prints
+// "B05 – Strojový sál". source/is-room-catalogue.json is reis-scraper's crawl of
+// IS's public room catalogue (scripts/scrape-room-catalogue.ts), and the pairing
+// is by estate number — see pairIsRooms.mjs for the scope rules.
+const { labels, report } = pairIsRooms(read('source/is-room-catalogue.json'), rooms, buildings);
+writeFileSync(resolve(ext, 'isRoomLabels.json'), JSON.stringify(labels, null, 2) + '\n');
+console.log(`isRoomLabels=${labels.length} unmatched=${report.unmatched.length} noNumber=${report.noNumber.length}`);
+for (const u of report.unmatched) console.log(`  unmatched: ${u}`);
 
 console.log(
   `buildings=${buildings.buildings.length} pois=${cleanPois.features.length} index=${index.length} +landmarks +remotePlaces`
