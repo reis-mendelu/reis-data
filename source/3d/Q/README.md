@@ -39,5 +39,6 @@ triangles, no textures or compression), or if any Q room outline in
 ## Licence
 
 - Brno 3D model budov LOD2 (2020–2023): **CC BY 4.0, Statutární město Brno**.
-  The app shows "3D: © Statutární město Brno, CC BY 4.0" on the card.
+  The app shows "3D: © Statutární město Brno, CC BY 4.0, upraveno" on the card —
+  "upraveno" (modified) because CC BY 4.0 requires saying so, and the model is.
 - ČÚZK DMR 5G: ČÚZK open data; the ATOM feed states no conditions apply.

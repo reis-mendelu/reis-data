@@ -58,7 +58,9 @@ export const Q_CURVED_FRONT = { part: 50585, facing: [0, -1], depth: 5.5, eave: 
 // the east wing is on the right in both, and the south facade on Zemědělská —
 // the one people know — faces the viewer.
 export const Q_DEFAULT_AZIMUTH_DEG = 195;
-export const Q_ATTRIBUTION = '3D: © Statutární město Brno, CC BY 4.0';
+// CC BY 4.0 §3(a)(1)(B): a modified work must say so. Ours is — storeys sliced,
+// facades added, the north front's curve put back.
+export const Q_ATTRIBUTION = '3D: © Statutární město Brno, CC BY 4.0, upraveno';
 const GROUND_RADIUS_M = 90;
 
 export function buildQ({ parts, terrain }) {
