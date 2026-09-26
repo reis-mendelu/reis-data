@@ -36,11 +36,10 @@ const BY_BUILDING = {
 
 // Campuses that are one place on the map, by IS campus code.
 const CAMPUS = {
-  // Budova Z (FRRMS) has a floor plan since 2026-09 (source/curated/Z), so its
-  // rooms are paired and skipped above. What is left on Černá Pole II. is Budova K
-  // (K01–K03, ÚCB AF), which has none: show building Z, the outline landmark 1587
-  // gave it before.
-  'ČP II.': { kind: 'building', id: 9000001 },
+  // ČP II.: no entry. Budova Z (FRRMS) has a floor plan since 2026-09
+  // (source/curated/Z), so its rooms are paired and skipped above. What is left
+  // is Budova K (K01–K03, ÚCB AF), which the map has no place for — showing
+  // building Z, as landmark 1587 once did, names the wrong building.
   TAK: { kind: 'landmark', id: 1623 }, // CSA, Jana Babáka
   Led: { kind: 'remote', id: -102 }, // Lednice — Valtická
   LedR: { kind: 'remote', id: -102 }, // Lednice — rozptyl
@@ -112,8 +111,7 @@ export function placeIsRooms(catalogue, pairedLabels, maps) {
       need(remoteIds.has(target.id), `${target.kind} ${target.id}`);
     } else if (CAMPUS[r.campusCode]) {
       target = CAMPUS[r.campusCode];
-      const ids = { landmark: landmarkIds, remote: remoteIds, building: new Set(buildingId.values()) }[target.kind];
-      need(ids.has(target.id), `${target.kind} ${target.id}`);
+      need((target.kind === 'landmark' ? landmarkIds : remoteIds).has(target.id), `${target.kind} ${target.id}`);
     }
 
     if (target) {
