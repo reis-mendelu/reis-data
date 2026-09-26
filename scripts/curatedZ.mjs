@@ -67,7 +67,9 @@ export function buildCuratedZ({ building, spaces, isRooms }) {
         floorId: floor.id,
         floorLevel: p.level,
         name: code ?? '',
-        nickname: is ? (is.nickname ?? null) : (p.namePrinted ?? null),
+        // A nickname is a room's own handle ("A01"), unique by contract. Printed
+        // names are descriptions that repeat ("Sklad", "Chodba"), so they are the label.
+        nickname: is?.nickname ?? null,
         type: is ? 'classroom' : 'room',
         category: is ? 'teaching' : (CATEGORY[p.category] ?? 'other'),
         label: is ? 'Classroom' : (p.namePrinted ?? ''),

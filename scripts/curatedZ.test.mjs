@@ -54,10 +54,21 @@ test('an IS row gives its pasport to a space that has no printed code (Z11)', ()
   assert.equal(z11.properties.seats, 64);
 });
 
-test('printed names become nicknames for non-IS rooms', () => {
+// A nickname is a room's own handle ("A01") — search and the IS lookup treat it as
+// unique. Printed names here are descriptions ("Sklad", "Chodba", repeated across
+// the floor), so they go where the API buildings put "Storage": the label.
+test('printed names become labels, never nicknames, for non-IS rooms', () => {
   const lib = run().rooms.features.find((f) => f.properties.name === 'BZ00N2001');
-  assert.equal(lib.properties.nickname, 'Knihovna');
+  assert.equal(lib.properties.nickname, null);
+  assert.equal(lib.properties.label, 'Knihovna');
   assert.equal(lib.properties.category, 'other');
+});
+
+test('only an IS row may carry a nickname (the coworking room)', () => {
+  const rows = [{ ...isRooms[1], nickname: 'Coworking' }];
+  const z1 = buildCuratedZ({ building, spaces, isRooms: rows }).rooms.features.find((f) => f.properties.name === 'BZ00N2011');
+  assert.equal(z1.properties.nickname, 'Coworking');
+  assert.ok(buildCuratedZ({ building, spaces, isRooms: rows }).rooms.features.every((f) => f.properties.name === 'BZ00N2011' || f.properties.nickname === null));
 });
 
 test('labels pair every IS row to its code, on campus ČP II.', () => {
