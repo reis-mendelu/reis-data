@@ -1,0 +1,60 @@
+{
+ "buildingId": 0,
+ "name": "Q",
+ "anchor": [
+  16.614247303030304,
+  49.20959154545455
+ ],
+ "baseElevation": 231.66,
+ "storeys": [
+  {
+   "level": -2,
+   "elevation": 0,
+   "height": 4.1
+  },
+  {
+   "level": -1,
+   "elevation": 4.1,
+   "height": 4.1
+  },
+  {
+   "level": 0,
+   "elevation": 8.2,
+   "height": 3.9
+  },
+  {
+   "level": 1,
+   "elevation": 12.1,
+   "height": 3.35
+  },
+  {
+   "level": 2,
+   "elevation": 15.45,
+   "height": 3.35
+  },
+  {
+   "level": 3,
+   "elevation": 18.8,
+   "height": 3.35
+  },
+  {
+   "level": 4,
+   "elevation": 22.15,
+   "height": 3.35
+  },
+  {
+   "level": 5,
+   "elevation": 25.5,
+   "height": 3.251
+  }
+ ],
+ "ground": {
+  "a": 4.57122,
+  "b": 0.04398,
+  "c": -0.003
+ },
+ "radius": 55.17,
+ "height": 28.751,
+ "defaultAzimuthDeg": 215,
+ "attribution": "3D: © Statutární město Brno, CC BY 4.0"
+}
