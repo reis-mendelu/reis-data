@@ -1,0 +1,163 @@
+[
+  {
+    "label": "Aula",
+    "pasport": "N1000",
+    "spaceId": "0:310",
+    "seats": 190,
+    "confidence": "confirmed",
+    "evidence": "printed \"N1000 Aula 198,74 m2\" (tender 7573)"
+  },
+  {
+    "label": "Z1",
+    "pasport": "N2011",
+    "spaceId": "1:65",
+    "seats": 24,
+    "confidence": "confirmed",
+    "evidence": "room code printed inside this space on a registered tender sheet"
+  },
+  {
+    "label": "Z2",
+    "pasport": "N2008",
+    "spaceId": "1:44",
+    "seats": 40,
+    "confidence": "confirmed",
+    "evidence": "room code printed inside this space on a registered tender sheet"
+  },
+  {
+    "label": "Z3",
+    "pasport": "N2009",
+    "spaceId": "1:58",
+    "seats": 40,
+    "confidence": "bracketed",
+    "evidence": "the only room between the confirmed Z2 (N2008) and Z4 (N2010)"
+  },
+  {
+    "label": "Z4",
+    "pasport": "N2010",
+    "spaceId": "1:69",
+    "seats": 40,
+    "confidence": "confirmed",
+    "evidence": "room code printed inside this space on a registered tender sheet"
+  },
+  {
+    "label": "Z5",
+    "pasport": "N2013",
+    "spaceId": "1:85",
+    "seats": 40,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z6",
+    "pasport": "N2014",
+    "spaceId": "1:100",
+    "seats": 40,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z7",
+    "pasport": "N2015",
+    "spaceId": "1:110",
+    "seats": 40,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z8",
+    "pasport": "N2025",
+    "spaceId": "1:116",
+    "seats": 36,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z9",
+    "pasport": "N2027",
+    "spaceId": "1:132",
+    "seats": 40,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z10",
+    "pasport": "N2029",
+    "spaceId": "1:140",
+    "seats": 32,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z11",
+    "pasport": "N2031",
+    "spaceId": "1:149",
+    "seats": 64,
+    "confidence": "low",
+    "evidence": "IS links an 11 m² storeroom; placed at the 83 m² end room by façade numbering"
+  },
+  {
+    "label": "Z13",
+    "pasport": "N2012",
+    "spaceId": "1:84",
+    "seats": 25,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z14",
+    "pasport": "N2024",
+    "spaceId": "hall:Z14",
+    "seats": 90,
+    "confidence": "inferred",
+    "evidence": "one of the two tiered halls; which one is unconfirmed"
+  },
+  {
+    "label": "Z15",
+    "pasport": "N2028",
+    "spaceId": "hall:Z15",
+    "seats": 90,
+    "confidence": "low",
+    "evidence": "IS links a 0.94 m² shaft; the second tiered hall"
+  },
+  {
+    "label": "Z24",
+    "pasport": "N2084",
+    "spaceId": "1:113",
+    "seats": 24,
+    "confidence": "inferred",
+    "evidence": "IS Číslo is door number 284"
+  },
+  {
+    "label": "Z25",
+    "pasport": "N2086",
+    "spaceId": "1:121",
+    "seats": 24,
+    "confidence": "inferred",
+    "evidence": "area and pasport numbering order along the corridor"
+  },
+  {
+    "label": "Z26",
+    "pasport": "N2081",
+    "spaceId": "1:94",
+    "seats": 24,
+    "confidence": "confirmed",
+    "evidence": "room code printed inside this space on a registered tender sheet"
+  },
+  {
+    "label": "Z28",
+    "pasport": "N2085",
+    "spaceId": "1:111",
+    "seats": 24,
+    "confidence": "confirmed",
+    "evidence": "IS Číslo is door number 285; printed 'Učebna 28' (tender 4971)"
+  },
+  {
+    "label": "Zasedačka FRRMS 4NP",
+    "pasport": "N4002",
+    "spaceId": "3:151",
+    "seats": 10,
+    "confidence": "confirmed",
+    "evidence": "room code printed inside this space on a registered tender sheet",
+    "nickname": "Coworking"
+  }
+]

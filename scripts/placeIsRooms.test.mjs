@@ -4,10 +4,10 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { placeIsRooms } from './placeIsRooms.mjs';
+import { placeIsRooms, pairedKey } from './placeIsRooms.mjs';
 
 const maps = {
-  buildings: { buildings: [{ id: 510096, name: 'B' }] },
+  buildings: { buildings: [{ id: 510096, name: 'B' }, { id: 9000001, name: 'Z' }] },
   pois: {
     features: [
       { properties: { id: 1572, name: 'T', type: 'building' } },
@@ -18,7 +18,9 @@ const maps = {
   remote: { places: [{ id: -102 }, { id: -105 }, { id: -106 }, { id: -108 }] },
 };
 const row = (campusCode, building, label) => ({ campusCode, building, label });
-const place = (rows, paired = []) => placeIsRooms(rows, new Set(paired), maps);
+// `paired` lists Černá Pole labels, the common case; other campuses pass a key.
+const place = (rows, paired = []) =>
+  placeIsRooms(rows, new Set(paired.map((l) => (l.includes('|') ? l : pairedKey('ČP', l)))), maps);
 
 test('a Černá Pole building without a floor plan points at its campus pin', () => {
   assert.deepEqual(place([row('ČP', 'T', 'T18')]).places, [
@@ -48,11 +50,10 @@ test('a room IS lists in a mapped building but the map cannot pair points at tha
   });
 });
 
-test('whole campuses map to one place: Lednice, Černá Pole II, CSA, Karlov', () => {
+test('whole campuses map to one place: Lednice, CSA, Karlov', () => {
   const got = place([
     row('Led', 'Led-A', 'ZFAC1'),
     row('Mend', 'LD03', 'Mendeleum 1'),
-    row('ČP II.', 'Z', 'Z11'),
     row('TAK', 'TAK-B', 'B1 CSA'),
     row('Kar', 'Kar-01', 'Karlov učebna'),
   ]).places.map((p) => `${p.label}:${p.kind}:${p.id}`);
@@ -60,7 +61,6 @@ test('whole campuses map to one place: Lednice, Černá Pole II, CSA, Karlov', (
     'B1 CSA:landmark:1623',
     'Karlov učebna:remote:-108',
     'Mendeleum 1:remote:-102',
-    'Z11:landmark:1587',
     'ZFAC1:remote:-102',
   ]);
 });
@@ -120,11 +120,13 @@ test('a place id missing from the map data fails loudly', () => {
   );
 });
 
-test('the real catalogue places T18, ZFAC1, Z11 and design lab', () => {
+test('the real catalogue places T18, ZFAC1 and design lab, and nothing on ČP II.', () => {
   const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
   const read = (p) => JSON.parse(readFileSync(resolve(root, p), 'utf8'));
+  const buildings = read('source/mendelu-buildings.json');
+  buildings.buildings.push(read('source/curated/Z/building.json'));
   const { places } = placeIsRooms(read('source/is-room-catalogue.json'), new Set(), {
-    buildings: read('source/mendelu-buildings.json'),
+    buildings,
     pois: read('source/mendelu-pois.geojson'),
     landmarks: read('source/mendelu-landmarks.json'),
     remote: read('source/mendelu-remote-places.json'),
@@ -132,6 +134,22 @@ test('the real catalogue places T18, ZFAC1, Z11 and design lab', () => {
   const find = (label, campus) => places.find((p) => p.label === label && p.campus === campus);
   assert.equal(find('T18', 'ČP')?.id, 1572);
   assert.equal(find('ZFAC1', 'Led')?.id, -102);
-  assert.equal(find('Z11', 'ČP II.')?.id, 1587);
+  // Budova Z's rooms come from its curated table, and Budova K has no place.
+  assert.equal(find('Z11', 'ČP II.'), undefined);
+  assert.equal(find('K01', 'ČP II.'), undefined);
   assert.equal(find('Design lab MENDELU', 'ČP')?.id, -201);
+});
+
+test('a paired label is skipped only on its own campus: "Aula" is A on ČP and FRRMS on ČP II.', () => {
+  // Lednice stands in for "another campus with a place" — ČP II. has none now.
+  const rows = [row('ČP', 'A', 'Aula'), row('Led', 'Led-A', 'Aula')];
+  assert.deepEqual(place(rows, ['Aula']).places, [{ label: 'Aula', campus: 'Led', kind: 'remote', id: -102 }]);
+  assert.deepEqual(place(rows, ['Aula', pairedKey('Led', 'Aula')]).places, []);
+});
+
+test('on ČP II. a paired Z room is skipped and Budova K, with no place on the map, is unplaced', () => {
+  const rows = [row('ČP II.', 'Z', 'Z14'), row('ČP II.', 'Budova K', 'K01')];
+  const got = place(rows, [pairedKey('ČP II.', 'Z14')]);
+  assert.deepEqual(got.places, []);
+  assert.deepEqual(got.report.unplaced, ['ČP II. Budova K K01']);
 });
