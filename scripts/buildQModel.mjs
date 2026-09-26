@@ -54,7 +54,10 @@ export const Q_STYLES = {
 // the lecture halls Q01–Q03 stuck out of the model by 5.2 m. This adds the
 // curved front back; the alignment test is what caught it.
 export const Q_CURVED_FRONT = { part: 50585, facing: [0, -1], depth: 5.5, eave: 9, wall: 'light', roof: 'silver' };
-export const Q_DEFAULT_AZIMUTH_DEG = 215; // from the south-west: the street facade people know
+// From just west of south: the phone shows this card under a north-up map, so
+// the east wing is on the right in both, and the south facade on Zemědělská —
+// the one people know — faces the viewer.
+export const Q_DEFAULT_AZIMUTH_DEG = 195;
 export const Q_ATTRIBUTION = '3D: © Statutární město Brno, CC BY 4.0';
 const GROUND_RADIUS_M = 90;
 
