@@ -1,0 +1,49 @@
+name: Bump meta.json when subjects change
+
+# reIS re-fetches cached success rates only when meta.json's `lastUpdated`
+# moves (reis-extension src/api/successRateVersion.ts). A push that edits
+# subjects/ without moving it — a hand correction, a partial re-export — would
+# never reach students who already have those subjects cached. This bumps it.
+#
+# A full export from reis-scraper already sets `lastUpdated`, so for a normal
+# data refresh this run finds nothing to do. When it does commit, `git pull`
+# before your next push to main.
+
+on:
+  push:
+    branches: [main]
+    paths: ['subjects/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bump-meta
+  cancel-in-progress: false
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Bump lastUpdated unless this push already moved it
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: node scripts/bump-meta.mjs --since "$BEFORE"
+
+      - name: Commit and push
+        run: |
+          if git diff --quiet -- meta.json; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add meta.json
+          git commit -m "chore(meta): bump lastUpdated for subjects/ changes in ${GITHUB_SHA::7}"
+          # Another push may have landed while this ran.
+          git pull --rebase origin main
+          git push origin HEAD:main
