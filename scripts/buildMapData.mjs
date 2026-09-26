@@ -4,6 +4,7 @@
 //   - curated data (landmarks/remotePlaces) copied verbatim -> same bundle dir
 //   - IS room labels paired by estate number (pairIsRooms.mjs) -> same bundle dir
 //   - the map place of every IS room without a floor plan (placeIsRooms.mjs) -> same bundle dir
+//   - curated buildings the API lacks (source/curated/Z, curatedZ.mjs) merged into all of the above
 // The curated inputs (source/mendelu-landmarks.json, source/mendelu-remote-places.json)
 // are NOT fetched by fetch-mendelu-map.py — landmark footprints are OSM-sourced +
 // enriched with SKM contact info, and the remote places are off-campus (outside the
@@ -18,7 +19,8 @@ import { readFileSync, writeFileSync, mkdirSync, copyFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { pairIsRooms } from './pairIsRooms.mjs';
-import { placeIsRooms } from './placeIsRooms.mjs';
+import { placeIsRooms, pairedKey } from './placeIsRooms.mjs';
+import { buildCuratedZ } from './curatedZ.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const extArg = process.argv.find((a) => a.startsWith('--ext='))?.slice('--ext='.length);
@@ -28,6 +30,17 @@ const read = (p) => JSON.parse(readFileSync(resolve(root, p), 'utf8'));
 const buildings = read('source/mendelu-buildings.json');
 const rooms = read('source/mendelu-rooms.geojson');
 const pois = read('source/mendelu-pois.geojson');
+
+// Curated buildings (not in the MENDELU API): separate inputs, so an API re-fetch
+// never wipes them. Appended AFTER the API data; `buildings.campus` (the map's
+// opening view) is left exactly as the API snapshot has it.
+const curatedZ = buildCuratedZ({
+  building: read('source/curated/Z/building.json'),
+  spaces: read('source/curated/Z/spaces.geojson'),
+  isRooms: read('source/curated/Z/is-rooms.json'),
+});
+buildings.buildings.push(curatedZ.building);
+rooms.features.push(...curatedZ.rooms.features);
 
 const buildingIds = new Set(buildings.buildings.map((b) => b.id));
 const buildingNames = new Set(buildings.buildings.map((b) => b.name)); // "A".."X"
@@ -71,14 +84,19 @@ copyFileSync(resolve(root, 'source/mendelu-remote-places.json'), resolve(ext, 'r
 // "B05 – Strojový sál". source/is-room-catalogue.json is reis-scraper's crawl of
 // IS's public room catalogue (scripts/scrape-room-catalogue.ts), and the pairing
 // is by estate number — see pairIsRooms.mjs for the scope rules.
-const { labels, report } = pairIsRooms(read('source/is-room-catalogue.json'), rooms, buildings);
+const paired = pairIsRooms(read('source/is-room-catalogue.json'), rooms, buildings);
+// pairIsRooms covers Černá Pole; building Z's labels come from its curated table.
+const labels = [...paired.labels, ...curatedZ.labels].sort(
+  (a, b) => a.code.localeCompare(b.code) || a.label.localeCompare(b.label)
+);
+const report = paired.report;
 writeFileSync(resolve(ext, 'isRoomLabels.json'), JSON.stringify(labels, null, 2) + '\n');
 console.log(`isRoomLabels=${labels.length} unmatched=${report.unmatched.length} noNumber=${report.noNumber.length}`);
 for (const u of report.unmatched) console.log(`  unmatched: ${u}`);
 
 // 6) Where the rest are: an IS room with no floor plan still has a building or
 // campus the map can show (placeIsRooms.mjs). Rooms paired above are skipped.
-const placed = placeIsRooms(read('source/is-room-catalogue.json'), new Set(labels.map((l) => l.label)), {
+const placed = placeIsRooms(read('source/is-room-catalogue.json'), new Set(labels.map((l) => pairedKey(l.campus ?? 'ČP', l.label))), {
   buildings,
   pois,
   landmarks: read('source/mendelu-landmarks.json'),

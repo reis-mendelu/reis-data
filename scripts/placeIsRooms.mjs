@@ -36,7 +36,11 @@ const BY_BUILDING = {
 
 // Campuses that are one place on the map, by IS campus code.
 const CAMPUS = {
-  'ČP II.': { kind: 'landmark', id: 1587 }, // FRRMS building, Černá Pole II
+  // Budova Z (FRRMS) has a floor plan since 2026-09 (source/curated/Z), so its
+  // rooms are paired and skipped above. What is left on Černá Pole II. is Budova K
+  // (K01–K03, ÚCB AF), which has none: show building Z, the outline landmark 1587
+  // gave it before.
+  'ČP II.': { kind: 'building', id: 9000001 },
   TAK: { kind: 'landmark', id: 1623 }, // CSA, Jana Babáka
   Led: { kind: 'remote', id: -102 }, // Lednice — Valtická
   LedR: { kind: 'remote', id: -102 }, // Lednice — rozptyl
@@ -59,6 +63,13 @@ const DISPLAY = { ucebna_utechov: 'Učebna Útěchov' };
 // "outside the CSA campus", or "somewhere on the MENDELU campus" (v areálu).
 const NOT_A_PLACE = /virtu[aá]ln|mimo areál|v areálu/i;
 
+/**
+ * The key a paired label is known by. Labels repeat across campuses — IS's "Aula"
+ * is building A's on Černá Pole and FRRMS's on Černá Pole II. — so a label is
+ * paired on one campus, never everywhere.
+ */
+export const pairedKey = (campusCode, label) => `${campusCode}|${label}`;
+
 export function placeIsRooms(catalogue, pairedLabels, maps) {
   const buildingId = new Map(maps.buildings.buildings.map((b) => [b.name, b.id]));
   const poiId = new Map(
@@ -80,7 +91,7 @@ export function placeIsRooms(catalogue, pairedLabels, maps) {
       report.notPlaces++;
       continue;
     }
-    if (pairedLabels.has(r.label)) continue;
+    if (pairedLabels.has(pairedKey(r.campusCode, r.label))) continue;
 
     let target = null;
     if (r.campusCode === 'ČP') {
@@ -101,7 +112,8 @@ export function placeIsRooms(catalogue, pairedLabels, maps) {
       need(remoteIds.has(target.id), `${target.kind} ${target.id}`);
     } else if (CAMPUS[r.campusCode]) {
       target = CAMPUS[r.campusCode];
-      need((target.kind === 'landmark' ? landmarkIds : remoteIds).has(target.id), `${target.kind} ${target.id}`);
+      const ids = { landmark: landmarkIds, remote: remoteIds, building: new Set(buildingId.values()) }[target.kind];
+      need(ids.has(target.id), `${target.kind} ${target.id}`);
     }
 
     if (target) {
