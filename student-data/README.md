@@ -18,7 +18,7 @@ Jeden řádek = jeden předmět v jednom semestru, z řádku „Všechny termín
 | --- | --- |
 | `code` | kód předmětu, např. `EBC-PJ` |
 | `nameCs`, `nameEn` | název předmětu |
-| `facultyId` | číslo fakulty v IS (PEF = 220) |
+| `facultyId` | číslo fakulty v IS: PEF 2, AF 14, FRRMS 23, LDF 38, ZF 60, ICV 220 (kód fakulty je i na konci `semester`) |
 | `semester`, `year` | semestr (např. `ZS 2025/2026 - PEF`) a rok jeho začátku |
 | `kind` | `exam` (zkouška) nebo `credit` (zápočet) |
 | `a` … `fn` | počet známek A, B, C, D, E, F, FN |
